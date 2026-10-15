@@ -52,3 +52,5 @@ npm run seo:check-http
 ## 站长工具
 
 上线 HTTP 验证后先在 Google Search Console 添加 `tv.malmarket.app` 的 Domain 资源，按平台给出的 TXT 值验证域名；验证后提交 `https://tv.malmarket.app/sitemap.xml` 并用 URL 检查抽样。随后到 Bing Webmaster Tools，可选择从已验证的 Search Console 导入或独立 DNS 验证，再提交同一 sitemap。操作按会话一次一步引导，不预先填入占位验证 token，不承诺收录时间或排名。
+
+正式域名已通过同一套 HTTP 验收：[生产报告](../docs/seo-http-production.json)。中英文首页、美国/日本国家页、France 24 中英文资料页、重定向、真实 404、观看入口、robots、sitemap 和分享 PNG 均按预期返回。
