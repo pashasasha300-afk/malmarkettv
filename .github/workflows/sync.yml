@@ -1,5 +1,13 @@
 ﻿name: Maintain channel directory
 on:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/sync.yml
+      - scripts/sync.mjs
+      - scripts/normalize.mjs
+      - scripts/common.mjs
+      - src/public-config.json
   workflow_dispatch:
   schedule:
     - cron: "23 3 * * *"
@@ -24,4 +32,5 @@ jobs:
       - run: npm ci
       - run: npm test
       - run: npm run sync
+      - run: npm run check:connection
       - run: npm run health

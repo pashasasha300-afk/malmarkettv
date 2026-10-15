@@ -32,7 +32,7 @@ npm run build
 - `SUPABASE_URL`：可选的项目 URL 覆盖值，未设置则使用正式站公开配置中的地址。
 - `SUPABASE_SECRET_KEY`：Supabase API Keys 中以 `sb_secret_` 开头的服务端 secret key；兼容旧名 `SUPABASE_SERVICE_ROLE_KEY`。仅供后台导入和限量探测。不可存入普通代码、前端构建变量或 README。
 
-[Actions](https://github.com/pashasasha300-afk/malmarkettv/actions) → **Maintain channel directory → Run workflow** 首次导入。之后每天 UTC 03:23 自动执行；GitHub schedule 可能延迟，并遵守 GitHub 对长期不活跃仓库的计划任务规则。工作流 concurrency 避免定时/手动运行重叠；不要同时在其他终端运行导入。
+[Actions](https://github.com/pashasasha300-afk/malmarkettv/actions) → **Maintain channel directory → Run workflow** 首次导入。同步脚本、公开项目配置或维护工作流在 main 更新时也会触发导入；导入后以公开 key 验证目录查询。之后每天 UTC 03:23 自动执行；GitHub schedule 可能延迟，并遵守 GitHub 对长期不活跃仓库的计划任务规则。工作流 concurrency 避免定时/手动运行重叠；不要同时在其他终端运行导入。
 
 本地服务端调试：在被 gitignore 的 `.env` 设置上述两个服务端变量后运行 `npm run sync` / `npm run health`。不带密钥的数据验证：`node scripts/sync.mjs --dry-run`。
 
