@@ -2,7 +2,7 @@
 
 正式网站：[https://tv.malmarket.app/](https://tv.malmarket.app/)
 
-原创品牌的全球直播探索网站。React 19、TypeScript、Vite 7、Three.js/react-globe.gl、HLS.js、Supabase；Node.js 22.12+。实际解析 iptv-org 官方 API，不含虚构频道或演示频道。**当前为可配置的第一版实现，尚未通过线上端到端验收。**
+原创品牌的全球直播探索网站。React 19、TypeScript、Vite 7、Three.js/react-globe.gl、HLS.js、Supabase；Node.js 22.12+。实际解析 iptv-org 官方 API，不含虚构频道或演示频道。**正式站已连接 Supabase，并完成真实全量导入与公开查询验证；浏览器播放验收仍待完成。**
 
 ## 快速开始
 

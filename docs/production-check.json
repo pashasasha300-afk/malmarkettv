@@ -1,0 +1,75 @@
+{
+  "checkedAt": "2026-10-15T01:39:12.187Z",
+  "site": "https://tv.malmarket.app/",
+  "counts": {
+    "channels": 7997,
+    "streams": 11414
+  },
+  "samples": [
+    {
+      "name": "3ABN English",
+      "id": "3ABNEnglish.us",
+      "country": "US",
+      "link": "https://tv.malmarket.app/?channel=3ABNEnglish.us",
+      "sources": [
+        {
+          "sourceId": "ae5b44b57d70d7730b1b11e0abe36b33ce6908405d3e4ea662bcde4755f0777f",
+          "status": 200,
+          "cors": "*",
+          "https": true,
+          "checked_at": "2026-10-15T01:39:14.396Z"
+        }
+      ]
+    },
+    {
+      "name": "France 24",
+      "id": "France24.fr",
+      "country": "FR",
+      "link": "https://tv.malmarket.app/?channel=France24.fr",
+      "sources": [
+        {
+          "sourceId": "07f9ff4d9e581b63108710d1c152cb7bccdabb5a57a8dd7f15c8929987e31a0d",
+          "status": 200,
+          "cors": "*",
+          "https": true,
+          "checked_at": "2026-10-15T01:39:15.077Z"
+        },
+        {
+          "sourceId": "08f242dfb40063cc01fe108c7d794f62f0585bb3b7fb11c2934b797d12ca4d37",
+          "status": 200,
+          "cors": "*",
+          "https": true,
+          "checked_at": "2026-10-15T01:39:15.408Z"
+        }
+      ]
+    },
+    {
+      "name": "NHK World-Japan",
+      "id": "NHKWorldJapan.jp",
+      "country": "JP",
+      "link": "https://tv.malmarket.app/?channel=NHKWorldJapan.jp",
+      "sources": [
+        {
+          "sourceId": "13a92c8cf204e1c29449e01c1486125cd50b6018b53e58153936308efbf17d06",
+          "status": 206,
+          "cors": null,
+          "https": true,
+          "checked_at": "2026-10-15T01:42:39.164Z"
+        },
+        {
+          "sourceId": "3406bf4fb96329c8ce7142f7da70d20a64f834e630644ef22260250cd264a8d1",
+          "status": 206,
+          "cors": null,
+          "https": true,
+          "checked_at": "2026-10-15T01:42:39.550Z"
+        }
+      ]
+    }
+  ],
+  "browserPlayback": "NOT TESTED: no connected browser",
+  "maintenanceWorkflow": {
+    "runId": 38666683007,
+    "conclusion": "success",
+    "url": "https://github.com/pashasasha300-afk/malmarkettv/actions/runs/38666683007"
+  }
+}
