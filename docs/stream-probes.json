@@ -1,0 +1,58 @@
+[
+  {
+    "country": "FR",
+    "channel": "4 Afghanistan",
+    "error": "Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: 4afghls.persiana.live. is not in the cert's altnames: DNS:hls.navidtv.live",
+    "browser_playback": "NOT TESTED"
+  },
+  {
+    "country": "JP",
+    "channel": "NHK General TV",
+    "url": "https://nhk4.mov3.co/hls/nhk.m3u8",
+    "status": 206,
+    "cors": "0",
+    "https": true,
+    "checked_at": "2026-10-15T00:57:25.667Z",
+    "browser_playback": "NOT TESTED"
+  },
+  {
+    "country": "US",
+    "channel": "3ABN English",
+    "url": "https://3abn.bozztv.com/3abn2/3abn_live/smil:3abn_live.smil/playlist.m3u8",
+    "status": 200,
+    "cors": "*",
+    "https": true,
+    "checked_at": "2026-10-15T00:57:26.524Z",
+    "browser_playback": "NOT TESTED"
+  },
+  {
+    "country": "UK",
+    "channel": "5USA",
+    "url": "https://lb.iptvnetwork.net/ls28/10115/playlist.m3u8",
+    "status": 404,
+    "cors": "*",
+    "https": true,
+    "checked_at": "2026-10-15T00:57:26.958Z",
+    "browser_playback": "NOT TESTED"
+  },
+  {
+    "country": "BR",
+    "channel": "1001 Noites",
+    "url": "https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8",
+    "status": 404,
+    "cors": "*",
+    "https": true,
+    "checked_at": "2026-10-15T00:57:28.789Z",
+    "browser_playback": "NOT TESTED"
+  },
+  {
+    "country": "IN",
+    "channel": "4 SiDES TV",
+    "url": "https://stream.ottlive.co.in/4sidestv/index.m3u8",
+    "status": 200,
+    "cors": "*",
+    "https": true,
+    "checked_at": "2026-10-15T00:57:29.091Z",
+    "browser_playback": "NOT TESTED"
+  }
+]
