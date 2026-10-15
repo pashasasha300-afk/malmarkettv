@@ -10,7 +10,8 @@
     "sync": "node --env-file-if-exists=.env scripts/sync.mjs",
     "health": "node --env-file-if-exists=.env scripts/health.mjs",
     "deploy": "npm run build && wrangler deploy",
-    "preview:cloudflare": "wrangler dev"
+    "preview:cloudflare": "wrangler dev",
+    "check:connection": "node --env-file-if-exists=.env scripts/check-connection.mjs"
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.0.0",

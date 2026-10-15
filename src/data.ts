@@ -1,10 +1,13 @@
-﻿import { createClient } from "@supabase/supabase-js";
+import { createClient } from "@supabase/supabase-js";
+import publicConfig from "./public-config.json";
+const supabaseUrl = import.meta.env.VITE_SUPABASE_URL || publicConfig.url;
+const supabasePublicKey =
+  import.meta.env.VITE_SUPABASE_PUBLISHABLE_KEY ||
+  import.meta.env.VITE_SUPABASE_ANON_KEY ||
+  (supabaseUrl === publicConfig.url ? publicConfig.publishableKey : "");
 export const db =
-  import.meta.env.VITE_SUPABASE_URL && import.meta.env.VITE_SUPABASE_ANON_KEY
-    ? createClient(
-        import.meta.env.VITE_SUPABASE_URL,
-        import.meta.env.VITE_SUPABASE_ANON_KEY,
-      )
+  supabaseUrl && supabasePublicKey
+    ? createClient(supabaseUrl, supabasePublicKey)
     : null;
 export type Stream = {
   id: string;

@@ -1,5 +1,7 @@
 ﻿# MalMarket TV
 
+正式网站：[https://tv.malmarket.app/](https://tv.malmarket.app/)
+
 原创品牌的全球直播探索网站。React 19、TypeScript、Vite 7、Three.js/react-globe.gl、HLS.js、Supabase；Node.js 22.12+。实际解析 iptv-org 官方 API，不含虚构频道或演示频道。**当前为可配置的第一版实现，尚未通过线上端到端验收。**
 
 ## 快速开始
@@ -13,14 +15,14 @@ npm test
 npm run build
 ```
 
-前端只需要公开 URL 和 anon/publishable key。未配置时显示配置提示和空目录；不会把假数据伪装成已接入频道。视频直接连接提供方，Supabase 只保存业务数据。
+正式站的公开 URL 和 publishable key 已保存于 `src/public-config.json`，Cloudflare 默认构建直接使用它们；环境变量可覆盖。该 key 仅具有 RLS 允许的公开权限，不是服务器密钥。切换到不同项目时必须同时提供对应的公开 key，不能只覆盖 URL。未配置时显示配置提示和空目录；不会把假数据伪装成已接入频道。视频直接连接提供方，Supabase 只保存业务数据。
 
 ## Supabase：你需要操作的页面
 
 1. [Supabase Dashboard](https://supabase.com/dashboard)：打开现有项目；尚无项目则创建项目，选择适合受众的区域。无需为本版主动购买付费计划。
-2. **SQL Editor → New query**：按顺序执行 `supabase/migrations/202610150001_initial.sql`、`202610150002_directory.sql`。不要重复执行第一份迁移。也可用 Supabase CLI 的 link / db push 迁移已有工程。
+2. 全新项目可在 **SQL Editor → New query** 执行 [supabase/setup.sql](supabase/setup.sql) 后点击 **Run**，它一次完成以下两份迁移并刷新 API schema cache；已有这些表的项目不要重复初始化。也可按顺序执行 `supabase/migrations/202610150001_initial.sql`、`202610150002_directory.sql`。不要重复执行第一份迁移。也可用 Supabase CLI 的 link / db push 迁移已有工程。
 3. **Project Settings → API / API Keys**（新界面也可从 Connect 找到）：项目 URL 与公开 publishable/legacy anon key 填入前端环境变量；service_role 或 secret key 只放服务器 / Actions Secrets，不要发送到聊天、不加 VITE_ 前缀。
-4. **Authentication → URL Configuration**：Site URL 为最终 HTTPS 域名；Redirect URLs 加该域名及本地 `http://127.0.0.1:5173/`。**Authentication → Sign In / Providers → Email** 启用邮件 magic link。公网使用前在 **Authentication → Email / SMTP Settings** 配置自己的 SMTP 并验证送达；开发测试邮件有限额。邮件供应商费用由所选服务决定，本项目没有开通。
+4. **Authentication → URL Configuration**：Site URL 为 `https://tv.malmarket.app`；Redirect URLs 加该域名及本地 `http://127.0.0.1:5173/`。**Authentication → Sign In / Providers → Email** 启用邮件 magic link。公网使用前在 **Authentication → Email / SMTP Settings** 配置自己的 SMTP 并验证送达；开发测试邮件有限额。邮件供应商费用由所选服务决定，本项目没有开通。
 5. **Table Editor**：导入后检查 countries、channels、streams、sync_logs。
 
 ## GitHub 定时同步
@@ -51,6 +53,10 @@ Cloudflare Dashboard → **Workers & Pages → 现有 Worker → Settings → Bu
 - Deploy command：`npx wrangler deploy`（自动读取仓库 wrangler.json，上传 dist）。
 - Worker 名称与 `wrangler.json` 中的 `name` 一致，默认 `malmarkettv`；若现有 Worker 名称不同，请先修改该字段匹配。
 - 构建环境使用 Node 22；在构建变量中配置 `VITE_SUPABASE_URL` 与 `VITE_SUPABASE_ANON_KEY`。这两个值须在 Vite 构建时提供，不能仅放在 Worker 运行时变量中。
+
+前端支持新版 `VITE_SUPABASE_PUBLISHABLE_KEY` 与兼容变量 `VITE_SUPABASE_ANON_KEY`，优先使用前者。只在 Worker 运行时设置这些变量不会更新已经构建的静态 JS；必须在 **Settings → Build → Variables and secrets** 为构建提供它们，然后重新构建。当前页面的“尚未连接 Supabase”表示前端构建未取得项目 URL 或公开 key，不能据此判断数据库是否有数据。
+
+连接诊断：执行 `npm run check:connection`，默认检查正式站项目；如需其他项目，可将公开项目 URL 和 key 放入被忽略的本地 `.env` 覆盖。脚本实际调用匿名目录 RPC，报告频道总数并验证三个国家的频道/源关联；空目录、迁移缺失、错误 key 或网络失败都会以非零状态退出。它不会把查询成功当成浏览器播放成功。
 
 本地检查：`npm run build` 后执行 `npm run preview:cloudflare`；本地或外部 CI 完整发布命令为 `npm run deploy`（需要已授权的 Cloudflare 凭据）。更新前端环境变量后必须重新构建。Supabase 迁移与 GitHub Secrets 的配置保持独立。
 
