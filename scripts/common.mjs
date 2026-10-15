@@ -1,9 +1,15 @@
 ﻿import { createClient } from "@supabase/supabase-js";
+import { readFileSync } from "node:fs";
+const publicConfig = JSON.parse(
+  readFileSync(new URL("../src/public-config.json", import.meta.url), "utf8"),
+);
 export function serverDB() {
-  const { SUPABASE_URL, SUPABASE_SERVICE_ROLE_KEY } = process.env;
-  if (!SUPABASE_URL || !SUPABASE_SERVICE_ROLE_KEY)
+  const SUPABASE_URL = process.env.SUPABASE_URL || publicConfig.url;
+  const serverKey =
+    process.env.SUPABASE_SECRET_KEY || process.env.SUPABASE_SERVICE_ROLE_KEY;
+  if (!SUPABASE_URL || !serverKey)
     throw Error("Missing server-only Supabase configuration");
-  return createClient(SUPABASE_URL, SUPABASE_SERVICE_ROLE_KEY, {
+  return createClient(SUPABASE_URL, serverKey, {
     auth: { persistSession: false, autoRefreshToken: false },
   });
 }
