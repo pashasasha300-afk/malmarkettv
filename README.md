@@ -40,7 +40,19 @@ npm run build
 
 ## 部署静态前端
 
-可以使用已拥有的 Cloudflare Pages / Netlify / Vercel 静态项目：从 GitHub 导入本仓库，构建命令 `npm run build`，输出 `dist`，Node 22；仅配置 `VITE_SUPABASE_URL` 与 `VITE_SUPABASE_ANON_KEY`。`public/_redirects` 支持 SPA 的 `/admin` 路由；其他平台按其 SPA rewrite 文档把未命中路径转向 index.html。更新前端环境变量后必须重新构建。Supabase 迁移和 GitHub Secrets 必须先设置，再导入数据，最后验收上线。尚未创建托管项目或公开发布空站。
+本仓库按 **Cloudflare Workers Static Assets** 部署，使用根目录 `wrangler.json`：`assets.directory = "./dist"`，`assets.not_found_handling = "single-page-application"`。未匹配静态文件的页面请求由平台提供 index.html，使 `/admin` 等前端路由可直接打开或刷新；实际 JS/CSS/图片仍作为静态文件返回。无需 Worker 入口脚本。
+
+已删除 `public/_redirects` 的 `/* /index.html 200` 通配规则：它会匹配自身回退目标，并与 Cloudflare HTML 路径规范化产生循环检测。不要重新加入该规则；SPA 回退统一由 Workers 的 assets 配置处理。[Cloudflare 官方 SPA 文档](https://developers.cloudflare.com/workers/static-assets/routing/single-page-application/)
+
+Cloudflare Dashboard → **Workers & Pages → 现有 Worker → Settings → Build**：
+
+- 根目录：仓库根目录。
+- Build command：`npm run build`。
+- Deploy command：`npx wrangler deploy`（自动读取仓库 wrangler.json，上传 dist）。
+- Worker 名称与 `wrangler.json` 中的 `name` 一致，默认 `malmarkettv`；若现有 Worker 名称不同，请先修改该字段匹配。
+- 构建环境使用 Node 22；在构建变量中配置 `VITE_SUPABASE_URL` 与 `VITE_SUPABASE_ANON_KEY`。这两个值须在 Vite 构建时提供，不能仅放在 Worker 运行时变量中。
+
+本地检查：`npm run build` 后执行 `npm run preview:cloudflare`；本地或外部 CI 完整发布命令为 `npm run deploy`（需要已授权的 Cloudflare 凭据）。更新前端环境变量后必须重新构建。Supabase 迁移与 GitHub Secrets 的配置保持独立。
 
 不需要付费地图 API，也不经过自建视频 CDN。现有免费额度可用于初步验证；正式使用的数据库、邮件、构建及托管额度取决于供应商和流量，需要升级时先确认套餐与预算。本次未购买、开通或承诺任何付费服务。
 

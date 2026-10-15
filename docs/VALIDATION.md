@@ -26,3 +26,7 @@
 5. 两个真实 Auth 账号交替登录，确认只读写自己的收藏、历史；游客请求私有表不可读取，普通账号直接调用隐藏/启用操作不得成功，伪造 user_metadata 无效。
 6. 用正常部署的服务端 secrets 执行第二次同步，确认人工改名/隐藏/禁用保留，缺失源 inactive，日志成功；移除一个测试 secret 触发失败而非假成功。不要用真实生产源做破坏性试验。
 7. 完成上述验收后再扩充可靠 EPG 和按需四路观看。
+
+## Cloudflare Workers SPA 路由修复
+
+删除 `public/_redirects` 自匹配通配重写，改用 `wrangler.json` 的 `assets.directory: ./dist` 与 `not_found_handling: single-page-application`。生产构建及 `wrangler deploy --dry-run` 通过，确认 dist 不包含 `_redirects`。Wrangler 本地运行验证 `/`、`/admin`、`/explore/example?channel=test` 在导航请求下均为 HTTP 200，与构建的 index.html 内容一致且无重定向；实际 JS 与 world.svg 分别返回正确的 JavaScript/SVG Content-Type。此记录验证本地 Workers 路由，不代表已确认 Cloudflare 线上重新部署成功。
