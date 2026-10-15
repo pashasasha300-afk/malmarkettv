@@ -1,4 +1,5 @@
 ﻿import test from "node:test";
+import { createHash } from "node:crypto";
 import assert from "node:assert/strict";
 import { readFile } from "node:fs/promises";
 import { PGlite } from "@electric-sql/pglite";
@@ -11,6 +12,7 @@ test("migrations execute; anonymous public reads; two-user isolation; admin spoo
     for (const file of [
       "202610150001_initial.sql",
       "202610150002_directory.sql",
+      "202610150003_stream_url_hash.sql",
     ])
       await pg.exec(
         (
@@ -23,6 +25,23 @@ test("migrations execute; anonymous public reads; two-user isolation; admin spoo
     await pg.exec(
       `insert into auth.users values ('00000000-0000-0000-0000-000000000001'),('00000000-0000-0000-0000-000000000002');insert into countries values('US','United States',38,-97),('ZZ','No source',0,0);insert into channels(id,name,country,hidden) values('a','Alpha','US',false),('hidden','Hidden','US',true);insert into streams(id,channel_id,url,source) values('s','a','https://example.com/a.m3u8','test'),('h','hidden','https://example.com/h.m3u8','test');set role anon;`,
     );
+    await pg.exec("reset role");
+    const longURL =
+      "https://example.com/live.m3u8?token=" +
+      Array.from({ length: 120 }, (_, i) =>
+        createHash("sha256").update(String(i)).digest("hex"),
+      ).join("");
+    await pg.query(
+      "insert into streams(id,channel_id,url,source) values('long','a',$1,'test')",
+      [longURL],
+    );
+    await assert.rejects(
+      pg.query(
+        "insert into streams(id,channel_id,url,source) values('duplicate','a',$1,'test')",
+        [longURL],
+      ),
+    );
+    await pg.exec("delete from streams where id='long';set role anon;");
     assert.equal((await pg.query("select * from channels")).rows.length, 1);
     assert.equal((await pg.query("select * from streams")).rows.length, 1);
     const counts = (await pg.query("select * from country_counts()")).rows;

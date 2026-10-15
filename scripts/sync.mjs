@@ -90,9 +90,20 @@ try {
       .update({
         status: "failed",
         finished_at: new Date().toISOString(),
-        details: { error: String(e) },
+        details: {
+          error: e.message || String(e),
+          code: e.code || null,
+          details: e.details || null,
+        },
       })
       .eq("id", log.id);
-  console.error(String(e));
+  console.error(
+    JSON.stringify({
+      message: e.message || String(e),
+      code: e.code || null,
+      details: e.details || null,
+      hint: e.hint || null,
+    }),
+  );
   process.exitCode = 1;
 }

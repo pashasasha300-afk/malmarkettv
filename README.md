@@ -20,7 +20,7 @@ npm run build
 ## Supabase：你需要操作的页面
 
 1. [Supabase Dashboard](https://supabase.com/dashboard)：打开现有项目；尚无项目则创建项目，选择适合受众的区域。无需为本版主动购买付费计划。
-2. 全新项目可在 **SQL Editor → New query** 执行 [supabase/setup.sql](supabase/setup.sql) 后点击 **Run**，它一次完成以下两份迁移并刷新 API schema cache；已有这些表的项目不要重复初始化。也可按顺序执行 `supabase/migrations/202610150001_initial.sql`、`202610150002_directory.sql`。不要重复执行第一份迁移。也可用 Supabase CLI 的 link / db push 迁移已有工程。
+2. 全新项目可在 **SQL Editor → New query** 执行 [supabase/setup.sql](supabase/setup.sql) 后点击 **Run**，它一次完成当前全部迁移并刷新 API schema cache；已有这些表的项目不要重复初始化。也可按顺序执行 `supabase/migrations/202610150001_initial.sql`、`202610150002_directory.sql`、`202610150003_stream_url_hash.sql`。已完成前两份的项目仅执行第三份；不要重复执行第一份迁移。也可用 Supabase CLI 的 link / db push 迁移已有工程。
 3. **Project Settings → API / API Keys**（新界面也可从 Connect 找到）：项目 URL 与公开 publishable/legacy anon key 填入前端环境变量；service_role 或 secret key 只放服务器 / Actions Secrets，不要发送到聊天、不加 VITE_ 前缀。
 4. **Authentication → URL Configuration**：Site URL 为 `https://tv.malmarket.app`；Redirect URLs 加该域名及本地 `http://127.0.0.1:5173/`。**Authentication → Sign In / Providers → Email** 启用邮件 magic link。公网使用前在 **Authentication → Email / SMTP Settings** 配置自己的 SMTP 并验证送达；开发测试邮件有限额。邮件供应商费用由所选服务决定，本项目没有开通。
 5. **Table Editor**：导入后检查 countries、channels、streams、sync_logs。
@@ -36,7 +36,7 @@ npm run build
 
 本地服务端调试：在被 gitignore 的 `.env` 设置上述两个服务端变量后运行 `npm run sync` / `npm run health`。不带密钥的数据验证：`node scripts/sync.mjs --dry-run`。
 
-同步有 300 行分批、三次指数退避重试、失败日志、频道 ID / URL SHA256 去重；完整导入成功后才停用本次未出现的目录源。人工 hidden/manual_name/disabled/official_verified 不在同步写入字段中。仅明确关联频道、HTTPS、HLS 且无需自定义 Referer/User-Agent 的源参与第一版，排除成人、关闭频道与上游 blocklist。未关联源、HTTP、其他传输协议暂不收录，数量不代表已验证可播。官方验证标记只能在核实提供方公开来源后由维护者设置，默认不宣称官方授权。
+同步有 300 行分批、三次指数退避重试、失败日志、频道 ID / URL SHA256 去重（源 ID）与数据库 URL 哈希唯一索引；完整导入成功后才停用本次未出现的目录源。人工 hidden/manual_name/disabled/official_verified 不在同步写入字段中。仅明确关联频道、HTTPS、HLS 且无需自定义 Referer/User-Agent 的源参与第一版，排除成人、关闭频道与上游 blocklist。未关联源、HTTP、其他传输协议暂不收录，数量不代表已验证可播。官方验证标记只能在核实提供方公开来源后由维护者设置，默认不宣称官方授权。
 
 健康任务每天最多检查 100 个最久未检查的源，并发 4、单次最长约 10 秒、最多 3 次重定向；仅请求响应头后关闭连接，不请求整个视频。域名的全部 DNS 答案必须是公共单播 IP，连接固定到已检查 IP，每次重定向重新校验；阻止内网、环回、链路本地、保留地址、凭据 URL 与非标准端口。保持 TLS 校验。HTTP 可达不证明清单有效、CORS、编码、片段或浏览器可播放；显示最后检查时间，不伪装实时健康。当前限额意味着全库检查周期较长，可按预算增加任务频率与配额。
 
