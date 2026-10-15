@@ -1,3 +1,83 @@
-﻿import ipaddr from 'ipaddr.js';import {lookup} from 'node:dns/promises';import https from 'node:https';import http from 'node:http';
-export function publicIP(value){try{return ipaddr.process(value).range()==='unicast'}catch{return false}}
-export async function safeProbe(input,resolve=lookup){let url=new URL(input);const start=Date.now();for(let redirects=0;redirects<4;redirects++){if(!['http:','https:'].includes(url.protocol)||url.username||url.password||!['','80','443'].includes(url.port))throw Error('Blocked URL');const host=url.hostname.replace(/^\[|\]$/g,'');const addresses=await Promise.race([resolve(host,{all:true,verbatim:true}),new Promise((_,reject)=>{const t=setTimeout(()=>reject(Error('DNS timeout')),3000);t.unref()})]);if(!addresses.length||addresses.some(a=>!publicIP(a.address)))throw Error('Blocked nonpublic target');const address=addresses[0],remaining=10000-(Date.now()-start);if(remaining<=0)throw Error('Timeout');const response=await new Promise((resolve,reject)=>{const request=(url.protocol==='https:'?https:http).request(url,{method:'GET',agent:false,headers:{Range:'bytes=0-2047','User-Agent':'MalMarketTV-health/0.1'},lookup:(_h,_o,cb)=>_o.all?cb(null,[address]):cb(null,address.address,address.family)},res=>{const result={status:res.statusCode,location:res.headers.location,cors:res.headers['access-control-allow-origin']||null};res.destroy();resolve(result)});const deadline=setTimeout(()=>request.destroy(Error('Timeout')),remaining);request.on('close',()=>clearTimeout(deadline));request.on('error',reject);request.end()});if([301,302,303,307,308].includes(response.status)&&response.location){url=new URL(response.location,url);continue}return {...response,https:url.protocol==='https:',checked_at:new Date().toISOString()}}throw Error('Redirect limit')}
+﻿import ipaddr from "ipaddr.js";
+import { lookup } from "node:dns/promises";
+import https from "node:https";
+import http from "node:http";
+export function publicIP(value) {
+  try {
+    return ipaddr.process(value).range() === "unicast";
+  } catch {
+    return false;
+  }
+}
+export async function safeProbe(input, resolve = lookup) {
+  let url = new URL(input);
+  const start = Date.now();
+  for (let redirects = 0; redirects < 4; redirects++) {
+    if (
+      !["http:", "https:"].includes(url.protocol) ||
+      url.username ||
+      url.password ||
+      !["", "80", "443"].includes(url.port)
+    )
+      throw Error("Blocked URL");
+    const host = url.hostname.replace(/^\[|\]$/g, "");
+    const addresses = await Promise.race([
+      resolve(host, { all: true, verbatim: true }),
+      new Promise((_, reject) => {
+        const t = setTimeout(() => reject(Error("DNS timeout")), 3000);
+        t.unref();
+      }),
+    ]);
+    if (!addresses.length || addresses.some((a) => !publicIP(a.address)))
+      throw Error("Blocked nonpublic target");
+    const address = addresses[0],
+      remaining = 10000 - (Date.now() - start);
+    if (remaining <= 0) throw Error("Timeout");
+    const response = await new Promise((resolve, reject) => {
+      const request = (url.protocol === "https:" ? https : http).request(
+        url,
+        {
+          method: "GET",
+          agent: false,
+          headers: {
+            Range: "bytes=0-2047",
+            "User-Agent": "MalMarketTV-health/0.1",
+          },
+          lookup: (_h, _o, cb) =>
+            _o.all
+              ? cb(null, [address])
+              : cb(null, address.address, address.family),
+        },
+        (res) => {
+          const result = {
+            status: res.statusCode,
+            location: res.headers.location,
+            cors: res.headers["access-control-allow-origin"] || null,
+          };
+          res.destroy();
+          resolve(result);
+        },
+      );
+      const deadline = setTimeout(
+        () => request.destroy(Error("Timeout")),
+        remaining,
+      );
+      request.on("close", () => clearTimeout(deadline));
+      request.on("error", reject);
+      request.end();
+    });
+    if (
+      [301, 302, 303, 307, 308].includes(response.status) &&
+      response.location
+    ) {
+      url = new URL(response.location, url);
+      continue;
+    }
+    return {
+      ...response,
+      https: url.protocol === "https:",
+      checked_at: new Date().toISOString(),
+    };
+  }
+  throw Error("Redirect limit");
+}
