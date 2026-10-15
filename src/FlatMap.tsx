@@ -58,6 +58,9 @@ export function FlatMap({
                   e.currentTarget.clientHeight,
             });
         }}
+        onPointerCancel={() => {
+          drag.current = null;
+        }}
         onPointerUp={() => {
           drag.current = null;
         }}
@@ -69,11 +72,15 @@ export function FlatMap({
           {countries.map((c) => (
             <g
               key={c.code}
+              onPointerDown={(e) => e.stopPropagation()}
               tabIndex={0}
               role="button"
               aria-label={c.name + " " + c.count + " 个频道"}
               onKeyDown={(e) => {
-                if (e.key === "Enter") select(c.code);
+                if (e.key === "Enter" || e.key === " ") {
+                  e.preventDefault();
+                  select(c.code);
+                }
               }}
               onClick={() => select(c.code)}
             >

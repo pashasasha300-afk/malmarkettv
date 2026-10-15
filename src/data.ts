@@ -37,7 +37,10 @@ export type Country = {
 };
 export function localRead(key: string): string[] {
   try {
-    return JSON.parse(localStorage.getItem(key) || "[]");
+    const value = JSON.parse(localStorage.getItem(key) || "[]");
+    return Array.isArray(value)
+      ? value.filter((x): x is string => typeof x === "string")
+      : [];
   } catch {
     return [];
   }
