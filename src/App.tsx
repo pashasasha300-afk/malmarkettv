@@ -18,7 +18,10 @@ const Player = lazy(() =>
 );
 export function App() {
   const [countries, setCountries] = useState<Country[]>([]),
-    [country, setCountry] = useState(""),
+    [country, setCountry] = useState(() => {
+      const value = new URLSearchParams(location.search).get("country") || "";
+      return /^[A-Z]{2}$/.test(value) ? value : "";
+    }),
     [channels, setChannels] = useState<Channel[]>([]),
     [selected, setSelected] = useState<Channel | null>(null),
     [search, setSearch] = useState(""),

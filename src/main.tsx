@@ -4,7 +4,7 @@ import { App } from "./App";
 import "./style.css";
 const Admin = lazy(() => import("./Admin"));
 createRoot(document.getElementById("root")!).render(
-  location.pathname === "/admin" ? (
+  /^\/admin\/?$/.test(location.pathname) ? (
     <Suspense fallback={<p>加载管理工具…</p>}>
       <Admin />
     </Suspense>

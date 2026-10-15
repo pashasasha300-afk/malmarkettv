@@ -6,3 +6,5 @@ dist/
 test-results/
 
 .wrangler/
+
+.seo-build/

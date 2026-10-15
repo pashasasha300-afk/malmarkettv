@@ -6,11 +6,13 @@ export default function World({
   select,
   fallback,
   compact = false,
+  locale = "zh",
 }: {
   countries: Country[];
   select: (s: string) => void;
   fallback: () => void;
   compact?: boolean;
+  locale?: "zh" | "en";
 }) {
   const root = useRef<HTMLDivElement>(null);
   const [size, setSize] = useState({ w: 0, h: 0 }),
@@ -58,7 +60,9 @@ export default function World({
           pointRadius={0.45}
           pointLabel={(d) => {
             const c = d as Country;
-            return `${c.name} · ${c.count} 个频道（国家级位置）`;
+            return locale === "en"
+              ? `${c.name} · ${c.count} channels (country-level location)`
+              : `${c.name} · ${c.count} 个频道（国家级位置）`;
           }}
           onPointClick={(d) => select((d as Country).code)}
           animateIn={false}

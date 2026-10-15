@@ -42,9 +42,11 @@ npm run build
 
 ## 部署静态前端
 
-本仓库按 **Cloudflare Workers Static Assets** 部署，使用根目录 `wrangler.json`：`assets.directory = "./dist"`，`assets.not_found_handling = "single-page-application"`。未匹配静态文件的页面请求由平台提供 index.html，使 `/admin` 等前端路由可直接打开或刷新；实际 JS/CSS/图片仍作为静态文件返回。无需 Worker 入口脚本。
+本仓库采用 **Cloudflare Workers Static Assets＋预渲染 HTML**。`npm run build` 先读取 Supabase 的公开 RLS 数据、构建播放器和地球组件，再输出中英文首页、非空国家页和固定首批频道资料页。正文与导航不依赖 JavaScript。构建或数据校验失败会停止发布，不生成空目录替代真实数据。
 
-已删除 `public/_redirects` 的 `/* /index.html 200` 通配规则：它会匹配自身回退目标，并与 Cloudflare HTML 路径规范化产生循环检测。不要重新加入该规则；SPA 回退统一由 Workers 的 assets 配置处理。[Cloudflare 官方 SPA 文档](https://developers.cloudflare.com/workers/static-assets/routing/single-page-application/)
+`wrangler.json` 的 `assets.not_found_handling = "404-page"` 返回真正的 404；`worker/index.js` 处理根地址到 `/zh/` 的 301，以及旧 `?channel=` 链接到 `/watch/` 的 302。播放器与后台分别输出真实 HTML 入口 `/watch/`、`/admin/`，用 noindex 排除搜索索引，保留原有互动功能。不要恢复 `/* /index.html 200` 或全站 SPA fallback，这会让不存在路径错误返回 200。[Cloudflare SSG 与 404 文档](https://developers.cloudflare.com/workers/static-assets/routing/static-site-generation/)
+
+SEO URL、内容准入、定时更新及验证命令见 [SEO 运维说明](seo/README.md)。
 
 Cloudflare Dashboard → **Workers & Pages → 现有 Worker → Settings → Build**：
 
@@ -64,7 +66,7 @@ Cloudflare Dashboard → **Workers & Pages → 现有 Worker → Settings → Bu
 
 ## 管理员与权限
 
-先用首页邮件登录。项目所有者在 Supabase SQL Editor 中授权现有用户（替换真实 UUID）：
+先在 `/watch/` 的顶部登录入口通过邮件登录。项目所有者在 Supabase SQL Editor 中授权现有用户（替换真实 UUID）：
 
 ```sql
 update auth.users set raw_app_meta_data = coalesce(raw_app_meta_data, '{}'::jsonb) || '{"role":"admin"}'::jsonb
@@ -77,6 +79,7 @@ where id = 'YOUR-USER-UUID';
 
 ## 播放和界面
 
+- 公开首页与国家/频道目录有中文和英文预渲染版本；原有交互式选台与播放器保留在 `/watch/`，旧频道分享链接会跳转至该入口。
 - 3D 地球按需下载，低核心数 / 减少动态效果设备默认平面地图；WebGL2 检查失败降级。地图触控拖动及按钮缩放、列表可键盘操作。探索时为地球＋频道双栏；选台后播放器占主区域，旁边保留频道，地球缩为可收起的探索区。手机播放器在上、频道常驻下方，地球默认不加载，点击入口再展开。
 - 使用国家级数据坐标；不把国家点标成频道城市或演播室地址。国家无收录源显示 0，不填充虚构频道。
 - 按频道名称搜索，国家、语言、分类使用中文下拉选项，支持清除筛选；频道资料显示可读名称，当前频道高亮，台标失败显示占位。每次最多 200 条，请缩小范围；随机为当前结果内随机。主要界面中文，国家名用 Intl.DisplayNames；尚未提供完整多语言切换。
@@ -89,7 +92,7 @@ where id = 'YOUR-USER-UUID';
 
 ## 验证与限制
 
-详见 [验证报告](docs/VALIDATION.md)。`npm test` 执行 4 项核心/数据库测试及 15 项组件交互测试（`npm run test:ui`）；数据库测试真实执行 PostgreSQL 引擎迁移和多用户 RLS 隔离（PGlite 模拟 auth 函数），组件测试模拟桌面/手机 viewport 和媒体 API，仍需在目标 Supabase 实例验收 JWT/Auth/PostgREST。浏览器播放、移动布局和备用源切换需要真实浏览器实测，不能由 build 或 HTTP 200 代替。真实目录依地区、时间与版权随时变化。
+详见 [验证报告](docs/VALIDATION.md)。`npm test` 执行 12 项核心/数据库/SEO 测试及 15 项组件交互测试（`npm run test:ui`）；数据库测试真实执行 PostgreSQL 引擎迁移和多用户 RLS 隔离（PGlite 模拟 auth 函数），组件测试模拟桌面/手机 viewport 和媒体 API，仍需在目标 Supabase 实例验收 JWT/Auth/PostgREST。浏览器播放、移动布局和备用源切换需要真实浏览器实测，不能由 build 或 HTTP 200 代替。真实目录依地区、时间与版权随时变化。
 
 ## 公开数据与素材
 

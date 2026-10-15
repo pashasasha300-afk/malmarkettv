@@ -57,3 +57,15 @@
 - `wrangler deploy --dry-run`：Workers Static Assets 配置与打包通过，无 `_redirects`。
 
 验证边界：当前浏览器工具 inventory 为空，未执行桌面/手机真实浏览器截图、触摸或视频解码。组件测试不证明真实布局无溢出、全屏/PiP 平台兼容或当地直播能播放。上述媒体测试使用明确的测试 fixture，不展示给用户，也未将其记录为真实源播放成功。上线后仍需在实际桌面和手机浏览器检查画面、声音及交互。
+
+## 第一阶段 SEO
+
+路由从全站 SPA fallback 改为 Cloudflare Workers Static Assets 的 SSG/404 模式。公开的中英文首页、178 个国家/地区的语言版本及固定首批 400 个资料较完整频道的语言版本，共 1,158 页。国家和频道导航为 HTML 普通链接；正文无需 JS。频道 URL 由稳定目录 ID 生成，首批名单固定，不因后续排序变化替换仍有效的页面。无源地区和资料不足频道不生成占位页。
+
+独立 title、description、self-canonical、互惠 zh-Hans/en hreflang 与 x-default、sitemap、robots、Open Graph/Twitter 分享卡片及 WebSite/BreadcrumbList 已实现。没有可信 lastmod，不填写虚假修改时间；没有频道介绍、评分、节目单或已核验直播状态，就不补造相关内容或结构化数据。
+
+`npm test` 的 12 项核心/数据库/SEO 测试及 15 项 UI 测试通过；生产构建、1,158 个页面的独立标题/链接/元数据检查及 Workers dry-run 通过。普通内部链接共 9,362 次目标校验通过。
+
+[本地真实 HTTP 报告](seo-http-local.json) 在不执行 JS 的情况下确认中英文首页、国家页、频道资料页为 200 并包含主要正文；根路径为 301、旧频道链接 302 保留播放参数、未知页面/国家/频道为 404。`/watch/` 保留既有应用入口，`/admin/` 保留后台；两者 noindex 且不进入 sitemap。分享 PNG 尺寸 1200×630，已查看图像。
+
+SEO 页面是部署快照。同步任务现在仅在公开资料变化时提交快照，交由既有 Cloudflare Git 集成重建；紧急下架仍须立即触发同步或重建并核对 URL。浏览器工具无连接，未宣称重新做过真实视频解码、交互地球或移动截图；既有播放器组件回归通过。Search Console 与 Bing 所有权尚未验证，需按会话逐步接入；HTTP 可抓取不等于已收录。

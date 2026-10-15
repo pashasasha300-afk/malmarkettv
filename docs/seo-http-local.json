@@ -1,0 +1,73 @@
+{
+  "base": "http://127.0.0.1:8787",
+  "checkedAt": "2026-10-15T03:04:04.848Z",
+  "sitemapUrls": 1158,
+  "oldLinks": "preserved via 302",
+  "viewer": "200, noindex, existing app entry retained",
+  "results": [
+    {
+      "path": "/zh/",
+      "status": 200,
+      "title": "MalMarket TV｜全球电视直播与地球选台",
+      "lang": "zh-Hans",
+      "ordinaryLinks": 204,
+      "bodyWithoutJavaScript": true
+    },
+    {
+      "path": "/en/",
+      "status": 200,
+      "title": "MalMarket TV | Explore TV channels by country",
+      "lang": "en",
+      "ordinaryLinks": 204,
+      "bodyWithoutJavaScript": true
+    },
+    {
+      "path": "/zh/countries/us/",
+      "status": 200,
+      "title": "美国电视直播频道目录｜MalMarket TV",
+      "lang": "zh-Hans",
+      "ordinaryLinks": 2920,
+      "bodyWithoutJavaScript": true
+    },
+    {
+      "path": "/en/countries/jp/",
+      "status": 200,
+      "title": "Japan TV channel directory | MalMarket TV",
+      "lang": "en",
+      "ordinaryLinks": 22,
+      "bodyWithoutJavaScript": true
+    },
+    {
+      "path": "/zh/channels/france24-fr-ab74f92c11/",
+      "status": 200,
+      "title": "France 24｜频道资料与直播入口｜MalMarket TV",
+      "lang": "zh-Hans",
+      "ordinaryLinks": 17,
+      "bodyWithoutJavaScript": true
+    },
+    {
+      "path": "/en/channels/france24-fr-ab74f92c11/",
+      "status": 200,
+      "title": "France 24: channel information and player | MalMarket TV",
+      "lang": "en",
+      "ordinaryLinks": 17,
+      "bodyWithoutJavaScript": true
+    },
+    {
+      "path": "/a-page-that-does-not-exist/",
+      "status": 404
+    },
+    {
+      "path": "/zh/countries/zz/",
+      "status": 404
+    },
+    {
+      "path": "/zh/channels/not-a-channel/",
+      "status": 404
+    },
+    {
+      "path": "/seo",
+      "status": 404
+    }
+  ]
+}

@@ -3,9 +3,11 @@ import type { Country } from "./data";
 export function FlatMap({
   countries,
   select,
+  locale = "zh",
 }: {
   countries: Country[];
   select: (code: string) => void;
+  locale?: "zh" | "en";
 }) {
   const [zoom, setZoom] = useState(1),
     [pan, setPan] = useState({ x: 0, y: 0 });
@@ -16,13 +18,13 @@ export function FlatMap({
     <div style={{ width: "100%" }}>
       <div className="tools">
         <button
-          aria-label="地图放大"
+          aria-label={locale === "en" ? "Zoom in" : "地图放大"}
           onClick={() => setZoom((z) => Math.min(5, z + 0.5))}
         >
           ＋
         </button>
         <button
-          aria-label="地图缩小"
+          aria-label={locale === "en" ? "Zoom out" : "地图缩小"}
           onClick={() => setZoom((z) => Math.max(1, z - 0.5))}
         >
           −
@@ -33,13 +35,15 @@ export function FlatMap({
             setPan({ x: 0, y: 0 });
           }}
         >
-          复位
+          {locale === "en" ? "Reset" : "复位"}
         </button>
       </div>
       <svg
         className="flat-map"
         viewBox="0 0 1000 500"
-        aria-label="可拖动缩放的国家地图"
+        aria-label={
+          locale === "en" ? "Draggable country map" : "可拖动缩放的国家地图"
+        }
         style={{ touchAction: "none" }}
         onPointerDown={(e) => {
           drag.current = { x: e.clientX, y: e.clientY, px: pan.x, py: pan.y };
@@ -75,7 +79,12 @@ export function FlatMap({
               onPointerDown={(e) => e.stopPropagation()}
               tabIndex={0}
               role="button"
-              aria-label={c.name + " " + c.count + " 个频道"}
+              aria-label={
+                c.name +
+                " " +
+                c.count +
+                (locale === "en" ? " channels" : " 个频道")
+              }
               onKeyDown={(e) => {
                 if (e.key === "Enter" || e.key === " ") {
                   e.preventDefault();
@@ -91,7 +100,9 @@ export function FlatMap({
                 style={{ fill: c.count ? "#a2f3cf" : "#6b7774" }}
               />
               <title>
-                {c.name} · {c.count} 个收录频道（国家级位置）
+                {locale === "en"
+                  ? `${c.name} · ${c.count} listed channels (country-level location)`
+                  : `${c.name} · ${c.count} 个收录频道（国家级位置）`}
               </title>
             </g>
           ))}

@@ -12,7 +12,7 @@ on:
   schedule:
     - cron: "23 3 * * *"
 permissions:
-  contents: read
+  contents: write
 concurrency:
   group: channel-maintenance
   cancel-in-progress: false
@@ -34,3 +34,14 @@ jobs:
       - run: npm run sync
       - run: npm run check:connection
       - run: npm run health
+      - name: Refresh public SEO snapshot
+        run: |
+          git pull --rebase origin main
+          npm run seo:snapshot
+          if ! git diff --quiet -- seo/catalog.json; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add seo/catalog.json
+            git commit -m "Refresh public SEO catalogue after channel sync"
+            git push origin HEAD:main
+          fi
