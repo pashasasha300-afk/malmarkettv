@@ -116,6 +116,12 @@
       "lng": 50.55
     },
     {
+      "code": "BI",
+      "name": "Burundi",
+      "lat": -3.5,
+      "lng": 30
+    },
+    {
       "code": "BJ",
       "name": "Benin",
       "lat": 9.5,
@@ -11132,6 +11138,19 @@
       ],
       "logo": "https://i.imgur.com/9UmR6cs.png",
       "website": "https://bamlive.tv/"
+    },
+    {
+      "id": "BanatTV.ro",
+      "name": "Banat TV",
+      "country": "RO",
+      "languages": [
+        "ron"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://i.imgur.com/yVsocid.png",
+      "website": "https://www.btv.ro/"
     },
     {
       "id": "Band.br",
@@ -22271,6 +22290,19 @@
       "website": "https://www.cnbcarabia.com/"
     },
     {
+      "id": "CNBCAsia.sg",
+      "name": "CNBC Asia",
+      "country": "SG",
+      "languages": [
+        "eng"
+      ],
+      "categories": [
+        "business"
+      ],
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/b/bc/CNBC_2025.svg",
+      "website": "https://www.cnbc.com/id/15838789"
+    },
+    {
       "id": "CNBCAwaaz.in",
       "name": "CNBC Awaaz",
       "country": "IN",
@@ -26903,6 +26935,26 @@
       "website": "https://www.discoverpakistan.tv/"
     },
     {
+      "id": "DiscoveryChannel.in",
+      "name": "Discovery Channel",
+      "country": "IN",
+      "languages": [
+        "ben",
+        "eng",
+        "hin",
+        "kan",
+        "mal",
+        "mar",
+        "tam",
+        "tel"
+      ],
+      "categories": [
+        "entertainment"
+      ],
+      "logo": "https://dtil.tmsimg.com/assets/s159106_ld_h15_aa.png?lock=720x540",
+      "website": "http://www.discoverychannel.co.in/"
+    },
+    {
       "id": "DiscoveryChannel.it",
       "name": "Discovery Channel",
       "country": "IT",
@@ -26944,6 +26996,46 @@
       ],
       "logo": "https://dtil.tmsimg.com/assets/s159011_ld_h15_aa.png?lock=720x540",
       "website": "http://dkids.co.in/"
+    },
+    {
+      "id": "DiscoveryScience.in",
+      "name": "Discovery Science",
+      "country": "IN",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "categories": [
+        "science"
+      ],
+      "logo": "https://dtil.tmsimg.com/assets/s159107_ld_h15_aa.png?lock=720x540",
+      "website": "http://www.discoverychannel.co.in/"
+    },
+    {
+      "id": "DiscoveryTurbo.in",
+      "name": "Discovery Turbo",
+      "country": "IN",
+      "languages": [
+        "eng"
+      ],
+      "categories": [
+        "auto"
+      ],
+      "logo": "https://dtil.tmsimg.com/assets/s159108_ld_h15_aa.png?lock=720x540",
+      "website": "http://www.discoverychannel.co.in/"
+    },
+    {
+      "id": "DiscoveryTurbo.it",
+      "name": "Discovery Turbo",
+      "country": "IT",
+      "languages": [
+        "ita"
+      ],
+      "categories": [
+        "auto"
+      ],
+      "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Discovery_Turbo_Italy.svg/1920px-Discovery_Turbo_Italy.svg.png",
+      "website": null
     },
     {
       "id": "DishaTV.in",
@@ -29932,6 +30024,19 @@
       "website": "https://enfoquedigital.cl/"
     },
     {
+      "id": "EnglishClubGlobal.uk",
+      "name": "English Club Global",
+      "country": "UK",
+      "languages": [
+        "eng"
+      ],
+      "categories": [
+        "education"
+      ],
+      "logo": "https://img.apk.watch/pics:bz1kZmQ3bjImbD0zZmkmaD1wbmcmZj1HbGk5MCZpPTU",
+      "website": null
+    },
+    {
       "id": "EnglishClubTV.uk",
       "name": "English Club TV",
       "country": "UK",
@@ -31346,6 +31451,19 @@
       ],
       "logo": "https://i.ibb.co/rGqB5FcH/Europe1-TV.png",
       "website": "https://www.europe1.fr/"
+    },
+    {
+      "id": "Eurosport.in",
+      "name": "Eurosport",
+      "country": "IN",
+      "languages": [
+        "eng"
+      ],
+      "categories": [
+        "sports"
+      ],
+      "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002E9LQS.png?lock=720x540",
+      "website": "https://eurosport.co.in/"
     },
     {
       "id": "Eurosport1.fr",
@@ -33539,6 +33657,20 @@
       ],
       "logo": "https://i.imgur.com/YIamDGn.png",
       "website": "https://foxsoul.tv/"
+    },
+    {
+      "id": "FoxSportsNews.au",
+      "name": "Fox Sports News",
+      "country": "AU",
+      "languages": [
+        "eng"
+      ],
+      "categories": [
+        "news",
+        "sports"
+      ],
+      "logo": "https://i.imgur.com/FhMQrJk.png",
+      "website": "https://www.foxtel.com.au/tv-guide/channel/Fox-Sports-News/FSN/"
     },
     {
       "id": "FoxWeather.us",
@@ -40613,6 +40745,20 @@
       "website": "https://pluto.tv/live-tv/investigation-by-pluto-tv-fr/details"
     },
     {
+      "id": "InvestigationDiscovery.in",
+      "name": "Investigation Discovery",
+      "country": "IN",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "categories": [
+        "documentary"
+      ],
+      "logo": "https://dtil.tmsimg.com/assets/s157811_ld_h15_aa.png?lock=720x540",
+      "website": "https://www.discoverychannel.co.in/"
+    },
+    {
       "id": "INWILD.nl",
       "name": "INWILD",
       "country": "NL",
@@ -41123,7 +41269,7 @@
         "general"
       ],
       "logo": "https://i.imgur.com/bXhEeTC.png",
-      "website": "https://www.isibo.tv/maintenance/"
+      "website": "https://www.isibomedia.com/"
     },
     {
       "id": "IslamChannel.uk",
@@ -43778,20 +43924,6 @@
       ],
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KBS_JOY.svg/960px-KBS_JOY.svg.png",
       "website": "http://www.kbsn.co.kr/"
-    },
-    {
-      "id": "KBSWorld.kr",
-      "name": "KBS World",
-      "country": "KR",
-      "languages": [
-        "eng",
-        "kor"
-      ],
-      "categories": [
-        "general"
-      ],
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/9/98/NewsNetLogo2022.png",
-      "website": "http://kbsworld.kbs.co.kr/"
     },
     {
       "id": "KC2.rw",
@@ -75182,6 +75314,31 @@
       "website": "https://rlw.org.za/"
     },
     {
+      "id": "RMCDecouverte.fr",
+      "name": "RMC Decouverte",
+      "country": "FR",
+      "languages": [
+        "fra"
+      ],
+      "categories": [],
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/960px-RMC_D%C3%A9couverte_logo_2017.svg.png",
+      "website": "http://rmcdecouverte.bfmtv.com/"
+    },
+    {
+      "id": "RMCLife.fr",
+      "name": "RMC Life",
+      "country": "FR",
+      "languages": [
+        "fra"
+      ],
+      "categories": [
+        "entertainment",
+        "interactive"
+      ],
+      "logo": "https://img1.dc2.oqee.net/channel_pictures/3606/w512",
+      "website": "https://www.rmcbfmplay.com/chaine/rmc-life"
+    },
+    {
       "id": "RMCStory.fr",
       "name": "RMC Story",
       "country": "FR",
@@ -76186,6 +76343,38 @@
       "categories": [],
       "logo": "https://i.imgur.com/8xqYg4C.png",
       "website": "http://www.rtnweb.gob.ar/television/"
+    },
+    {
+      "id": "RTNBDivertissement.bi",
+      "name": "RTNB Divertissement",
+      "country": "BI",
+      "languages": [
+        "eng",
+        "fra",
+        "run",
+        "swa"
+      ],
+      "categories": [
+        "entertainment"
+      ],
+      "logo": "https://i.imgur.com/vNCVLuO.png",
+      "website": "https://www.rtnb.bi/"
+    },
+    {
+      "id": "RTNBTV.bi",
+      "name": "RTNB TV",
+      "country": "BI",
+      "languages": [
+        "eng",
+        "fra",
+        "run",
+        "swa"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://i.imgur.com/xfR5P9F.png",
+      "website": "https://rtnb.bi/"
     },
     {
       "id": "RTNChicago.us",
@@ -79834,7 +80023,7 @@
       "categories": [
         "music"
       ],
-      "logo": "https://i.imgur.com/Fk4sd8t.png",
+      "logo": "https://shanson.tv/wp-content/uploads/2025/12/pics.31.png",
       "website": "https://shanson.tv/"
     },
     {
@@ -90318,6 +90507,19 @@
       "categories": [],
       "logo": "https://i.imgur.com/5vaEhfy.png",
       "website": "https://www.tlaxcalatelevision.tv/"
+    },
+    {
+      "id": "TLC.de",
+      "name": "TLC",
+      "country": "DE",
+      "languages": [
+        "deu"
+      ],
+      "categories": [
+        "lifestyle"
+      ],
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png",
+      "website": "http://www.tlc.de/"
     },
     {
       "id": "TLEstrella.bo",
@@ -100933,6 +101135,19 @@
       "categories": [],
       "logo": "https://i.imgur.com/GkSoxhx.png",
       "website": "https://www.vivatvonline.com/"
+    },
+    {
+      "id": "VIVETV.ar",
+      "name": "VIVE TV",
+      "country": "AR",
+      "languages": [
+        "spa"
+      ],
+      "categories": [
+        "news"
+      ],
+      "logo": "https://raw.githubusercontent.com/vivetvargentina/vive-tv/main/Logo%20512x512-04.png",
+      "website": "https://vivetv.com.ar/"
     },
     {
       "id": "VivoTV.cl",
