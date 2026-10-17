@@ -13016,6 +13016,17 @@
       "website": "https://ibinge.tv"
     },
     {
+      "id": "BinhThuanTV.vn",
+      "name": "Binh Thuan TV",
+      "country": "VN",
+      "languages": [
+        "vie"
+      ],
+      "categories": [],
+      "logo": null,
+      "website": "http://binhthuantv.vn/"
+    },
+    {
       "id": "BioBioTV.cl",
       "name": "Bio Bio TV",
       "country": "CL",
@@ -80958,6 +80969,19 @@
       "website": "https://www.skynewsarabia.com/"
     },
     {
+      "id": "SkyNewsExtra.au",
+      "name": "Sky News Extra",
+      "country": "AU",
+      "languages": [
+        "eng"
+      ],
+      "categories": [
+        "news"
+      ],
+      "logo": "https://i.imgur.com/ZsPb8nL.png",
+      "website": "https://www.skynews.com.au/page/extra"
+    },
+    {
       "id": "SkyNewsExtra1.au",
       "name": "Sky News Extra 1",
       "country": "AU",
@@ -81021,6 +81045,19 @@
       ],
       "logo": "https://pbs.twimg.com/profile_images/1604994875459518464/lGt2wEqM_400x400.jpg",
       "website": "https://news.sky.com/weather"
+    },
+    {
+      "id": "SkyNewsWeatherChannel.au",
+      "name": "Sky News Weather Channel",
+      "country": "AU",
+      "languages": [
+        "eng"
+      ],
+      "categories": [
+        "weather"
+      ],
+      "logo": "https://i.imgur.com/FKg6AQr.png",
+      "website": "https://www.skyweather.com.au/"
     },
     {
       "id": "SkyRacing1.au",
@@ -100479,19 +100516,6 @@
       ],
       "logo": "https://i.imgur.com/NzuKt1R.png",
       "website": "https://viaoccitanie.tv/"
-    },
-    {
-      "id": "ViaplayTV.fi",
-      "name": "Viaplay TV",
-      "country": "FI",
-      "languages": [
-        "fin"
-      ],
-      "categories": [
-        "sports"
-      ],
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/9/94/Viaplay_TV_logo.svg",
-      "website": "https://viaplaytv.fi/"
     },
     {
       "id": "ViasatExploreClassic.pl",
