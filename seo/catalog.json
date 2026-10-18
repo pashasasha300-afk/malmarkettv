@@ -11050,6 +11050,19 @@
       "website": "https://www.ntv.ru/serial/Balabol"
     },
     {
+      "id": "BalafonTV.cm",
+      "name": "Balafon TV",
+      "country": "CM",
+      "languages": [
+        "fra"
+      ],
+      "categories": [
+        "news"
+      ],
+      "logo": "https://i.imgur.com/EqOzhYw.png",
+      "website": null
+    },
+    {
       "id": "Balapan.kz",
       "name": "Balapan",
       "country": "KZ",
@@ -11922,6 +11935,84 @@
       ],
       "logo": "https://images.pluto.tv/channels/672e157d7d5da5000812872d/colorLogoPNG-1731073515797.png",
       "website": "https://pluto.tv/live-tv/becker-se/details"
+    },
+    {
+      "id": "beINSports1Turk.tr",
+      "name": "beIN Sports 1 Turk",
+      "country": "TR",
+      "languages": [
+        "tur"
+      ],
+      "categories": [
+        "sports"
+      ],
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/2/27/BeinSports1.svg/revision/latest?cb=20230910184457",
+      "website": null
+    },
+    {
+      "id": "beINSports2Turk.tr",
+      "name": "beIN Sports 2 Turk",
+      "country": "TR",
+      "languages": [
+        "tur"
+      ],
+      "categories": [
+        "sports"
+      ],
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/4/40/BeinSports2.svg/revision/latest?cb=20230910185720",
+      "website": null
+    },
+    {
+      "id": "beINSports3Turk.tr",
+      "name": "beIN Sports 3 Turk",
+      "country": "TR",
+      "languages": [
+        "tur"
+      ],
+      "categories": [
+        "sports"
+      ],
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/5/53/BeIN_Sports_3_2017_Rectangle.png/revision/latest/scale-to-width-down/1000?cb=20251213114000",
+      "website": null
+    },
+    {
+      "id": "beINSports4Turk.tr",
+      "name": "beIN Sports 4 Turk",
+      "country": "TR",
+      "languages": [
+        "tur"
+      ],
+      "categories": [
+        "sports"
+      ],
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/9/96/Logo_bein_sports_4.png/revision/latest/scale-to-width-down/1000?cb=20251213115820",
+      "website": null
+    },
+    {
+      "id": "beINSports5Turk.tr",
+      "name": "beIN Sports 5 Turk",
+      "country": "TR",
+      "languages": [
+        "tur"
+      ],
+      "categories": [
+        "sports"
+      ],
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/1/14/BeIN%2Bsports%2B5.png/revision/latest/scale-to-width-down/1000?cb=20251214104942",
+      "website": null
+    },
+    {
+      "id": "beINSportsHaber.tr",
+      "name": "beIN Sports Haber",
+      "country": "TR",
+      "languages": [
+        "tur"
+      ],
+      "categories": [
+        "sports"
+      ],
+      "logo": "https://i.imgur.com/QWo0x7S.jpg",
+      "website": "https://beinsports.com.tr/"
     },
     {
       "id": "beINSPORTSXTRA.us",
@@ -14672,19 +14763,6 @@
       ],
       "logo": "https://i.imgur.com/vfAMWLJ.png",
       "website": "https://www.businessrockstars.com/"
-    },
-    {
-      "id": "BusuiocTV.md",
-      "name": "Busuioc TV",
-      "country": "MD",
-      "languages": [
-        "ron"
-      ],
-      "categories": [
-        "music"
-      ],
-      "logo": "https://i.imgur.com/CQtfBPu.png",
-      "website": "https://busuioctv.md/"
     },
     {
       "id": "BUTV10.us",
@@ -17565,19 +17643,6 @@
       ],
       "logo": "https://i.imgur.com/hs2YVJ3.png",
       "website": "https://www.canalricos.com.br/"
-    },
-    {
-      "id": "CanalRural.br",
-      "name": "Canal Rural",
-      "country": "BR",
-      "languages": [
-        "por"
-      ],
-      "categories": [
-        "outdoor"
-      ],
-      "logo": "https://i.imgur.com/w9R9IIX.png",
-      "website": "https://canalrural.uol.com.br/"
     },
     {
       "id": "CanalSanRoque.es",
@@ -38625,6 +38690,22 @@
       "website": "http://www.hopechannel.ph/"
     },
     {
+      "id": "HopeChannelPROYECTOJA.cr",
+      "name": "Hope Channel PROYECTO JA",
+      "country": "CR",
+      "languages": [
+        "eng",
+        "spa"
+      ],
+      "categories": [
+        "family",
+        "music",
+        "religious"
+      ],
+      "logo": "https://i.imgur.com/VDyf36C.png",
+      "website": "https://www.conquiguias.xyz/post/live_stream"
+    },
+    {
       "id": "HopeChannelRussia.ru",
       "name": "Hope Channel Russia",
       "country": "RU",
@@ -48754,6 +48835,19 @@
       "website": "https://ltv.lsm.lv/lv/ltv7/"
     },
     {
+      "id": "LucasFriends.us",
+      "name": "Lucas & Friends",
+      "country": "US",
+      "languages": [
+        "eng"
+      ],
+      "categories": [
+        "kids"
+      ],
+      "logo": "https://i.postimg.cc/cLft65S5/Dmin-CTnq-400x400.jpg",
+      "website": null
+    },
+    {
       "id": "LuckyDog.us",
       "name": "Lucky Dog",
       "country": "US",
@@ -48833,6 +48927,19 @@
       ],
       "logo": "https://i.imgur.com/EvX5aqI.png",
       "website": "https://lunatv.do/"
+    },
+    {
+      "id": "LuxembourgGlobalRadioTV.lu",
+      "name": "Luxembourg Global Radio TV",
+      "country": "LU",
+      "languages": [
+        "eng"
+      ],
+      "categories": [
+        "lifestyle"
+      ],
+      "logo": "https://globalradio.lu/wp-content/uploads/2025/03/Mask-Group-1.jpg#10",
+      "website": "https://globalradio.lu"
     },
     {
       "id": "LuyaaTV.ke",
@@ -52261,6 +52368,19 @@
       "website": null
     },
     {
+      "id": "MiMiTV.uz",
+      "name": "MiMi TV",
+      "country": "UZ",
+      "languages": [
+        "uzb"
+      ],
+      "categories": [
+        "kids"
+      ],
+      "logo": "https://i.imgur.com/NmQglPa.png",
+      "website": "https://mimitv.uz/"
+    },
+    {
       "id": "MindanowNetworkTV.ph",
       "name": "Mindanow Network TV",
       "country": "PH",
@@ -54771,20 +54891,6 @@
       "website": "https://multilandia.tv/"
     },
     {
-      "id": "Multimania.ru",
-      "name": "Multimania",
-      "country": "RU",
-      "languages": [
-        "rus"
-      ],
-      "categories": [
-        "animation",
-        "kids"
-      ],
-      "logo": "https://i.imgur.com/abh8ZBA.png",
-      "website": "http://www.multimania.lv"
-    },
-    {
       "id": "MultimediosBajio.mx",
       "name": "Multimedios Bajio",
       "country": "MX",
@@ -55456,19 +55562,6 @@
       ],
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/N24Doku.svg/960px-N24Doku.svg.png",
       "website": "https://www.welt.de/tv-programm-n24-doku/"
-    },
-    {
-      "id": "N4.md",
-      "name": "N4",
-      "country": "MD",
-      "languages": [
-        "rus"
-      ],
-      "categories": [
-        "general"
-      ],
-      "logo": "https://i.imgur.com/W9UwCv7.png",
-      "website": "https://n4.md/"
     },
     {
       "id": "NabaaTV.lb",
@@ -57923,6 +58016,19 @@
       "website": "http://www.nhkworldpremium.com/"
     },
     {
+      "id": "NHLAntenaPlay.ro",
+      "name": "NHL AntenaPlay",
+      "country": "RO",
+      "languages": [
+        "eng"
+      ],
+      "categories": [
+        "sports"
+      ],
+      "logo": "https://assets.antenaplay.ro/2024/10/25/SN0nevshXwKDcZ2Tw1jm.png",
+      "website": "https://antenaplay.ro/live/nhl-live"
+    },
+    {
       "id": "NHLNetwork.us",
       "name": "NHL Network",
       "country": "US",
@@ -58771,19 +58877,6 @@
       "website": "https://watchnost.com"
     },
     {
-      "id": "Nostalgia.ru",
-      "name": "Nostalgia",
-      "country": "RU",
-      "languages": [
-        "rus"
-      ],
-      "categories": [
-        "classic"
-      ],
-      "logo": "https://i.imgur.com/YBdBc0J.png",
-      "website": "http://www.nostalgiatv.ru/"
-    },
-    {
       "id": "NostalgiaTV.ro",
       "name": "Nostalgia TV",
       "country": "RO",
@@ -59018,19 +59111,6 @@
       ],
       "logo": "https://i.imgur.com/mmKWrWs.png",
       "website": "https://novoetv.kz/smotret-onlajn/"
-    },
-    {
-      "id": "NovyiRusskii.ru",
-      "name": "Novyi Russkii",
-      "country": "RU",
-      "languages": [
-        "rus"
-      ],
-      "categories": [
-        "movies"
-      ],
-      "logo": "https://i.imgur.com/iuRSScH.png",
-      "website": "https://15plusmg.ru"
     },
     {
       "id": "Now14.il",
@@ -60147,19 +60227,6 @@
       ],
       "logo": "https://i.imgur.com/jGZlnzT.png",
       "website": "https://www.nztv.eu/"
-    },
-    {
-      "id": "O.ru",
-      "name": "O!",
-      "country": "RU",
-      "languages": [
-        "rus"
-      ],
-      "categories": [
-        "kids"
-      ],
-      "logo": "https://i.imgur.com/pDc665V.png",
-      "website": "https://www.kanal-o.ru/"
     },
     {
       "id": "OANPlus.us",
@@ -61840,6 +61907,19 @@
       "website": "https://pluto.tv/en/live-tv/o-reino-infantil-ptv1"
     },
     {
+      "id": "ORF1.at",
+      "name": "ORF 1",
+      "country": "AT",
+      "languages": [
+        "deu"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b2/ORF_1_2019.svg",
+      "website": "https://tv.orf.at/"
+    },
+    {
       "id": "ORF2.at",
       "name": "ORF 2",
       "country": "AT",
@@ -61969,19 +62049,6 @@
       ],
       "logo": "https://i.imgur.com/RZM4Myo.png",
       "website": "https://orts.nl/"
-    },
-    {
-      "id": "Oruzhie.ru",
-      "name": "Oruzhie",
-      "country": "RU",
-      "languages": [
-        "rus"
-      ],
-      "categories": [
-        "entertainment"
-      ],
-      "logo": "https://i.imgur.com/lfJQJqa.png",
-      "website": "http://www.oruzhie.tv/"
     },
     {
       "id": "OscarMoviesBhojpuri.in",
@@ -63557,19 +63624,6 @@
       ],
       "logo": "https://i.imgur.com/k1Wj5ka.png",
       "website": "https://peraviavision.tv/"
-    },
-    {
-      "id": "PeretzInternational.ru",
-      "name": "Peretz International",
-      "country": "RU",
-      "languages": [
-        "rus"
-      ],
-      "categories": [
-        "entertainment"
-      ],
-      "logo": "https://i.imgur.com/Y84p1y6.png",
-      "website": "http://www.ctcmedia.ru/business/peretz_int/"
     },
     {
       "id": "PerryMason.us",
@@ -68675,20 +68729,6 @@
       "website": "https://pluto.tv/live-tv/podradio-pa-pluto-tv-dk/details"
     },
     {
-      "id": "Poehali.ru",
-      "name": "Poehali!",
-      "country": "RU",
-      "languages": [
-        "rus"
-      ],
-      "categories": [
-        "entertainment",
-        "outdoor"
-      ],
-      "logo": "https://i.imgur.com/ZNCpbII.png",
-      "website": "http://www.poehali.tv/"
-    },
-    {
       "id": "PointeTV.ag",
       "name": "Pointe TV",
       "country": "AG",
@@ -69549,23 +69589,6 @@
       "website": "https://www.privesc.eu/tv"
     },
     {
-      "id": "Pro100TV.ru",
-      "name": "Pro100TV",
-      "country": "RU",
-      "languages": [
-        "rus"
-      ],
-      "categories": [
-        "animation",
-        "classic",
-        "entertainment",
-        "family",
-        "movies"
-      ],
-      "logo": "https://i.imgur.com/YfQEflM.png",
-      "website": "https://www.pro100tv.lv/"
-    },
-    {
       "id": "ProBusiness.ru",
       "name": "Pro Business",
       "country": "RU",
@@ -69690,6 +69713,17 @@
       "categories": [],
       "logo": "https://i.imgur.com/zZOk3nh.png",
       "website": "https://www.prosieben.de/"
+    },
+    {
+      "id": "ProSiebenMaxx.de",
+      "name": "ProSieben Maxx",
+      "country": "DE",
+      "languages": [
+        "deu"
+      ],
+      "categories": [],
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/ProSieben_MAXX_Logo.svg/960px-ProSieben_MAXX_Logo.svg.png",
+      "website": "https://www.prosiebenmaxx.de/"
     },
     {
       "id": "Prosveshchenie.ru",
@@ -74455,19 +74489,6 @@
       "website": "https://pluto.tv/live-tv/reno-911-se/details"
     },
     {
-      "id": "RENTVInternational.ru",
-      "name": "REN TV International",
-      "country": "RU",
-      "languages": [
-        "rus"
-      ],
-      "categories": [
-        "general"
-      ],
-      "logo": "https://i.imgur.com/gBjk9oF.png",
-      "website": null
-    },
-    {
       "id": "ReporteroTV.do",
       "name": "Reportero TV",
       "country": "DO",
@@ -76388,6 +76409,20 @@
       "website": "https://rtnb.bi/"
     },
     {
+      "id": "RTNC.cd",
+      "name": "RTNC",
+      "country": "CD",
+      "languages": [
+        "fra",
+        "lin"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://i.imgur.com/oVXO950.jpeg",
+      "website": "https://rtnc.cd/"
+    },
+    {
       "id": "RTNChicago.us",
       "name": "RTN Chicago",
       "country": "US",
@@ -77228,19 +77263,6 @@
       "website": "http://smotrim.ru/pick/kultura"
     },
     {
-      "id": "RusskiyIllusion.ru",
-      "name": "Russkiy Illusion",
-      "country": "RU",
-      "languages": [
-        "rus"
-      ],
-      "categories": [
-        "movies"
-      ],
-      "logo": "https://tv-stream.ru/uploads/LOGO_RUSSKI_ILLUSION_300x300_belaya_nadpis_bf458e37d8.svg",
-      "website": "http://russkiyillusion.ru/"
-    },
-    {
       "id": "Russkiyroman.ru",
       "name": "Russkiy roman",
       "country": "RU",
@@ -77434,19 +77456,6 @@
       ],
       "logo": "https://i.imgur.com/NafW0xT.png",
       "website": "https://rybalka.net.ua/"
-    },
-    {
-      "id": "Rybalkaiokhota.ru",
-      "name": "Rybalka i okhota",
-      "country": "RU",
-      "languages": [
-        "rus"
-      ],
-      "categories": [
-        "outdoor"
-      ],
-      "logo": "https://www.cableman.ru/sites/default/files/rybalka_i_ohota_int.png",
-      "website": "http://tv-stream.ru/tv/rybalka-i-okhota"
     },
     {
       "id": "RyongnamsanTelevision.kp",
@@ -78625,17 +78634,6 @@
       "website": "http://sanvito-television.com/"
     },
     {
-      "id": "Sarafan.ru",
-      "name": "Sarafan",
-      "country": "RU",
-      "languages": [
-        "rus"
-      ],
-      "categories": [],
-      "logo": "https://i.imgur.com/u4q1rMT.png",
-      "website": "http://sarafan-tv.ru/"
-    },
-    {
       "id": "SaraouniaTV.ne",
       "name": "Saraounia TV",
       "country": "NE",
@@ -79725,19 +79723,6 @@
       "website": "https://www.sesctv.org.br/"
     },
     {
-      "id": "SetantaSports1.ru",
-      "name": "Setanta Sports 1",
-      "country": "RU",
-      "languages": [
-        "rus"
-      ],
-      "categories": [
-        "sports"
-      ],
-      "logo": "https://i.imgur.com/8ANUZAu.png",
-      "website": "https://www.setantaeurasia.com/ru/"
-    },
-    {
       "id": "SetarehTV.uk",
       "name": "Setareh TV",
       "country": "UK",
@@ -80126,17 +80111,6 @@
       ],
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sharq_TV_Logo_2020.jpg/960px-Sharq_TV_Logo_2020.jpg",
       "website": "http://www.shaiqnetwork.com/"
-    },
-    {
-      "id": "ShayanTV.ru",
-      "name": "Shayan TV",
-      "country": "RU",
-      "languages": [
-        "rus"
-      ],
-      "categories": [],
-      "logo": "https://i.imgur.com/CvFwczN.png",
-      "website": "https://shayantv.ru/"
     },
     {
       "id": "Shef.ru",
@@ -80967,19 +80941,6 @@
       ],
       "logo": "https://i.imgur.com/FjtzQQs.png",
       "website": "https://www.skynewsarabia.com/"
-    },
-    {
-      "id": "SkyNewsExtra.au",
-      "name": "Sky News Extra",
-      "country": "AU",
-      "languages": [
-        "eng"
-      ],
-      "categories": [
-        "news"
-      ],
-      "logo": "https://i.imgur.com/ZsPb8nL.png",
-      "website": "https://www.skynews.com.au/page/extra"
     },
     {
       "id": "SkyNewsExtra1.au",
@@ -81849,6 +81810,19 @@
       ],
       "logo": "https://i.imgur.com/8sHuxxS.png",
       "website": null
+    },
+    {
+      "id": "SonySAB.in",
+      "name": "Sony SAB",
+      "country": "IN",
+      "languages": [
+        "hin"
+      ],
+      "categories": [
+        "entertainment"
+      ],
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/70954ffc9bae055e09e48393b47570ea.png",
+      "website": "https://www.sabtv.com/en_in/"
     },
     {
       "id": "SonyWah.in",
@@ -83170,19 +83144,6 @@
       "website": null
     },
     {
-      "id": "STARTAir.ru",
-      "name": "START Air",
-      "country": "RU",
-      "languages": [
-        "rus"
-      ],
-      "categories": [
-        "movies"
-      ],
-      "logo": "https://images.iptv.rt.ru/images/d60qp8omife4gis72tk0.png",
-      "website": "https://starttv.ru/"
-    },
-    {
       "id": "StarTamilTelevision.lk",
       "name": "Star Tamil Television",
       "country": "LK",
@@ -84029,32 +83990,6 @@
       "website": "https://ctc.ru/"
     },
     {
-      "id": "STSkids.ru",
-      "name": "STS kids",
-      "country": "RU",
-      "languages": [
-        "rus"
-      ],
-      "categories": [
-        "kids"
-      ],
-      "logo": "https://i.imgur.com/o9kLpAL.png",
-      "website": "https://ctckids.ru/"
-    },
-    {
-      "id": "STSLove.ru",
-      "name": "STS Love",
-      "country": "RU",
-      "languages": [
-        "rus"
-      ],
-      "categories": [
-        "family"
-      ],
-      "logo": "https://upload.wikimedia.org/wikipedia/ru/thumb/3/35/%D0%A1%D0%A2%D0%A1_Love_%282023%29.svg/1920px-%D0%A1%D0%A2%D0%A1_Love_%282023%29.svg.png",
-      "website": "https://www.ctclove.ru/"
-    },
-    {
       "id": "StuBru.be",
       "name": "StuBru",
       "country": "BE",
@@ -84387,6 +84322,32 @@
       "categories": [],
       "logo": "https://i.imgur.com/64tph9N.png",
       "website": "http://www.sunrtv.com.tr/"
+    },
+    {
+      "id": "SunSurya.in",
+      "name": "Sun Surya",
+      "country": "IN",
+      "languages": [
+        "mal"
+      ],
+      "categories": [
+        "entertainment"
+      ],
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Surya_HD.png",
+      "website": "http://www.sunnetwork.in/tv-channel-details.aspx?Channelid=20&channelname=SURYA%20TV&LanguageID=4&Type=4"
+    },
+    {
+      "id": "SunTV.in",
+      "name": "Sun TV",
+      "country": "IN",
+      "languages": [
+        "tam"
+      ],
+      "categories": [
+        "entertainment"
+      ],
+      "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002Z0M0Y.png?lock=720x540",
+      "website": "http://www.sun.in/"
     },
     {
       "id": "SunuLabelTV.sn",
@@ -90559,6 +90520,20 @@
       "website": "http://www.tlc.de/"
     },
     {
+      "id": "TLC.in",
+      "name": "TLC",
+      "country": "IN",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "categories": [
+        "lifestyle"
+      ],
+      "logo": "https://dtil.tmsimg.com/assets/s123500_ld_h15_aa.png?lock=720x540",
+      "website": "http://www.tlcindia.co.in/"
+    },
+    {
       "id": "TLEstrella.bo",
       "name": "TL Estrella",
       "country": "BO",
@@ -94192,17 +94167,6 @@
       ],
       "logo": null,
       "website": "https://tvcanalsur.com.do/en-vivo/"
-    },
-    {
-      "id": "TVCancaoNova.br",
-      "name": "TV Cancao Nova",
-      "country": "BR",
-      "languages": [
-        "por"
-      ],
-      "categories": [],
-      "logo": "https://i.imgur.com/OaM9hkH.png",
-      "website": null
     },
     {
       "id": "TVCanindeyu.py",
