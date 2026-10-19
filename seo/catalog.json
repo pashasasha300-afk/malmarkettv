@@ -5232,19 +5232,6 @@
       "website": "https://alaimma.tv/"
     },
     {
-      "id": "AlAlam.ir",
-      "name": "Al Alam",
-      "country": "IR",
-      "languages": [
-        "ara"
-      ],
-      "categories": [
-        "news"
-      ],
-      "logo": "https://i.imgur.com/Zdi31dy.png",
-      "website": "https://www.alalam.ir/"
-    },
-    {
       "id": "AlAlamAlYawm.sa",
       "name": "Al Alam Al Yawm",
       "country": "SA",
@@ -9446,17 +9433,6 @@
       ],
       "logo": "https://i.imgur.com/j4HfVK0.png",
       "website": "https://astanatv.kz/"
-    },
-    {
-      "id": "AsthaTV.id",
-      "name": "Astha TV",
-      "country": "ID",
-      "languages": [
-        "ind"
-      ],
-      "categories": [],
-      "logo": "https://astha.garuda.tv/assets/logo-DLGyXEGO.png",
-      "website": "https://asthatv.com"
     },
     {
       "id": "Astrahan24.ru",
@@ -14557,6 +14533,19 @@
       ],
       "logo": "https://i.imgur.com/0PKqn3V.png",
       "website": "http://www.btv.hu/"
+    },
+    {
+      "id": "BTV.id",
+      "name": "BTV",
+      "country": "ID",
+      "languages": [
+        "ind"
+      ],
+      "categories": [
+        "news"
+      ],
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/BTV_%28Indonesia%29_logo_%282025%29.svg/960px-BTV_%28Indonesia%29_logo_%282025%29.svg.png",
+      "website": "https://www.beritasatu.tv/"
     },
     {
       "id": "BTV.ug",
@@ -25295,22 +25284,6 @@
       ],
       "logo": "https://i.imgur.com/V8AUJP6.png",
       "website": "https://viju.ru/telekanaly/da-vinci/"
-    },
-    {
-      "id": "DaVinciAsia.de",
-      "name": "Da Vinci Asia",
-      "country": "DE",
-      "languages": [
-        "eng",
-        "ind",
-        "tha",
-        "vie"
-      ],
-      "categories": [
-        "education"
-      ],
-      "logo": "https://i.imgur.com/iBx7K1M.png",
-      "website": "https://www.davincikids.tv/"
     },
     {
       "id": "DaystarTV.us",
@@ -37126,19 +37099,6 @@
       "website": "https://hanoitv.vn/"
     },
     {
-      "id": "HanoiTV2.vn",
-      "name": "HanoiTV2",
-      "country": "VN",
-      "languages": [
-        "vie"
-      ],
-      "categories": [
-        "general"
-      ],
-      "logo": "https://i.imgur.com/szivqh2.png",
-      "website": "https://hanoitv.vn/"
-    },
-    {
       "id": "HappyChannel.ro",
       "name": "Happy Channel",
       "country": "RO",
@@ -39220,6 +39180,19 @@
       ],
       "logo": "https://i.imgur.com/MIUDYh0.png",
       "website": "https://www.hungry.live/"
+    },
+    {
+      "id": "HungYenTV.vn",
+      "name": "Hung Yen TV",
+      "country": "VN",
+      "languages": [
+        "vie"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://i.imgur.com/TH1DWdm.png",
+      "website": "https://www.hungyentv.vn/"
     },
     {
       "id": "HuzurTV.ru",
@@ -42191,6 +42164,20 @@
       "website": "https://jehovatelevision.com/"
     },
     {
+      "id": "JEMRTV.hn",
+      "name": "JEMR TV",
+      "country": "HN",
+      "languages": [
+        "eng",
+        "spa"
+      ],
+      "categories": [
+        "religious"
+      ],
+      "logo": "https://i.imgur.com/CnR2m66.png",
+      "website": null
+    },
+    {
       "id": "JeremiahTV.pk",
       "name": "Jeremiah TV",
       "country": "PK",
@@ -44335,19 +44322,6 @@
       "website": null
     },
     {
-      "id": "KhanhHoaTV.vn",
-      "name": "Khanh Hoa TV",
-      "country": "VN",
-      "languages": [
-        "vie"
-      ],
-      "categories": [
-        "general"
-      ],
-      "logo": "https://i.imgur.com/qLMcGPT.png",
-      "website": "http://khanhhoa.tv/"
-    },
-    {
       "id": "Khatlon.tj",
       "name": "Khatlon",
       "country": "TJ",
@@ -46463,6 +46437,19 @@
       ],
       "logo": "https://i.imgur.com/omLVQ4r.png",
       "website": "https://www.laendletv.com/"
+    },
+    {
+      "id": "LangSonTV.vn",
+      "name": "Lang Son TV",
+      "country": "VN",
+      "languages": [
+        "vie"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://i.imgur.com/Sj7EjYT.png",
+      "website": "http://www.langsontv.vn/"
     },
     {
       "id": "LangstraatTV.nl",
@@ -57489,6 +57476,19 @@
       "website": "https://news24online.com/"
     },
     {
+      "id": "News24World.au",
+      "name": "News24 World",
+      "country": "AU",
+      "languages": [
+        "eng"
+      ],
+      "categories": [
+        "news"
+      ],
+      "logo": "https://i.imgur.com/mzc1nJS.png",
+      "website": "https://www.news24.com.au/"
+    },
+    {
       "id": "News7Tamil.in",
       "name": "News 7 Tamil",
       "country": "IN",
@@ -58477,19 +58477,6 @@
       ],
       "logo": "https://i.imgur.com/ANnEPnK.png",
       "website": null
-    },
-    {
-      "id": "NinhThuanTV.vn",
-      "name": "Ninh Thuan TV",
-      "country": "VN",
-      "languages": [
-        "vie"
-      ],
-      "categories": [
-        "general"
-      ],
-      "logo": "https://i.imgur.com/HIyUzLM.png",
-      "website": "http://www.ninhthuantv.vn/"
     },
     {
       "id": "NinjaKidzTV.us",
@@ -70741,6 +70728,17 @@
       ],
       "logo": "https://i.imgur.com/GHFuvmZ.png",
       "website": "https://www.qu4tre.be/"
+    },
+    {
+      "id": "QuangNamTV.vn",
+      "name": "Quang Nam TV",
+      "country": "VN",
+      "languages": [
+        "vie"
+      ],
+      "categories": [],
+      "logo": "https://i.imgur.com/uWiOoVg.png",
+      "website": "http://qrt.vn/"
     },
     {
       "id": "QuangNgaiTV.vn",
@@ -101644,17 +101642,6 @@
       ],
       "categories": [],
       "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4c/VTV5_logo_2025.png",
-      "website": "https://vtv.vn/"
-    },
-    {
-      "id": "VTV5TayNamBo.vn",
-      "name": "VTV5 Tay Nam Bo",
-      "country": "VN",
-      "languages": [
-        "vie"
-      ],
-      "categories": [],
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/d/dd/VTV5_T%C3%A2y_Nam_B%E1%BB%99.webp",
       "website": "https://vtv.vn/"
     },
     {
