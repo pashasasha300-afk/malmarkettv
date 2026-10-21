@@ -2973,6 +2973,19 @@
       "website": "https://www.a1mediagroep.nl/"
     },
     {
+      "id": "A2CNN.al",
+      "name": "A2 CNN",
+      "country": "AL",
+      "languages": [
+        "sqi"
+      ],
+      "categories": [
+        "news"
+      ],
+      "logo": "https://i.imgur.com/TgO3Lzi.png",
+      "website": "https://a2news.com/"
+    },
+    {
       "id": "A2iMusic.sn",
       "name": "A2i Music",
       "country": "SN",
@@ -7202,6 +7215,19 @@
       ],
       "logo": "https://provider-static.plex.tv/epg/cms/production/5d4ac35c-dd3f-4f56-a272-41ebfe3477a9/american_crime_channel_dark_logo_-_Kam_JeyRDXV2.png",
       "website": "https://www.rakuten.tv/pl/live_channels/american-crime-channel"
+    },
+    {
+      "id": "AmericanNinjaWarrior.us",
+      "name": "American Ninja Warrior",
+      "country": "US",
+      "languages": [
+        "eng"
+      ],
+      "categories": [
+        "sports"
+      ],
+      "logo": "https://raw.githubusercontent.com/RoqueDJ/iptv-svg/main/1792421696158.png",
+      "website": "https://www.nbc.com/american-ninja-warrior"
     },
     {
       "id": "AmericasNextTopModel.us",
@@ -13984,6 +14010,33 @@
       "website": "https://borealtelevision.com/"
     },
     {
+      "id": "BotflixRadioo.us",
+      "name": "Botflix Radioo",
+      "country": "US",
+      "languages": [
+        "eng"
+      ],
+      "categories": [
+        "music"
+      ],
+      "logo": "https://botflix.tv/assets/img/botflix-mark.90c6a6f9a4.webp",
+      "website": "https://botflix.tv/watch/radioo"
+    },
+    {
+      "id": "BotflixTV.us",
+      "name": "Botflix TV",
+      "country": "US",
+      "languages": [
+        "eng"
+      ],
+      "categories": [
+        "animation",
+        "entertainment"
+      ],
+      "logo": "https://botflix.tv/assets/img/botflix-mark.90c6a6f9a4.webp",
+      "website": "https://botflix.tv/watch/tv"
+    },
+    {
       "id": "Bouke.be",
       "name": "Bouke",
       "country": "BE",
@@ -19259,33 +19312,6 @@
       "website": "http://tv.cctv.com/cctv1/"
     },
     {
-      "id": "CCTV11.cn",
-      "name": "CCTV-11",
-      "country": "CN",
-      "languages": [
-        "zho"
-      ],
-      "categories": [
-        "music"
-      ],
-      "logo": "https://i.imgur.com/CjOWx7L.png",
-      "website": "http://tv.cctv.com/cctv11/"
-    },
-    {
-      "id": "CCTV15.cn",
-      "name": "CCTV-15",
-      "country": "CN",
-      "languages": [
-        "ind",
-        "zho"
-      ],
-      "categories": [
-        "music"
-      ],
-      "logo": "https://i.imgur.com/CCV0eRG.png",
-      "website": "http://tv.cctv.com/cctv15/"
-    },
-    {
       "id": "CCTV4America.cn",
       "name": "CCTV-4 America",
       "country": "CN",
@@ -21187,6 +21213,19 @@
       ],
       "logo": "https://images.pluto.tv/channels/65cca3e2ec452d0008af3a65/colorLogoPNG_1751272826143.png",
       "website": "https://pluto.tv/live-tv/cine-western-by-pluto-tv-fr/details"
+    },
+    {
+      "id": "CineWow.ro",
+      "name": "CineWow",
+      "country": "RO",
+      "languages": [
+        "ron"
+      ],
+      "categories": [
+        "movies"
+      ],
+      "logo": "https://cdn.gamma.app/tfnglu66dwji8hw/d36b2d5c45a544749b3739d46fb119cc/original/CineWow.png",
+      "website": "https://cinewow.tv/"
     },
     {
       "id": "CinturaoVerde.br",
@@ -28179,19 +28218,6 @@
       ],
       "logo": "https://i.imgur.com/vJ8VaZi.png",
       "website": "https://www.dreamturk.com.tr/"
-    },
-    {
-      "id": "DreamTV.mn",
-      "name": "DreamTV",
-      "country": "MN",
-      "languages": [
-        "mon"
-      ],
-      "categories": [
-        "entertainment"
-      ],
-      "logo": "https://i.imgur.com/YPbvzgV.png",
-      "website": null
     },
     {
       "id": "DreamTV.ug",
@@ -39210,6 +39236,19 @@
       "website": "https://www.hum.tv/"
     },
     {
+      "id": "HunanEconomyChannel.cn",
+      "name": "Hunan Economy Channel",
+      "country": "CN",
+      "languages": [
+        "zho"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://www.tvchinese.net/uploads/tv/hnjs.jpg",
+      "website": "https://live.mgtv.com/?channelId=280"
+    },
+    {
       "id": "HunatTV.tr",
       "name": "Hunat TV",
       "country": "TR",
@@ -44057,19 +44096,6 @@
       ],
       "logo": "https://i.imgur.com/r8lLsyh.png",
       "website": "https://www.brightonco.gov/253/KBRI-Channel-8"
-    },
-    {
-      "id": "KBSJoy.kr",
-      "name": "KBS Joy",
-      "country": "KR",
-      "languages": [
-        "kor"
-      ],
-      "categories": [
-        "entertainment"
-      ],
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KBS_JOY.svg/960px-KBS_JOY.svg.png",
-      "website": "http://www.kbsn.co.kr/"
     },
     {
       "id": "KC2.rw",
@@ -57556,6 +57582,19 @@
       "website": "https://news24online.com/"
     },
     {
+      "id": "News24Weather.au",
+      "name": "News24 Weather",
+      "country": "AU",
+      "languages": [
+        "eng"
+      ],
+      "categories": [
+        "weather"
+      ],
+      "logo": "https://i.imgur.com/HkBec1e.png",
+      "website": "https://www.news24.com.au/"
+    },
+    {
       "id": "News24World.au",
       "name": "News24 World",
       "country": "AU",
@@ -59799,6 +59838,19 @@
       "categories": [],
       "logo": "https://i.imgur.com/SoBhuIb.png",
       "website": null
+    },
+    {
+      "id": "NTV.mn",
+      "name": "NTV",
+      "country": "MN",
+      "languages": [
+        "mon"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://i.imgur.com/2JbqbPY.png",
+      "website": "http://ntv.mn/"
     },
     {
       "id": "NTV.mv",
@@ -70719,6 +70771,19 @@
       ],
       "logo": "https://i.imgur.com/6f8EYC2.jpeg",
       "website": "https://quanticaradio.com.ar/"
+    },
+    {
+      "id": "QuantumTV.ro",
+      "name": "Quantum TV",
+      "country": "RO",
+      "languages": [
+        "ron"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/0/05/Quantum.jpg/revision/latest?cb=20241116163233",
+      "website": null
     },
     {
       "id": "QuartoCanaleFlegreo.it",
@@ -90788,7 +90853,7 @@
       "categories": [
         "entertainment"
       ],
-      "logo": "https://i.imgur.com/T4A6rEI.png",
+      "logo": "https://i.ibb.co/HDmdRFR1/N-Baltic-2025.webp",
       "website": "http://tnt-online.ru/"
     },
     {
@@ -91802,6 +91867,19 @@
       "website": "https://lovetvchannels.com/en/our-channels/#trailers"
     },
     {
+      "id": "TraLaLaDSN.ro",
+      "name": "TraLaLa DSN",
+      "country": "RO",
+      "languages": [
+        "ron"
+      ],
+      "categories": [
+        "kids"
+      ],
+      "logo": "https://tralaladsn.ro/assets/identity/logo.svg",
+      "website": null
+    },
+    {
       "id": "TraLaLaTV.ro",
       "name": "TraLaLa TV",
       "country": "RO",
@@ -91850,6 +91928,19 @@
       "categories": [],
       "logo": "https://i.imgur.com/jYMpVQA.png",
       "website": null
+    },
+    {
+      "id": "TravelMix.ro",
+      "name": "Travel Mix",
+      "country": "RO",
+      "languages": [
+        "ron"
+      ],
+      "categories": [
+        "travel"
+      ],
+      "logo": "https://i.imgur.com/4dMeEQO.png",
+      "website": "https://www.travelmix.ro/"
     },
     {
       "id": "TravelTV.bg",
@@ -101660,6 +101751,17 @@
       ],
       "categories": [],
       "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4c/VTV5_logo_2025.png",
+      "website": "https://vtv.vn/"
+    },
+    {
+      "id": "VTV5TayNamBo.vn",
+      "name": "VTV5 Tay Nam Bo",
+      "country": "VN",
+      "languages": [
+        "vie"
+      ],
+      "categories": [],
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/d/dd/VTV5_T%C3%A2y_Nam_B%E1%BB%99.webp",
       "website": "https://vtv.vn/"
     },
     {
