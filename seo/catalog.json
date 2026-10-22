@@ -3276,6 +3276,19 @@
       "website": "http://www.aasthatv.tv/"
     },
     {
+      "id": "AathavanTV.uk",
+      "name": "Aathavan TV",
+      "country": "UK",
+      "languages": [
+        "tam"
+      ],
+      "categories": [
+        "entertainment"
+      ],
+      "logo": "https://i.imgur.com/LEVEhTH.png",
+      "website": "https://athavantv.com/"
+    },
+    {
       "id": "AbadanTV.ir",
       "name": "Abadan TV",
       "country": "IR",
@@ -13803,6 +13816,22 @@
       "website": "https://www.redbolivision.tv.bo/"
     },
     {
+      "id": "BollywoodClassic.ro",
+      "name": "Bollywood Classic",
+      "country": "RO",
+      "languages": [
+        "hin",
+        "ron",
+        "rus"
+      ],
+      "categories": [
+        "classic",
+        "movies"
+      ],
+      "logo": "https://i.imgur.com/ugPo6ca.png",
+      "website": "http://www.bollywoodtv.ro/"
+    },
+    {
       "id": "BollywoodFilm.ro",
       "name": "Bollywood Film",
       "country": "RO",
@@ -18638,6 +18667,21 @@
       ],
       "logo": "https://dtil.tmsimg.com/assets/s157576_ld_h15_aa.png?lock=720x540",
       "website": "http://www.cartoonnetworkindia.com/"
+    },
+    {
+      "id": "CartoonNetwork.pk",
+      "name": "Cartoon Network",
+      "country": "PK",
+      "languages": [
+        "eng",
+        "urd"
+      ],
+      "categories": [
+        "animation",
+        "kids"
+      ],
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
+      "website": "http://www.cartoonnetwork.com.pk/"
     },
     {
       "id": "CartoonNetwork.us",
@@ -33800,6 +33844,32 @@
       "website": "https://foxsoul.tv/"
     },
     {
+      "id": "FoxSports1.us",
+      "name": "Fox Sports 1",
+      "country": "US",
+      "languages": [
+        "eng"
+      ],
+      "categories": [
+        "sports"
+      ],
+      "logo": "https://i.imgur.com/O9BapV9.png",
+      "website": "https://www.foxsports.com/"
+    },
+    {
+      "id": "FoxSports2.us",
+      "name": "Fox Sports 2",
+      "country": "US",
+      "languages": [
+        "eng"
+      ],
+      "categories": [
+        "sports"
+      ],
+      "logo": "https://i.ibb.co/35bddzKR/IMG-2281.png",
+      "website": "https://www.foxsports.com/"
+    },
+    {
       "id": "FoxSportsNews.au",
       "name": "Fox Sports News",
       "country": "AU",
@@ -34300,6 +34370,19 @@
       ],
       "logo": "https://i.imgur.com/RngmCDn.png",
       "website": "http://fft.tj/"
+    },
+    {
+      "id": "FX.us",
+      "name": "FX",
+      "country": "US",
+      "languages": [
+        "eng"
+      ],
+      "categories": [
+        "entertainment"
+      ],
+      "logo": "https://cdn1.edgedatg.com/aws/v2/fxnow/Config/video/9093579/138c80c6dc73af87744353ee32f2fd18/284x160-Q75_138c80c6dc73af87744353ee32f2fd18.png",
+      "website": "http://www.fxnetworks.com/"
     },
     {
       "id": "FX1.ir",
@@ -61924,6 +62007,19 @@
       "website": "https://www.cannellamedia.com/"
     },
     {
+      "id": "ONVieGiaiTri.vn",
+      "name": "ON Vie Giai Tri",
+      "country": "VN",
+      "languages": [
+        "vie"
+      ],
+      "categories": [
+        "entertainment"
+      ],
+      "logo": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/VTVCab1%20-%20ON%20Vie%20GI%E1%BA%A2I%20TR%C3%8D.png",
+      "website": "https://vtvcab.vn"
+    },
+    {
       "id": "OnzaTV.ve",
       "name": "Onza TV",
       "country": "VE",
@@ -69255,14 +69351,14 @@
       "website": "http://www.prarthanabhawantv.com/"
     },
     {
-      "id": "PrarthanaTV.in",
-      "name": "Prarthana TV",
+      "id": "PrarthanaLife.in",
+      "name": "Prarthana Life",
       "country": "IN",
       "languages": [
         "ori"
       ],
       "categories": [],
-      "logo": "https://i.imgur.com/gj7dtNF.png",
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Prarthana_Life.png",
       "website": "https://www.tarangplus.in/all-channels/prarthana-tv"
     },
     {
@@ -92692,6 +92788,19 @@
       "website": "https://www.tudn.com/"
     },
     {
+      "id": "Tunes6.in",
+      "name": "Tunes 6",
+      "country": "IN",
+      "languages": [
+        "tam"
+      ],
+      "categories": [
+        "music"
+      ],
+      "logo": "https://i.imgur.com/VUzMQ9S.png",
+      "website": null
+    },
+    {
       "id": "Tunevision.gt",
       "name": "Tunevision",
       "country": "GT",
@@ -101208,6 +101317,19 @@
       "website": "https://www.vivanicaragua.com.ni/"
     },
     {
+      "id": "VIVARussia.ru",
+      "name": "VIVA Russia",
+      "country": "RU",
+      "languages": [
+        "rus"
+      ],
+      "categories": [
+        "music"
+      ],
+      "logo": "https://i.imgur.com/OFhQQCD.png",
+      "website": "https://viva-russia.ru/"
+    },
+    {
       "id": "VivaTV.ni",
       "name": "Viva TV",
       "country": "NI",
@@ -105050,6 +105172,19 @@
       "categories": [],
       "logo": "https://i.imgur.com/XBHvR5J.png",
       "website": "http://www.zindagitv.com/"
+    },
+    {
+      "id": "Zingabad.in",
+      "name": "Zingabad",
+      "country": "IN",
+      "languages": [
+        "hin"
+      ],
+      "categories": [
+        "entertainment"
+      ],
+      "logo": "https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/zingabad.png",
+      "website": "https://zingabad.com/"
     },
     {
       "id": "ZitataTV.mq",
