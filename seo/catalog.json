@@ -1635,19 +1635,6 @@
       "website": "https://2m.ma/"
     },
     {
-      "id": "2Plus2Marathon.ua",
-      "name": "2+2 Marathon",
-      "country": "UA",
-      "languages": [
-        "ukr"
-      ],
-      "categories": [
-        "general"
-      ],
-      "logo": "https://i.imgur.com/v6KBgqk.png",
-      "website": null
-    },
-    {
       "id": "2TV.ge",
       "name": "2 TV",
       "country": "GE",
@@ -2673,6 +2660,19 @@
       "website": "https://behir.hu/tv"
     },
     {
+      "id": "7XMusic.in",
+      "name": "7X Music",
+      "country": "IN",
+      "languages": [
+        "hin"
+      ],
+      "categories": [
+        "music"
+      ],
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/7X_Music.png",
+      "website": null
+    },
+    {
       "id": "80sRewind.us",
       "name": "80s Rewind",
       "country": "US",
@@ -3092,6 +3092,19 @@
       ],
       "logo": "https://dtil.tmsimg.com/assets/s142505_ld_h15_aa.png?lock=720x540",
       "website": "https://aadinathtv.com/"
+    },
+    {
+      "id": "AagaazTimes.in",
+      "name": "Aagaaz Times",
+      "country": "IN",
+      "languages": [
+        "hin"
+      ],
+      "categories": [
+        "news"
+      ],
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/aagaaztimes.png",
+      "website": null
     },
     {
       "id": "AajEntertainment.pk",
@@ -7469,6 +7482,19 @@
       "website": "https://www.amritatv.com/"
     },
     {
+      "id": "AmritGurbani.in",
+      "name": "Amrit Gurbani",
+      "country": "IN",
+      "languages": [
+        "pan"
+      ],
+      "categories": [
+        "religious"
+      ],
+      "logo": "https://papaji.freetvindia.com/media/Amritgurbani.png",
+      "website": null
+    },
+    {
       "id": "AMusicChannel.ng",
       "name": "AMusic Channel",
       "country": "NG",
@@ -7546,6 +7572,19 @@
       ],
       "logo": "https://i.imgur.com/jkbo7Qe.png",
       "website": "http://anandatv.tv/"
+    },
+    {
+      "id": "AnandpurLive.in",
+      "name": "Anandpur Live",
+      "country": "IN",
+      "languages": [
+        "pan"
+      ],
+      "categories": [
+        "religious"
+      ],
+      "logo": "https://papaji.freetvindia.com/media/Anandpur_Live.png",
+      "website": null
     },
     {
       "id": "AnandTV.in",
@@ -7969,6 +8008,19 @@
       ],
       "logo": "https://i.imgur.com/sh0yFSf.png",
       "website": "https://www.anjan.tv/"
+    },
+    {
+      "id": "AnmolTV.in",
+      "name": "Anmol TV",
+      "country": "IN",
+      "languages": [
+        "hin"
+      ],
+      "categories": [
+        "entertainment"
+      ],
+      "logo": "https://dtil.tmsimg.com/assets/GNLZZGG00260HWS.png?lock=720x540",
+      "website": "https://www.zee5.com/live-tv/anmol-tv/0-9-zeeanmol"
     },
     {
       "id": "AnNinhTV.vn",
@@ -9222,6 +9274,19 @@
       ],
       "logo": "https://i.imgur.com/bTktkcr.png",
       "website": "http://www.ashiil.tv/"
+    },
+    {
+      "id": "AshwaveegaNews24x7.in",
+      "name": "Ashwaveega News 24x7",
+      "country": "IN",
+      "languages": [
+        "kan"
+      ],
+      "categories": [
+        "news"
+      ],
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Ashwaveega_News_24x7.png",
+      "website": null
     },
     {
       "id": "AsiaExpressNonStop.ro",
@@ -12852,6 +12917,19 @@
       "website": "http://www.bhakthitv.in/"
     },
     {
+      "id": "BhaktiDhara.in",
+      "name": "Bhakti Dhara",
+      "country": "IN",
+      "languages": [
+        "hin"
+      ],
+      "categories": [
+        "religious"
+      ],
+      "logo": "https://papaji.freetvindia.com/media/channels/Bhakti_dhara1.png",
+      "website": null
+    },
+    {
       "id": "BhaktiSagar.in",
       "name": "Bhakti Sagar",
       "country": "IN",
@@ -13691,6 +13769,19 @@
       ],
       "logo": "https://i.imgur.com/npiRBPC.png",
       "website": "https://dominicanchannels.com/boca-chica-tv/"
+    },
+    {
+      "id": "Boing.it",
+      "name": "Boing",
+      "country": "IT",
+      "languages": [
+        "ita"
+      ],
+      "categories": [
+        "kids"
+      ],
+      "logo": "https://i.imgur.com/rabKj9i.png",
+      "website": "https://www.boingtv.it/"
     },
     {
       "id": "BoishakhiTV.bd",
@@ -19388,6 +19479,7 @@
       "name": "CCTV-5+",
       "country": "CN",
       "languages": [
+        "chn",
         "zho"
       ],
       "categories": [
@@ -20595,6 +20687,19 @@
       "website": "https://promin.cv.ua/"
     },
     {
+      "id": "ChhayaChitramTelugu.in",
+      "name": "Chhaya Chitram Telugu",
+      "country": "IN",
+      "languages": [
+        "tel"
+      ],
+      "categories": [
+        "religious"
+      ],
+      "logo": "https://papaji.freetvindia.com/media/channels/Chhaya_Chitram_Telugu.png",
+      "website": null
+    },
+    {
       "id": "ChileChannel.cl",
       "name": "Chile Channel",
       "country": "CL",
@@ -20662,6 +20767,19 @@
         "kids"
       ],
       "logo": "https://i.imgur.com/ybud4dI.png",
+      "website": null
+    },
+    {
+      "id": "ChintpurniLive.in",
+      "name": "Chintpurni Live",
+      "country": "IN",
+      "languages": [
+        "pan"
+      ],
+      "categories": [
+        "religious"
+      ],
+      "logo": "https://papaji.freetvindia.com/media/Chintpurni_Live.png",
       "website": null
     },
     {
@@ -28528,6 +28646,19 @@
       "website": "http://duendetv.com/"
     },
     {
+      "id": "DukhnivaranPatialaLive.in",
+      "name": "Dukhnivaran Patiala Live",
+      "country": "IN",
+      "languages": [
+        "pan"
+      ],
+      "categories": [
+        "religious"
+      ],
+      "logo": "https://papaji.freetvindia.com/media/dukhniwaran.png",
+      "website": null
+    },
+    {
       "id": "DunamisTV.ng",
       "name": "Dunamis TV",
       "country": "NG",
@@ -30207,19 +30338,6 @@
       ],
       "logo": "https://i.imgur.com/GaJzjt5.png",
       "website": "https://enfoquedigital.cl/"
-    },
-    {
-      "id": "EnglishClubGlobal.uk",
-      "name": "English Club Global",
-      "country": "UK",
-      "languages": [
-        "eng"
-      ],
-      "categories": [
-        "education"
-      ],
-      "logo": "https://img.apk.watch/pics:bz1kZmQ3bjImbD0zZmkmaD1wbmcmZj1HbGk5MCZpPTU",
-      "website": null
     },
     {
       "id": "EnglishClubTV.uk",
@@ -40388,6 +40506,19 @@
       "website": "https://www.theindiadaily.com/"
     },
     {
+      "id": "IndiaTalkies.in",
+      "name": "India Talkies",
+      "country": "IN",
+      "languages": [
+        "hin"
+      ],
+      "categories": [
+        "movies"
+      ],
+      "logo": "https://papaji.freetvindia.com/media/FreeTV_India_Talkies.png",
+      "website": null
+    },
+    {
       "id": "IndiaToday.in",
       "name": "India Today",
       "country": "IN",
@@ -43263,6 +43394,19 @@
       ],
       "logo": "https://i.imgur.com/SUjo6Bm.png",
       "website": "https://www.k24tv.co.ke/"
+    },
+    {
+      "id": "Kabaddi24x7.in",
+      "name": "Kabaddi 24x7",
+      "country": "IN",
+      "languages": [
+        "hin"
+      ],
+      "categories": [
+        "sports"
+      ],
+      "logo": "https://papaji.freetvindia.com/media/kabaddi_24x7.png",
+      "website": null
     },
     {
       "id": "KabbalahforthePeopleIsrael.il",
@@ -52638,6 +52782,19 @@
       "website": "https://lavozdeunremanente.com/"
     },
     {
+      "id": "Ministerstvoidey.ru",
+      "name": "Ministerstvo idey",
+      "country": "RU",
+      "languages": [
+        "rus"
+      ],
+      "categories": [
+        "culture"
+      ],
+      "logo": "https://i.imgur.com/3P0uvHD.png",
+      "website": "https://xn--b1aebclacktlowlcmd.xn--p1ai/"
+    },
+    {
       "id": "Mir.ru",
       "name": "Mir",
       "country": "RU",
@@ -53908,6 +54065,19 @@
         "music"
       ],
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2CSpCdAxnLpqebMLZh6h7vMPk6LYpdqkVHA&s",
+      "website": null
+    },
+    {
+      "id": "MoviePunjab.in",
+      "name": "Movie Punjab",
+      "country": "IN",
+      "languages": [
+        "pan"
+      ],
+      "categories": [
+        "movies"
+      ],
+      "logo": "https://papaji.freetvindia.com/media/900_FreeTV_Movie_punjab.png",
       "website": null
     },
     {
@@ -55184,6 +55354,19 @@
       "website": "https://multivisioncanal3.com/"
     },
     {
+      "id": "MultivisionFederal.ar",
+      "name": "Multivision Federal",
+      "country": "AR",
+      "languages": [
+        "spa"
+      ],
+      "categories": [
+        "news"
+      ],
+      "logo": "https://i.imgur.com/jX0lqy3.png",
+      "website": "https://multivision.tv/"
+    },
+    {
       "id": "MultivisionSports.gt",
       "name": "Multivision Sports",
       "country": "GT",
@@ -55868,6 +56051,19 @@
       ],
       "logo": "https://i.imgur.com/NalsXTo.png",
       "website": "https://namdhari.tv/"
+    },
+    {
+      "id": "NanaksarLive.in",
+      "name": "Nanaksar Live",
+      "country": "IN",
+      "languages": [
+        "pan"
+      ],
+      "categories": [
+        "religious"
+      ],
+      "logo": "https://papaji.freetvindia.com/media/Nanasar_live.png",
+      "website": null
     },
     {
       "id": "NanchangNewsGeneralistChannel.cn",
@@ -62703,6 +62899,19 @@
       "website": null
     },
     {
+      "id": "PadharoSA.in",
+      "name": "Padharo SA",
+      "country": "IN",
+      "languages": [
+        "hin"
+      ],
+      "categories": [
+        "religious"
+      ],
+      "logo": "https://papaji.freetvindia.com/media/padharosa.png",
+      "website": null
+    },
+    {
       "id": "PadrePioTV.it",
       "name": "Padre Pio TV",
       "country": "IT",
@@ -62911,6 +63120,19 @@
       ],
       "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/10000/10000/skychb1041.png",
       "website": "https://panjabtv.uk/"
+    },
+    {
+      "id": "Pankh.in",
+      "name": "Pankh",
+      "country": "IN",
+      "languages": [
+        "pan"
+      ],
+      "categories": [
+        "music"
+      ],
+      "logo": "https://papaji.freetvindia.com/media/pankh.png",
+      "website": null
     },
     {
       "id": "PannonTV.rs",
@@ -70353,6 +70575,19 @@
       "website": null
     },
     {
+      "id": "PunjabiMusicHD.in",
+      "name": "Punjabi Music HD",
+      "country": "IN",
+      "languages": [
+        "pan"
+      ],
+      "categories": [
+        "music"
+      ],
+      "logo": "https://papaji.freetvindia.com/media/Punjabi_Music_HD.png",
+      "website": null
+    },
+    {
       "id": "PunjabiShorts.in",
       "name": "Punjabi Shorts",
       "country": "IN",
@@ -70363,6 +70598,19 @@
         "movies"
       ],
       "logo": "https://www.thegtcnetwork.com/punjabi-shorts.jpg",
+      "website": null
+    },
+    {
+      "id": "PunjabiTV.in",
+      "name": "Punjabi TV",
+      "country": "IN",
+      "languages": [
+        "pan"
+      ],
+      "categories": [
+        "entertainment"
+      ],
+      "logo": "https://papaji.freetvindia.com/media/PunjabiTV.png",
       "website": null
     },
     {
@@ -73010,6 +73258,19 @@
       "website": null
     },
     {
+      "id": "Ragni.in",
+      "name": "Ragni",
+      "country": "IN",
+      "languages": [
+        "pan"
+      ],
+      "categories": [
+        "religious"
+      ],
+      "logo": "https://papaji.freetvindia.com/media/Ragni.png",
+      "website": null
+    },
+    {
       "id": "Rai1.it",
       "name": "Rai 1",
       "country": "IT",
@@ -73449,17 +73710,6 @@
         "music"
       ],
       "logo": "https://assets.mbcmood.com/channels/1720177618Rashid%20AlMajed.webp",
-      "website": null
-    },
-    {
-      "id": "RasmeyHangMeasHDTV.kh",
-      "name": "Rasmey Hang Meas HDTV",
-      "country": "KH",
-      "languages": [
-        "khm"
-      ],
-      "categories": [],
-      "logo": "https://i.imgur.com/EcqEMMg.png",
       "website": null
     },
     {
@@ -77658,6 +77908,19 @@
       "website": "https://www.saamtv.com/"
     },
     {
+      "id": "Saang.in",
+      "name": "Saang",
+      "country": "IN",
+      "languages": [
+        "pan"
+      ],
+      "categories": [
+        "religious"
+      ],
+      "logo": "https://papaji.freetvindia.com/media/Saang_TV.png",
+      "website": null
+    },
+    {
       "id": "SaarlandFernsehen1.de",
       "name": "Saarland Fernsehen 1",
       "country": "DE",
@@ -80515,6 +80778,19 @@
       "website": "https://www.shraddha.lk/"
     },
     {
+      "id": "ShreeHazurSahibji.in",
+      "name": "Shree Hazur Sahibji",
+      "country": "IN",
+      "languages": [
+        "pan"
+      ],
+      "categories": [
+        "religious"
+      ],
+      "logo": "https://papaji.freetvindia.com/media/Shree_Hazursahibji.png",
+      "website": null
+    },
+    {
       "id": "ShubhCinemaTV.in",
       "name": "Shubh Cinema TV",
       "country": "IN",
@@ -80761,6 +81037,19 @@
       ],
       "logo": "https://i.imgur.com/FfYVCJC.png",
       "website": "https://simon.ua/"
+    },
+    {
+      "id": "SindhTV.in",
+      "name": "Sindh TV",
+      "country": "IN",
+      "languages": [
+        "hin"
+      ],
+      "categories": [
+        "religious"
+      ],
+      "logo": "https://papaji.freetvindia.com/media/Sindth_TV.png",
+      "website": null
     },
     {
       "id": "Sintetasnohayparaiso.us",
@@ -81776,6 +82065,19 @@
       ],
       "logo": "https://i.imgur.com/jOroeJZ.png",
       "website": "https://corporacionsomos.com/"
+    },
+    {
+      "id": "SoneriCinema.in",
+      "name": "Soneri Cinema",
+      "country": "IN",
+      "languages": [
+        "mar"
+      ],
+      "categories": [
+        "movies"
+      ],
+      "logo": "https://papaji.freetvindia.com/media/1056_FreeTV_Soneri_Cinema.png",
+      "website": null
     },
     {
       "id": "SongdewTV.in",
