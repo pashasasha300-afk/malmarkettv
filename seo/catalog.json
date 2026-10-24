@@ -6556,6 +6556,19 @@
       "website": "https://www.alrayyan.tv/"
     },
     {
+      "id": "AlrightTV.in",
+      "name": "Alright! TV",
+      "country": "IN",
+      "languages": [
+        "hin"
+      ],
+      "categories": [
+        "entertainment"
+      ],
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/alrght.png",
+      "website": null
+    },
+    {
       "id": "AlRiyadhRadio.sa",
       "name": "Al Riyadh Radio",
       "country": "SA",
@@ -9823,6 +9836,19 @@
       "website": "http://atnmusic.tv/"
     },
     {
+      "id": "ATNSamachar.in",
+      "name": "ATN Samachar",
+      "country": "IN",
+      "languages": [
+        "hin"
+      ],
+      "categories": [
+        "news"
+      ],
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ATN_Samachar.png",
+      "website": null
+    },
+    {
       "id": "AtomicAcademyTV.ro",
       "name": "Atomic Academy TV",
       "country": "RO",
@@ -11336,6 +11362,19 @@
       ],
       "logo": "https://i.imgur.com/EuPvzJe.png",
       "website": "http://bandsports.band.uol.com.br/"
+    },
+    {
+      "id": "BanglaJago.in",
+      "name": "Bangla Jago",
+      "country": "IN",
+      "languages": [
+        "ben"
+      ],
+      "categories": [
+        "news"
+      ],
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Bangla_Jago.png",
+      "website": null
     },
     {
       "id": "BanglaVision.bd",
@@ -12956,6 +12995,19 @@
       "website": "https://www.bharat24live.com/"
     },
     {
+      "id": "BharatAtoZ.in",
+      "name": "Bharat AtoZ",
+      "country": "IN",
+      "languages": [
+        "hin"
+      ],
+      "categories": [
+        "news"
+      ],
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Bharat_AtoZ.png",
+      "website": null
+    },
+    {
       "id": "BharatExpress.in",
       "name": "Bharat Express",
       "country": "IN",
@@ -12993,6 +13045,19 @@
         "news"
       ],
       "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Bharat_Update.png",
+      "website": null
+    },
+    {
+      "id": "BHIChannel.in",
+      "name": "BHI Channel",
+      "country": "IN",
+      "languages": [
+        "ben"
+      ],
+      "categories": [
+        "news"
+      ],
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/BHI.png",
       "website": null
     },
     {
@@ -14573,6 +14638,19 @@
       "categories": [],
       "logo": "https://i.imgur.com/IDotHmQ.png",
       "website": "https://bash.news/bst/"
+    },
+    {
+      "id": "BSTV.in",
+      "name": "BSTV",
+      "country": "IN",
+      "languages": [
+        "hin"
+      ],
+      "categories": [
+        "news"
+      ],
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/BSTV.png",
+      "website": null
     },
     {
       "id": "BSTV.pk",
@@ -21115,6 +21193,19 @@
       "website": "https://pluto.tv/live-tv/cine-horreur-by-pluto-tv-fr/details"
     },
     {
+      "id": "CineJomjomat.in",
+      "name": "Cine Jomjomat",
+      "country": "IN",
+      "languages": [
+        "ben"
+      ],
+      "categories": [
+        "entertainment"
+      ],
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Cine_Jomjomat.png",
+      "website": null
+    },
+    {
       "id": "Cinema.ru",
       "name": "Cinema",
       "country": "RU",
@@ -26570,6 +26661,19 @@
       ],
       "logo": "https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/Der%20TV.jpeg",
       "website": null
+    },
+    {
+      "id": "DesdeElSurTV.uy",
+      "name": "Desde El Sur TV",
+      "country": "UY",
+      "languages": [
+        "spa"
+      ],
+      "categories": [
+        "entertainment"
+      ],
+      "logo": "https://i.imgur.com/y3vNkEU.jpeg",
+      "website": "https://surmultimedios.com/"
     },
     {
       "id": "DesheBidesheTV.ca",
@@ -32955,6 +33059,19 @@
       "website": null
     },
     {
+      "id": "FGNChannel.in",
+      "name": "FGN Channel",
+      "country": "IN",
+      "languages": [
+        "hin"
+      ],
+      "categories": [
+        "religious"
+      ],
+      "logo": "https://yt3.googleusercontent.com/rDtVRwirMau7LnqmpkNHMrsqCQ7TtWTIbXePXFcY_GWDMs4z64A-w2XBG92t-IV4-C8UoEI=s900-c-k-c0x00ffffff-no-rj",
+      "website": null
+    },
+    {
       "id": "FGTV.kr",
       "name": "FGTV",
       "country": "KR",
@@ -34248,7 +34365,7 @@
       "categories": [
         "entertainment"
       ],
-      "logo": "https://i.imgur.com/N2z3EZC.png",
+      "logo": "https://ibb.co/MwSSYTM",
       "website": "https://friday.ru/"
     },
     {
@@ -35682,6 +35799,19 @@
       "website": null
     },
     {
+      "id": "GlobalIndia.in",
+      "name": "Global India",
+      "country": "IN",
+      "languages": [
+        "hin"
+      ],
+      "categories": [
+        "news"
+      ],
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Global_India.png",
+      "website": null
+    },
+    {
       "id": "GlobalPunjab.in",
       "name": "Global Punjab",
       "country": "IN",
@@ -35745,6 +35875,19 @@
       ],
       "logo": "https://i.imgur.com/2u33Ayy.jpeg",
       "website": "https://globalworldtv.com/"
+    },
+    {
+      "id": "GlobeTV.in",
+      "name": "Globe TV",
+      "country": "IN",
+      "languages": [
+        "ben"
+      ],
+      "categories": [
+        "news"
+      ],
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Globe_TV.png",
+      "website": null
     },
     {
       "id": "GloboTV.hn",
@@ -36378,6 +36521,19 @@
       "website": "https://gracenetwork.global/"
     },
     {
+      "id": "GraceTV.in",
+      "name": "Grace TV",
+      "country": "IN",
+      "languages": [
+        "eng"
+      ],
+      "categories": [
+        "religious"
+      ],
+      "logo": "https://i.imgur.com/i3Anlid.png",
+      "website": "http://gracetv.co/"
+    },
+    {
       "id": "GrandCinema.tr",
       "name": "Grand Cinema",
       "country": "TR",
@@ -36495,6 +36651,19 @@
       ],
       "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3643.png",
       "website": "https://www.greatnetwork.com/moviesclassic/"
+    },
+    {
+      "id": "GreenGoldTV.in",
+      "name": "Green Gold TV",
+      "country": "IN",
+      "languages": [
+        "hin"
+      ],
+      "categories": [
+        "kids"
+      ],
+      "logo": "https://i.ibb.co/TDPsPVkT/Greengoldtv.png",
+      "website": "https://greengold.tv/"
     },
     {
       "id": "GreensboroTV.us",
@@ -38097,6 +38266,19 @@
         "religious"
       ],
       "logo": "https://i.imgur.com/k8a7KNn.png",
+      "website": null
+    },
+    {
+      "id": "HindiHits.in",
+      "name": "Hindi Hits",
+      "country": "IN",
+      "languages": [
+        "hin"
+      ],
+      "categories": [
+        "music"
+      ],
+      "logo": "https://i.postimg.cc/ryC1Y2K4/Capture.png",
       "website": null
     },
     {
@@ -46501,6 +46683,19 @@
       "website": "https://www.vivalivetv.com/channel/la-descarga-tv"
     },
     {
+      "id": "LaElegidaTelevision.uy",
+      "name": "La Elegida Television",
+      "country": "UY",
+      "languages": [
+        "spa"
+      ],
+      "categories": [
+        "music"
+      ],
+      "logo": "https://i.imgur.com/zdrbjDc.png",
+      "website": "https://laelegidafm.com/"
+    },
+    {
       "id": "LaFabulosaTV.pe",
       "name": "La Fabulosa TV",
       "country": "PE",
@@ -49845,6 +50040,32 @@
       "website": "https://mahimaitv.com/"
     },
     {
+      "id": "MahuaKhabar.in",
+      "name": "Mahua Khabar",
+      "country": "IN",
+      "languages": [
+        "bho"
+      ],
+      "categories": [
+        "news"
+      ],
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/mahuakhabar.png",
+      "website": null
+    },
+    {
+      "id": "MahuaPlay.in",
+      "name": "Mahua Play",
+      "country": "IN",
+      "languages": [
+        "bho"
+      ],
+      "categories": [
+        "movies"
+      ],
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Mahua_Play.png",
+      "website": null
+    },
+    {
       "id": "Maidan.ru",
       "name": "Maidan",
       "country": "RU",
@@ -51904,8 +52125,8 @@
       "categories": [
         "general"
       ],
-      "logo": "https://www.meialai.in/assets/meialai-DBaBUZTH.png",
-      "website": "https://www.meialai.in/"
+      "logo": "https://www.meialai.com/assets/meialai-DBaBUZTH.png",
+      "website": "https://www.meialai.com/"
     },
     {
       "id": "MekameleenTV.tr",
@@ -52363,6 +52584,19 @@
       ],
       "logo": null,
       "website": "https://www.mhone.in/"
+    },
+    {
+      "id": "MHOne.in",
+      "name": "MH One",
+      "country": "IN",
+      "languages": [
+        "pan"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/mh1_Music.png",
+      "website": null
     },
     {
       "id": "MHOneDilSe.in",
@@ -52976,6 +53210,19 @@
       ],
       "logo": "https://i.imgur.com/HXRpRlK.png",
       "website": "https://misionescuatro.com/videos-de-misionescuatro/"
+    },
+    {
+      "id": "MisionVidaTV.uy",
+      "name": "Mision Vida TV",
+      "country": "UY",
+      "languages": [
+        "spa"
+      ],
+      "categories": [
+        "religious"
+      ],
+      "logo": "https://i.imgur.com/8JgBuTm.png",
+      "website": "https://www.misionvida.org/mvtv/"
     },
     {
       "id": "MissionAsia.au",
@@ -70562,6 +70809,19 @@
       "website": null
     },
     {
+      "id": "PunjabiBeatsHD.in",
+      "name": "Punjabi Beats HD",
+      "country": "IN",
+      "languages": [
+        "pan"
+      ],
+      "categories": [
+        "music"
+      ],
+      "logo": "https://i.imgur.com/1Za9gNQ.jpg",
+      "website": null
+    },
+    {
       "id": "PunjabiHits.in",
       "name": "Punjabi Hits",
       "country": "IN",
@@ -70748,6 +71008,19 @@
         "news"
       ],
       "logo": "https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/channel/logos/yattyv.png",
+      "website": "http://www.puthiyathalaimurai.com/"
+    },
+    {
+      "id": "PuthiyaThalaimuraiExpress.in",
+      "name": "Puthiya Thalaimurai Express",
+      "country": "IN",
+      "languages": [
+        "tam"
+      ],
+      "categories": [
+        "news"
+      ],
+      "logo": "https://www.lyngsat.com/logo/tv/pp/puthiya-thalaimurai-express-in.png",
       "website": "http://www.puthiyathalaimurai.com/"
     },
     {
@@ -82067,6 +82340,19 @@
       "website": "https://corporacionsomos.com/"
     },
     {
+      "id": "SonarBangla.in",
+      "name": "Sonar Bangla",
+      "country": "IN",
+      "languages": [
+        "ben"
+      ],
+      "categories": [
+        "movies"
+      ],
+      "logo": "https://papaji.freetvindia.com/media/1518_FreeTV_Sonar_Bangla.png",
+      "website": null
+    },
+    {
       "id": "SoneriCinema.in",
       "name": "Soneri Cinema",
       "country": "IN",
@@ -88314,19 +88600,6 @@
       ],
       "logo": "https://www.telepoder.online/wp-content/uploads/2024/02/cropped-cropped-Logo-PoderTV2.png",
       "website": "https://www.telepoder.online/"
-    },
-    {
-      "id": "TelePosadas.ar",
-      "name": "Tele Posadas",
-      "country": "AR",
-      "languages": [
-        "spa"
-      ],
-      "categories": [
-        "general"
-      ],
-      "logo": "https://i.imgur.com/sfUBb7I.jpeg",
-      "website": null
     },
     {
       "id": "TeleProyectoTV.do",
@@ -98632,6 +98905,19 @@
       "website": "https://www.universal.org.ec/"
     },
     {
+      "id": "TVUniversalUruguay.uy",
+      "name": "TV Universal Uruguay",
+      "country": "UY",
+      "languages": [
+        "spa"
+      ],
+      "categories": [
+        "religious"
+      ],
+      "logo": "https://i.imgur.com/KD4aZ7W.jpeg",
+      "website": "https://universal.org.uy/tvuniversal/"
+    },
+    {
       "id": "TVUniversidad.ar",
       "name": "TV Universidad",
       "country": "AR",
@@ -104875,6 +105161,20 @@
         "kids"
       ],
       "logo": "https://i.imgur.com/BbFNpMr.jpeg",
+      "website": "https://www.zillarbarta.com/"
+    },
+    {
+      "id": "ZBCinema.in",
+      "name": "ZB Cinema",
+      "country": "IN",
+      "languages": [
+        "ben"
+      ],
+      "categories": [
+        "classic",
+        "movies"
+      ],
+      "logo": "https://i.imgur.com/kUg6WSk.jpeg",
       "website": "https://www.zillarbarta.com/"
     },
     {
