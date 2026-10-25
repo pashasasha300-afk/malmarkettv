@@ -4967,6 +4967,19 @@
       "website": "http://www.ahaber.com.tr/"
     },
     {
+      "id": "AhasaTV.lk",
+      "name": "Ahasa TV",
+      "country": "LK",
+      "languages": [
+        "sin"
+      ],
+      "categories": [
+        "religious"
+      ],
+      "logo": "https://ahasatv.lk/_next/image?url=%2Flogo.png&w=256&q=75",
+      "website": "https://ahasatv.lk/"
+    },
+    {
       "id": "AhlulbaytTV.uk",
       "name": "Ahlulbayt TV",
       "country": "UK",
@@ -7320,19 +7333,6 @@
       ],
       "logo": "https://i.imgur.com/C4w0eYC.png",
       "website": "https://pluto.tv/en/live-tv/americas-voice"
-    },
-    {
-      "id": "AmericaTelevision.pe",
-      "name": "America Television",
-      "country": "PE",
-      "languages": [
-        "spa"
-      ],
-      "categories": [
-        "general"
-      ],
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/500px-Am%C3%A9rica_Televisi%C3%B3n.svg.png",
-      "website": "https://tvgo.americatv.com.pe/"
     },
     {
       "id": "AmericaTeVe.pr",
@@ -10985,6 +10985,26 @@
       ],
       "logo": "https://i.imgur.com/lW3WIBD.png",
       "website": "https://bridgetv.ru/brands/baby_time/"
+    },
+    {
+      "id": "BabyTV.uk",
+      "name": "BabyTV",
+      "country": "UK",
+      "languages": [
+        "eng",
+        "fra",
+        "heb",
+        "ita",
+        "pol",
+        "por",
+        "spa",
+        "tur"
+      ],
+      "categories": [
+        "kids"
+      ],
+      "logo": "https://i.imgur.com/4BDJ5FT.png",
+      "website": "http://www.babytv.com/"
     },
     {
       "id": "BacanTeVeo.ec",
@@ -16069,19 +16089,6 @@
       "website": "https://www.repretel.com/envivo-canal2/"
     },
     {
-      "id": "Canal2.sv",
-      "name": "Canal 2",
-      "country": "SV",
-      "languages": [
-        "spa"
-      ],
-      "categories": [
-        "general"
-      ],
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Canal_2_TCS.png/960px-Canal_2_TCS.png",
-      "website": "https://www.tcsgo.com/"
-    },
-    {
       "id": "Canal21Huancayo.pe",
       "name": "Canal 21 Huancayo",
       "country": "PE",
@@ -16780,19 +16787,6 @@
       ],
       "logo": "https://i.imgur.com/nfKJftW.png",
       "website": "http://www.repretel.com/"
-    },
-    {
-      "id": "Canal6.sv",
-      "name": "Canal 6",
-      "country": "SV",
-      "languages": [
-        "spa"
-      ],
-      "categories": [
-        "general"
-      ],
-      "logo": "https://i.imgur.com/M4muPLK.png",
-      "website": "https://www.tcsgo.com/"
     },
     {
       "id": "Canal65.sv",
@@ -26916,6 +26910,19 @@
       "website": "https://pluto.tv/live-tv/de-unge-modre-dk/details"
     },
     {
+      "id": "DGTV.au",
+      "name": "DG:TV",
+      "country": "AU",
+      "languages": [
+        "eng"
+      ],
+      "categories": [
+        "religious"
+      ],
+      "logo": "https://dg.church/tile-dgtv.jpg",
+      "website": "https://dg.church/guide"
+    },
+    {
       "id": "DHA.tr",
       "name": "DHA",
       "country": "TR",
@@ -30223,6 +30230,19 @@
       "website": "https://elwataniatv.dz/"
     },
     {
+      "id": "ElyssaTV.tn",
+      "name": "Elyssa TV",
+      "country": "TN",
+      "languages": [
+        "ara"
+      ],
+      "categories": [
+        "news"
+      ],
+      "logo": "https://tv.elyssatv.com/logo.png",
+      "website": "https://elyssatv.com"
+    },
+    {
       "id": "ElyTV.br",
       "name": "ElyTV",
       "country": "BR",
@@ -31377,6 +31397,19 @@
       "website": "https://www.etno.ro/"
     },
     {
+      "id": "ETNowSwadesh.in",
+      "name": "ET Now Swadesh",
+      "country": "IN",
+      "languages": [
+        "eng"
+      ],
+      "categories": [
+        "business"
+      ],
+      "logo": "https://dtil.tmsimg.com/assets/s143022_ld_h15_aa.png?lock=720x540",
+      "website": "https://www.timesnownews.com/live-tv/et-now-swadesh"
+    },
+    {
       "id": "ETV.ee",
       "name": "ETV",
       "country": "EE",
@@ -32420,6 +32453,19 @@
       ],
       "logo": "https://i.imgur.com/VIpQJxL.png",
       "website": "https://www.failarmy.com/pages/streaming"
+    },
+    {
+      "id": "FairgroundAICreatorTV.us",
+      "name": "Fairground AI Creator TV",
+      "country": "US",
+      "languages": [
+        "eng"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://raw.githubusercontent.com/RoqueDJ/iptv-svg/main/1792454211883.png",
+      "website": "https://fairground.tv/"
     },
     {
       "id": "Fairuz.sa",
@@ -34148,19 +34194,6 @@
       "website": "https://www.france24.com/"
     },
     {
-      "id": "France4.fr",
-      "name": "France 4",
-      "country": "FR",
-      "languages": [
-        "fra"
-      ],
-      "categories": [
-        "kids"
-      ],
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/960px-France_4_2018.svg.png",
-      "website": "https://www.france.tv/france-4/"
-    },
-    {
       "id": "FranchsTV.gt",
       "name": "Franchs TV",
       "country": "GT",
@@ -34605,6 +34638,18 @@
       ],
       "logo": "https://i.imgur.com/RngmCDn.png",
       "website": "http://fft.tj/"
+    },
+    {
+      "id": "FX.tr",
+      "name": "FX",
+      "country": "TR",
+      "languages": [
+        "eng",
+        "tur"
+      ],
+      "categories": [],
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png",
+      "website": "https://www.fxturkiye.com.tr/"
     },
     {
       "id": "FX.us",
@@ -37449,6 +37494,19 @@
       ],
       "logo": "https://provider-static.plex.tv/epg/cms/production/29af70d1-d3ba-4a16-bc4d-bd99e7e7def4/hallmark-movies-and-more_color.png",
       "website": null
+    },
+    {
+      "id": "HalloweenNonStop.ro",
+      "name": "Halloween Non Stop",
+      "country": "RO",
+      "languages": [
+        "ron"
+      ],
+      "categories": [
+        "movies"
+      ],
+      "logo": null,
+      "website": "https://antenaplay.ro/live/halloween-non-stop"
     },
     {
       "id": "HamaikaTelebista.es",
@@ -40816,19 +40874,6 @@
       "categories": [],
       "logo": "https://i.imgur.com/HcFpNwA.png",
       "website": "http://inedittv.ro/"
-    },
-    {
-      "id": "iNews.id",
-      "name": "iNews",
-      "country": "ID",
-      "languages": [
-        "ind"
-      ],
-      "categories": [
-        "news"
-      ],
-      "logo": "https://i.imgur.com/M2R3lfg.png",
-      "website": "https://www.inews.id/"
     },
     {
       "id": "INews.in",
@@ -58618,19 +58663,6 @@
       "website": "https://www.nhstudioz.tv/"
     },
     {
-      "id": "NHKGeneralTV.jp",
-      "name": "NHK General TV",
-      "country": "JP",
-      "languages": [
-        "jpn"
-      ],
-      "categories": [
-        "general"
-      ],
-      "logo": "https://i.imgur.com/fAZ2BEZ.png",
-      "website": "https://www.nhk.or.jp/"
-    },
-    {
       "id": "NHKWorldJapan.jp",
       "name": "NHK World-Japan",
       "country": "JP",
@@ -59772,6 +59804,19 @@
       ],
       "logo": "https://i.imgur.com/mmKWrWs.png",
       "website": "https://novoetv.kz/smotret-onlajn/"
+    },
+    {
+      "id": "NOW.tr",
+      "name": "NOW",
+      "country": "TR",
+      "languages": [
+        "tur"
+      ],
+      "categories": [
+        "entertainment"
+      ],
+      "logo": "https://i.imgur.com/5EYjWK7.png",
+      "website": "https://www.nowtv.com.tr"
     },
     {
       "id": "Now14.il",
@@ -62382,6 +62427,19 @@
       ],
       "logo": "https://i.imgur.com/Vba4jUk.png",
       "website": "https://www.onnitv.fi/"
+    },
+    {
+      "id": "ONO2TV.vn",
+      "name": "ON O2TV",
+      "country": "VN",
+      "languages": [
+        "vie"
+      ],
+      "categories": [
+        "lifestyle"
+      ],
+      "logo": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/VTVCab7%20-%20ON%20O2TV.png",
+      "website": "https://vtvcab.vn"
     },
     {
       "id": "OntarioParliamentaryNetwork.ca",
@@ -72851,6 +72909,20 @@
       ],
       "logo": "https://www.antenasatelor.ro/templates/default/images/custom/logo-main.svg",
       "website": "https://www.antenasatelor.ro/"
+    },
+    {
+      "id": "RadioRomaniaIasi.ro",
+      "name": "Radio Romania Iasi",
+      "country": "RO",
+      "languages": [
+        "ron"
+      ],
+      "categories": [
+        "general",
+        "music"
+      ],
+      "logo": "https://www.radioiasi.ro/wp-content/themes/radioiasi/images/custom/logo-iasi.svg",
+      "website": "https://www.radioiasi.ro/"
     },
     {
       "id": "RadioRomaniaOlteniaCraiova.ro",
@@ -94539,6 +94611,19 @@
       "website": "https://www.a12.com/tv"
     },
     {
+      "id": "TVArad.ro",
+      "name": "TV Arad",
+      "country": "RO",
+      "languages": [
+        "ron"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://i.imgur.com/4yZV72X.png",
+      "website": "https://tvarad.ro/"
+    },
+    {
       "id": "TVArapuan.br",
       "name": "TV Arapuan",
       "country": "BR",
@@ -94602,6 +94687,19 @@
       ],
       "logo": "https://i.imgur.com/MAhJkK9.png",
       "website": "https://www.koha.net/arta-tv/14427/tv-arta-live/"
+    },
+    {
+      "id": "TVAS.ro",
+      "name": "TV AS",
+      "country": "RO",
+      "languages": [
+        "ron"
+      ],
+      "categories": [
+        "music"
+      ],
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/0/06/TV_AS.png/revision/latest/scale-to-width-down/1000?cb=20241117150631",
+      "website": null
     },
     {
       "id": "TVAssembleiaCeara.br",
@@ -94678,6 +94776,20 @@
       ],
       "logo": "https://i.imgur.com/z7VlNLR.png",
       "website": null
+    },
+    {
+      "id": "TVBozsikeHamburgHD.de",
+      "name": "TV Bozsike Hamburg HD",
+      "country": "DE",
+      "languages": [
+        "deu",
+        "hun"
+      ],
+      "categories": [
+        "music"
+      ],
+      "logo": "https://radiobozsike.com/img/icons/android-chrome-512x512.png",
+      "website": "https://radiobozsike.com/"
     },
     {
       "id": "TVBrasil.br",
@@ -100264,6 +100376,17 @@
       ],
       "logo": "https://i.imgur.com/yN4e2up.png",
       "website": "https://utv.co.ke/"
+    },
+    {
+      "id": "UTV.ro",
+      "name": "UTV",
+      "country": "RO",
+      "languages": [
+        "ron"
+      ],
+      "categories": [],
+      "logo": "https://i.imgur.com/aBdz9IT.png",
+      "website": "https://www.utv.ro/"
     },
     {
       "id": "UTVAfrica.ng",
