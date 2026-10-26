@@ -7428,6 +7428,19 @@
       "website": "https://ammantv.net/"
     },
     {
+      "id": "AMNTV.in",
+      "name": "AMN TV",
+      "country": "IN",
+      "languages": [
+        "tam"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://amntv.in/wp-content/uploads/2025/04/amntv-logo.png",
+      "website": "https://amntv.in/"
+    },
+    {
       "id": "AmouzeshTV.ir",
       "name": "Amouzesh TV",
       "country": "IR",
@@ -18811,6 +18824,20 @@
       ],
       "logo": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/3227c06e-333b-4b1b-b657-3e3ab99ebd06-width200-quality90.jpeg",
       "website": "https://www.rakuten.tv/pl/live_channels/cartoon-classics"
+    },
+    {
+      "id": "Cartoonito.it",
+      "name": "Cartoonito",
+      "country": "IT",
+      "languages": [
+        "ita"
+      ],
+      "categories": [
+        "animation",
+        "kids"
+      ],
+      "logo": "https://i.imgur.com/6vYWCD0.png",
+      "website": "https://www.cartoonito.it/"
     },
     {
       "id": "CartoonNetwork.in",
@@ -39560,6 +39587,46 @@
       "website": "https://htv.com.vn/"
     },
     {
+      "id": "HTVCFamily.vn",
+      "name": "HTVC Family",
+      "country": "VN",
+      "languages": [
+        "vie"
+      ],
+      "categories": [
+        "family"
+      ],
+      "logo": null,
+      "website": "http://htvc.vn"
+    },
+    {
+      "id": "HTVCMovies.vn",
+      "name": "HTVC Movies",
+      "country": "VN",
+      "languages": [
+        "vie"
+      ],
+      "categories": [
+        "movies",
+        "series"
+      ],
+      "logo": null,
+      "website": "http://htvc.vn"
+    },
+    {
+      "id": "HTVCWomen.vn",
+      "name": "HTVC Women",
+      "country": "VN",
+      "languages": [
+        "vie"
+      ],
+      "categories": [
+        "lifestyle"
+      ],
+      "logo": "https://upload.wikimedia.org/wikipedia/vi/a/a9/HTVC_PHUNU.png",
+      "website": "http://htvc.vn"
+    },
+    {
       "id": "HTVLive.do",
       "name": "HTV Live",
       "country": "DO",
@@ -58988,20 +59055,6 @@
       "website": "https://x1colegal.com"
     },
     {
-      "id": "NickOnlineBobEsponja.br",
-      "name": "NickOnline Bob Esponja",
-      "country": "BR",
-      "languages": [
-        "por"
-      ],
-      "categories": [
-        "animation",
-        "kids"
-      ],
-      "logo": "https://x1colegal.com/nickonlinebobesponja.png",
-      "website": null
-    },
-    {
       "id": "NickSchweiz.ch",
       "name": "Nick Schweiz",
       "country": "CH",
@@ -62442,6 +62495,19 @@
       "website": "https://vtvcab.vn"
     },
     {
+      "id": "ONStyleTV.vn",
+      "name": "ON Style TV",
+      "country": "VN",
+      "languages": [
+        "vie"
+      ],
+      "categories": [
+        "lifestyle"
+      ],
+      "logo": "https://i.ibb.co/JFw65Mtk/IMG-2529.webp",
+      "website": "https://vtvcab.vn"
+    },
+    {
       "id": "OntarioParliamentaryNetwork.ca",
       "name": "Ontario Parliamentary Network",
       "country": "CA",
@@ -62506,6 +62572,19 @@
       ],
       "logo": "https://i.imgur.com/NcEygU5.png",
       "website": "https://www.cannellamedia.com/"
+    },
+    {
+      "id": "ONVieDramas.vn",
+      "name": "ON Vie Dramas",
+      "country": "VN",
+      "languages": [
+        "vie"
+      ],
+      "categories": [
+        "entertainment"
+      ],
+      "logo": "https://i.ibb.co/VptvgFVx/IMG-2530.webp",
+      "website": "https://vtvcab.vn"
     },
     {
       "id": "ONVieGiaiTri.vn",
@@ -62702,6 +62781,19 @@
       ],
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/ORF_III_Logo_Monochrom.svg/960px-ORF_III_Logo_Monochrom.svg.png",
       "website": "http://tv.orf.at/"
+    },
+    {
+      "id": "OrizontTV.ro",
+      "name": "Orizont TV",
+      "country": "RO",
+      "languages": [
+        "ron"
+      ],
+      "categories": [
+        "music"
+      ],
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/8/8b/Orizont_TV.svg/revision/latest/scale-to-width-down/1000?cb=20241219232954",
+      "website": null
     },
     {
       "id": "OrlerTV.it",
@@ -92815,6 +92907,17 @@
       "website": "https://trimedio.tv"
     },
     {
+      "id": "TrinitasTV.ro",
+      "name": "Trinitas TV",
+      "country": "RO",
+      "languages": [
+        "ron"
+      ],
+      "categories": [],
+      "logo": "https://i.imgur.com/mOPEttN.png",
+      "website": "https://www.trinitas.tv/"
+    },
+    {
       "id": "TrinityTV.tt",
       "name": "Trinity TV",
       "country": "TT",
@@ -102347,6 +102450,19 @@
       ],
       "logo": "https://images.pluto.tv/channels/680291e38e1ff89c2427aefd/colorLogoPNG_1749650211442.png",
       "website": "https://lovetvchannels.com/en/our-channels/#travel"
+    },
+    {
+      "id": "VoyoSport1.ro",
+      "name": "Voyo Sport 1",
+      "country": "RO",
+      "languages": [
+        "ron"
+      ],
+      "categories": [
+        "sports"
+      ],
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/a/a3/VoyoSport1.svg",
+      "website": "https://voyo.protv.ro/live/183-voyo-sport-1"
     },
     {
       "id": "VozDiBonaireTV.bq",
