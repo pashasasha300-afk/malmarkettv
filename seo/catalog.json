@@ -8138,6 +8138,20 @@
       "website": "https://www.antena3.ro/"
     },
     {
+      "id": "Antena3Constanta.ro",
+      "name": "Antena 3 Constanta",
+      "country": "RO",
+      "languages": [
+        "eng",
+        "ron"
+      ],
+      "categories": [
+        "news"
+      ],
+      "logo": "https://antena3constanta.ro/wp-content/uploads/2025/08/ant3-logonn.jpg",
+      "website": "https://antena3constanta.ro/"
+    },
+    {
       "id": "Antena7.do",
       "name": "Antena 7",
       "country": "DO",
@@ -8188,19 +8202,6 @@
       ],
       "logo": "https://i.imgur.com/9Nh2mo9.png",
       "website": "http://www.antenaseis.com/"
-    },
-    {
-      "id": "AntenaStars.ro",
-      "name": "Antena Stars",
-      "country": "RO",
-      "languages": [
-        "ron"
-      ],
-      "categories": [
-        "entertainment"
-      ],
-      "logo": "https://static.wikia.nocookie.net/logopedia/images/7/7e/A_Stars_2022.png/revision/latest/scale-to-width-down/300",
-      "website": "http://antenastars.ro/"
     },
     {
       "id": "AntenaSUR.pe",
@@ -9806,19 +9807,6 @@
       ],
       "logo": "https://whiplash.cc/assets/img/channels/atlas.png",
       "website": "https://whiplash.cc/"
-    },
-    {
-      "id": "ATMRozrywkaREWORK.pl",
-      "name": "ATM Rozrywka REWORK",
-      "country": "PL",
-      "languages": [
-        "pol"
-      ],
-      "categories": [
-        "entertainment"
-      ],
-      "logo": "https://i.ibb.co/B5BfmQNs/ATM.jpg",
-      "website": "https://grupaatmrr.org.pl/"
     },
     {
       "id": "ATNBangla.bd",
@@ -13243,6 +13231,19 @@
       "website": null
     },
     {
+      "id": "BihorTV.ro",
+      "name": "Bihor TV",
+      "country": "RO",
+      "languages": [
+        "ron"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/d/d8/Bihortvlogo.png/revision/latest/scale-to-width-down/1000?cb=20241223065621",
+      "website": "https://bihortv.com/"
+    },
+    {
       "id": "BilliardTV.us",
       "name": "Billiard TV",
       "country": "US",
@@ -13445,19 +13446,6 @@
       ],
       "logo": "https://i.imgur.com/QnuIVB6.png",
       "website": "https://pluto.tv/en/live-tv/black-ink-crew"
-    },
-    {
-      "id": "BlackNewsChannel.us",
-      "name": "Black News Channel",
-      "country": "US",
-      "languages": [
-        "eng"
-      ],
-      "categories": [
-        "news"
-      ],
-      "logo": "https://i.imgur.com/oX5oR4d.png",
-      "website": null
     },
     {
       "id": "Blaze.uk",
@@ -26896,6 +26884,20 @@
       "website": "https://pluto.tv/live-tv/de-unge-modre-dk/details"
     },
     {
+      "id": "DGRadio.au",
+      "name": "DG:Radio",
+      "country": "AU",
+      "languages": [
+        "eng"
+      ],
+      "categories": [
+        "music",
+        "religious"
+      ],
+      "logo": "https://cdn.dg.church/media/objects/tile-dgradio.jpg",
+      "website": "https://dg.church/radio/"
+    },
+    {
       "id": "DGTV.au",
       "name": "DG:TV",
       "country": "AU",
@@ -27186,19 +27188,6 @@
       ],
       "logo": "https://i.imgur.com/qmRnD0M.png",
       "website": "https://www.digi24.ro/"
-    },
-    {
-      "id": "DigiSport2.ro",
-      "name": "Digi Sport 2",
-      "country": "RO",
-      "languages": [
-        "ron"
-      ],
-      "categories": [
-        "sports"
-      ],
-      "logo": "https://i.imgur.com/KWDUi3v.png",
-      "website": "http://digisport.ro/"
     },
     {
       "id": "DigitalVision63.do",
@@ -33415,19 +33404,6 @@
       "website": "https://www.xumo.tv/live-guide/filmex-clasico"
     },
     {
-      "id": "FilmNow.ro",
-      "name": "Film Now",
-      "country": "RO",
-      "languages": [
-        "ron"
-      ],
-      "categories": [
-        "movies"
-      ],
-      "logo": "https://i.imgur.com/sSoRvGz.png",
-      "website": "http://www.digi-film.ro/"
-    },
-    {
       "id": "FilmRiseAnime.us",
       "name": "FilmRise Anime",
       "country": "US",
@@ -39558,6 +39534,19 @@
       "website": "https://htv.com.vn/"
     },
     {
+      "id": "HTV5.vn",
+      "name": "HTV5",
+      "country": "VN",
+      "languages": [
+        "vie"
+      ],
+      "categories": [
+        "culture"
+      ],
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c3/HTV5_Bchannel.png",
+      "website": "https://bchannel.vn/"
+    },
+    {
       "id": "HTV7.vn",
       "name": "HTV7",
       "country": "VN",
@@ -39819,6 +39808,19 @@
       ],
       "logo": "https://i.imgur.com/Abg1fct.png",
       "website": "https://huzurtv.ru/"
+    },
+    {
+      "id": "HyaTV.eg",
+      "name": "Hya TV",
+      "country": "EG",
+      "languages": [
+        "ara"
+      ],
+      "categories": [
+        "entertainment"
+      ],
+      "logo": "https://i.imgur.com/XjBIi0e.png",
+      "website": null
     },
     {
       "id": "HyderTV.ca",
@@ -44433,6 +44435,19 @@
       "website": "https://kantipurtv.com/"
     },
     {
+      "id": "KapitalTV.ro",
+      "name": "Kapital TV",
+      "country": "RO",
+      "languages": [
+        "ron"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://i.imgur.com/Q1PYwkZ.png",
+      "website": "https://kapitaltv.ro/"
+    },
+    {
       "id": "KapitanFantastika.ru",
       "name": "Kapitan Fantastika",
       "country": "RU",
@@ -47475,6 +47490,19 @@
       "website": "https://www.lasestrellas.tv/"
     },
     {
+      "id": "LasEstrellasLatinAmerica.mx",
+      "name": "Las Estrellas Latin America",
+      "country": "MX",
+      "languages": [
+        "spa"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://i.imgur.com/g5ShxZ7.png",
+      "website": "https://www.lasestrellas.tv/"
+    },
+    {
       "id": "LasTortugasNinja.us",
       "name": "Las Tortugas Ninja",
       "country": "US",
@@ -50200,6 +50228,19 @@
       ],
       "logo": "https://i.imgur.com/AWUcSb8.png",
       "website": "http://www.mahapunjabi.com/"
+    },
+    {
+      "id": "MahdawiounTV.iq",
+      "name": "MahdawiounTV",
+      "country": "IQ",
+      "languages": [
+        "ara"
+      ],
+      "categories": [
+        "religious"
+      ],
+      "logo": "https://mahdawioun.tv/wp-content/uploads/2024/03/New-Logo-Color.png",
+      "website": "https://mahdawioun.tv/"
     },
     {
       "id": "MahimaiTV.in",
@@ -57406,6 +57447,19 @@
       "website": "https://nevadacountymedia.org/main-channel"
     },
     {
+      "id": "NCN.ro",
+      "name": "NCN",
+      "country": "RO",
+      "languages": [
+        "ron"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/c/c3/NCN.svg/revision/latest/scale-to-width-down/1000?cb=20191223182658",
+      "website": "http://ncn.ro/"
+    },
+    {
       "id": "NCTV.cl",
       "name": "NCTV",
       "country": "CL",
@@ -62416,6 +62470,19 @@
       ],
       "logo": "https://upload.wikimedia.org/wikipedia/commons/3/37/One_Channel_Logo_2019.png",
       "website": "https://www.onetv.gr/"
+    },
+    {
+      "id": "ONEChannel.vn",
+      "name": "ON E Channel",
+      "country": "VN",
+      "languages": [
+        "vie"
+      ],
+      "categories": [
+        "entertainment"
+      ],
+      "logo": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/VTVCab5%20-%20ON%20E%20Channel.png",
+      "website": "https://vtvcab.vn"
     },
     {
       "id": "OneFM.lb",
@@ -70521,7 +70588,7 @@
       "categories": [
         "general"
       ],
-      "logo": null,
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/0/0f/Profi_24_TV.png/revision/latest?cb=20251020190432",
       "website": "https://profi24.ro/"
     },
     {
@@ -76810,6 +76877,17 @@
       "website": "https://rta.af/"
     },
     {
+      "id": "RTAEducation.af",
+      "name": "RTA Education",
+      "country": "AF",
+      "languages": [
+        "pus"
+      ],
+      "categories": [],
+      "logo": "https://rta.af/artmedia/2022/12/rta-logo-final-300x185.png",
+      "website": "https://rta.af/live/"
+    },
+    {
       "id": "RTArabic.ru",
       "name": "RT Arabic",
       "country": "RU",
@@ -78587,6 +78665,17 @@
       "website": "http://www.sabc2.co.za/"
     },
     {
+      "id": "SABC3.za",
+      "name": "SABC 3",
+      "country": "ZA",
+      "languages": [
+        "eng"
+      ],
+      "categories": [],
+      "logo": "https://i.imgur.com/eEhLk1D.png",
+      "website": "http://www.sabc3.co.za/"
+    },
+    {
       "id": "SABCLehae.za",
       "name": "SABC Lehae",
       "country": "ZA",
@@ -80109,19 +80198,6 @@
       "categories": [],
       "logo": "https://i.imgur.com/HFmkjiR.png",
       "website": "https://www.scientology.tv/"
-    },
-    {
-      "id": "SCorbyTV.us",
-      "name": "S Corby TV",
-      "country": "US",
-      "languages": [
-        "eng"
-      ],
-      "categories": [
-        "kids"
-      ],
-      "logo": "https://i.postimg.cc/432q9g12/In-Shot-20260908-063951605.png",
-      "website": "https://sites.google.com/view/splusgroup"
     },
     {
       "id": "ScorchTV.tt",
@@ -89482,6 +89558,20 @@
       ],
       "logo": "https://i.imgur.com/Ogw0COv.png",
       "website": "https://www.tvcplus.live/"
+    },
+    {
+      "id": "TelevisionCaribe.us",
+      "name": "Television Caribe",
+      "country": "US",
+      "languages": [
+        "spa"
+      ],
+      "categories": [
+        "entertainment",
+        "general"
+      ],
+      "logo": "https://televisioncaribe.com/logo.png",
+      "website": "https://televisioncaribe.com"
     },
     {
       "id": "TelevisionComayaguaCanal40.hn",
@@ -103215,19 +103305,6 @@
       "website": "https://lionsgatechannels.com/channel/wanted-dead-or-alive"
     },
     {
-      "id": "WAPATV41.pr",
-      "name": "WAPA-TV 4.1",
-      "country": "PR",
-      "languages": [
-        "spa"
-      ],
-      "categories": [
-        "general"
-      ],
-      "logo": "https://i.imgur.com/kqq7tD9.png",
-      "website": "http://www.televicentropr.com/"
-    },
-    {
       "id": "Wapp.cl",
       "name": "Wapp",
       "country": "CL",
@@ -105025,32 +105102,6 @@
       ],
       "logo": "https://i.imgur.com/HARIGQl.png",
       "website": "http://psmnews.mv/"
-    },
-    {
-      "id": "YETMax.in",
-      "name": "YET Max",
-      "country": "IN",
-      "languages": [
-        "tam"
-      ],
-      "categories": [
-        "music"
-      ],
-      "logo": "https://yettelevision.com/assets/images/logo/channel_11847.png",
-      "website": "https://yet.plus/"
-    },
-    {
-      "id": "YETTV.in",
-      "name": "YET TV",
-      "country": "IN",
-      "languages": [
-        "tam"
-      ],
-      "categories": [
-        "entertainment"
-      ],
-      "logo": "https://yettelevision.com/assets/images/logo/channel_1.png",
-      "website": "https://yet.plus/"
     },
     {
       "id": "YleTeemaFem.fi",
