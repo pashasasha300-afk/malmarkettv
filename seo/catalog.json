@@ -6840,20 +6840,6 @@
       "website": "https://www.althania.tv/"
     },
     {
-      "id": "Althingi.is",
-      "name": "Althingi",
-      "country": "IS",
-      "languages": [
-        "eng",
-        "isl"
-      ],
-      "categories": [
-        "legislative"
-      ],
-      "logo": "https://i.imgur.com/tKNPdea.png",
-      "website": "https://www.althingi.is/"
-    },
-    {
       "id": "AltMediaTV.py",
       "name": "Alt Media TV",
       "country": "PY",
@@ -14687,19 +14673,6 @@
       "website": "https://btb.j00r.us"
     },
     {
-      "id": "BTBMusic.pl",
-      "name": "BTB Music",
-      "country": "PL",
-      "languages": [
-        "pol"
-      ],
-      "categories": [
-        "music"
-      ],
-      "logo": "https://btb.j00r.us/images/logo_BTBMusic.webp",
-      "website": "https://btb.j00r.us"
-    },
-    {
       "id": "BTLTV.ke",
       "name": "BTL TV",
       "country": "KE",
@@ -14711,6 +14684,21 @@
       ],
       "logo": "https://i.imgur.com/4r09woD.jpg",
       "website": null
+    },
+    {
+      "id": "BTLTV.nl",
+      "name": "BTL TV",
+      "country": "NL",
+      "languages": [
+        "eng",
+        "pan",
+        "urd"
+      ],
+      "categories": [
+        "religious"
+      ],
+      "logo": "https://yt3.googleusercontent.com/ytc/APkrFKZYgQTsDhkbaqmPRCPZIf0UgZqF1wa6aG2eo8ti=s176-c-k-c0x00ffffff-no-rj-mo",
+      "website": "https://btl-tv.com/"
     },
     {
       "id": "BTMTV.ug",
@@ -37846,6 +37834,19 @@
       "website": "https://haunt-tv.com/"
     },
     {
+      "id": "HBCUGOSports.us",
+      "name": "HBCU-GO Sports",
+      "country": "US",
+      "languages": [
+        "eng"
+      ],
+      "categories": [
+        "sports"
+      ],
+      "logo": "https://i.imgur.com/TY6sx5W.png",
+      "website": "https://hbcugo.tv/"
+    },
+    {
       "id": "HBTV.us",
       "name": "HBTV",
       "country": "US",
@@ -43142,6 +43143,19 @@
       ],
       "logo": "https://imgur.com/EPYHUSc.jpeg",
       "website": "https://dominicanchannels.com/jimani-tv/"
+    },
+    {
+      "id": "JingmenComprehensiveNewsChannel.cn",
+      "name": "Jingmen Comprehensive News Channel",
+      "country": "CN",
+      "languages": [
+        "zho"
+      ],
+      "categories": [
+        "news"
+      ],
+      "logo": "https://www.tvchinese.net/uploads/tv/jmsxwpd.jpg",
+      "website": "http://www.jmtv.com.cn/folder48/folder50"
     },
     {
       "id": "JinTV.nl",
@@ -52711,19 +52725,6 @@
       "website": "http://www.metrotvtelugu.com/"
     },
     {
-      "id": "MeTV.us",
-      "name": "MeTV",
-      "country": "US",
-      "languages": [
-        "eng"
-      ],
-      "categories": [
-        "entertainment"
-      ],
-      "logo": "https://i.imgur.com/R3tUA2Z.png",
-      "website": "https://www.metv.com/"
-    },
-    {
       "id": "MexiquenseTV.mx",
       "name": "Mexiquense TV",
       "country": "MX",
@@ -61920,19 +61921,6 @@
       ],
       "logo": "https://i.imgur.com/UkQTR5b.png",
       "website": "http://part.gov.om/part/"
-    },
-    {
-      "id": "Omega.is",
-      "name": "Omega",
-      "country": "IS",
-      "languages": [
-        "isl"
-      ],
-      "categories": [
-        "religious"
-      ],
-      "logo": "https://i.imgur.com/doybFbZ.png",
-      "website": "https://omega.is/"
     },
     {
       "id": "OmegaChannel.cy",
@@ -73220,6 +73208,19 @@
       "website": "https://www.radio3net.ro/"
     },
     {
+      "id": "RadioRomaniaAntenaSatelor.ro",
+      "name": "Radio Romania Antena Satelor",
+      "country": "RO",
+      "languages": [
+        "ron"
+      ],
+      "categories": [
+        "music"
+      ],
+      "logo": "https://www.antenasatelor.ro/templates/default/images/custom/logo-main.svg",
+      "website": "https://www.antenasatelor.ro/"
+    },
+    {
       "id": "RadioRomaniaIasi.ro",
       "name": "Radio Romania Iasi",
       "country": "RO",
@@ -82305,19 +82306,6 @@
       "website": "https://www.cityofsantamaria.org/city-government/departments/city-manager/santa-maria-community-television"
     },
     {
-      "id": "SMetroTV.us",
-      "name": "S Metro TV",
-      "country": "US",
-      "languages": [
-        "eng"
-      ],
-      "categories": [
-        "general"
-      ],
-      "logo": "https://i.postimg.cc/1z72qQKC/In-Shot-20260908-064106298.png",
-      "website": "https://sites.google.com/view/splusgroup"
-    },
-    {
       "id": "SmileTV.ru",
       "name": "Smile TV",
       "country": "RU",
@@ -82889,6 +82877,19 @@
       "categories": [],
       "logo": "https://i.imgur.com/9Qq8DKh.png",
       "website": "https://www.sonykal.com/"
+    },
+    {
+      "id": "SonyMovies.us",
+      "name": "Sony Movies",
+      "country": "US",
+      "languages": [
+        "eng"
+      ],
+      "categories": [
+        "movies"
+      ],
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png",
+      "website": "https://www.sonymovies.com/"
     },
     {
       "id": "SonyMoviesLatinAmerica.us",
@@ -93815,6 +93816,19 @@
       ],
       "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/TTN24.png",
       "website": null
+    },
+    {
+      "id": "TTVNews.tw",
+      "name": "TTV News",
+      "country": "TW",
+      "languages": [
+        "zho"
+      ],
+      "categories": [
+        "news"
+      ],
+      "logo": "https://i.imgur.com/AfkK0gv.png",
+      "website": "https://www.ttv.com.tw/news/"
     },
     {
       "id": "TUDN.us",
