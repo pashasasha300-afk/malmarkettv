@@ -8177,6 +8177,20 @@
       "website": "https://antenaplay.ro/"
     },
     {
+      "id": "AntenaPlayEvents.ro",
+      "name": "AntenaPlay Events",
+      "country": "RO",
+      "languages": [
+        "eng",
+        "ron"
+      ],
+      "categories": [
+        "sports"
+      ],
+      "logo": null,
+      "website": null
+    },
+    {
       "id": "AntenaSeisTV.cr",
       "name": "Antena Seis TV",
       "country": "CR",
@@ -10291,19 +10305,6 @@
       ],
       "logo": "https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentictravel_white.png",
       "website": "https://www.autentic.com/117/Channels.htm#autentic_travel"
-    },
-    {
-      "id": "AutonomaTV.cl",
-      "name": "Autonoma TV",
-      "country": "CL",
-      "languages": [
-        "spa"
-      ],
-      "categories": [
-        "general"
-      ],
-      "logo": "https://i.imgur.com/kD6badL.png",
-      "website": "https://autonomatv.cl/"
     },
     {
       "id": "AutoPlus.ru",
@@ -16787,17 +16788,6 @@
       "website": "https://gia.tv/watchssh101.php?sn=cnal70tv"
     },
     {
-      "id": "Canal74SanAntonio.cl",
-      "name": "Canal 74 San Antonio",
-      "country": "CL",
-      "languages": [
-        "spa"
-      ],
-      "categories": [],
-      "logo": "https://i.imgur.com/WRYsbjX.png",
-      "website": "https://www.canal74.cl/"
-    },
-    {
       "id": "Canal79LaCosta.ar",
       "name": "Canal 79 La Costa",
       "country": "AR",
@@ -17274,17 +17264,6 @@
       ],
       "logo": "https://i.imgur.com/gK0M1jB.png",
       "website": "https://www.canaldelsol.com/"
-    },
-    {
-      "id": "CanaldelSur.cl",
-      "name": "Canal del Sur",
-      "country": "CL",
-      "languages": [
-        "spa"
-      ],
-      "categories": [],
-      "logo": "https://i.imgur.com/NVLJBzy.png",
-      "website": "https://www.canaldelsur.cl/"
     },
     {
       "id": "CanalDiocesano.es",
@@ -21958,19 +21937,6 @@
       "website": "https://www.cityofwhittier.org/government/city-manager/citytv-online-streaming"
     },
     {
-      "id": "CiudadanoRadio.cl",
-      "name": "Ciudadano Radio",
-      "country": "CL",
-      "languages": [
-        "spa"
-      ],
-      "categories": [
-        "general"
-      ],
-      "logo": "https://cdn.m3u.cl/logo/1655_Ciudadano_Radio.png",
-      "website": null
-    },
-    {
       "id": "CiudadesdelOcioTV.es",
       "name": "Ciudades del Ocio TV",
       "country": "ES",
@@ -22285,19 +22251,6 @@
       ],
       "logo": "https://i.imgur.com/RcxBEUo.jpg",
       "website": "https://www.clergytv.co.ke/"
-    },
-    {
-      "id": "ClickTVChile.cl",
-      "name": "ClickTV Chile",
-      "country": "CL",
-      "languages": [
-        "spa"
-      ],
-      "categories": [
-        "documentary"
-      ],
-      "logo": "https://i.imgur.com/H0XNbMS.png",
-      "website": "https://clicktvchile.cl/"
     },
     {
       "id": "CloudflareTV.us",
@@ -24715,19 +24668,6 @@
       "website": "https://www.cityofcalabasas.com/government/communications/ctv-the-calabasas-channel"
     },
     {
-      "id": "CTV35.cl",
-      "name": "CTV35",
-      "country": "CL",
-      "languages": [
-        "spa"
-      ],
-      "categories": [
-        "general"
-      ],
-      "logo": "https://i.imgur.com/AIbkWj6.png",
-      "website": "https://www.ctv35.cl/"
-    },
-    {
       "id": "CTV8HD.kh",
       "name": "CTV8 HD",
       "country": "KH",
@@ -24802,19 +24742,6 @@
       ],
       "logo": "https://eitv6.cdn.broadpeak.io/account351-i1438/channel/53/quadrada_-3-_pequeno-1723832301.png",
       "website": null
-    },
-    {
-      "id": "CulturaOnline.cl",
-      "name": "Cultura Online",
-      "country": "CL",
-      "languages": [
-        "spa"
-      ],
-      "categories": [
-        "culture"
-      ],
-      "logo": "https://i.imgur.com/w8td5Lq.png",
-      "website": "https://www.culturaonline.cl/"
     },
     {
       "id": "CumbiaMix.ar",
@@ -27137,19 +27064,6 @@
       ],
       "logo": "https://i.imgur.com/o2a7s4W.png",
       "website": "https://www.dieztv.es/"
-    },
-    {
-      "id": "DiferenciaRadioTV.cl",
-      "name": "Diferencia Radio TV",
-      "country": "CL",
-      "languages": [
-        "spa"
-      ],
-      "categories": [
-        "general"
-      ],
-      "logo": "https://i.imgur.com/hJCGWKr.png",
-      "website": "https://www.radiodiferenciapaillaco.cl/"
     },
     {
       "id": "DiffrentStrokesArnold.us",
@@ -29557,19 +29471,6 @@
       ],
       "logo": "https://i.imgur.com/rntSEDZ.png",
       "website": "https://tethd.tv/"
-    },
-    {
-      "id": "EGMChannel.cl",
-      "name": "EGM Channel",
-      "country": "CL",
-      "languages": [
-        "spa"
-      ],
-      "categories": [
-        "general"
-      ],
-      "logo": "https://i.imgur.com/RXRKPvs.png",
-      "website": "http://www.egmtv.online/"
     },
     {
       "id": "EgnatiaTV.gr",
@@ -32013,19 +31914,6 @@
       ],
       "logo": "https://i.imgur.com/TTWl2Iy.png",
       "website": "https://groupeevasionguinee.info/"
-    },
-    {
-      "id": "Evavision.cl",
-      "name": "Evavision",
-      "country": "CL",
-      "languages": [
-        "spa"
-      ],
-      "categories": [
-        "general"
-      ],
-      "logo": "https://i.imgur.com/neJGp9C.png",
-      "website": "https://consorcioeva.cl/"
     },
     {
       "id": "EventyrligOppussing.se",
@@ -39654,19 +39542,6 @@
       "website": "https://huachotv.com/"
     },
     {
-      "id": "HuascoTelevision.cl",
-      "name": "Huasco Television",
-      "country": "CL",
-      "languages": [
-        "spa"
-      ],
-      "categories": [
-        "general"
-      ],
-      "logo": "https://i.imgur.com/Fo2DV70.png",
-      "website": "http://www.huascotelevisionstreaming.cl/"
-    },
-    {
       "id": "HudaTV.eg",
       "name": "Huda TV",
       "country": "EG",
@@ -41227,19 +41102,6 @@
       "website": "http://www.insyncmusic.net/"
     },
     {
-      "id": "InteractivaTV.cl",
-      "name": "Interactiva TV",
-      "country": "CL",
-      "languages": [
-        "spa"
-      ],
-      "categories": [
-        "general"
-      ],
-      "logo": "https://i.imgur.com/RcjwlX4.png",
-      "website": "https://radiointeractivafm.cl/"
-    },
-    {
       "id": "InteractivoTelevision.bo",
       "name": "Interactivo Television",
       "country": "BO",
@@ -41304,19 +41166,6 @@
       ],
       "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7e/INTER%2B_HD_%282021%29.webp",
       "website": "http://interplus.ua/"
-    },
-    {
-      "id": "InterradioTV.cl",
-      "name": "Interradio TV",
-      "country": "CL",
-      "languages": [
-        "spa"
-      ],
-      "categories": [
-        "music"
-      ],
-      "logo": "https://i.imgur.com/3875n4G.png",
-      "website": "https://www.interradio1.net/"
     },
     {
       "id": "InterTV.it",
@@ -46926,19 +46775,6 @@
       "website": "https://www.laff.com/"
     },
     {
-      "id": "LaGranjaTV.cl",
-      "name": "La Granja TV",
-      "country": "CL",
-      "languages": [
-        "spa"
-      ],
-      "categories": [
-        "music"
-      ],
-      "logo": "https://i.imgur.com/90luGab.png",
-      "website": "https://www.lagranja.tv/"
-    },
-    {
       "id": "LagunaTV.do",
       "name": "Laguna TV",
       "country": "DO",
@@ -49504,17 +49340,6 @@
       "website": null
     },
     {
-      "id": "LTV.cl",
-      "name": "LTV",
-      "country": "CL",
-      "languages": [
-        "spa"
-      ],
-      "categories": [],
-      "logo": "https://i.imgur.com/XHs06BX.png",
-      "website": "https://www.ltvcanal.cl/"
-    },
-    {
       "id": "LTV.hn",
       "name": "LTV",
       "country": "HN",
@@ -50794,19 +50619,6 @@
       ],
       "logo": "https://images.pluto.tv/channels/678f88bb272ded16b1558c5e/colorLogoPNG.png",
       "website": "https://pluto.tv/live-tv/man-with-a-plan-se/details"
-    },
-    {
-      "id": "MaquiTV.cl",
-      "name": "Maqui TV",
-      "country": "CL",
-      "languages": [
-        "spa"
-      ],
-      "categories": [
-        "music"
-      ],
-      "logo": "https://i.imgur.com/U849xvX.png",
-      "website": "https://maquionline.cl/wp/maqui-tv/"
     },
     {
       "id": "Maraya.sa",
@@ -56971,19 +56783,6 @@
       "website": "https://ntv.pe/"
     },
     {
-      "id": "NativaTV.cl",
-      "name": "Nativa TV",
-      "country": "CL",
-      "languages": [
-        "spa"
-      ],
-      "categories": [
-        "general"
-      ],
-      "logo": "https://i.imgur.com/0SFE2Fr.png",
-      "website": "https://nativatv.cl/"
-    },
-    {
       "id": "NativaTVSatipo.pe",
       "name": "Nativa TV Satipo",
       "country": "PE",
@@ -60772,6 +60571,17 @@
       "website": "https://www.ntv.ru/air/ntvseries/"
     },
     {
+      "id": "NTVSledstviyeveli.ru",
+      "name": "NTV Sledstviye veli",
+      "country": "RU",
+      "languages": [
+        "rus"
+      ],
+      "categories": [],
+      "logo": "https://image.tmdb.org/t/p/original/qGCnptpQ9slUAoZ7e5y1Dk4TtjJ.png",
+      "website": null
+    },
+    {
       "id": "NTVSvoyaigra.ru",
       "name": "NTV Svoya igra",
       "country": "RU",
@@ -60807,19 +60617,6 @@
       ],
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NTV_logo_2003.svg/1280px-NTV_logo_2003.svg.png",
       "website": "https://ntv.ru/"
-    },
-    {
-      "id": "Nublevision.cl",
-      "name": "Nublevision",
-      "country": "CL",
-      "languages": [
-        "spa"
-      ],
-      "categories": [
-        "general"
-      ],
-      "logo": "https://i.imgur.com/nkQyR1X.png",
-      "website": "https://nublevision.cl/"
     },
     {
       "id": "NuestraImagenTV.gt",
@@ -62896,20 +62693,6 @@
       "website": "https://videoplayer.telvue.com/player/BUJHRRxhCf0u3AtXMrx7Sx7CjdW8zUFT/stream/851?autostart=false&showtabssearch=true"
     },
     {
-      "id": "OrbitaChileTV.cl",
-      "name": "Orbita Chile TV",
-      "country": "CL",
-      "languages": [
-        "spa"
-      ],
-      "categories": [
-        "movies",
-        "music"
-      ],
-      "logo": "https://i.imgur.com/gbNh79Z.png",
-      "website": "https://orbitachiletv.org/"
-    },
-    {
       "id": "ORBITTV.do",
       "name": "ORBIT TV",
       "country": "DO",
@@ -63117,19 +62900,6 @@
       ],
       "logo": "https://i.imgur.com/N0Zn4zU.png",
       "website": "https://iryston.tv/"
-    },
-    {
-      "id": "OsornoTV.cl",
-      "name": "Osorno TV",
-      "country": "CL",
-      "languages": [
-        "spa"
-      ],
-      "categories": [
-        "general"
-      ],
-      "logo": "https://i.imgur.com/0ELjva6.png",
-      "website": "https://www.osornotv.cl/"
     },
     {
       "id": "OtkritiymirZdorove.ru",
@@ -70236,19 +70006,6 @@
       "website": "https://pravasichannel.com/"
     },
     {
-      "id": "PreludioTV.cl",
-      "name": "Preludio TV",
-      "country": "CL",
-      "languages": [
-        "spa"
-      ],
-      "categories": [
-        "religious"
-      ],
-      "logo": "https://www.preludioradio.cl/wp-content/uploads/2023/06/logopreludio.png",
-      "website": "https://www.preludioradio.cl/tv/#"
-    },
-    {
       "id": "PremierSports.ph",
       "name": "Premier Sports",
       "country": "PH",
@@ -70465,19 +70222,6 @@
       ],
       "logo": "https://i.imgur.com/RQoDzpN.png",
       "website": null
-    },
-    {
-      "id": "PrimiciaVida.cl",
-      "name": "Primicia Vida",
-      "country": "CL",
-      "languages": [
-        "spa"
-      ],
-      "categories": [
-        "religious"
-      ],
-      "logo": "https://i.imgur.com/hnkVwTG.png",
-      "website": "https://www.primiciavida.cl"
     },
     {
       "id": "PrimitivosTV.cl",
@@ -72648,19 +72392,6 @@
       "website": null
     },
     {
-      "id": "RadioFiessta.cl",
-      "name": "Radio Fiessta",
-      "country": "CL",
-      "languages": [
-        "spa"
-      ],
-      "categories": [
-        "music"
-      ],
-      "logo": "https://cdn.m3u.cl/logo/401_Radio_Fiessta.png",
-      "website": null
-    },
-    {
       "id": "RadioFiestadeMilagrosTV.hn",
       "name": "Radio Fiesta de Milagros TV",
       "country": "HN",
@@ -72875,19 +72606,6 @@
       ],
       "logo": "https://i.imgur.com/65ftM3v.png",
       "website": "https://radioserena.cl/"
-    },
-    {
-      "id": "RadioLasNieves.cl",
-      "name": "Radio Las Nieves",
-      "country": "CL",
-      "languages": [
-        "spa"
-      ],
-      "categories": [
-        "general"
-      ],
-      "logo": "https://cdn.m3u.cl/logo/408_Radio_Las_Nieves.png",
-      "website": null
     },
     {
       "id": "RadioLolaTV.rs",
@@ -73664,19 +73382,6 @@
       ],
       "logo": "https://i.imgur.com/iHaFLHX.png",
       "website": "http://www.roriente.org/site/"
-    },
-    {
-      "id": "RadioUC.cl",
-      "name": "Radio UC",
-      "country": "CL",
-      "languages": [
-        "spa"
-      ],
-      "categories": [
-        "general"
-      ],
-      "logo": "https://cdn.m3u.cl/logo/1467_Radio_UC.png",
-      "website": null
     },
     {
       "id": "RadioUNIACC.cl",
@@ -87498,6 +87203,19 @@
       "website": null
     },
     {
+      "id": "TebeoTV.fr",
+      "name": "Tebeo TV",
+      "country": "FR",
+      "languages": [
+        "fra"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://i.imgur.com/WdZWBEd.png",
+      "website": "https://www.tebeo.bzh/"
+    },
+    {
       "id": "TechStorm.sg",
       "name": "TechStorm",
       "country": "SG",
@@ -87895,19 +87613,6 @@
       "website": null
     },
     {
-      "id": "TelecanalSantaCruz.cl",
-      "name": "Telecanal Santa Cruz",
-      "country": "CL",
-      "languages": [
-        "spa"
-      ],
-      "categories": [
-        "news"
-      ],
-      "logo": "https://i.imgur.com/5byPkd7.png",
-      "website": "https://www.santacruztelecanalhd.cl/"
-    },
-    {
       "id": "TeleCauquenes.cl",
       "name": "TeleCauquenes",
       "country": "CL",
@@ -88054,6 +87759,20 @@
       "categories": [],
       "logo": "https://www.telecostaescuintla.com/gallery_gen/f57408fa00aca6d969248be4b56b48e6.png",
       "website": "https://www.telecostaescuintla.com/"
+    },
+    {
+      "id": "Telecyan.us",
+      "name": "Telecyan",
+      "country": "US",
+      "languages": [
+        "eng"
+      ],
+      "categories": [
+        "comedy",
+        "series"
+      ],
+      "logo": "https://i.imgur.com/9BnHCj5.png",
+      "website": "https://telecyan.blogspot.com"
     },
     {
       "id": "TeleDajabonTV.do",
@@ -89374,19 +89093,6 @@
       "categories": [],
       "logo": "https://i.imgur.com/u6dLKa9.png",
       "website": null
-    },
-    {
-      "id": "TeletrakTV.cl",
-      "name": "Teletrak TV",
-      "country": "CL",
-      "languages": [
-        "spa"
-      ],
-      "categories": [
-        "sports"
-      ],
-      "logo": "https://i.imgur.com/NoJvlig.png",
-      "website": "https://www.teletrak.cl/"
     },
     {
       "id": "Teletricolore.it",
@@ -95703,19 +95409,6 @@
       "website": "http://www.rtcg.me/"
     },
     {
-      "id": "TVChile.cl",
-      "name": "TV Chile",
-      "country": "CL",
-      "languages": [
-        "spa"
-      ],
-      "categories": [
-        "general"
-      ],
-      "logo": "https://i.imgur.com/oYFto0V.png",
-      "website": "http://www.tvchile.cl/"
-    },
-    {
       "id": "TVCidade.cv",
       "name": "TV Cidade",
       "country": "CV",
@@ -96964,17 +96657,6 @@
       ],
       "logo": "https://i.imgur.com/FZUQ2WP.png",
       "website": "https://tvluzrd.com/"
-    },
-    {
-      "id": "TVM.cl",
-      "name": "TVM",
-      "country": "CL",
-      "languages": [
-        "spa"
-      ],
-      "categories": [],
-      "logo": "https://i.imgur.com/9dwZoxz.png",
-      "website": "https://canaltvm.cl/"
     },
     {
       "id": "TVM.mz",
@@ -102313,17 +101995,6 @@
       "website": "https://www.vozfmradio.com/"
     },
     {
-      "id": "VisionTV.cl",
-      "name": "Vision TV",
-      "country": "CL",
-      "languages": [
-        "spa"
-      ],
-      "categories": [],
-      "logo": "https://i.imgur.com/mTesx1h.png",
-      "website": "https://visiontv.cl/"
-    },
-    {
       "id": "VisionTV.gt",
       "name": "Vision TV",
       "country": "GT",
@@ -102483,17 +102154,6 @@
       ],
       "logo": "https://raw.githubusercontent.com/vivetvargentina/vive-tv/main/Logo%20512x512-04.png",
       "website": "https://vivetv.com.ar/"
-    },
-    {
-      "id": "VivoTV.cl",
-      "name": "Vivo TV",
-      "country": "CL",
-      "languages": [
-        "spa"
-      ],
-      "categories": [],
-      "logo": "https://i.imgur.com/kBRbCUb.png",
-      "website": "http://www.vivotv.cl/"
     },
     {
       "id": "VizionPlus.al",
@@ -103317,6 +102977,19 @@
       ],
       "logo": "https://i.imgur.com/vaSXaFp.png",
       "website": "https://lionsgatechannels.com/channel/wanted-dead-or-alive"
+    },
+    {
+      "id": "WAPATV41.pr",
+      "name": "WAPA-TV 4.1",
+      "country": "PR",
+      "languages": [
+        "spa"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://i.imgur.com/kqq7tD9.png",
+      "website": "http://www.televicentropr.com/"
     },
     {
       "id": "Wapp.cl",
@@ -106449,19 +106122,6 @@
       ],
       "logo": "https://i.imgur.com/ciTJrnl.png",
       "website": "https://www.zoomoo.tv/"
-    },
-    {
-      "id": "ZoomTecnologicoPlus.cl",
-      "name": "Zoom Tecnologico Plus",
-      "country": "CL",
-      "languages": [
-        "spa"
-      ],
-      "categories": [
-        "general"
-      ],
-      "logo": "https://cdn.m3u.cl/logo/1617_Zoom_Tecnologico_Plus.png",
-      "website": null
     },
     {
       "id": "Zoopark.ru",
