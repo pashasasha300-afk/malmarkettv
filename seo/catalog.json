@@ -8217,6 +8217,19 @@
       "website": "http://www.antenaseis.com/"
     },
     {
+      "id": "AntenaSport.ro",
+      "name": "AntenaSport",
+      "country": "RO",
+      "languages": [
+        "ron"
+      ],
+      "categories": [
+        "sports"
+      ],
+      "logo": "https://cdn.as.ro/wp-content/themes/antenasport/images/icons-as/as.svg",
+      "website": "https://as.ro/"
+    },
+    {
       "id": "AntenaSUR.pe",
       "name": "Antena SUR",
       "country": "PE",
@@ -13939,20 +13952,6 @@
         "movies"
       ],
       "logo": "https://i.imgur.com/ugPo6ca.png",
-      "website": "http://www.bollywoodtv.ro/"
-    },
-    {
-      "id": "BollywoodFilm.ro",
-      "name": "Bollywood Film",
-      "country": "RO",
-      "languages": [
-        "ron"
-      ],
-      "categories": [
-        "classic",
-        "movies"
-      ],
-      "logo": "https://i.imgur.com/bEMUpHZ.png",
       "website": "http://www.bollywoodtv.ro/"
     },
     {
@@ -31010,7 +31009,7 @@
       "categories": [
         "sports"
       ],
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/960px-ESPN_5_logo.svg.png",
       "website": "https://espn.com/"
     },
     {
@@ -31023,7 +31022,7 @@
       "categories": [
         "sports"
       ],
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
+      "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/960px-ESPN_6_logo.svg.png",
       "website": "https://espn.com/"
     },
     {
@@ -31036,7 +31035,7 @@
       "categories": [
         "sports"
       ],
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png",
       "website": "https://espn.com/"
     },
     {
@@ -31827,6 +31826,7 @@
       "name": "Eurosport 1",
       "country": "FR",
       "languages": [
+        "ces",
         "dan",
         "deu",
         "ell",
@@ -31856,6 +31856,7 @@
       "name": "Eurosport 2",
       "country": "FR",
       "languages": [
+        "ces",
         "dan",
         "deu",
         "ell",
@@ -54043,32 +54044,6 @@
       "website": "https://mooz.tv/mooz-dance/"
     },
     {
-      "id": "MoozHits.ro",
-      "name": "Mooz Hits",
-      "country": "RO",
-      "languages": [
-        "ron"
-      ],
-      "categories": [
-        "music"
-      ],
-      "logo": "https://i.imgur.com/GwATd3Y.png",
-      "website": "https://mooz.tv/mooz-hits/"
-    },
-    {
-      "id": "MoozRo.ro",
-      "name": "Mooz Ro!",
-      "country": "RO",
-      "languages": [
-        "ron"
-      ],
-      "categories": [
-        "music"
-      ],
-      "logo": "https://i.imgur.com/Ft24x5T.png",
-      "website": "https://mooz.tv/mooz-ro/"
-    },
-    {
       "id": "MoraNetTV.hu",
       "name": "Mora-Net TV",
       "country": "HU",
@@ -58356,6 +58331,19 @@
       ],
       "logo": "https://papaji.freetvindia.com/media/News_Live_Bangla.png",
       "website": null
+    },
+    {
+      "id": "NewsMalayalam24x7.in",
+      "name": "News Malayalam 24x7",
+      "country": "IN",
+      "languages": [
+        "mal"
+      ],
+      "categories": [
+        "news"
+      ],
+      "logo": "https://dtil.tmsimg.com/assets/s166320_ld_h15_aa.png?lock=720x540",
+      "website": "https://newsmalayalam.com/"
     },
     {
       "id": "NewsMarathi24x7.in",
@@ -73635,6 +73623,19 @@
       "website": null
     },
     {
+      "id": "RadioZU.ro",
+      "name": "Radio ZU",
+      "country": "RO",
+      "languages": [
+        "ron"
+      ],
+      "categories": [
+        "music"
+      ],
+      "logo": "https://radiozu.ro/img/logo-zu.png",
+      "website": "https://radiozu.ro/"
+    },
+    {
       "id": "RadostMoya.ru",
       "name": "Radost Moya",
       "country": "RU",
@@ -76407,6 +76408,21 @@
       "website": "https://www.lyngsat.com/stream/tvchannels/it/Romantica-TV.html"
     },
     {
+      "id": "RomanticFM.ro",
+      "name": "Romantic FM",
+      "country": "RO",
+      "languages": [
+        "eng",
+        "ita",
+        "ron"
+      ],
+      "categories": [
+        "music"
+      ],
+      "logo": "https://assets.antenaplay.ro/2023/08/16/u0AuO3YCe1bdz3xSHgeK.png",
+      "website": "https://antenaplay.ro/live/romantic-fm"
+    },
+    {
       "id": "RonahiTV.sy",
       "name": "Ronahi TV",
       "country": "SY",
@@ -77078,6 +77094,17 @@
       ],
       "logo": "https://i.imgur.com/LzHQoUv.png",
       "website": "https://play.rtl.lu/live/rtl-gold"
+    },
+    {
+      "id": "RTLSuper.de",
+      "name": "RTL Super",
+      "country": "DE",
+      "languages": [
+        "deu"
+      ],
+      "categories": [],
+      "logo": "https://i.imgur.com/KbdK8t9.png",
+      "website": "https://www.superrtl.de/"
     },
     {
       "id": "RTLTeleLetzebuerg.lu",
@@ -83624,19 +83651,6 @@
       "website": "https://www.mtrk.uz/uz/tv/sport/"
     },
     {
-      "id": "SportExtra.ro",
-      "name": "Sport Extra",
-      "country": "RO",
-      "languages": [
-        "ron"
-      ],
-      "categories": [
-        "sports"
-      ],
-      "logo": "https://static.wikia.nocookie.net/logopedia/images/f/fa/Sport_Extra_horizontal.svg/revision/latest/scale-to-width-down/1000?cb=20220425110755",
-      "website": "https://www.sportextra.ro/"
-    },
-    {
       "id": "Sportitalia.it",
       "name": "Sportitalia",
       "country": "IT",
@@ -85340,6 +85354,19 @@
       ],
       "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3431-294x165-FFFFFF.jpg",
       "website": "https://www.vivalivetv.com/channel/super-digital-tv"
+    },
+    {
+      "id": "SuperExpressTV.pl",
+      "name": "Super Express TV",
+      "country": "PL",
+      "languages": [
+        "pol"
+      ],
+      "categories": [
+        "news"
+      ],
+      "logo": "https://i.imgur.com/HuIsALV.png",
+      "website": "https://tv.se.mediateka.pl/"
     },
     {
       "id": "SuperiCarly.us",
@@ -92823,6 +92850,7 @@
       "country": "IN",
       "languages": [
         "ben",
+        "ces",
         "eng",
         "hin",
         "rus",
@@ -102948,6 +102976,19 @@
       ],
       "logo": "https://i.imgur.com/3uEuzVH.jpeg",
       "website": "https://waffitv.com/"
+    },
+    {
+      "id": "WahPunjabi.in",
+      "name": "Wah Punjabi",
+      "country": "IN",
+      "languages": [
+        "pan"
+      ],
+      "categories": [
+        "music"
+      ],
+      "logo": "https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Wah-Punjabi_TV.jpg",
+      "website": null
     },
     {
       "id": "WairarapaTV.nz",
