@@ -9680,6 +9680,19 @@
       "website": null
     },
     {
+      "id": "ASTV.ro",
+      "name": "AS TV",
+      "country": "RO",
+      "languages": [
+        "ron"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/1/1d/AS_TV_2025.png/revision/latest?cb=20250412121320",
+      "website": "https://astv.ro/"
+    },
+    {
       "id": "ASTV.tr",
       "name": "AS TV",
       "country": "TR",
@@ -10815,6 +10828,19 @@
       ],
       "logo": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png",
       "website": null
+    },
+    {
+      "id": "AztecaUno.mx",
+      "name": "Azteca Uno",
+      "country": "MX",
+      "languages": [
+        "spa"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://i.imgur.com/rRxgBtI.png",
+      "website": "https://www.tvazteca.com/aztecauno"
     },
     {
       "id": "AzTV.az",
@@ -22250,6 +22276,19 @@
       ],
       "logo": "https://i.imgur.com/rHxcraT.png",
       "website": null
+    },
+    {
+      "id": "ClassTVModa.it",
+      "name": "Class TV Moda",
+      "country": "IT",
+      "languages": [
+        "ita"
+      ],
+      "categories": [
+        "lifestyle"
+      ],
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Class-tv-moda.png/960px-Class-tv-moda.png",
+      "website": "http://www.tvmoda.it/"
     },
     {
       "id": "ClergyTV.ke",
@@ -80460,6 +80499,19 @@
       "website": "https://pluto.tv/en/live-tv/sensing-murder-gb"
     },
     {
+      "id": "SensTV.ro",
+      "name": "Sens TV",
+      "country": "RO",
+      "languages": [
+        "ron"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/a/a9/Sens_TV.png/revision/latest?cb=20231211141523",
+      "website": "https://senstv.ro/"
+    },
+    {
       "id": "SepehrTV.ir",
       "name": "Sepehr TV",
       "country": "IR",
@@ -83740,6 +83792,19 @@
       ],
       "logo": "https://i.imgur.com/HvFpGeH.png",
       "website": null
+    },
+    {
+      "id": "SportTotalFM.ro",
+      "name": "Sport Total FM",
+      "country": "RO",
+      "languages": [
+        "ron"
+      ],
+      "categories": [
+        "sports"
+      ],
+      "logo": "https://sptfm.ro/wp-content/uploads/2021/05/logo-sport-total-fm-01.png",
+      "website": "https://sptfm.ro/"
     },
     {
       "id": "SportyTV.cz",
@@ -100603,19 +100668,6 @@
       "website": "https://uzreport.news/"
     },
     {
-      "id": "V2BEATTV.uk",
-      "name": "V2BEAT TV",
-      "country": "UK",
-      "languages": [
-        "eng"
-      ],
-      "categories": [
-        "music"
-      ],
-      "logo": "https://i.imgur.com/PXGqyLn.png",
-      "website": "https://www.vibee.tv/"
-    },
-    {
       "id": "V6News.in",
       "name": "V6 News",
       "country": "IN",
@@ -104629,6 +104681,17 @@
       ],
       "categories": [],
       "logo": "https://i.imgur.com/V0v3ST5.png",
+      "website": "http://www.vtibet.com/ds/"
+    },
+    {
+      "id": "XizangTVTibetan.cn",
+      "name": "Xizang TV Tibetan",
+      "country": "CN",
+      "languages": [
+        "bod"
+      ],
+      "categories": [],
+      "logo": "https://i.imgur.com/NtvfnVV.png",
       "website": "http://www.vtibet.com/ds/"
     },
     {
