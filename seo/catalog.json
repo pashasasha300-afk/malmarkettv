@@ -8111,19 +8111,6 @@
       "website": "https://www.antena7.com.do/"
     },
     {
-      "id": "Antena3CNN.ro",
-      "name": "Antena 3 CNN",
-      "country": "RO",
-      "languages": [
-        "ron"
-      ],
-      "categories": [
-        "news"
-      ],
-      "logo": "https://static.wikia.nocookie.net/logopedia/images/8/82/Antena_3_CNN_2022_v1.png/revision/latest/scale-to-width-down/512",
-      "website": "https://www.antena3.ro/"
-    },
-    {
       "id": "Antena3Constanta.ro",
       "name": "Antena 3 Constanta",
       "country": "RO",
@@ -8188,20 +8175,6 @@
       ],
       "logo": "https://static.wikia.nocookie.net/logopedia/images/0/01/Antena_Monden_2022.png/revision/latest/scale-to-width-down/300",
       "website": "https://antenaplay.ro/"
-    },
-    {
-      "id": "AntenaPlayEvents.ro",
-      "name": "AntenaPlay Events",
-      "country": "RO",
-      "languages": [
-        "eng",
-        "ron"
-      ],
-      "categories": [
-        "sports"
-      ],
-      "logo": null,
-      "website": null
     },
     {
       "id": "AntenaSeisTV.cr",
@@ -9340,19 +9313,6 @@
       ],
       "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Ashwaveega_News_24x7.png",
       "website": null
-    },
-    {
-      "id": "AsiaExpressNonStop.ro",
-      "name": "Asia Express NonStop",
-      "country": "RO",
-      "languages": [
-        "ron"
-      ],
-      "categories": [
-        "entertainment"
-      ],
-      "logo": "https://assets.antenaplay.ro/2026/08/25/00keSCoSw0EaWnICcuYB.png",
-      "website": "https://antenaplay.ro/live/asia-express-nonstop"
     },
     {
       "id": "AsianCrush.us",
@@ -12178,6 +12138,19 @@
       ],
       "logo": "https://images.pluto.tv/channels/672e157d7d5da5000812872d/colorLogoPNG-1731073515797.png",
       "website": "https://pluto.tv/live-tv/becker-se/details"
+    },
+    {
+      "id": "beINSportsUSA.us",
+      "name": "beIN Sports USA",
+      "country": "US",
+      "languages": [
+        "eng"
+      ],
+      "categories": [
+        "sports"
+      ],
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg",
+      "website": "http://www.beinsports.com/us/"
     },
     {
       "id": "beINSPORTSXTRA.us",
@@ -20677,6 +20650,7 @@
       "name": "Chefi.ro",
       "country": "RO",
       "languages": [
+        "eng",
         "ron"
       ],
       "categories": [
@@ -31876,6 +31850,7 @@
         "ita",
         "nld",
         "pol",
+        "por",
         "rom",
         "rus",
         "slv",
@@ -31906,6 +31881,7 @@
         "ita",
         "nld",
         "pol",
+        "por",
         "rom",
         "rus",
         "slv",
@@ -37401,19 +37377,6 @@
       "website": null
     },
     {
-      "id": "HalloweenNonStop.ro",
-      "name": "Halloween Non Stop",
-      "country": "RO",
-      "languages": [
-        "ron"
-      ],
-      "categories": [
-        "movies"
-      ],
-      "logo": null,
-      "website": "https://antenaplay.ro/live/halloween-non-stop"
-    },
-    {
       "id": "HamaikaTelebista.es",
       "name": "Hamaika Telebista",
       "country": "ES",
@@ -41131,19 +41094,6 @@
       "website": null
     },
     {
-      "id": "Insulanonstop.ro",
-      "name": "Insula non stop",
-      "country": "RO",
-      "languages": [
-        "ron"
-      ],
-      "categories": [
-        "entertainment"
-      ],
-      "logo": "https://assets.antenaplay.ro/2026/08/20/DlZIyQ0kSAH3YYj30Ovi.png",
-      "website": null
-    },
-    {
       "id": "Insync.in",
       "name": "Insync",
       "country": "IN",
@@ -44165,6 +44115,19 @@
       ],
       "logo": "https://i.imgur.com/wlfyj5l.png",
       "website": "https://www.kanal7avrupa.com/"
+    },
+    {
+      "id": "Kanal8.mk",
+      "name": "Kanal 8",
+      "country": "MK",
+      "languages": [
+        "mkd"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://i.imgur.com/jHbTDhH.png",
+      "website": "http://www.kanal8.mk/"
     },
     {
       "id": "KanalA.si",
@@ -58726,19 +58689,6 @@
       "website": "https://ng907fm.com/"
     },
     {
-      "id": "NHBollyGold.in",
-      "name": "NH BollyGold",
-      "country": "IN",
-      "languages": [
-        "hin"
-      ],
-      "categories": [
-        "movies"
-      ],
-      "logo": "https://i.ibb.co/x9PsrMy/NH-BOLLYGOLD.png",
-      "website": "https://www.nhstudioz.tv/"
-    },
-    {
       "id": "NHKGeneralTV.jp",
       "name": "NHK General TV",
       "country": "JP",
@@ -58780,19 +58730,6 @@
       ],
       "logo": "https://i.imgur.com/4ESi2La.png",
       "website": "http://www.nhkworldpremium.com/"
-    },
-    {
-      "id": "NHLAntenaPlay.ro",
-      "name": "NHL AntenaPlay",
-      "country": "RO",
-      "languages": [
-        "eng"
-      ],
-      "categories": [
-        "sports"
-      ],
-      "logo": "https://assets.antenaplay.ro/2024/10/25/SN0nevshXwKDcZ2Tw1jm.png",
-      "website": "https://antenaplay.ro/live/nhl-live"
     },
     {
       "id": "NHLNetwork.us",
@@ -69569,6 +69506,19 @@
       ],
       "logo": "https://dtil.tmsimg.com/assets/s143665_ld_h15_aa.png?lock=720x540",
       "website": "https://www.polimertv.com/"
+    },
+    {
+      "id": "Polsat.pl",
+      "name": "Polsat",
+      "country": "PL",
+      "languages": [
+        "pol"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://i.imgur.com/xff6zGN.png",
+      "website": "https://www.polsat.pl/"
     },
     {
       "id": "PolsatNews.pl",
@@ -86947,7 +86897,7 @@
       "categories": [
         "general"
       ],
-      "logo": "https://tayninhtv.vn/static/images/logo.png",
+      "logo": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/Logo%20kh%C3%A1c/TTV11%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20T%C3%A2y%20Ninh%20HD/TTV11%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20T%C3%A2y%20Ninh.png",
       "website": "http://ttv11.vn/"
     },
     {
@@ -90440,19 +90390,6 @@
       ],
       "logo": "https://i.imgur.com/ULtuRsj.png",
       "website": "https://thedove.us/"
-    },
-    {
-      "id": "TheFilmDetective.us",
-      "name": "The Film Detective",
-      "country": "US",
-      "languages": [
-        "eng"
-      ],
-      "categories": [
-        "movies"
-      ],
-      "logo": "https://i.imgur.com/yfOwmsP.png",
-      "website": null
     },
     {
       "id": "TheFirstTV.us",
@@ -97578,6 +97515,28 @@
       ],
       "logo": "https://i.ibb.co/HHxGQGD/TVO-kanalbanner-page-0002-1-removebg-preview-300x94.png",
       "website": "https://www.tvoplay.no/"
+    },
+    {
+      "id": "TVP1.pl",
+      "name": "TVP1",
+      "country": "PL",
+      "languages": [
+        "pol"
+      ],
+      "categories": [],
+      "logo": "https://i.imgur.com/ewpSjBs.png",
+      "website": "https://tvp1.tvp.pl/"
+    },
+    {
+      "id": "TVP2.pl",
+      "name": "TVP2",
+      "country": "PL",
+      "languages": [
+        "pol"
+      ],
+      "categories": [],
+      "logo": "https://i.imgur.com/XxCc32B.png",
+      "website": "https://tvp2.tvp.pl/"
     },
     {
       "id": "TVPadreCicero.br",
