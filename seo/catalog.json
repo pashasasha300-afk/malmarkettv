@@ -20751,6 +20751,19 @@
       "website": null
     },
     {
+      "id": "Chefilacutite.ro",
+      "name": "Chefi la cutite",
+      "country": "RO",
+      "languages": [
+        "ron"
+      ],
+      "categories": [
+        "cooking"
+      ],
+      "logo": "https://assets.antenaplay.ro/2026/11/04/G8N7skUwdPOXMI5hwmDm.png",
+      "website": null
+    },
+    {
       "id": "Chefiro.ro",
       "name": "Chefi.ro",
       "country": "RO",
@@ -32067,6 +32080,23 @@
       ],
       "logo": "https://i.imgur.com/f56dHgR.png",
       "website": "https://www.eurosport.fr/"
+    },
+    {
+      "id": "Eurosport4K.fr",
+      "name": "Eurosport 4K",
+      "country": "FR",
+      "languages": [
+        "eng",
+        "fra",
+        "ron",
+        "rus",
+        "slv"
+      ],
+      "categories": [
+        "sports"
+      ],
+      "logo": "https://i.imgur.com/0o3zjC7.png",
+      "website": "https://4k.eurosport.ru/"
     },
     {
       "id": "EuroTV.gr",
@@ -48393,6 +48423,19 @@
       ],
       "logo": "https://i.imgur.com/5wpxVI0.png",
       "website": "http://tv.lrytas.lt/"
+    },
+    {
+      "id": "Lifetime.us",
+      "name": "Lifetime",
+      "country": "US",
+      "languages": [
+        "eng"
+      ],
+      "categories": [
+        "entertainment"
+      ],
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png",
+      "website": "https://www.aenetworks.tv/our-networks/lifetime"
     },
     {
       "id": "LifetimeLatinAmerica.us",
@@ -69741,6 +69784,25 @@
       "website": "https://pluto.tv/live-tv/podradio-pa-pluto-tv-dk/details"
     },
     {
+      "id": "Pogo.in",
+      "name": "Pogo",
+      "country": "IN",
+      "languages": [
+        "hin",
+        "kan",
+        "mal",
+        "mar",
+        "tam",
+        "tel"
+      ],
+      "categories": [
+        "animation",
+        "kids"
+      ],
+      "logo": "https://dtil.tmsimg.com/assets/s143663_ld_h15_aa.png?lock=720x540",
+      "website": null
+    },
+    {
       "id": "PointeTV.ag",
       "name": "Pointe TV",
       "country": "AG",
@@ -77442,6 +77504,17 @@
       "website": "http://www.rtl.be/tv/rtltvi"
     },
     {
+      "id": "RTLup.de",
+      "name": "RTLup",
+      "country": "DE",
+      "languages": [
+        "deu"
+      ],
+      "categories": [],
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/RTLup_Logo_2021.svg/960px-RTLup_Logo_2021.svg.png",
+      "website": "https://www.rtl-up.de/"
+    },
+    {
       "id": "RTLWebRadioTV.lu",
       "name": "RTL Web Radio TV",
       "country": "LU",
@@ -82173,6 +82246,19 @@
         "music"
       ],
       "logo": "https://i.imgur.com/ya5xpUL.png",
+      "website": null
+    },
+    {
+      "id": "SkyNews.ie",
+      "name": "Sky News",
+      "country": "IE",
+      "languages": [
+        "eng"
+      ],
+      "categories": [
+        "news"
+      ],
+      "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1404.png",
       "website": null
     },
     {
@@ -93372,22 +93458,6 @@
       "website": "http://www.travelxp.tv/"
     },
     {
-      "id": "TraVinhTV.vn",
-      "name": "Tra Vinh TV",
-      "country": "VN",
-      "languages": [
-        "vie"
-      ],
-      "categories": [
-        "culture",
-        "entertainment",
-        "music",
-        "news"
-      ],
-      "logo": "https://i.imgur.com/F12VdKO.png",
-      "website": "https://www.thvli.vn/live/thvl5-hd"
-    },
-    {
       "id": "TRCTV.mx",
       "name": "TRC TV",
       "country": "MX",
@@ -102429,6 +102499,22 @@
       "website": "https://www.thvli.vn/live/thvl4-hd"
     },
     {
+      "id": "VinhLongTV5.vn",
+      "name": "Vinh Long TV 5",
+      "country": "VN",
+      "languages": [
+        "vie"
+      ],
+      "categories": [
+        "culture",
+        "entertainment",
+        "music",
+        "news"
+      ],
+      "logo": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/Truy%E1%BB%81n%20h%C3%ACnh%20V%C4%A9nh%20Long%205%20HD.png",
+      "website": "https://www.thvli.vn/live/thvl5-hd"
+    },
+    {
       "id": "VintageMusic.cr",
       "name": "Vintage Music",
       "country": "CR",
@@ -102993,6 +103079,17 @@
       "categories": [],
       "logo": "https://i.imgur.com/QPcmfZb.png",
       "website": "https://www.vox.de/"
+    },
+    {
+      "id": "Voxup.de",
+      "name": "Voxup",
+      "country": "DE",
+      "languages": [
+        "deu"
+      ],
+      "categories": [],
+      "logo": "https://i.imgur.com/tUTspbW.png",
+      "website": "https://www.vox.de/cms/voxup.html"
     },
     {
       "id": "VoyagesSaveurs.es",
