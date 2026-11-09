@@ -2725,19 +2725,6 @@
       "website": "https://www.ntv.com.mx/envivo/"
     },
     {
-      "id": "8TV.my",
-      "name": "8TV",
-      "country": "MY",
-      "languages": [
-        "zho"
-      ],
-      "categories": [
-        "entertainment"
-      ],
-      "logo": "https://i.imgur.com/Jkx9W88.png",
-      "website": "https://www.xtra.com.my/"
-    },
-    {
       "id": "8XM.pk",
       "name": "8XM",
       "country": "PK",
@@ -10645,19 +10632,6 @@
       ],
       "logo": "https://i.imgur.com/hL8i7Ar.png",
       "website": "https://www.awe.plus/"
-    },
-    {
-      "id": "AwesomeTV.my",
-      "name": "Awesome TV",
-      "country": "MY",
-      "languages": [
-        "msa"
-      ],
-      "categories": [
-        "general"
-      ],
-      "logo": "https://i.imgur.com/x90U1Bf.png",
-      "website": "https://awesometv.my/"
     },
     {
       "id": "Awkward.de",
@@ -32072,6 +32046,7 @@
         "rus",
         "slv",
         "spa",
+        "srb",
         "tur",
         "ukr"
       ],
@@ -60814,20 +60789,6 @@
       "website": "https://www.ntv.com.tr/"
     },
     {
-      "id": "NTV7.my",
-      "name": "NTV7",
-      "country": "MY",
-      "languages": [
-        "eng",
-        "mal"
-      ],
-      "categories": [
-        "general"
-      ],
-      "logo": "https://i.imgur.com/jDWR3xI.png",
-      "website": "https://www.xtra.com.my/"
-    },
-    {
       "id": "NTVHit.ru",
       "name": "NTV-Hit",
       "country": "RU",
@@ -60897,17 +60858,6 @@
       ],
       "categories": [],
       "logo": "https://image.tmdb.org/t/p/original/qGCnptpQ9slUAoZ7e5y1Dk4TtjJ.png",
-      "website": null
-    },
-    {
-      "id": "NTVSvoyaigra.ru",
-      "name": "NTV Svoya igra",
-      "country": "RU",
-      "languages": [
-        "rus"
-      ],
-      "categories": [],
-      "logo": null,
       "website": null
     },
     {
@@ -80657,21 +80607,6 @@
       "website": null
     },
     {
-      "id": "SelangorTV.my",
-      "name": "SelangorTV",
-      "country": "MY",
-      "languages": [
-        "eng",
-        "mal",
-        "msa"
-      ],
-      "categories": [
-        "general"
-      ],
-      "logo": "https://www.selangor.gov.my/selangor/resources/Image/LOGO/SelangorTV.png",
-      "website": "https://selangortv.my/"
-    },
-    {
       "id": "SemerkandTV.tr",
       "name": "Semerkand TV",
       "country": "TR",
@@ -81604,6 +81539,19 @@
       ],
       "logo": "https://i.imgur.com/mpFF1Ki.png",
       "website": "https://www.shoplc.com/"
+    },
+    {
+      "id": "ShopOnTV.ro",
+      "name": "Shop On TV",
+      "country": "RO",
+      "languages": [
+        "ron"
+      ],
+      "categories": [
+        "shop"
+      ],
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/9/9c/Shop_On_TV.svg/revision/latest?cb=20260124210444",
+      "website": null
     },
     {
       "id": "ShoppingLive.ru",
@@ -84432,32 +84380,6 @@
       "website": null
     },
     {
-      "id": "StarGold.in",
-      "name": "Star Gold",
-      "country": "IN",
-      "languages": [
-        "hin"
-      ],
-      "categories": [
-        "movies"
-      ],
-      "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6567/1784547656567-h.jpg",
-      "website": "https://hotstar.com/"
-    },
-    {
-      "id": "StarGoldSelect.in",
-      "name": "Star Gold Select",
-      "country": "IN",
-      "languages": [
-        "hin"
-      ],
-      "categories": [
-        "movies"
-      ],
-      "logo": "https://dtil.tmsimg.com/assets/s143817_ld_h15_aa.png?lock=720x540",
-      "website": "https://hotstar.com/"
-    },
-    {
       "id": "StarJalsha.in",
       "name": "Star Jalsha",
       "country": "IN",
@@ -84509,36 +84431,6 @@
       ],
       "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/2722/1782288522722-h.jpg",
       "website": "https://www.hotstar.com/in/channels/maa-movies"
-    },
-    {
-      "id": "StarMovies.in",
-      "name": "Star Movies",
-      "country": "IN",
-      "languages": [
-        "eng",
-        "hin",
-        "tam"
-      ],
-      "categories": [
-        "movies"
-      ],
-      "logo": "https://dtil.tmsimg.com/assets/s143829_ld_h15_aa.png?lock=720x540",
-      "website": "http://www.starmovies.in/"
-    },
-    {
-      "id": "StarMoviesSelect.in",
-      "name": "Star Movies Select",
-      "country": "IN",
-      "languages": [
-        "eng",
-        "hin",
-        "tam"
-      ],
-      "categories": [
-        "movies"
-      ],
-      "logo": "https://dtil.tmsimg.com/assets/s143830_ld_h15_aa.png?lock=720x540",
-      "website": "http://www.starmovies.in/"
     },
     {
       "id": "Starnet.in",
@@ -85710,19 +85602,6 @@
       ],
       "logo": "https://dtil.tmsimg.com/assets/s143870_ld_h15_aa.png?lock=720x540",
       "website": "http://www.sudarshannews.in/"
-    },
-    {
-      "id": "SukeTV.my",
-      "name": "Suke TV",
-      "country": "MY",
-      "languages": [
-        "msa"
-      ],
-      "categories": [
-        "shop"
-      ],
-      "logo": "https://i.imgur.com/hCwH3s0.png",
-      "website": "https://suketv.com/"
     },
     {
       "id": "SulaTV.hn",
@@ -94458,20 +94337,6 @@
       "website": "https://tuuniversotv.net/"
     },
     {
-      "id": "TV1.my",
-      "name": "TV1",
-      "country": "MY",
-      "languages": [
-        "eng",
-        "msa"
-      ],
-      "categories": [
-        "general"
-      ],
-      "logo": "https://i.imgur.com/wSyPmiY.png",
-      "website": "https://tv1.rtm.gov.my/"
-    },
-    {
       "id": "TV1.rw",
       "name": "TV1",
       "country": "RW",
@@ -94559,23 +94424,6 @@
       "categories": [],
       "logo": "https://i.imgur.com/KbMkEIn.png",
       "website": "https://tv1.nachrichten.at/"
-    },
-    {
-      "id": "TV2.my",
-      "name": "TV2",
-      "country": "MY",
-      "languages": [
-        "eng",
-        "hin",
-        "msa",
-        "tam",
-        "zho"
-      ],
-      "categories": [
-        "general"
-      ],
-      "logo": "https://i.imgur.com/LGEdeyJ.png",
-      "website": "https://tv2.rtm.gov.my/"
     },
     {
       "id": "TV2000.it",
@@ -95090,17 +94938,6 @@
       ],
       "logo": "https://upload.wikimedia.org/wikipedia/tr/thumb/6/68/Tv8_Yeni_Logo.png/960px-Tv8_Yeni_Logo.png",
       "website": "https://www.tv8.com.tr/"
-    },
-    {
-      "id": "TV9.my",
-      "name": "TV9",
-      "country": "MY",
-      "languages": [
-        "msa"
-      ],
-      "categories": [],
-      "logo": "https://i.imgur.com/Krh1F8d.png",
-      "website": "https://www.xtra.com.my/"
     },
     {
       "id": "TV9.sk",
@@ -96877,17 +96714,6 @@
       ],
       "logo": "https://cdn.iol.pt/img/logostvi/branco/tvificcao.png",
       "website": "https://tviplayer.iol.pt/direto/TVI_FICCAO"
-    },
-    {
-      "id": "TVIKIM.my",
-      "name": "TVIKIM",
-      "country": "MY",
-      "languages": [
-        "msa"
-      ],
-      "categories": [],
-      "logo": "https://i.imgur.com/X6JKNEE.png",
-      "website": null
     },
     {
       "id": "TVIndependencia.mx",
