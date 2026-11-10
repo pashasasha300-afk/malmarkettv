@@ -15741,6 +15741,19 @@
       "website": "https://www.canal10.cat/"
     },
     {
+      "id": "Canal10Goya.ar",
+      "name": "Canal 10 Goya",
+      "country": "AR",
+      "languages": [
+        "spa"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://i.ibb.co/cySdXxP/unnamed-5.png",
+      "website": "http://www.identidadcorrentina.com.ar/"
+    },
+    {
       "id": "Canal10MardelPlata.ar",
       "name": "Canal 10 Mar del Plata",
       "country": "AR",
@@ -25710,6 +25723,19 @@
       ],
       "logo": "https://images.pluto.tv/channels/64b67f0424ade50008a3be17/colorLogoPNG.png",
       "website": "https://pluto.tv/live-tv/dazn-darts-x-pluto-tv-de/details"
+    },
+    {
+      "id": "DAZNF1.uk",
+      "name": "DAZN F1",
+      "country": "UK",
+      "languages": [
+        "spa"
+      ],
+      "categories": [
+        "sports"
+      ],
+      "logo": "https://i.imgur.com/yFCr5XX.png",
+      "website": "https://www.dazn.com/es-ES/l/sports/"
     },
     {
       "id": "DAZNHeldinnenxPlutoTV.de",
@@ -38422,7 +38448,7 @@
       "categories": [
         "music"
       ],
-      "logo": "https://i.postimg.cc/ryC1Y2K4/Capture.png",
+      "logo": "https://i.ibb.co/SwWjbPSv/hindi-hits-hd.png",
       "website": null
     },
     {
@@ -47783,6 +47809,19 @@
       "website": null
     },
     {
+      "id": "LaTremendaTV.pe",
+      "name": "La Tremenda TV",
+      "country": "PE",
+      "languages": [
+        "spa"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://i.pinimg.com/736x/46/24/d3/4624d356bfdaa6254c2597f686108841.jpg",
+      "website": "https://latremenda.pe/"
+    },
+    {
       "id": "LATV.us",
       "name": "LATV",
       "country": "US",
@@ -49364,6 +49403,7 @@
         "ces",
         "eng",
         "hun",
+        "ron",
         "rus",
         "spa",
         "tur",
@@ -53449,6 +53489,19 @@
       ],
       "logo": "https://i.imgur.com/k0VO0LH.png",
       "website": "https://antenaplay.ro/live/mireasa"
+    },
+    {
+      "id": "MireasaPlus.ro",
+      "name": "Mireasa+",
+      "country": "RO",
+      "languages": [
+        "ron"
+      ],
+      "categories": [
+        "entertainment"
+      ],
+      "logo": "https://i.imgur.com/URwmGuY.png",
+      "website": "https://antenaplay.ro/live/mireasa-plus"
     },
     {
       "id": "Mirovoekino.kz",
@@ -104596,6 +104649,19 @@
       "website": "https://wowelsalvador.com/"
     },
     {
+      "id": "WOXTV.us",
+      "name": "WOX TV",
+      "country": "US",
+      "languages": [
+        "spa"
+      ],
+      "categories": [
+        "music"
+      ],
+      "logo": "https://image.roku.com/developer_channels/prod/7e6a7c4835ec344de629865f7a36feb4058001e7a3d9bc8dd0d1f3dc8e754cd7.png",
+      "website": "https://woxtv.net/"
+    },
+    {
       "id": "WPLG101.us",
       "name": "WPLG 10.1",
       "country": "US",
@@ -105099,19 +105165,6 @@
       "categories": [],
       "logo": "https://i.imgur.com/NtvfnVV.png",
       "website": "http://www.vtibet.com/ds/"
-    },
-    {
-      "id": "XLevelMedia.ar",
-      "name": "X Level Media",
-      "country": "AR",
-      "languages": [
-        "spa"
-      ],
-      "categories": [
-        "music"
-      ],
-      "logo": "https://i.imgur.com/BGwQdQW.jpeg",
-      "website": "https://xlevelmedia.com/"
     },
     {
       "id": "XON.nl",
