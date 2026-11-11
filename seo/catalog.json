@@ -7255,6 +7255,19 @@
       "website": "https://www.americaestereo.com/"
     },
     {
+      "id": "AmericaInternacional.pe",
+      "name": "America Internacional",
+      "country": "PE",
+      "languages": [
+        "spa"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://i.imgur.com/4ZTKAGd.png",
+      "website": "https://tvgo.americatv.com.pe/"
+    },
+    {
       "id": "AmericanCrimeChannel.pl",
       "name": "American Crime Channel",
       "country": "PL",
@@ -7896,21 +7909,6 @@
       "website": null
     },
     {
-      "id": "AnimalPlanet.in",
-      "name": "Animal Planet",
-      "country": "IN",
-      "languages": [
-        "eng",
-        "hin",
-        "tam"
-      ],
-      "categories": [
-        "documentary"
-      ],
-      "logo": "https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/AnimalPlanetHD_Transparent_d36c0ee3-3e3f-4e0c-b3b2-23bfb3c3c2b0.png",
-      "website": "https://animalplanet.in/"
-    },
-    {
       "id": "AnimationPlus.us",
       "name": "Animation+",
       "country": "US",
@@ -8033,19 +8031,6 @@
       ],
       "logo": "https://i.imgur.com/sh0yFSf.png",
       "website": "https://www.anjan.tv/"
-    },
-    {
-      "id": "AnmolTV.in",
-      "name": "Anmol TV",
-      "country": "IN",
-      "languages": [
-        "hin"
-      ],
-      "categories": [
-        "entertainment"
-      ],
-      "logo": "https://dtil.tmsimg.com/assets/GNLZZGG00260HWS.png?lock=720x540",
-      "website": "https://www.zee5.com/live-tv/anmol-tv/0-9-zeeanmol"
     },
     {
       "id": "AnNinhTV.vn",
@@ -18844,25 +18829,6 @@
       "website": "https://www.cartoonito.it/"
     },
     {
-      "id": "CartoonNetwork.in",
-      "name": "Cartoon Network",
-      "country": "IN",
-      "languages": [
-        "hin",
-        "kan",
-        "mal",
-        "mar",
-        "tam",
-        "tel"
-      ],
-      "categories": [
-        "animation",
-        "kids"
-      ],
-      "logo": "https://dtil.tmsimg.com/assets/s157576_ld_h15_aa.png?lock=720x540",
-      "website": "http://www.cartoonnetworkindia.com/"
-    },
-    {
       "id": "CartoonNetwork.pk",
       "name": "Cartoon Network",
       "country": "PK",
@@ -18892,26 +18858,6 @@
       ],
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
       "website": "http://www.cartoonnetwork.com/"
-    },
-    {
-      "id": "CartoonNetworkHDPlus.in",
-      "name": "Cartoon Network HD+",
-      "country": "IN",
-      "languages": [
-        "eng",
-        "hin",
-        "kan",
-        "mal",
-        "mar",
-        "tam",
-        "tel"
-      ],
-      "categories": [
-        "animation",
-        "kids"
-      ],
-      "logo": "https://i.imgur.com/pH6ao2T.png",
-      "website": "http://www.cartoonnetworkindia.com/"
     },
     {
       "id": "CasaItalia53.it",
@@ -27433,26 +27379,6 @@
       "website": "https://www.discoverpakistan.tv/"
     },
     {
-      "id": "DiscoveryChannel.in",
-      "name": "Discovery Channel",
-      "country": "IN",
-      "languages": [
-        "ben",
-        "eng",
-        "hin",
-        "kan",
-        "mal",
-        "mar",
-        "tam",
-        "tel"
-      ],
-      "categories": [
-        "entertainment"
-      ],
-      "logo": "https://dtil.tmsimg.com/assets/s159106_ld_h15_aa.png?lock=720x540",
-      "website": "http://www.discoverychannel.co.in/"
-    },
-    {
       "id": "DiscoveryChannel.it",
       "name": "Discovery Channel",
       "country": "IT",
@@ -27477,50 +27403,6 @@
       ],
       "logo": "https://i.ibb.co/CK3VrYmc/IMG-2812.png",
       "website": "http://www.discoveryfamilychannel.com/"
-    },
-    {
-      "id": "DiscoveryKids.in",
-      "name": "Discovery Kids",
-      "country": "IN",
-      "languages": [
-        "eng",
-        "hin",
-        "mal",
-        "tam",
-        "tel"
-      ],
-      "categories": [
-        "kids"
-      ],
-      "logo": "https://dtil.tmsimg.com/assets/s159011_ld_h15_aa.png?lock=720x540",
-      "website": "http://dkids.co.in/"
-    },
-    {
-      "id": "DiscoveryScience.in",
-      "name": "Discovery Science",
-      "country": "IN",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "categories": [
-        "science"
-      ],
-      "logo": "https://dtil.tmsimg.com/assets/s159107_ld_h15_aa.png?lock=720x540",
-      "website": "http://www.discoverychannel.co.in/"
-    },
-    {
-      "id": "DiscoveryTurbo.in",
-      "name": "Discovery Turbo",
-      "country": "IN",
-      "languages": [
-        "eng"
-      ],
-      "categories": [
-        "auto"
-      ],
-      "logo": "https://dtil.tmsimg.com/assets/s159108_ld_h15_aa.png?lock=720x540",
-      "website": "http://www.discoverychannel.co.in/"
     },
     {
       "id": "DiscoveryTurbo.it",
@@ -27970,6 +27852,19 @@
       ],
       "logo": "https://i.imgur.com/yPeSAry.png",
       "website": "https://www.dltv.ac.th/DLTV9"
+    },
+    {
+      "id": "DMAX.de",
+      "name": "DMAX",
+      "country": "DE",
+      "languages": [
+        "deu"
+      ],
+      "categories": [
+        "lifestyle"
+      ],
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DMAX_BLACK.svg/960px-DMAX_BLACK.svg.png",
+      "website": "http://www.dmax.de/"
     },
     {
       "id": "DMAX.it",
@@ -32122,6 +32017,19 @@
       "categories": [],
       "logo": "https://i.imgur.com/HFWWzKT.png",
       "website": null
+    },
+    {
+      "id": "EurovisionSport.uk",
+      "name": "Eurovision Sport",
+      "country": "UK",
+      "languages": [
+        "eng"
+      ],
+      "categories": [
+        "sports"
+      ],
+      "logo": "https://images.ctfassets.net/2b1dkanupt14/1A1Z8Gcn2NkbJRzTjxuj6h/2c14436cdc5b78e746a256e9f0c11a70/eurovision-icon.png",
+      "website": "https://eurovisionsport.com/en/home"
     },
     {
       "id": "EUTV.br",
@@ -41548,20 +41456,6 @@
       "website": "https://pluto.tv/live-tv/investigation-by-pluto-tv-fr/details"
     },
     {
-      "id": "InvestigationDiscovery.in",
-      "name": "Investigation Discovery",
-      "country": "IN",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "categories": [
-        "documentary"
-      ],
-      "logo": "https://dtil.tmsimg.com/assets/s157811_ld_h15_aa.png?lock=720x540",
-      "website": "https://www.discoverychannel.co.in/"
-    },
-    {
       "id": "INWILD.nl",
       "name": "INWILD",
       "country": "NL",
@@ -49893,6 +49787,19 @@
       ],
       "logo": "https://i.imgur.com/RzAkP1V.png",
       "website": "http://m95tv.es/"
+    },
+    {
+      "id": "M9TVRomania.ro",
+      "name": "M9TV Romania",
+      "country": "RO",
+      "languages": [
+        "ron"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://i.imgur.com/hRBNoVD.png",
+      "website": "http://m9tv.ro/"
     },
     {
       "id": "MaahTV.my",
@@ -69787,25 +69694,6 @@
       "website": "https://pluto.tv/live-tv/podradio-pa-pluto-tv-dk/details"
     },
     {
-      "id": "Pogo.in",
-      "name": "Pogo",
-      "country": "IN",
-      "languages": [
-        "hin",
-        "kan",
-        "mal",
-        "mar",
-        "tam",
-        "tel"
-      ],
-      "categories": [
-        "animation",
-        "kids"
-      ],
-      "logo": "https://dtil.tmsimg.com/assets/s143663_ld_h15_aa.png?lock=720x540",
-      "website": null
-    },
-    {
       "id": "PointeTV.ag",
       "name": "Pointe TV",
       "country": "AG",
@@ -83198,19 +83086,6 @@
       "website": null
     },
     {
-      "id": "SonySAB.in",
-      "name": "Sony SAB",
-      "country": "IN",
-      "languages": [
-        "hin"
-      ],
-      "categories": [
-        "entertainment"
-      ],
-      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/70954ffc9bae055e09e48393b47570ea.png",
-      "website": "https://www.sabtv.com/en_in/"
-    },
-    {
       "id": "SonyWah.in",
       "name": "Sony Wah",
       "country": "IN",
@@ -88885,6 +88760,19 @@
       "website": "https://www.telemia.it/telemia-extra/"
     },
     {
+      "id": "Telemicro.do",
+      "name": "Telemicro",
+      "country": "DO",
+      "languages": [
+        "spa"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://i.imgur.com/WhgySAk.png",
+      "website": "https://telemicro.com.do/"
+    },
+    {
       "id": "TeleMistretta.it",
       "name": "TeleMistretta",
       "country": "IT",
@@ -92015,20 +91903,6 @@
       ],
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png",
       "website": "http://www.tlc.de/"
-    },
-    {
-      "id": "TLC.in",
-      "name": "TLC",
-      "country": "IN",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "categories": [
-        "lifestyle"
-      ],
-      "logo": "https://dtil.tmsimg.com/assets/s123500_ld_h15_aa.png?lock=720x540",
-      "website": "http://www.tlcindia.co.in/"
     },
     {
       "id": "TLEstrella.bo",
