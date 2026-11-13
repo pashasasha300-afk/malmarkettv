@@ -7845,45 +7845,6 @@
       "website": "https://lionsgatechannels.com/channel/anger-management"
     },
     {
-      "id": "AnGiangTV1.vn",
-      "name": "An Giang TV 1",
-      "country": "VN",
-      "languages": [
-        "vie"
-      ],
-      "categories": [
-        "general"
-      ],
-      "logo": "https://i.imgur.com/mgp6RAU.png",
-      "website": "https://angiangtv.vn/"
-    },
-    {
-      "id": "AnGiangTV2.vn",
-      "name": "An Giang TV 2",
-      "country": "VN",
-      "languages": [
-        "vie"
-      ],
-      "categories": [
-        "entertainment"
-      ],
-      "logo": "https://i.imgur.com/efrauLr.png",
-      "website": "https://angiangtv.vn/"
-    },
-    {
-      "id": "AnGiangTV3.vn",
-      "name": "An Giang TV 3",
-      "country": "VN",
-      "languages": [
-        "vie"
-      ],
-      "categories": [
-        "entertainment"
-      ],
-      "logo": "https://i.imgur.com/gZUV4z8.png",
-      "website": "https://angiangtv.vn/"
-    },
-    {
       "id": "AnhuiTV.cn",
       "name": "Anhui TV",
       "country": "CN",
@@ -12178,6 +12139,23 @@
       "website": "https://pluto.tv/live-tv/becker-se/details"
     },
     {
+      "id": "beINSports1.qa",
+      "name": "beIN Sports 1",
+      "country": "QA",
+      "languages": [
+        "ara",
+        "eng",
+        "fra",
+        "msa",
+        "tur"
+      ],
+      "categories": [
+        "sports"
+      ],
+      "logo": "https://i.imgur.com/Vtk2cGI.png",
+      "website": "http://www.beinsports.com/ar/"
+    },
+    {
       "id": "beINSportsUSA.us",
       "name": "beIN Sports USA",
       "country": "US",
@@ -13159,6 +13137,19 @@
       "website": null
     },
     {
+      "id": "BicolorPlus.pe",
+      "name": "Bicolor+",
+      "country": "PE",
+      "languages": [
+        "spa"
+      ],
+      "categories": [
+        "sports"
+      ],
+      "logo": "https://img-evg3.tv360.bitel.com.pe/peru-image/2026/09/24/00/1790182833200/6a8e1eb7f5d6_640_360.png",
+      "website": null
+    },
+    {
       "id": "BicolorPlusPremium.pe",
       "name": "Bicolor+ Premium",
       "country": "PE",
@@ -13182,6 +13173,19 @@
         "sports"
       ],
       "logo": "https://img-evg3.tv360.bitel.com.pe/peru-image/2026/09/24/03/1790194132371/1e57475a9a6b_640_360.png",
+      "website": null
+    },
+    {
+      "id": "BicolorPlusPremium3.pe",
+      "name": "Bicolor+ Premium 3",
+      "country": "PE",
+      "languages": [
+        "spa"
+      ],
+      "categories": [
+        "sports"
+      ],
+      "logo": "https://img-evg3.tv360.bitel.com.pe/peru-image/2026/09/24/03/1790194198636/d91910da3254_640_360.png",
       "website": null
     },
     {
@@ -14195,6 +14199,19 @@
         "music"
       ],
       "logo": "https://i.imgur.com/gaKzWdo.png",
+      "website": null
+    },
+    {
+      "id": "Boomerang.th",
+      "name": "Boomerang",
+      "country": "TH",
+      "languages": [
+        "tha"
+      ],
+      "categories": [
+        "kids"
+      ],
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/960px-Boomerang_2014_logo.svg.png",
       "website": null
     },
     {
@@ -15603,19 +15620,6 @@
       "website": "https://usap.edu/"
     },
     {
-      "id": "CamuTV.do",
-      "name": "Camu TV",
-      "country": "DO",
-      "languages": [
-        "spa"
-      ],
-      "categories": [
-        "general"
-      ],
-      "logo": "https://i.imgur.com/3d8cLm9.jpg",
-      "website": "http://www.camutv.net"
-    },
-    {
       "id": "Canaf54TV.uk",
       "name": "Canaf54 TV",
       "country": "UK",
@@ -16874,19 +16878,6 @@
       ],
       "logo": "https://upload.wikimedia.org/wikipedia/commons/0/05/Canal_7_Guatemala_2022.png",
       "website": "https://www.chapintv.com/"
-    },
-    {
-      "id": "Canal70.do",
-      "name": "Canal 70",
-      "country": "DO",
-      "languages": [
-        "spa"
-      ],
-      "categories": [
-        "general"
-      ],
-      "logo": "https://imgur.com/LfcHA2d.jpg",
-      "website": "https://gia.tv/watchssh101.php?sn=cnal70tv"
     },
     {
       "id": "Canal79LaCosta.ar",
@@ -34013,6 +34004,19 @@
       "website": "https://formula.ge/"
     },
     {
+      "id": "Formula1AntenaPlay.ro",
+      "name": "Formula 1 AntenaPlay",
+      "country": "RO",
+      "languages": [
+        "eng"
+      ],
+      "categories": [
+        "sports"
+      ],
+      "logo": "https://assets.antenaplay.ro/2024/02/23/XUKfJwir4MxNeP4nHtG7.png",
+      "website": "https://antenaplay.ro/live/formula-1-live"
+    },
+    {
       "id": "ForoTV.pe",
       "name": "Foro TV",
       "country": "PE",
@@ -37181,19 +37185,6 @@
       ],
       "logo": "https://i.imgur.com/cteBdAJ.jpg",
       "website": "https://guayapetv.hn/"
-    },
-    {
-      "id": "GuaymateTV.do",
-      "name": "Guaymate TV",
-      "country": "DO",
-      "languages": [
-        "spa"
-      ],
-      "categories": [
-        "culture"
-      ],
-      "logo": "https://i.imgur.com/PBgQi9a.png",
-      "website": "https://guaymatetvdigital.blogspot.com/2022/04/guayumate-tv-digital.html"
     },
     {
       "id": "GugakTV.kr",
@@ -43292,6 +43283,19 @@
       "website": "https://www.jinvanichannel.com/"
     },
     {
+      "id": "JK24x7News.in",
+      "name": "JK 24x7 News",
+      "country": "IN",
+      "languages": [
+        "hin"
+      ],
+      "categories": [
+        "news"
+      ],
+      "logo": "https://dtil.tmsimg.com/assets/s143237_ld_h9_aa.png?lock=720x540",
+      "website": null
+    },
+    {
       "id": "JKN18.th",
       "name": "JKN 18",
       "country": "TH",
@@ -44660,6 +44664,19 @@
       ],
       "logo": "https://i.imgur.com/cgHjg1e.png",
       "website": "https://lakaribena.com.pe/tv/vivo"
+    },
+    {
+      "id": "KarnatakaNewsBeat.in",
+      "name": "Karnataka News Beat",
+      "country": "IN",
+      "languages": [
+        "kan"
+      ],
+      "categories": [
+        "news"
+      ],
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/newsbeatkarnataka.png",
+      "website": null
     },
     {
       "id": "KartoonChannel.us",
@@ -59835,6 +59852,19 @@
       "website": "https://www.africanmoviechannel.tv/products-and-services"
     },
     {
+      "id": "NonStopBharat.in",
+      "name": "Non Stop Bharat",
+      "country": "IN",
+      "languages": [
+        "hin"
+      ],
+      "categories": [
+        "news"
+      ],
+      "logo": "https://www.lyngsat.com/logo/tv/nn/nonstop-bharat-in.png",
+      "website": null
+    },
+    {
       "id": "NonStopKungFu.se",
       "name": "NonStop Kung Fu",
       "country": "SE",
@@ -63783,6 +63813,17 @@
       ],
       "logo": "https://upload.wikimedia.org/wikipedia/en/a/a4/Padre_Pio_TV.jpg",
       "website": "https://www.teleradiopadrepio.it/"
+    },
+    {
+      "id": "PaighamTelevision.pk",
+      "name": "Paigham Television",
+      "country": "PK",
+      "languages": [
+        "urd"
+      ],
+      "categories": [],
+      "logo": "https://papaji.freetvindia.com/media/1655_FreeTV_Paigam.png",
+      "website": null
     },
     {
       "id": "PaighanTV.pk",
@@ -78858,6 +78899,19 @@
       "website": "https://rybalka.net.ua/"
     },
     {
+      "id": "Rybalkaiokhota.ru",
+      "name": "Rybalka i okhota",
+      "country": "RU",
+      "languages": [
+        "rus"
+      ],
+      "categories": [
+        "outdoor"
+      ],
+      "logo": "https://www.cableman.ru/sites/default/files/rybalka_i_ohota_int.png",
+      "website": "http://tv-stream.ru/tv/rybalka-i-okhota"
+    },
+    {
       "id": "RyongnamsanTelevision.kp",
       "name": "Ryongnamsan Television",
       "country": "KP",
@@ -84152,6 +84206,19 @@
       "website": "https://soyuzny.media/"
     },
     {
+      "id": "SozcuTV.tr",
+      "name": "Sozcu TV",
+      "country": "TR",
+      "languages": [
+        "tur"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://i.imgur.com/BxpdvsG.png",
+      "website": "https://www.szctv.com.tr/"
+    },
+    {
       "id": "SpaceLivepoweredbysen.uk",
       "name": "Space Live powered by sen",
       "country": "UK",
@@ -88249,19 +88316,6 @@
       "website": "https://www.teleacras.it/"
     },
     {
-      "id": "Telealtura.do",
-      "name": "Telealtura",
-      "country": "DO",
-      "languages": [
-        "spa"
-      ],
-      "categories": [
-        "general"
-      ],
-      "logo": "https://i.imgur.com/Ql2eaP0.png",
-      "website": "https://www.telealtura.com/"
-    },
-    {
       "id": "Teleamazonas.ec",
       "name": "Teleamazonas",
       "country": "EC",
@@ -88723,6 +88777,19 @@
       "categories": [],
       "logo": "https://i.imgur.com/He3uCs6.png",
       "website": null
+    },
+    {
+      "id": "Telefuturo.do",
+      "name": "Telefuturo",
+      "country": "DO",
+      "languages": [
+        "spa"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://i.imgur.com/QpnctoU.png",
+      "website": "http://telefuturo.com.do/"
     },
     {
       "id": "Teleganes.es",
@@ -92017,6 +92084,17 @@
       ],
       "logo": "https://images.pluto.tv/channels/61c1a05ef30f5d0007e562f3/colorLogoPNG.png",
       "website": "https://pluto.tv/live-tv/til-middag-hos-dk/details"
+    },
+    {
+      "id": "TimelessDiziChannel.ro",
+      "name": "Timeless Dizi Channel",
+      "country": "RO",
+      "languages": [
+        "ron"
+      ],
+      "categories": [],
+      "logo": "https://i.imgur.com/s3Sqd4L.png",
+      "website": "https://timelessdramachannel.com/dizi-romania/"
     },
     {
       "id": "TimelessTV.us",
@@ -97846,19 +97924,6 @@
       "website": "https://www.tvmonaco.com"
     },
     {
-      "id": "TVMontanaCanal10.do",
-      "name": "TV Montana Canal 10",
-      "country": "DO",
-      "languages": [
-        "spa"
-      ],
-      "categories": [
-        "general"
-      ],
-      "logo": "https://i.imgur.com/DHyRWc0.png",
-      "website": "https://tvmontana.com/"
-    },
-    {
       "id": "TVMparati.ve",
       "name": "TVM para ti",
       "country": "VE",
@@ -99960,6 +100025,19 @@
       ],
       "logo": "https://i.imgur.com/7c0b4Y4.png",
       "website": "https://tvusucre.com/vivo.html"
+    },
+    {
+      "id": "TVUYamagata.jp",
+      "name": "TV-U Yamagata",
+      "country": "JP",
+      "languages": [
+        "jpn"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://i.imgur.com/9yZe76d.png",
+      "website": "https://www.tuy.co.jp"
     },
     {
       "id": "TVVeseljakGolicaHD.si",
@@ -106293,6 +106371,17 @@
       ],
       "logo": "https://i.imgur.com/jedtE5l.png",
       "website": "https://zdorovoetv.ru/"
+    },
+    {
+      "id": "ZeceTV.ro",
+      "name": "Zece TV",
+      "country": "RO",
+      "languages": [
+        "ron"
+      ],
+      "categories": [],
+      "logo": "https://zece.tv/wp-content/uploads/2024/06/mic.jpg.webp",
+      "website": null
     },
     {
       "id": "ZedTV.ir",
