@@ -59232,6 +59232,19 @@
       "website": "http://www.nhkworldpremium.com/"
     },
     {
+      "id": "NHLAntenaPlay.ro",
+      "name": "NHL AntenaPlay",
+      "country": "RO",
+      "languages": [
+        "eng"
+      ],
+      "categories": [
+        "sports"
+      ],
+      "logo": "https://assets.antenaplay.ro/2024/10/25/SN0nevshXwKDcZ2Tw1jm.png",
+      "website": "https://antenaplay.ro/live/nhl-live"
+    },
+    {
       "id": "NHLNetwork.us",
       "name": "NHL Network",
       "country": "US",
@@ -83383,19 +83396,6 @@
       "categories": [],
       "logo": "https://i.imgur.com/9Qq8DKh.png",
       "website": "https://www.sonykal.com/"
-    },
-    {
-      "id": "SonyMax1.in",
-      "name": "Sony Max 1",
-      "country": "IN",
-      "languages": [
-        "hin"
-      ],
-      "categories": [
-        "movies"
-      ],
-      "logo": "https://dtil.tmsimg.com/assets/s179440_ld_h15_aa.png?lock=720x540",
-      "website": "https://www.sonymax1.com/"
     },
     {
       "id": "SonyMovies.us",
