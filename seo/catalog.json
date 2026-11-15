@@ -2500,6 +2500,19 @@
       "website": "https://www.6pr.com.au/"
     },
     {
+      "id": "6ter.fr",
+      "name": "6ter",
+      "country": "FR",
+      "languages": [
+        "fra"
+      ],
+      "categories": [
+        "entertainment"
+      ],
+      "logo": "https://i.imgur.com/2nd5Cox.png",
+      "website": "https://www.6play.fr/6ter"
+    },
+    {
       "id": "6TVTelugu.in",
       "name": "6 TV Telugu",
       "country": "IN",
@@ -7060,19 +7073,6 @@
       "website": "https://www.amarintv.com/"
     },
     {
-      "id": "AmarUjala.in",
-      "name": "AmarUjala",
-      "country": "IN",
-      "languages": [
-        "hin"
-      ],
-      "categories": [
-        "news"
-      ],
-      "logo": "https://i.imgur.com/ndQ8LZp.png",
-      "website": "https://www.amarujala.com/"
-    },
-    {
       "id": "AmazingDiscoveriesTV.ca",
       "name": "Amazing Discoveries TV",
       "country": "CA",
@@ -9511,19 +9511,6 @@
       ],
       "logo": "https://i.imgur.com/VqwyCV1.png",
       "website": "https://www.asomavision.com/"
-    },
-    {
-      "id": "AsomLive24.in",
-      "name": "Asom Live 24",
-      "country": "IN",
-      "languages": [
-        "asm"
-      ],
-      "categories": [
-        "news"
-      ],
-      "logo": "https://papaji.freetvindia.com/media/channels/asom_live_24x7.png",
-      "website": "https://asomlive24.com/"
     },
     {
       "id": "AspireTVLife.us",
@@ -15618,6 +15605,19 @@
       ],
       "logo": "https://i.imgur.com/E1TmADM.png",
       "website": "https://usap.edu/"
+    },
+    {
+      "id": "CamuTV.do",
+      "name": "Camu TV",
+      "country": "DO",
+      "languages": [
+        "spa"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://i.imgur.com/3d8cLm9.jpg",
+      "website": "http://www.camutv.net"
     },
     {
       "id": "Canaf54TV.uk",
@@ -23317,6 +23317,19 @@
       "website": "https://pluto.tv/live-tv/comedia-a-lo-bestia-de-pluto-tv-es/details"
     },
     {
+      "id": "ComedyCentral.fr",
+      "name": "Comedy Central",
+      "country": "FR",
+      "languages": [
+        "fra"
+      ],
+      "categories": [
+        "comedy"
+      ],
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png",
+      "website": "https://www.comedycentral.fr/"
+    },
+    {
       "id": "ComedyCentral.se",
       "name": "Comedy Central",
       "country": "SE",
@@ -23382,20 +23395,6 @@
       ],
       "logo": "https://i.imgur.com/6xTD3G8.png",
       "website": "https://pluto.tv/en/live-tv/comedy-central-en-espanol"
-    },
-    {
-      "id": "ComedyCentralLatinAmerica.us",
-      "name": "Comedy Central Latin America",
-      "country": "US",
-      "languages": [
-        "por",
-        "spa"
-      ],
-      "categories": [
-        "comedy"
-      ],
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png",
-      "website": "http://comedycentral.la/"
     },
     {
       "id": "ComedyCentralPlutoTV.us",
@@ -26625,19 +26624,6 @@
       "website": "https://deparinti.ro/"
     },
     {
-      "id": "DeportesTVC.hn",
-      "name": "Deportes TVC",
-      "country": "HN",
-      "languages": [
-        "spa"
-      ],
-      "categories": [
-        "sports"
-      ],
-      "logo": "https://i.imgur.com/Y1t8xkL.png",
-      "website": "https://www.deportestvc.com/"
-    },
-    {
       "id": "DerryTV17.us",
       "name": "DerryTV 17",
       "country": "US",
@@ -27485,6 +27471,20 @@
       "website": "http://disneychannel.de/"
     },
     {
+      "id": "DisneyChannel.us",
+      "name": "Disney Channel",
+      "country": "US",
+      "languages": [
+        "eng",
+        "spa"
+      ],
+      "categories": [
+        "kids"
+      ],
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
+      "website": "https://www.disney.com/"
+    },
+    {
       "id": "DisneyChannelLatinAmerica.ar",
       "name": "Disney Channel Latin America",
       "country": "AR",
@@ -27526,6 +27526,20 @@
       ],
       "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
       "website": "http://disney.go.com/disneyjunior/"
+    },
+    {
+      "id": "DisneyXD.us",
+      "name": "Disney XD",
+      "country": "US",
+      "languages": [
+        "eng",
+        "spa"
+      ],
+      "categories": [
+        "kids"
+      ],
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg",
+      "website": "https://disneynow.com/all-shows/disney-xd"
     },
     {
       "id": "DistrictofColumbiaNetwork.us",
@@ -33378,6 +33392,7 @@
       "languages": [
         "eng",
         "pol",
+        "ron",
         "rus"
       ],
       "categories": [
@@ -34253,6 +34268,19 @@
       "website": "https://www.foxweather.com/"
     },
     {
+      "id": "France2.fr",
+      "name": "France 2",
+      "country": "FR",
+      "languages": [
+        "fra"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/960px-France_2_2018.svg.png",
+      "website": "https://www.france.tv/france-2/"
+    },
+    {
       "id": "France24.fr",
       "name": "France 24",
       "country": "FR",
@@ -34267,6 +34295,58 @@
       ],
       "logo": "https://dtil.tmsimg.com/assets/s159111_ld_h15_aa.png?lock=720x540",
       "website": "https://www.france24.com/"
+    },
+    {
+      "id": "France3.fr",
+      "name": "France 3",
+      "country": "FR",
+      "languages": [
+        "fra"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2b/France_3_Alsace_-_Logo_2018.svg",
+      "website": "https://www.france.tv/france-3/"
+    },
+    {
+      "id": "France4.fr",
+      "name": "France 4",
+      "country": "FR",
+      "languages": [
+        "fra"
+      ],
+      "categories": [
+        "kids"
+      ],
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/960px-France_4_2018.svg.png",
+      "website": "https://www.france.tv/france-4/"
+    },
+    {
+      "id": "France5.fr",
+      "name": "France 5",
+      "country": "FR",
+      "languages": [
+        "fra"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/960px-France_5_2018.svg.png",
+      "website": "https://www.france.tv/france-5/"
+    },
+    {
+      "id": "Franceinfo.fr",
+      "name": "Franceinfo",
+      "country": "FR",
+      "languages": [
+        "fra"
+      ],
+      "categories": [
+        "news"
+      ],
+      "logo": "https://i.imgur.com/eITXz6A.png",
+      "website": "https://www.francetvinfo.fr/"
     },
     {
       "id": "FranchsTV.gt",
@@ -38451,7 +38531,7 @@
       "categories": [
         "music"
       ],
-      "logo": "https://i.ibb.co/SwWjbPSv/hindi-hits-hd.png",
+      "logo": "https://i.imgur.com/J565WH1.png",
       "website": null
     },
     {
@@ -45298,6 +45378,19 @@
       "website": "https://pluto.tv/en/live-tv/kids-movie-club"
     },
     {
+      "id": "Kidz.es",
+      "name": "Kidz",
+      "country": "ES",
+      "languages": [
+        "spa"
+      ],
+      "categories": [
+        "entertainment"
+      ],
+      "logo": "https://i.imgur.com/iBgsCOV.png",
+      "website": null
+    },
+    {
       "id": "KIIOLD104.us",
       "name": "KIIO-LD 10.4",
       "country": "US",
@@ -46217,6 +46310,19 @@
       ],
       "logo": "https://i.imgur.com/dQJQv1X.png",
       "website": "https://www.kronehit.at/"
+    },
+    {
+      "id": "KRT.tr",
+      "name": "KRT",
+      "country": "TR",
+      "languages": [
+        "tur"
+      ],
+      "categories": [
+        "culture"
+      ],
+      "logo": "https://i.imgur.com/9ZKqdQJ.png",
+      "website": "http://www.krttv.com.tr/"
     },
     {
       "id": "KSCE381.us",
@@ -48033,6 +48139,19 @@
       ],
       "logo": "https://i.imgur.com/buMvLJc.jpeg",
       "website": null
+    },
+    {
+      "id": "LCI.fr",
+      "name": "LCI",
+      "country": "FR",
+      "languages": [
+        "fra"
+      ],
+      "categories": [
+        "news"
+      ],
+      "logo": "https://i.imgur.com/DED8EXs.png",
+      "website": "https://www.lci.fr/"
     },
     {
       "id": "LCN.ca",
@@ -55252,6 +55371,19 @@
       "website": "https://www.mturktv.com/"
     },
     {
+      "id": "MTV.fr",
+      "name": "MTV",
+      "country": "FR",
+      "languages": [
+        "fra"
+      ],
+      "categories": [
+        "entertainment"
+      ],
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png",
+      "website": "http://www.mtv.fr/"
+    },
+    {
       "id": "MTV3.fi",
       "name": "MTV3",
       "country": "FI",
@@ -59312,6 +59444,32 @@
       "website": "http://www.nick.de/"
     },
     {
+      "id": "Nickelodeon.fr",
+      "name": "Nickelodeon",
+      "country": "FR",
+      "languages": [
+        "fra"
+      ],
+      "categories": [
+        "kids"
+      ],
+      "logo": "https://i.imgur.com/E84jnP8.png",
+      "website": "http://www.nickelodeon.fr/"
+    },
+    {
+      "id": "Nickelodeon.us",
+      "name": "Nickelodeon",
+      "country": "US",
+      "languages": [
+        "eng"
+      ],
+      "categories": [
+        "kids"
+      ],
+      "logo": "https://i.imgur.com/E84jnP8.png",
+      "website": "http://www.nick.com/"
+    },
+    {
       "id": "NickelodeonCIS.kz",
       "name": "Nickelodeon CIS",
       "country": "KZ",
@@ -59375,6 +59533,19 @@
       ],
       "logo": "https://images.pluto.tv/channels/5d8d08395f39465da6fb3ec4/colorLogoPNG.png",
       "website": "https://pluto.tv/live-tv/nick-en-espanol/details"
+    },
+    {
+      "id": "NickelodeonJunior.fr",
+      "name": "Nickelodeon Junior",
+      "country": "FR",
+      "languages": [
+        "fra"
+      ],
+      "categories": [
+        "kids"
+      ],
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Nickelodeon_Junior.png/960px-Nickelodeon_Junior.png",
+      "website": "https://www.nickelodeonjunior.fr/"
     },
     {
       "id": "NickelodeonLatinAmerica.us",
@@ -59443,6 +59614,19 @@
       ],
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png",
       "website": "https://jr.nickelodeon.ru/"
+    },
+    {
+      "id": "NickJr.us",
+      "name": "Nick Jr.",
+      "country": "US",
+      "languages": [
+        "eng"
+      ],
+      "categories": [
+        "kids"
+      ],
+      "logo": "https://i.imgur.com/KT4tdQs.png",
+      "website": "http://www.nickjr.com/"
     },
     {
       "id": "NickJrClub.de",
@@ -59525,6 +59709,19 @@
       ],
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/NickSchweiz.png/960px-NickSchweiz.png",
       "website": "https://www.nick.de/programm/nickelodeon-ch"
+    },
+    {
+      "id": "Nicktoons.fr",
+      "name": "Nicktoons",
+      "country": "FR",
+      "languages": [
+        "fra"
+      ],
+      "categories": [
+        "kids"
+      ],
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/b/be/Nicktoons_Logo_2023.svg",
+      "website": "http://www.nickelodeon.fr/"
     },
     {
       "id": "Nicktoons.us",
@@ -60316,6 +60513,19 @@
       ],
       "logo": "https://i.imgur.com/8dUS3Ih.png",
       "website": "https://www.novelisima.com/live-broadcast"
+    },
+    {
+      "id": "NOVO19.fr",
+      "name": "NOVO19",
+      "country": "FR",
+      "languages": [
+        "fra"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Logo_NOVO19_-_2025.svg/960px-Logo_NOVO19_-_2025.svg.png",
+      "website": null
     },
     {
       "id": "Novoetelevidenie.kz",
@@ -90703,6 +90913,31 @@
       "website": "https://tezaurtv.md"
     },
     {
+      "id": "TF1SeriesFilms.fr",
+      "name": "TF1 Series Films",
+      "country": "FR",
+      "languages": [
+        "fra"
+      ],
+      "categories": [
+        "movies"
+      ],
+      "logo": "https://i.imgur.com/4CJIDKQ.png",
+      "website": "https://www.tf1.fr/tf1-series-films"
+    },
+    {
+      "id": "TFX.fr",
+      "name": "TFX",
+      "country": "FR",
+      "languages": [
+        "eng",
+        "fra"
+      ],
+      "categories": [],
+      "logo": "https://i.imgur.com/d91GcVf.png",
+      "website": "https://www.tf1.fr/tfx"
+    },
+    {
       "id": "TG4.ie",
       "name": "TG4",
       "country": "IE",
@@ -91282,6 +91517,17 @@
       ],
       "logo": "https://i.imgur.com/EtQolw6.png",
       "website": "https://theislamicnetwork.org/"
+    },
+    {
+      "id": "TheIsraeliNetwork.il",
+      "name": "The Israeli Network",
+      "country": "IL",
+      "languages": [
+        "heb"
+      ],
+      "categories": [],
+      "logo": "https://i.imgur.com/wOsArb9.png",
+      "website": "https://tin.tv/"
     },
     {
       "id": "TheJamieOliverChannel.us",
@@ -92521,6 +92767,17 @@
       ],
       "logo": "https://i.imgur.com/8nvCXzt.png",
       "website": "http://www.rtnh.ht/"
+    },
+    {
+      "id": "TNICanal51.do",
+      "name": "TNI Canal51",
+      "country": "DO",
+      "languages": [
+        "spa"
+      ],
+      "categories": [],
+      "logo": "https://i.imgur.com/jizId9Z.png",
+      "website": "https://tni51online.com/"
     },
     {
       "id": "TNN16.th",
@@ -97922,6 +98179,19 @@
       ],
       "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4b/TVMonaco_2023.svg",
       "website": "https://www.tvmonaco.com"
+    },
+    {
+      "id": "TVMontanaCanal10.do",
+      "name": "TV Montana Canal 10",
+      "country": "DO",
+      "languages": [
+        "spa"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://i.imgur.com/DHyRWc0.png",
+      "website": "https://tvmontana.com/"
     },
     {
       "id": "TVMparati.ve",
