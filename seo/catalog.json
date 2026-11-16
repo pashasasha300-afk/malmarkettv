@@ -74088,7 +74088,7 @@
       "name": "Radio televizija Rozaje",
       "country": "ME",
       "languages": [
-        "srp"
+        "cnr"
       ],
       "categories": [
         "general"
@@ -96504,29 +96504,33 @@
       "name": "TVCG 1",
       "country": "ME",
       "languages": [
-        "srp"
+        "cnr"
       ],
-      "categories": [],
+      "categories": [
+        "general"
+      ],
       "logo": "https://i.imgur.com/QORHrXu.png",
-      "website": "http://www.rtcg.me/"
+      "website": "https://rtcg.me/"
     },
     {
       "id": "TVCG2.me",
       "name": "TVCG 2",
       "country": "ME",
       "languages": [
-        "srp"
+        "cnr"
       ],
-      "categories": [],
+      "categories": [
+        "general"
+      ],
       "logo": "https://i.imgur.com/WECmUKH.png",
-      "website": "http://www.rtcg.me/"
+      "website": "https://rtcg.me/"
     },
     {
       "id": "TVCG3.me",
       "name": "TVCG 3",
       "country": "ME",
       "languages": [
-        "srp"
+        "cnr"
       ],
       "categories": [
         "legislative"
@@ -96539,11 +96543,13 @@
       "name": "TVCG MNE",
       "country": "ME",
       "languages": [
-        "srp"
+        "cnr"
       ],
-      "categories": [],
+      "categories": [
+        "general"
+      ],
       "logo": "https://i.imgur.com/pf8VEwf.png",
-      "website": "http://www.rtcg.me/"
+      "website": "https://rtcg.me/"
     },
     {
       "id": "TVCidade.cv",
@@ -98335,11 +98341,14 @@
       "name": "TV Niksic",
       "country": "ME",
       "languages": [
+        "cnr",
         "srp"
       ],
-      "categories": [],
-      "logo": "https://i.imgur.com/51fGwzn.png",
-      "website": "https://www.rtnk.me/"
+      "categories": [
+        "general"
+      ],
+      "logo": "https://rtnk.me/wp-content/uploads/2023/03/RTNK-logo.png",
+      "website": "https://rtnk.me/"
     },
     {
       "id": "TVNitricka.sk",
