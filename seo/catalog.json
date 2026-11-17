@@ -1022,6 +1022,12 @@
       "lng": 64
     },
     {
+      "code": "VA",
+      "name": "Vatican City",
+      "lat": 41.9,
+      "lng": 12.45
+    },
+    {
       "code": "VC",
       "name": "Saint Vincent and the Grenadines",
       "lat": 13.25,
@@ -2973,6 +2979,19 @@
       "website": "https://www.a1mediagroep.nl/"
     },
     {
+      "id": "A24Paraguay.py",
+      "name": "A24 Paraguay",
+      "country": "PY",
+      "languages": [
+        "spa"
+      ],
+      "categories": [
+        "news"
+      ],
+      "logo": "https://i.imgur.com/XWBmjBk.png",
+      "website": "https://www.a24.com.py/"
+    },
+    {
       "id": "A2CNN.al",
       "name": "A2 CNN",
       "country": "AL",
@@ -3313,6 +3332,19 @@
       ],
       "logo": "https://i.imgur.com/LEVEhTH.png",
       "website": "https://athavantv.com/"
+    },
+    {
+      "id": "AB1.fr",
+      "name": "AB1",
+      "country": "FR",
+      "languages": [
+        "fra"
+      ],
+      "categories": [
+        "entertainment"
+      ],
+      "logo": "https://i.imgur.com/9C7UsOe.png",
+      "website": "http://www.ab1.tv/"
     },
     {
       "id": "AbadanTV.ir",
@@ -4113,6 +4145,32 @@
       ],
       "logo": "https://i.imgur.com/91JLpxr.png",
       "website": "https://www.acnntv.com/"
+    },
+    {
+      "id": "ACNTV.cm",
+      "name": "ACN TV",
+      "country": "CM",
+      "languages": [
+        "eng"
+      ],
+      "categories": [
+        "news"
+      ],
+      "logo": "https://i.imgur.com/aZyKsyN.png",
+      "website": "https://www.acnlive.net/"
+    },
+    {
+      "id": "Action.fr",
+      "name": "Action",
+      "country": "FR",
+      "languages": [
+        "fra"
+      ],
+      "categories": [
+        "movies"
+      ],
+      "logo": "https://i.imgur.com/Zv9VsVq.png",
+      "website": "http://www.actiontv.fr/"
     },
     {
       "id": "ActivaTV.es",
@@ -7294,6 +7352,19 @@
       "website": "https://www.nbc.com/american-ninja-warrior"
     },
     {
+      "id": "AmericaParaguay.py",
+      "name": "America Paraguay",
+      "country": "PY",
+      "languages": [
+        "spa"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://i.imgur.com/0COKxet.png",
+      "website": "https://americatv.com.py/"
+    },
+    {
       "id": "AmericasNextTopModel.us",
       "name": "America's Next Top Model",
       "country": "US",
@@ -7883,6 +7954,19 @@
       "website": "https://animationplus.com"
     },
     {
+      "id": "Animaux.fr",
+      "name": "Animaux",
+      "country": "FR",
+      "languages": [
+        "fra"
+      ],
+      "categories": [
+        "education"
+      ],
+      "logo": "https://i.imgur.com/FM9FVAG.png",
+      "website": "http://www.animauxtv.fr/"
+    },
+    {
       "id": "AnimaxAsia.sg",
       "name": "Animax Asia",
       "country": "SG",
@@ -8250,6 +8334,20 @@
       ],
       "logo": "https://i.imgur.com/kNrzk3X.png",
       "website": "https://players.fluidstream.it/Antenna2TV/"
+    },
+    {
+      "id": "AntennaSicilia.it",
+      "name": "Antenna Sicilia",
+      "country": "IT",
+      "languages": [
+        "ita",
+        "scn"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Antennasicilia.png",
+      "website": "https://www.lasiciliaweb.it/live-antennasicilia/"
     },
     {
       "id": "AntennaSud.it",
@@ -10303,6 +10401,20 @@
       ],
       "logo": "https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentictravel_white.png",
       "website": "https://www.autentic.com/117/Channels.htm#autentic_travel"
+    },
+    {
+      "id": "Automotolachaine.fr",
+      "name": "Automoto la chaine",
+      "country": "FR",
+      "languages": [
+        "fra",
+        "tur"
+      ],
+      "categories": [
+        "auto"
+      ],
+      "logo": "https://i.imgur.com/ebf2uc7.png",
+      "website": "https://www.automoto-lachaine.fr/"
     },
     {
       "id": "AutoPlus.ru",
@@ -13311,6 +13423,17 @@
       "website": "https://bihortv.com/"
     },
     {
+      "id": "BikeChannel.it",
+      "name": "Bike Channel",
+      "country": "IT",
+      "languages": [
+        "ita"
+      ],
+      "categories": [],
+      "logo": "https://i.imgur.com/WrNxg2k.png",
+      "website": "https://bikechannel.it/"
+    },
+    {
       "id": "BilliardTV.us",
       "name": "Billiard TV",
       "country": "US",
@@ -14049,6 +14172,19 @@
       ],
       "logo": "https://bomchannel.it/wp-content/uploads/2025/02/Tavola-disegno-1-768x432.png",
       "website": "https://bomchannel.it/"
+    },
+    {
+      "id": "BomCine.es",
+      "name": "Bom Cine",
+      "country": "ES",
+      "languages": [
+        "spa"
+      ],
+      "categories": [
+        "movies"
+      ],
+      "logo": "https://bomcine.com/img/ico/logo-bom-negro.svg",
+      "website": "https://www.bomcine.com/"
     },
     {
       "id": "Bonairetv.bq",
@@ -15481,6 +15617,19 @@
       ],
       "logo": "https://i.imgur.com/FyNot5W.png",
       "website": "https://cmctv.com/"
+    },
+    {
+      "id": "CaliTV.co",
+      "name": "CaliTV",
+      "country": "CO",
+      "languages": [
+        "spa"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://i.imgur.com/2312Luq.png",
+      "website": "https://www.canalcalitv.com/"
     },
     {
       "id": "CalvaryTV.in",
@@ -17256,17 +17405,6 @@
       ],
       "logo": "https://i.imgur.com/S4xqZgV.png",
       "website": "https://mediaserver.com.co/canal-cine-dios/"
-    },
-    {
-      "id": "CanalClaro.cl",
-      "name": "Canal Claro",
-      "country": "CL",
-      "languages": [
-        "spa"
-      ],
-      "categories": [],
-      "logo": "https://i.imgur.com/Kgjfd3J.png",
-      "website": "http://www.clarochile.cl/"
     },
     {
       "id": "CanalCoinTV.es",
@@ -20608,6 +20746,22 @@
       "website": "https://pluto.tv/live-tv/charterfeber-no/details"
     },
     {
+      "id": "ChassePeche.fr",
+      "name": "Chasse & Peche",
+      "country": "FR",
+      "languages": [
+        "bul",
+        "fra",
+        "rus",
+        "tur"
+      ],
+      "categories": [
+        "outdoor"
+      ],
+      "logo": "https://i.imgur.com/ZIS2ZQ1.png",
+      "website": "http://www.chasseetpechetv.fr/"
+    },
+    {
       "id": "CHCOTV.ca",
       "name": "CHCO-TV",
       "country": "CA",
@@ -22729,6 +22883,19 @@
       "website": "https://cnbce.com/"
     },
     {
+      "id": "CNBCEurope.uk",
+      "name": "CNBC Europe",
+      "country": "UK",
+      "languages": [
+        "eng"
+      ],
+      "categories": [
+        "business"
+      ],
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/b/bc/CNBC_2025.svg",
+      "website": "https://www.cnbc.com/europe-television/"
+    },
+    {
       "id": "CNBCTV18.in",
       "name": "CNBC TV18",
       "country": "IN",
@@ -24356,6 +24523,19 @@
       "categories": [],
       "logo": "https://i.imgur.com/xwGquEb.png",
       "website": "https://video.premiumfree.tv/"
+    },
+    {
+      "id": "CrimeDistrict.fr",
+      "name": "Crime District",
+      "country": "FR",
+      "languages": [
+        "fra"
+      ],
+      "categories": [
+        "series"
+      ],
+      "logo": "https://i.imgur.com/WQJ6Lbk.png",
+      "website": "http://www.crimedistrict.tv/"
     },
     {
       "id": "CrimenesImperfectos.us",
@@ -27471,20 +27651,6 @@
       "website": "http://disneychannel.de/"
     },
     {
-      "id": "DisneyChannel.us",
-      "name": "Disney Channel",
-      "country": "US",
-      "languages": [
-        "eng",
-        "spa"
-      ],
-      "categories": [
-        "kids"
-      ],
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
-      "website": "https://www.disney.com/"
-    },
-    {
       "id": "DisneyChannelLatinAmerica.ar",
       "name": "Disney Channel Latin America",
       "country": "AR",
@@ -27526,20 +27692,6 @@
       ],
       "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
       "website": "http://disney.go.com/disneyjunior/"
-    },
-    {
-      "id": "DisneyXD.us",
-      "name": "Disney XD",
-      "country": "US",
-      "languages": [
-        "eng",
-        "spa"
-      ],
-      "categories": [
-        "kids"
-      ],
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg",
-      "website": "https://disneynow.com/all-shows/disney-xd"
     },
     {
       "id": "DistrictofColumbiaNetwork.us",
@@ -29113,6 +29265,19 @@
     {
       "id": "EBCGeneralEducation.kh",
       "name": "EBC General Education",
+      "country": "KH",
+      "languages": [
+        "khm"
+      ],
+      "categories": [
+        "education"
+      ],
+      "logo": "https://elearning.ebc.edu.kh/pluginfile.php/1/theme_remui/logo/1770608989/ebc-logo.png",
+      "website": "https://ebc.edu.kh/"
+    },
+    {
+      "id": "EBCLifelongLearning.kh",
+      "name": "EBC Lifelong Learning",
       "country": "KH",
       "languages": [
         "khm"
@@ -31199,6 +31364,19 @@
       ],
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
       "website": "https://espn.com/"
+    },
+    {
+      "id": "EspoirTV.cd",
+      "name": "Espoir TV",
+      "country": "CD",
+      "languages": [
+        "fra"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://i.imgur.com/sBsAHqb.jpeg",
+      "website": null
     },
     {
       "id": "Esport3.es",
@@ -34030,6 +34208,32 @@
       ],
       "logo": "https://assets.antenaplay.ro/2024/02/23/XUKfJwir4MxNeP4nHtG7.png",
       "website": "https://antenaplay.ro/live/formula-1-live"
+    },
+    {
+      "id": "Formula2AntenaPlay.ro",
+      "name": "Formula 2 AntenaPlay",
+      "country": "RO",
+      "languages": [
+        "ron"
+      ],
+      "categories": [
+        "sports"
+      ],
+      "logo": "https://assets.antenaplay.ro/2024/02/28/YW9VML2K4hpFUKMHme97.png",
+      "website": "https://antenaplay.ro/live"
+    },
+    {
+      "id": "FormulaAcademyAntenaPlay.ro",
+      "name": "Formula Academy AntenaPlay",
+      "country": "RO",
+      "languages": [
+        "ron"
+      ],
+      "categories": [
+        "sports"
+      ],
+      "logo": "https://assets.antenaplay.ro/2024/02/28/1o8H6fCMh1DSC2vuLjo8.png",
+      "website": "https://antenaplay.ro/live"
     },
     {
       "id": "ForoTV.pe",
@@ -37267,6 +37471,19 @@
       "website": "https://guayapetv.hn/"
     },
     {
+      "id": "GuaymateTV.do",
+      "name": "Guaymate TV",
+      "country": "DO",
+      "languages": [
+        "spa"
+      ],
+      "categories": [
+        "culture"
+      ],
+      "logo": "https://i.imgur.com/PBgQi9a.png",
+      "website": "https://guaymatetvdigital.blogspot.com/2022/04/guayumate-tv-digital.html"
+    },
+    {
       "id": "GugakTV.kr",
       "name": "Gugak TV",
       "country": "KR",
@@ -38611,6 +38828,19 @@
       ],
       "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Hispantv_logo.jpg",
       "website": "https://www.hispantv.com/"
+    },
+    {
+      "id": "HistoireTV.fr",
+      "name": "Histoire TV",
+      "country": "FR",
+      "languages": [
+        "fra"
+      ],
+      "categories": [
+        "documentary"
+      ],
+      "logo": "https://i.imgur.com/hxuJXll.png",
+      "website": "http://www.histoire.fr/"
     },
     {
       "id": "Historia.es",
@@ -42413,45 +42643,6 @@
       ],
       "logo": "https://i.imgur.com/NZdT9yJ.png",
       "website": "https://itvmg.com/tv"
-    },
-    {
-      "id": "ITV2.uk",
-      "name": "ITV2",
-      "country": "UK",
-      "languages": [
-        "eng"
-      ],
-      "categories": [
-        "general"
-      ],
-      "logo": "https://i.imgur.com/2BpUK0W.png",
-      "website": "https://www.itv.com/hub/itv2"
-    },
-    {
-      "id": "ITV3.uk",
-      "name": "ITV3",
-      "country": "UK",
-      "languages": [
-        "eng"
-      ],
-      "categories": [
-        "entertainment"
-      ],
-      "logo": "https://i.imgur.com/JuyM2z5.png",
-      "website": "https://www.itv.com/hub/itv3"
-    },
-    {
-      "id": "ITV4.uk",
-      "name": "ITV4",
-      "country": "UK",
-      "languages": [
-        "eng"
-      ],
-      "categories": [
-        "general"
-      ],
-      "logo": "https://i.imgur.com/DYI4IA2.png",
-      "website": "https://www.itv.com/hub/itv4"
     },
     {
       "id": "ITVDeportes.mx",
@@ -48443,6 +48634,19 @@
       "website": "https://lepantortv.gr/"
     },
     {
+      "id": "LEquipe.fr",
+      "name": "L'Equipe",
+      "country": "FR",
+      "languages": [
+        "fra"
+      ],
+      "categories": [
+        "sports"
+      ],
+      "logo": "https://i.imgur.com/t35zhM9.png",
+      "website": "https://www.lequipe.fr/lachainelequipe/"
+    },
+    {
       "id": "LesAnneesfac.us",
       "name": "Les Annees fac",
       "country": "US",
@@ -50042,6 +50246,19 @@
       "website": "https://www.m2o.it/"
     },
     {
+      "id": "M6Music.fr",
+      "name": "M6 Music",
+      "country": "FR",
+      "languages": [
+        "fra"
+      ],
+      "categories": [
+        "music"
+      ],
+      "logo": null,
+      "website": "https://www.6play.fr/m6"
+    },
+    {
       "id": "M95TelevisionMarbella.es",
       "name": "M95 Television Marbella",
       "country": "ES",
@@ -50894,6 +51111,19 @@
       ],
       "logo": "https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/mangalmay-tv-black.png",
       "website": "https://ashram.org/live/"
+    },
+    {
+      "id": "Mangas.fr",
+      "name": "Mangas",
+      "country": "FR",
+      "languages": [
+        "fra"
+      ],
+      "categories": [
+        "animation"
+      ],
+      "logo": "https://i.imgur.com/wmmEOza.png",
+      "website": "https://www.mangas.fr/"
     },
     {
       "id": "Mango.in",
@@ -52669,6 +52899,19 @@
       ],
       "logo": "https://i.imgur.com/q7iVchl.png",
       "website": "https://www.mekameleen.tv/"
+    },
+    {
+      "id": "Melody.fr",
+      "name": "Melody",
+      "country": "FR",
+      "languages": [
+        "fra"
+      ],
+      "categories": [
+        "music"
+      ],
+      "logo": "https://i.imgur.com/9GVyQ6x.png",
+      "website": "https://www.melody.tv/"
     },
     {
       "id": "MelodyFM.jo",
@@ -54779,6 +55022,19 @@
         "auto"
       ],
       "logo": "https://i.imgur.com/v4kj8pI.png",
+      "website": "https://motorvision.tv/"
+    },
+    {
+      "id": "MotorvisionPlus.de",
+      "name": "Motorvision+",
+      "country": "DE",
+      "languages": [
+        "eng"
+      ],
+      "categories": [
+        "auto"
+      ],
+      "logo": "https://i.imgur.com/5cs5GkJ.png",
       "website": "https://motorvision.tv/"
     },
     {
@@ -57492,6 +57748,19 @@
       "website": "https://nayaritcomunica.com/"
     },
     {
+      "id": "NBAAntenaPlay.ro",
+      "name": "NBA AntenaPlay",
+      "country": "RO",
+      "languages": [
+        "ron"
+      ],
+      "categories": [
+        "sports"
+      ],
+      "logo": "https://assets.antenaplay.ro/2024/10/25/HmBMStln2f1qwN0tAXpG.png",
+      "website": "https://antenaplay.ro/live"
+    },
+    {
       "id": "NBATV.us",
       "name": "NBA TV",
       "country": "US",
@@ -59457,19 +59726,6 @@
       "website": "http://www.nickelodeon.fr/"
     },
     {
-      "id": "Nickelodeon.us",
-      "name": "Nickelodeon",
-      "country": "US",
-      "languages": [
-        "eng"
-      ],
-      "categories": [
-        "kids"
-      ],
-      "logo": "https://i.imgur.com/E84jnP8.png",
-      "website": "http://www.nick.com/"
-    },
-    {
       "id": "NickelodeonCIS.kz",
       "name": "Nickelodeon CIS",
       "country": "KZ",
@@ -59614,19 +59870,6 @@
       ],
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png",
       "website": "https://jr.nickelodeon.ru/"
-    },
-    {
-      "id": "NickJr.us",
-      "name": "Nick Jr.",
-      "country": "US",
-      "languages": [
-        "eng"
-      ],
-      "categories": [
-        "kids"
-      ],
-      "logo": "https://i.imgur.com/KT4tdQs.png",
-      "website": "http://www.nickjr.com/"
     },
     {
       "id": "NickJrClub.de",
@@ -60539,6 +60782,19 @@
       ],
       "logo": "https://i.imgur.com/mmKWrWs.png",
       "website": "https://novoetv.kz/smotret-onlajn/"
+    },
+    {
+      "id": "NovosadskaTV.rs",
+      "name": "Novosadska TV",
+      "country": "RS",
+      "languages": [
+        "srp"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://i.imgur.com/s0SCAeV.png",
+      "website": "http://www.novosadska.tv/"
     },
     {
       "id": "NOW.tr",
@@ -64445,6 +64701,19 @@
       ],
       "logo": "https://dtil.tmsimg.com/assets/s143642_ld_h15_aa.png?lock=720x540",
       "website": "http://www.parastvchannel.com/"
+    },
+    {
+      "id": "ParisPremiere.fr",
+      "name": "Paris Premiere",
+      "country": "FR",
+      "languages": [
+        "fra"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://i.imgur.com/ily4bEm.png",
+      "website": "https://www.6play.fr/pp"
     },
     {
       "id": "ParlamentodeNavarra.es",
@@ -70281,6 +70550,19 @@
       "website": "https://www.polimertv.com/"
     },
     {
+      "id": "Polsat1.pl",
+      "name": "Polsat 1",
+      "country": "PL",
+      "languages": [
+        "pol"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Polsat_1_2021_gradient.svg/960px-Polsat_1_2021_gradient.svg.png",
+      "website": "https://www.polsat1.pl/"
+    },
+    {
       "id": "PolsatNews.pl",
       "name": "Polsat News",
       "country": "PL",
@@ -74470,6 +74752,17 @@
       "website": "https://www.rai.it/rai1/"
     },
     {
+      "id": "Rai2.it",
+      "name": "Rai 2",
+      "country": "IT",
+      "languages": [
+        "ita"
+      ],
+      "categories": [],
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/960px-Rai_2_-_Logo_2016.svg.png",
+      "website": "https://www.rai.it/rai2/"
+    },
+    {
       "id": "Rai3.it",
       "name": "Rai 3",
       "country": "IT",
@@ -76207,6 +76500,17 @@
       "website": "http://www.resurrectiontv.org/"
     },
     {
+      "id": "Rete4.it",
+      "name": "Rete 4",
+      "country": "IT",
+      "languages": [
+        "ita"
+      ],
+      "categories": [],
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Rete_4_-_Logo_2018.svg/500px-Rete_4_-_Logo_2018.svg.png",
+      "website": "https://www.mediasetplay.mediaset.it/rete4"
+    },
+    {
       "id": "Rete55.it",
       "name": "Rete 55",
       "country": "IT",
@@ -77884,6 +78188,19 @@
       "website": "https://play.rtl.it/live/1/radiovisione/"
     },
     {
+      "id": "RTL9.lu",
+      "name": "RTL9",
+      "country": "LU",
+      "languages": [
+        "fra"
+      ],
+      "categories": [
+        "entertainment"
+      ],
+      "logo": "https://i.imgur.com/nFqjVNW.png",
+      "website": "http://www.rtl9.com/"
+    },
+    {
       "id": "RTLGold.hu",
       "name": "RTL Gold",
       "country": "HU",
@@ -78125,6 +78442,19 @@
       "website": null
     },
     {
+      "id": "RTPMundo.pt",
+      "name": "RTP Mundo",
+      "country": "PT",
+      "languages": [
+        "por"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/RTP_Mundo.svg/1920px-RTP_Mundo.svg.png",
+      "website": "https://mundo.rtp.pt/"
+    },
+    {
       "id": "RTQQueretaro.mx",
       "name": "RTQ Queretaro",
       "country": "MX",
@@ -78196,6 +78526,17 @@
       ],
       "logo": "https://i.imgur.com/PML8cJA.png",
       "website": "http://www.rts.com.ec/"
+    },
+    {
+      "id": "RTS1.ch",
+      "name": "RTS 1",
+      "country": "CH",
+      "languages": [
+        "fra"
+      ],
+      "categories": [],
+      "logo": "https://i.imgur.com/OP5lHv9.png",
+      "website": "https://www.rts.ch/"
     },
     {
       "id": "RTS1.rs",
@@ -79626,6 +79967,19 @@
       "website": "https://www.sakshi.com/"
     },
     {
+      "id": "SakuranboTV.jp",
+      "name": "Sakuranbo TV",
+      "country": "JP",
+      "languages": [
+        "jpn"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a8/SAY_logo_1997.svg",
+      "website": "https://www.sakuranbo.co.jp/"
+    },
+    {
       "id": "SalaamTV.in",
       "name": "Salaam TV",
       "country": "IN",
@@ -80827,6 +81181,20 @@
       "website": "https://schwabnetwork.com/"
     },
     {
+      "id": "ScienceVieTV.fr",
+      "name": "Science & Vie TV",
+      "country": "FR",
+      "languages": [
+        "fra",
+        "tur"
+      ],
+      "categories": [
+        "science"
+      ],
+      "logo": "https://i.imgur.com/9ELsSMI.png",
+      "website": "http://www.science-et-vie.tv/"
+    },
+    {
       "id": "ScientologyNetwork.us",
       "name": "Scientology Network",
       "country": "US",
@@ -81372,6 +81740,17 @@
       ],
       "logo": "https://sercemtv.com.tr/sercemlogo.jpg",
       "website": "https://sercemtv.com.tr"
+    },
+    {
+      "id": "SerieClub.fr",
+      "name": "Serie Club",
+      "country": "FR",
+      "languages": [
+        "fra"
+      ],
+      "categories": [],
+      "logo": "https://i.imgur.com/V8wRRg5.png",
+      "website": "https://pro.m6.fr/serieclub/"
     },
     {
       "id": "SerieMax.ci",
@@ -82967,6 +83346,20 @@
       ],
       "logo": "https://www.smartradio.ro/wp-content/themes/smart-radio/img/Logo_SmartRadio.png",
       "website": "https://www.smartradio.ro/"
+    },
+    {
+      "id": "SmashRadioTT.tt",
+      "name": "Smash Radio TT",
+      "country": "TT",
+      "languages": [
+        "eng"
+      ],
+      "categories": [
+        "entertainment",
+        "music"
+      ],
+      "logo": "https://webtv.smashradiott.com/__l5e/assets-v1/a6ab6eca-c330-4710-8e62-8dc07b29e91c/smash-logo.png",
+      "website": "https://www.smashradiott.com"
     },
     {
       "id": "SmashTV.mt",
@@ -84627,6 +85020,19 @@
       "website": "https://www.mtrk.uz/uz/tv/sport/"
     },
     {
+      "id": "Sport1.de",
+      "name": "Sport1",
+      "country": "DE",
+      "languages": [
+        "deu"
+      ],
+      "categories": [
+        "sports"
+      ],
+      "logo": "https://i.imgur.com/Tsjt7v9.png",
+      "website": "https://tv.sport1.de/sport1/"
+    },
+    {
       "id": "Sportitalia.it",
       "name": "Sportitalia",
       "country": "IT",
@@ -84781,6 +85187,20 @@
       "website": "https://qroo.gob.mx/sqcs"
     },
     {
+      "id": "Squirrel.es",
+      "name": "Squirrel",
+      "country": "ES",
+      "languages": [
+        "spa"
+      ],
+      "categories": [
+        "movies",
+        "series"
+      ],
+      "logo": "https://i.imgur.com/9y8VcBr.png",
+      "website": "https://squirreltv.es/"
+    },
+    {
       "id": "SRF.de",
       "name": "SRF",
       "country": "DE",
@@ -84803,6 +85223,18 @@
       "categories": [],
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/SR_Fernsehen_Logo_2023.svg/960px-SR_Fernsehen_Logo_2023.svg.png",
       "website": "https://www.sr.de/sr/fernsehen/"
+    },
+    {
+      "id": "SRFinfo.ch",
+      "name": "SRF info",
+      "country": "CH",
+      "languages": [
+        "deu",
+        "eng"
+      ],
+      "categories": [],
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Logo_SRF_info.svg/960px-Logo_SRF_info.svg.png",
+      "website": "https://www.srf.ch/"
     },
     {
       "id": "SRKTV.in",
@@ -90835,6 +91267,17 @@
       "website": null
     },
     {
+      "id": "Teva.fr",
+      "name": "Teva",
+      "country": "FR",
+      "languages": [
+        "fra"
+      ],
+      "categories": [],
+      "logo": "https://i.imgur.com/kDW0hN5.png",
+      "website": "https://www.6play.fr/teva"
+    },
+    {
       "id": "TeveColombia.co",
       "name": "TeveColombia",
       "country": "CO",
@@ -90911,6 +91354,19 @@
       ],
       "logo": "https://i.imgur.com/eAagwLW.png",
       "website": "https://tezaurtv.md"
+    },
+    {
+      "id": "TF1.fr",
+      "name": "TF1",
+      "country": "FR",
+      "languages": [
+        "fra"
+      ],
+      "categories": [
+        "entertainment"
+      ],
+      "logo": "https://i.imgur.com/QxHt9NC.png",
+      "website": "https://www.tf1.fr"
     },
     {
       "id": "TF1SeriesFilms.fr",
@@ -92639,6 +93095,19 @@
       "website": "https://www.tltmolise.it/"
     },
     {
+      "id": "TMC.fr",
+      "name": "TMC",
+      "country": "FR",
+      "languages": [
+        "fra"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/960px-TMC_logo.svg.png",
+      "website": "https://www.tf1.fr/tmc"
+    },
+    {
       "id": "TMF.nl",
       "name": "TMF",
       "country": "NL",
@@ -93073,6 +93542,19 @@
       ],
       "logo": "https://gia.tv/streams/pptv/208314.jpg?1750373428",
       "website": "https://gia.tv/watchssh101.php?pptv=208314"
+    },
+    {
+      "id": "TomSingsTV.us",
+      "name": "Tom Sings TV",
+      "country": "US",
+      "languages": [
+        "eng"
+      ],
+      "categories": [
+        "kids"
+      ],
+      "logo": "https://videocdn.bamboo-cloud.com/p/11389/sp/1138900/thumbnail/entry_id/0_osv1x0bp/version/100002/width/1920",
+      "website": "https://tomsings.bamboo-cloud.com/channel/6af043956f49ecefd30d7fd4"
     },
     {
       "id": "TonghuaTV.cn",
@@ -93532,6 +94014,17 @@
       ],
       "logo": "https://imgur.com/khj869k.png",
       "website": "https://toursporttv.com/"
+    },
+    {
+      "id": "ToutelHistoire.fr",
+      "name": "Toute l'Histoire",
+      "country": "FR",
+      "languages": [
+        "fra"
+      ],
+      "categories": [],
+      "logo": "https://i.imgur.com/xRfyQYn.png",
+      "website": "http://www.toutelhistoire.com/"
     },
     {
       "id": "ToutlemondedetesteChris.de",
@@ -96066,6 +96559,17 @@
       "website": "http://www.tbomt.com.br/"
     },
     {
+      "id": "TVBreizh.fr",
+      "name": "TV Breizh",
+      "country": "FR",
+      "languages": [
+        "fra"
+      ],
+      "categories": [],
+      "logo": "https://i.imgur.com/O8W4yhn.png",
+      "website": "https://www.tvbreizh.fr/"
+    },
+    {
       "id": "TVBRICSAfrica.za",
       "name": "TV BRICS Africa",
       "country": "ZA",
@@ -97557,6 +98061,17 @@
       ],
       "logo": "https://i.imgur.com/2LE8xSW.png",
       "website": "http://www.tvkeszthely.hu/"
+    },
+    {
+      "id": "TVKragujevac.rs",
+      "name": "TV Kragujevac",
+      "country": "RS",
+      "languages": [
+        "srp"
+      ],
+      "categories": [],
+      "logo": "https://i.imgur.com/j0UMFNs.png",
+      "website": "http://www.rtk.co.rs/"
     },
     {
       "id": "TVKStella.pl",
@@ -99667,6 +100182,17 @@
       "website": null
     },
     {
+      "id": "TVSmederevo.rs",
+      "name": "TV Smederevo",
+      "country": "RS",
+      "languages": [
+        "srp"
+      ],
+      "categories": [],
+      "logo": "https://i.imgur.com/TkTqpzp.png",
+      "website": null
+    },
+    {
       "id": "TVSMusicNetwork.us",
       "name": "TVS Music Network",
       "country": "US",
@@ -101523,6 +102049,17 @@
       "website": "https://www.usatoday.com/"
     },
     {
+      "id": "UshuaiaTV.fr",
+      "name": "Ushuaia TV",
+      "country": "FR",
+      "languages": [
+        "fra"
+      ],
+      "categories": [],
+      "logo": "https://i.imgur.com/WjjlqbP.png",
+      "website": "https://www.ushuaiatv.fr/"
+    },
+    {
       "id": "UStad.nl",
       "name": "UStad",
       "country": "NL",
@@ -101927,6 +102464,19 @@
       ],
       "logo": "https://i.imgur.com/WOEqdmx.png",
       "website": "https://vasarhelyitelevizio.hu/"
+    },
+    {
+      "id": "VaticanMedia.va",
+      "name": "Vatican Media",
+      "country": "VA",
+      "languages": [
+        "eng",
+        "fra",
+        "ita"
+      ],
+      "categories": [],
+      "logo": "https://i.imgur.com/9cUUx8H.png",
+      "website": "https://www.comunicazione.va/it/vatican-media.html"
     },
     {
       "id": "VatiLao.la",
@@ -106231,6 +106781,19 @@
       ],
       "logo": "https://i.imgur.com/UDpDJ7v.png",
       "website": "http://ytatv.com/"
+    },
+    {
+      "id": "YTSYamagataTV.jp",
+      "name": "YTS Yamagata TV",
+      "country": "JP",
+      "languages": [
+        "jpn"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ec/YTS2024.svg",
+      "website": "https://www.yts.co.jp/"
     },
     {
       "id": "YuGiOh.us",
