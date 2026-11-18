@@ -2441,6 +2441,32 @@
       "website": "https://pluto.tv/en/live-tv/5-cops-gb"
     },
     {
+      "id": "5Gold.il",
+      "name": "5Gold",
+      "country": "IL",
+      "languages": [
+        "heb"
+      ],
+      "categories": [
+        "sports"
+      ],
+      "logo": "https://i.imgur.com/zFLRfXh.png",
+      "website": "http://www.sport5.co.il/"
+    },
+    {
+      "id": "5Live.il",
+      "name": "5Live",
+      "country": "IL",
+      "languages": [
+        "heb"
+      ],
+      "categories": [
+        "sports"
+      ],
+      "logo": "https://i.imgur.com/0yr3yvd.png",
+      "website": "http://www.sport5.co.il/"
+    },
+    {
       "id": "5minuttishiny.ru",
       "name": "5 minut tishiny",
       "country": "RU",
@@ -2454,6 +2480,19 @@
       "website": "https://www.ntv.ru/serial/5_minut_tishiny"
     },
     {
+      "id": "5Plus.il",
+      "name": "5Plus",
+      "country": "IL",
+      "languages": [
+        "heb"
+      ],
+      "categories": [
+        "sports"
+      ],
+      "logo": "https://i.imgur.com/L3RA9Lv.png",
+      "website": "http://www.sport5.co.il/"
+    },
+    {
       "id": "5Plus.mm",
       "name": "5 Plus",
       "country": "MM",
@@ -2465,6 +2504,45 @@
       ],
       "logo": "https://i.imgur.com/4EHL2mH.png",
       "website": "https://www.5pluschannel.com/"
+    },
+    {
+      "id": "5Sport.il",
+      "name": "5Sport",
+      "country": "IL",
+      "languages": [
+        "heb"
+      ],
+      "categories": [
+        "sports"
+      ],
+      "logo": "https://i.imgur.com/dRVsB89.png",
+      "website": "http://www.sport5.co.il/"
+    },
+    {
+      "id": "5Sport4K.il",
+      "name": "5Sport 4K",
+      "country": "IL",
+      "languages": [
+        "heb"
+      ],
+      "categories": [
+        "sports"
+      ],
+      "logo": "https://i.imgur.com/Msfhpqd.png",
+      "website": "http://www.sport5.co.il/"
+    },
+    {
+      "id": "5Stars.il",
+      "name": "5Stars",
+      "country": "IL",
+      "languages": [
+        "heb"
+      ],
+      "categories": [
+        "sports"
+      ],
+      "logo": "https://i.imgur.com/IQtAKIa.png",
+      "website": "http://www.sport5.co.il/"
     },
     {
       "id": "5tv.ar",
@@ -6989,19 +7067,6 @@
       "website": "http://turkmentv.gov.tm/"
     },
     {
-      "id": "AlvinChannelTV.az",
-      "name": "Alvin Channel TV",
-      "country": "AZ",
-      "languages": [
-        "aze"
-      ],
-      "categories": [
-        "general"
-      ],
-      "logo": "https://i.imgur.com/m6CM7VU.png",
-      "website": "http://www.alvinchannel.com/"
-    },
-    {
       "id": "AlWafaTarim.id",
       "name": "Al Wafa Tarim",
       "country": "ID",
@@ -7853,19 +7918,6 @@
       ],
       "logo": "https://i.imgur.com/rmCBD3e.png",
       "website": "http://www.andyharyana.com/"
-    },
-    {
-      "id": "AnewZTV.az",
-      "name": "AnewZ TV",
-      "country": "AZ",
-      "languages": [
-        "eng"
-      ],
-      "categories": [
-        "news"
-      ],
-      "logo": "https://i.imgur.com/Lwgdbuu.png",
-      "website": "https://anewz.tv/"
     },
     {
       "id": "AngelTV.in",
@@ -9254,17 +9306,6 @@
       ],
       "categories": [],
       "logo": null,
-      "website": null
-    },
-    {
-      "id": "AryanTVNational.in",
-      "name": "Aryan TV National",
-      "country": "IN",
-      "languages": [
-        "hin"
-      ],
-      "categories": [],
-      "logo": "https://i.imgur.com/3tePHES.png",
       "website": null
     },
     {
@@ -10782,6 +10823,19 @@
       ],
       "logo": "https://dtil.tmsimg.com/assets/s142692_ld_h15_aa.png?lock=720x540",
       "website": "https://www.ayushtv.com/"
+    },
+    {
+      "id": "AzadTV.az",
+      "name": "Azad TV",
+      "country": "AZ",
+      "languages": [
+        "aze"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://i.imgur.com/rDYSoRL.png",
+      "website": "http://www.atv.az/"
     },
     {
       "id": "AzaharesRadiovisualMultimedia.ar",
@@ -28974,19 +29028,6 @@
       "website": null
     },
     {
-      "id": "Dukhniwaran.in",
-      "name": "Dukhniwaran",
-      "country": "IN",
-      "languages": [
-        "pan"
-      ],
-      "categories": [
-        "religious"
-      ],
-      "logo": "https://papaji.freetvindia.com/media/channels/dukhniwaran.png",
-      "website": null
-    },
-    {
       "id": "DunamisTV.ng",
       "name": "Dunamis TV",
       "country": "NG",
@@ -36871,19 +36912,6 @@
       "website": "https://www.gospeltruth.tv/contact/"
     },
     {
-      "id": "GospelTVIndia.in",
-      "name": "Gospel TV India",
-      "country": "IN",
-      "languages": [
-        "tel"
-      ],
-      "categories": [
-        "religious"
-      ],
-      "logo": "https://i.ibb.co/xhbZvzt/cropped-final-logo-300x127.png",
-      "website": "http://gospeltvindia.com/"
-    },
-    {
       "id": "GoTraveler.us",
       "name": "GoTraveler",
       "country": "US",
@@ -37548,6 +37576,19 @@
       ],
       "logo": "https://dtil.tmsimg.com/assets/s143097_ld_h15_aa.png?lock=720x540",
       "website": "https://gulistannewstv.com/"
+    },
+    {
+      "id": "Gulli.fr",
+      "name": "Gulli",
+      "country": "FR",
+      "languages": [
+        "fra"
+      ],
+      "categories": [
+        "kids"
+      ],
+      "logo": "https://i.imgur.com/kqYssbW.png",
+      "website": "http://www.gulli.fr/"
     },
     {
       "id": "GulliGirl.ru",
@@ -44568,19 +44609,6 @@
       "website": "https://kanal34.tv/"
     },
     {
-      "id": "Kanal35.az",
-      "name": "Kanal 35",
-      "country": "AZ",
-      "languages": [
-        "aze"
-      ],
-      "categories": [
-        "general"
-      ],
-      "logo": "https://live.ntv.az/kanal35.png",
-      "website": "https://live.ntv.az/"
-    },
-    {
       "id": "Kanal5.mk",
       "name": "Kanal 5",
       "country": "MK",
@@ -50246,6 +50274,19 @@
       "website": "https://www.m2o.it/"
     },
     {
+      "id": "M6.fr",
+      "name": "M6",
+      "country": "FR",
+      "languages": [
+        "fra"
+      ],
+      "categories": [
+        "entertainment"
+      ],
+      "logo": "https://i.imgur.com/7GVp3fW.png",
+      "website": "https://www.6play.fr/m6"
+    },
+    {
       "id": "M6Music.fr",
       "name": "M6 Music",
       "country": "FR",
@@ -50255,7 +50296,7 @@
       "categories": [
         "music"
       ],
-      "logo": null,
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/6/68/M6music-95cde0867d.svg/revision/latest?cb=20200412210630",
       "website": "https://www.6play.fr/m6"
     },
     {
@@ -52527,19 +52568,6 @@
       "categories": [],
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/960px-MDTV_logo.svg.png",
       "website": "https://mdtelevision.com/"
-    },
-    {
-      "id": "MedeniyyetTV.az",
-      "name": "Medeniyyet TV",
-      "country": "AZ",
-      "languages": [
-        "aze"
-      ],
-      "categories": [
-        "culture"
-      ],
-      "logo": "https://i.imgur.com/PlvaDIa.png",
-      "website": "http://www.medeniyyettv.az/"
     },
     {
       "id": "Medi1TVAfrique.ma",
@@ -57036,19 +57064,6 @@
       "website": "https://www.naftemporiki.gr/ntv/"
     },
     {
-      "id": "NagalandTV.in",
-      "name": "Nagaland TV",
-      "country": "IN",
-      "languages": [
-        "hin"
-      ],
-      "categories": [
-        "news"
-      ],
-      "logo": "https://i.imgur.com/EBEIpPo.png",
-      "website": null
-    },
-    {
       "id": "NamayeshTV.ir",
       "name": "Namayesh TV",
       "country": "IR",
@@ -57718,21 +57733,6 @@
       ],
       "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Naxatra_News_Hindi.png",
       "website": null
-    },
-    {
-      "id": "NaxcivanTV.az",
-      "name": "Naxcivan TV",
-      "country": "AZ",
-      "languages": [
-        "aze",
-        "eng",
-        "rus"
-      ],
-      "categories": [
-        "general"
-      ],
-      "logo": "https://i.imgur.com/8yLFkdE.png",
-      "website": "https://ntv.az/"
     },
     {
       "id": "NayaritComunica.mx",
@@ -84079,6 +84079,19 @@
       "website": null
     },
     {
+      "id": "SonySportsTen3Hindi.in",
+      "name": "Sony Sports Ten 3 Hindi",
+      "country": "IN",
+      "languages": [
+        "hin"
+      ],
+      "categories": [
+        "sports"
+      ],
+      "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540",
+      "website": "https://www.sonysportsnetwork.com/"
+    },
+    {
       "id": "SonyWah.in",
       "name": "Sony Wah",
       "country": "IN",
@@ -86664,19 +86677,6 @@
       "website": "http://www.sunnetwork.in/tv-channel-details.aspx?Channelid=20&channelname=SURYA%20TV&LanguageID=4&Type=4"
     },
     {
-      "id": "SunTV.in",
-      "name": "Sun TV",
-      "country": "IN",
-      "languages": [
-        "tam"
-      ],
-      "categories": [
-        "entertainment"
-      ],
-      "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002Z0M0Y.png?lock=720x540",
-      "website": "http://www.sun.in/"
-    },
-    {
       "id": "SunuLabelTV.sn",
       "name": "SunuLabel TV",
       "country": "SN",
@@ -88995,6 +88995,19 @@
       ],
       "logo": "https://i.imgur.com/nhPFGs8.png",
       "website": "https://www.teleangolradio.cl/"
+    },
+    {
+      "id": "TeleAntillas.do",
+      "name": "Tele Antillas",
+      "country": "DO",
+      "languages": [
+        "spa"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://i.imgur.com/G1pJZkC.png",
+      "website": "https://teleantillas.com.do/"
     },
     {
       "id": "TeleArena.it",
@@ -93544,19 +93557,6 @@
       "website": "https://gia.tv/watchssh101.php?pptv=208314"
     },
     {
-      "id": "TomSingsTV.us",
-      "name": "Tom Sings TV",
-      "country": "US",
-      "languages": [
-        "eng"
-      ],
-      "categories": [
-        "kids"
-      ],
-      "logo": "https://videocdn.bamboo-cloud.com/p/11389/sp/1138900/thumbnail/entry_id/0_osv1x0bp/version/100002/width/1920",
-      "website": "https://tomsings.bamboo-cloud.com/channel/6af043956f49ecefd30d7fd4"
-    },
-    {
       "id": "TonghuaTV.cn",
       "name": "Tonghua TV",
       "country": "CN",
@@ -97013,7 +97013,7 @@
       "categories": [
         "general"
       ],
-      "logo": "https://i.imgur.com/QORHrXu.png",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/1/11/TVCG_1_Logo_2024.svg",
       "website": "https://rtcg.me/"
     },
     {
@@ -97026,7 +97026,7 @@
       "categories": [
         "general"
       ],
-      "logo": "https://i.imgur.com/WECmUKH.png",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ee/TVCG_2_Logo_2024.svg",
       "website": "https://rtcg.me/"
     },
     {
@@ -97039,7 +97039,7 @@
       "categories": [
         "legislative"
       ],
-      "logo": "https://i.imgur.com/0ZT3Bc2.png",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c9/TVCG_3_Logo_2024.svg",
       "website": "https://rtcg.me/tv/gledaj-tvcg3.html"
     },
     {
@@ -97052,7 +97052,7 @@
       "categories": [
         "general"
       ],
-      "logo": "https://i.imgur.com/pf8VEwf.png",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/8/87/TVCG_MNE_Logo_2024.svg",
       "website": "https://rtcg.me/"
     },
     {
