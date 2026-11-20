@@ -2258,6 +2258,17 @@
       "website": "https://threestones.tv/"
     },
     {
+      "id": "3TV.us",
+      "name": "3TV",
+      "country": "US",
+      "languages": [
+        "eng"
+      ],
+      "categories": [],
+      "logo": "https://i.imgur.com/kQ1x2yK.png",
+      "website": "https://www.azfamily.com/"
+    },
+    {
       "id": "48Hours.us",
       "name": "48 Hours",
       "country": "US",
@@ -2347,19 +2358,6 @@
       ],
       "logo": null,
       "website": "https://4music.persiana.live/"
-    },
-    {
-      "id": "4SiDESTV.in",
-      "name": "4 SiDES TV",
-      "country": "IN",
-      "languages": [
-        "tel"
-      ],
-      "categories": [
-        "news"
-      ],
-      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/4sites.png",
-      "website": null
     },
     {
       "id": "4TVNews.in",
@@ -7324,6 +7322,19 @@
       ],
       "logo": null,
       "website": "https://www.amcseries.com/"
+    },
+    {
+      "id": "AMCThrillers.us",
+      "name": "AMC Thrillers",
+      "country": "US",
+      "languages": [
+        "eng"
+      ],
+      "categories": [
+        "movies"
+      ],
+      "logo": "https://i.imgur.com/EVD0aIt.png",
+      "website": "https://watch.plex.tv/live-tv/channel/amc-thrillers"
     },
     {
       "id": "Ame47.do",
@@ -12827,22 +12838,6 @@
       "website": "https://pluto.tv/live-tv/best-of-paradise-hotel-skolveckan-se/details"
     },
     {
-      "id": "BestofTheDrewBarrymoreShow.se",
-      "name": "Best of The Drew Barrymore Show",
-      "country": "SE",
-      "languages": [
-        "dan",
-        "eng",
-        "nor",
-        "swe"
-      ],
-      "categories": [
-        "entertainment"
-      ],
-      "logo": "https://images.pluto.tv/channels/62beb692cda2b10007d5fd76/colorLogoPNG.png",
-      "website": "https://pluto.tv/live-tv/best-of-the-drew-barrymore-show-se/details"
-    },
-    {
       "id": "BestofTheDrewBarrymoreShow.us",
       "name": "Best of The Drew Barrymore Show",
       "country": "US",
@@ -14412,23 +14407,6 @@
       ],
       "logo": "https://i.imgur.com/VgRCu2U.png",
       "website": "https://www.bondiatv.org/"
-    },
-    {
-      "id": "BondiRescue.se",
-      "name": "Bondi Rescue",
-      "country": "SE",
-      "languages": [
-        "dan",
-        "eng",
-        "fin",
-        "nor",
-        "swe"
-      ],
-      "categories": [
-        "series"
-      ],
-      "logo": "https://images.pluto.tv/channels/660d66be7bcd8600087cfee5/colorLogoPNG.png",
-      "website": "https://pluto.tv/live-tv/bondi-rescue-se/details"
     },
     {
       "id": "BondiRescue.us",
@@ -17808,6 +17786,19 @@
       "website": "https://agenciagov.ebc.com.br/"
     },
     {
+      "id": "CanalGuapa.py",
+      "name": "Canal Guapa",
+      "country": "PY",
+      "languages": [
+        "spa"
+      ],
+      "categories": [
+        "lifestyle"
+      ],
+      "logo": "https://canalguapa.tv/guapa-isologo.png",
+      "website": "https://canalguapa.tv/"
+    },
+    {
       "id": "CanalI.ve",
       "name": "Canal I",
       "country": "VE",
@@ -18911,23 +18902,6 @@
       ],
       "logo": "https://i.imgur.com/7dl4yQY.jpeg",
       "website": "https://caras.perfil.com/carastv"
-    },
-    {
-      "id": "CarChase.se",
-      "name": "Car Chase",
-      "country": "SE",
-      "languages": [
-        "dan",
-        "eng",
-        "fin",
-        "nor",
-        "swe"
-      ],
-      "categories": [
-        "series"
-      ],
-      "logo": "https://images.pluto.tv/channels/65a93b0607e03a000895abda/colorLogoPNG.png",
-      "website": "https://pluto.tv/live-tv/car-chase-se/details"
     },
     {
       "id": "CarChase.us",
@@ -20946,21 +20920,6 @@
       "website": "https://cheddar.com/"
     },
     {
-      "id": "Cheers.se",
-      "name": "Cheers",
-      "country": "SE",
-      "languages": [
-        "eng",
-        "fin",
-        "nor"
-      ],
-      "categories": [
-        "comedy"
-      ],
-      "logo": "https://images.pluto.tv/channels/642e9575af2bd900088527dd/colorLogoPNG.png",
-      "website": "https://pluto.tv/live-tv/cheers-fi/details"
-    },
-    {
       "id": "Cheers.us",
       "name": "Cheers",
       "country": "US",
@@ -21092,6 +21051,19 @@
       ],
       "logo": "https://i.imgur.com/F1it6fh.png",
       "website": "https://chilechanneltv.cl/"
+    },
+    {
+      "id": "ChileVision.cl",
+      "name": "ChileVision",
+      "country": "CL",
+      "languages": [
+        "spa"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://i.imgur.com/PRijvR0.png",
+      "website": "https://www.chilevision.cl/"
     },
     {
       "id": "ChiloeRed25.cl",
@@ -23250,6 +23222,19 @@
       "website": "https://cnnespanol.cnn.com/"
     },
     {
+      "id": "CNNHeadlines.us",
+      "name": "CNN Headlines",
+      "country": "US",
+      "languages": [
+        "eng"
+      ],
+      "categories": [
+        "news"
+      ],
+      "logo": "https://provider-static.plex.tv/epg/cms/production/de3851fb-9598-4d13-8e03-f421418c9b5b/CNN_Headlines_ChannelLogo_Dark_1500x1000_2025_-_Grace_Hartwig.png",
+      "website": "https://edition.cnn.com/videos/fast/cnn-headlines"
+    },
+    {
       "id": "CNNInternational.us",
       "name": "CNN International",
       "country": "US",
@@ -24877,20 +24862,6 @@
       ],
       "logo": "https://i.imgur.com/fp2EaLJ.png",
       "website": "http://www.csat.tv/"
-    },
-    {
-      "id": "CSI.se",
-      "name": "CSI",
-      "country": "SE",
-      "languages": [
-        "dan",
-        "eng"
-      ],
-      "categories": [
-        "series"
-      ],
-      "logo": "https://images.pluto.tv/channels/6525419dc52b3600083db9c3/colorLogoPNG.png",
-      "website": "https://pluto.tv/live-tv/csi-dk/details"
     },
     {
       "id": "CSI.us",
@@ -27428,24 +27399,6 @@
       "website": "https://diadora.tv/"
     },
     {
-      "id": "DiagnosisMurder.se",
-      "name": "Diagnosis Murder",
-      "country": "SE",
-      "languages": [
-        "dan",
-        "eng",
-        "fin",
-        "nor",
-        "swe"
-      ],
-      "categories": [
-        "classic",
-        "series"
-      ],
-      "logo": "https://images.pluto.tv/channels/668bf7dd74f5ec000817e6d1/colorLogoPNG.png",
-      "website": "https://pluto.tv/live-tv/diagnosis-murder-se/details"
-    },
-    {
       "id": "Diaspora24.sn",
       "name": "Diaspora 24",
       "country": "SN",
@@ -27769,6 +27722,19 @@
         "auto"
       ],
       "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Discovery_Turbo_Italy.svg/1920px-Discovery_Turbo_Italy.svg.png",
+      "website": null
+    },
+    {
+      "id": "DiscoveryTurbo.us",
+      "name": "Discovery Turbo",
+      "country": "US",
+      "languages": [
+        "eng"
+      ],
+      "categories": [
+        "auto"
+      ],
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Discovery_Turbo_2025.svg/1920px-Discovery_Turbo_2025.svg.png",
       "website": null
     },
     {
@@ -28337,21 +28303,6 @@
       ],
       "logo": "https://cdn.m3u.cl/logo/1759_Docevision.png",
       "website": null
-    },
-    {
-      "id": "DocMartin.se",
-      "name": "Doc Martin",
-      "country": "SE",
-      "languages": [
-        "eng",
-        "nor",
-        "swe"
-      ],
-      "categories": [
-        "series"
-      ],
-      "logo": "https://images.pluto.tv/channels/62724ae034f5190007b63424/colorLogoPNG.png",
-      "website": "https://pluto.tv/live-tv/doc-martin-se/details"
     },
     {
       "id": "DocMartin.us",
@@ -29927,19 +29878,6 @@
       ],
       "logo": "https://i.imgur.com/lY9Bx2u.png",
       "website": "http://educa.ec/"
-    },
-    {
-      "id": "EDUTV.rs",
-      "name": "EDU TV",
-      "country": "RS",
-      "languages": [
-        "srp"
-      ],
-      "categories": [
-        "education"
-      ],
-      "logo": "https://i.imgur.com/NE48DJb.png",
-      "website": null
     },
     {
       "id": "Eduvision.co",
@@ -33075,22 +33013,6 @@
       "website": "https://pluto.tv/live-tv/familien-fra-bryggen-dk/details"
     },
     {
-      "id": "FamilyTies.se",
-      "name": "Family Ties",
-      "country": "SE",
-      "languages": [
-        "dan",
-        "eng",
-        "nor",
-        "swe"
-      ],
-      "categories": [
-        "comedy"
-      ],
-      "logo": "https://images.pluto.tv/channels/654a4a3ef91d250008ac089b/colorLogoPNG.png",
-      "website": "https://pluto.tv/live-tv/family-ties-se/details"
-    },
-    {
       "id": "FamilyTies.us",
       "name": "Family Ties",
       "country": "US",
@@ -34783,21 +34705,6 @@
       ],
       "logo": "https://i.imgur.com/3pGGLLD.png",
       "website": "https://www.frankenfernsehen.tv/"
-    },
-    {
-      "id": "Frasier.se",
-      "name": "Frasier",
-      "country": "SE",
-      "languages": [
-        "dan",
-        "eng",
-        "fin"
-      ],
-      "categories": [
-        "general"
-      ],
-      "logo": "https://images.pluto.tv/channels/6400c095498393000878a634/colorLogoPNG.png",
-      "website": "https://pluto.tv/live-tv/frasier-dk/details"
     },
     {
       "id": "Frasier.us",
@@ -38224,23 +38131,6 @@
       "website": "http://tvhappy.ro/"
     },
     {
-      "id": "HappyDays.se",
-      "name": "Happy Days",
-      "country": "SE",
-      "languages": [
-        "dan",
-        "eng",
-        "nor",
-        "swe"
-      ],
-      "categories": [
-        "classic",
-        "series"
-      ],
-      "logo": "https://images.pluto.tv/channels/654a4e29ab05240008a18625/colorLogoPNG.png",
-      "website": "https://pluto.tv/live-tv/happy-days-se/details"
-    },
-    {
       "id": "HappyDays.us",
       "name": "Happy Days",
       "country": "US",
@@ -38786,6 +38676,20 @@
       ],
       "logo": "https://i.imgur.com/4t5JQLY.png",
       "website": null
+    },
+    {
+      "id": "HerSphere.us",
+      "name": "HerSphere",
+      "country": "US",
+      "languages": [
+        "eng"
+      ],
+      "categories": [
+        "movies",
+        "series"
+      ],
+      "logo": "https://provider-static.plex.tv/epg/cms/production/3ed082aa-5659-4fd0-8775-22613a65f924/HerSphere_1500x1000_Logo_Dark.png",
+      "website": "https://lionsgatechannels.com/her-sphere"
     },
     {
       "id": "HeviziTV.hu",
@@ -40637,22 +40541,6 @@
       "website": "https://tvibctamil.com/"
     },
     {
-      "id": "iCarly.se",
-      "name": "iCarly",
-      "country": "SE",
-      "languages": [
-        "dan",
-        "eng",
-        "nor",
-        "swe"
-      ],
-      "categories": [
-        "kids"
-      ],
-      "logo": "https://images.pluto.tv/channels/61c0b9aab7facb0007913908/colorLogoPNG.png",
-      "website": "https://pluto.tv/live-tv/icarly-se/details"
-    },
-    {
       "id": "iCarly.us",
       "name": "iCarly",
       "country": "US",
@@ -42172,6 +42060,17 @@
       "website": "https://ioniantv.gr/"
     },
     {
+      "id": "IONMystery.us",
+      "name": "ION Mystery",
+      "country": "US",
+      "languages": [
+        "eng"
+      ],
+      "categories": [],
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjYpxzUVryBYUpJKt2cGw-xXkltOtiqS5qiVYSzQi23_sK3U4fQIexnHaGfW7NTpWQeaE&usqp=CAU",
+      "website": "https://ionmystery.com/"
+    },
+    {
       "id": "IONPlus.us",
       "name": "ION Plus",
       "country": "US",
@@ -43023,23 +42922,6 @@
       "website": null
     },
     {
-      "id": "JAG.se",
-      "name": "JAG",
-      "country": "SE",
-      "languages": [
-        "dan",
-        "eng",
-        "nor",
-        "swe"
-      ],
-      "categories": [
-        "classic",
-        "series"
-      ],
-      "logo": "https://images.pluto.tv/channels/654a4ab92c1d330008657ae5/colorLogoPNG.png",
-      "website": "https://pluto.tv/live-tv/jag-se/details"
-    },
-    {
       "id": "JAG.us",
       "name": "JAG",
       "country": "US",
@@ -43472,22 +43354,6 @@
       ],
       "logo": "https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/Jeremiah%20TV.jpeg",
       "website": "https://jeremiahtelevision.com/watch-live/"
-    },
-    {
-      "id": "JerseyShore.se",
-      "name": "Jersey Shore",
-      "country": "SE",
-      "languages": [
-        "dan",
-        "eng",
-        "nor",
-        "swe"
-      ],
-      "categories": [
-        "entertainment"
-      ],
-      "logo": "https://images.pluto.tv/channels/6442508e5a0cd500083edd3c/colorLogoPNG.png",
-      "website": "https://pluto.tv/live-tv/jersey-shore-se/details"
     },
     {
       "id": "JerseyShore.us",
@@ -44198,6 +44064,19 @@
       ],
       "logo": "https://jtbsclassic.dpdns.org/logo.png",
       "website": "https://jtbsclassic.dpdns.org/"
+    },
+    {
+      "id": "JudgeFaith.us",
+      "name": "Judge Faith",
+      "country": "US",
+      "languages": [
+        "eng"
+      ],
+      "categories": [
+        "series"
+      ],
+      "logo": "https://i.imgur.com/BXgfOzW.png",
+      "website": null
     },
     {
       "id": "JudgeJudy.de",
@@ -47174,6 +47053,19 @@
       "website": "http://www.kuriakos-tv.com/"
     },
     {
+      "id": "KurirTV.rs",
+      "name": "Kurir TV",
+      "country": "RS",
+      "languages": [
+        "srp"
+      ],
+      "categories": [
+        "news"
+      ],
+      "logo": "https://i.imgur.com/HBPnUD5.png",
+      "website": "https://www.kurir.rs/"
+    },
+    {
       "id": "KusKus.ua",
       "name": "Kus-Kus",
       "country": "UA",
@@ -47618,6 +47510,19 @@
       ],
       "logo": "https://i.imgur.com/ozFhY32.png",
       "website": "https://www.laff.com/"
+    },
+    {
+      "id": "LaffMore.us",
+      "name": "Laff More",
+      "country": "US",
+      "languages": [
+        "eng"
+      ],
+      "categories": [
+        "comedy"
+      ],
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXPeIq2FZZ0c0_tnS3yGsucfl43JFJS2VQ9w&s.png",
+      "website": null
     },
     {
       "id": "LagunaTV.do",
@@ -49666,6 +49571,19 @@
       "website": null
     },
     {
+      "id": "LocalNow.us",
+      "name": "Local Now",
+      "country": "US",
+      "languages": [
+        "eng"
+      ],
+      "categories": [
+        "news"
+      ],
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/3/33/Local_Now_2020.svg",
+      "website": "https://www.localnow.com/"
+    },
+    {
       "id": "LOETV.nl",
       "name": "LOE TV",
       "country": "NL",
@@ -50052,6 +49970,17 @@
       "website": "https://tv.lovenature.com/"
     },
     {
+      "id": "LoveNatureenEspanol.us",
+      "name": "Love Nature en Espanol",
+      "country": "US",
+      "languages": [
+        "eng"
+      ],
+      "categories": [],
+      "logo": "https://i.imgur.com/7uNdcWB.png",
+      "website": "https://watch.plex.tv/live-tv/channel/love-nature-en-espanol"
+    },
+    {
       "id": "LovePets.ca",
       "name": "Love Pets",
       "country": "CA",
@@ -50079,6 +50008,19 @@
       ],
       "logo": "https://i.imgur.com/RBcD49X.png",
       "website": "https://lovetvchannels.com/en/our-channels/#planet"
+    },
+    {
+      "id": "LoveThyNeighbor.us",
+      "name": "Love Thy Neighbor",
+      "country": "US",
+      "languages": [
+        "eng"
+      ],
+      "categories": [
+        "series"
+      ],
+      "logo": "https://i.imgur.com/tBPSVDr.png",
+      "website": "https://lionsgatechannels.com/channel/love-thy-neighbor"
     },
     {
       "id": "LoveTV.mk",
@@ -50609,23 +50551,6 @@
       ],
       "logo": "https://i.imgur.com/uVZJMed.png",
       "website": "http://maasranga.tv/"
-    },
-    {
-      "id": "MacGyver.se",
-      "name": "MacGyver",
-      "country": "SE",
-      "languages": [
-        "dan",
-        "eng",
-        "nor",
-        "swe"
-      ],
-      "categories": [
-        "classic",
-        "series"
-      ],
-      "logo": "https://images.pluto.tv/channels/654a59742c1d33000865a797/colorLogoPNG.png",
-      "website": "https://pluto.tv/live-tv/macgyver-se/details"
     },
     {
       "id": "MacGyver.us",
@@ -52108,24 +52033,6 @@
       ],
       "logo": "https://dtil.tmsimg.com/assets/s143309_ld_h15_aa.png?lock=720x540",
       "website": "https://tv.mathrubhumi.com/"
-    },
-    {
-      "id": "Matlock.se",
-      "name": "Matlock",
-      "country": "SE",
-      "languages": [
-        "dan",
-        "eng",
-        "fin",
-        "nor",
-        "swe"
-      ],
-      "categories": [
-        "classic",
-        "series"
-      ],
-      "logo": "https://images.pluto.tv/channels/66290a779e68c20008a18cf3/colorLogoPNG.png",
-      "website": "https://pluto.tv/live-tv/matlock-se/details"
     },
     {
       "id": "Matlock.us",
@@ -54301,23 +54208,6 @@
       "website": "https://missionasia.org/"
     },
     {
-      "id": "MissionImpossible.se",
-      "name": "Mission Impossible",
-      "country": "SE",
-      "languages": [
-        "dan",
-        "eng",
-        "nor",
-        "swe"
-      ],
-      "categories": [
-        "classic",
-        "series"
-      ],
-      "logo": "https://images.pluto.tv/channels/6478a9e4f77b61000817034b/colorLogoPNG.png",
-      "website": "https://pluto.tv/live-tv/mission-impossible-se/details"
-    },
-    {
       "id": "MissionImpossible.us",
       "name": "Mission Impossible",
       "country": "US",
@@ -54342,20 +54232,6 @@
       ],
       "logo": "https://i.imgur.com/Hb38BNo.png",
       "website": "https://missiontv.com/"
-    },
-    {
-      "id": "MISTelevizija.au",
-      "name": "MIS Televizija",
-      "country": "AU",
-      "languages": [
-        "bos",
-        "eng"
-      ],
-      "categories": [
-        "culture"
-      ],
-      "logo": "https://i.imgur.com/qvrNVFg.png",
-      "website": "https://mistv.com.au/"
     },
     {
       "id": "Misteriossinresolver.us",
@@ -55967,23 +55843,6 @@
       "website": "https://pluto.tv/en/live-tv/mtv-biggest-pop"
     },
     {
-      "id": "MTVCatfish.se",
-      "name": "MTV Catfish",
-      "country": "SE",
-      "languages": [
-        "dan",
-        "eng",
-        "fin",
-        "nor",
-        "swe"
-      ],
-      "categories": [
-        "entertainment"
-      ],
-      "logo": "https://images.pluto.tv/channels/6177fe76691b2e000702c7fc/colorLogoPNG_1750864554364.png",
-      "website": "https://pluto.tv/live-tv/mtv-catfish-se/details"
-    },
-    {
       "id": "MTVCatfish.us",
       "name": "MTV Catfish",
       "country": "US",
@@ -56065,23 +55924,6 @@
       ],
       "logo": "https://images.pluto.tv/channels/638693db857364000781b471/colorLogoPNG.png",
       "website": "https://pluto.tv/live-tv/mtv-con-mi-ex/details"
-    },
-    {
-      "id": "MTVDating.se",
-      "name": "MTV Dating",
-      "country": "SE",
-      "languages": [
-        "dan",
-        "eng",
-        "fin",
-        "nor",
-        "swe"
-      ],
-      "categories": [
-        "entertainment"
-      ],
-      "logo": "https://images.pluto.tv/channels/6851407c21f49d1b9d177493/colorLogoPNG_1750843393149.png",
-      "website": "https://pluto.tv/live-tv/mtv-dating-se/details"
     },
     {
       "id": "MTVDating.us",
@@ -56290,23 +56132,6 @@
       "website": "https://pluto.tv/en/live-tv/mtv-pluto-tv"
     },
     {
-      "id": "MTVReality.se",
-      "name": "MTV Reality",
-      "country": "SE",
-      "languages": [
-        "dan",
-        "eng",
-        "fin",
-        "nor",
-        "swe"
-      ],
-      "categories": [
-        "general"
-      ],
-      "logo": "https://images.pluto.tv/channels/685137f4a1e091e16f2dd471/colorLogoPNG_1780301718240.png",
-      "website": "https://pluto.tv/live-tv/mtv-pride-se-ptv1/details"
-    },
-    {
       "id": "MTVReality.us",
       "name": "MTV Reality",
       "country": "US",
@@ -56320,23 +56145,6 @@
       ],
       "logo": "https://images.pluto.tv/channels/6493f4f566e485000853d640/colorLogoPNG.png",
       "website": "https://pluto.tv/live-tv/mtv-reality/details"
-    },
-    {
-      "id": "MTVRidiculousness.se",
-      "name": "MTV Ridiculousness",
-      "country": "SE",
-      "languages": [
-        "dan",
-        "eng",
-        "fin",
-        "nor",
-        "swe"
-      ],
-      "categories": [
-        "entertainment"
-      ],
-      "logo": "https://images.pluto.tv/channels/62cd9641393d8400076f34db/colorLogoPNG_1762770639864.png",
-      "website": "https://pluto.tv/live-tv/mtv-ridiculousness-se/details"
     },
     {
       "id": "MTVRidiculousness.us",
@@ -56403,23 +56211,6 @@
       "categories": [],
       "logo": "https://i.imgur.com/rmV8LO1.png",
       "website": null
-    },
-    {
-      "id": "MTVTeenMom.se",
-      "name": "MTV Teen Mom",
-      "country": "SE",
-      "languages": [
-        "dan",
-        "eng",
-        "fin",
-        "nor",
-        "swe"
-      ],
-      "categories": [
-        "entertainment"
-      ],
-      "logo": "https://images.pluto.tv/channels/61c092157e1b8b0007372a35/colorLogoPNG_1748001686588.png",
-      "website": "https://pluto.tv/live-tv/mtv-teen-mom-se/details"
     },
     {
       "id": "MTVTeenMom.us",
@@ -57477,17 +57268,6 @@
       "website": "https://naranjatvrd.com/"
     },
     {
-      "id": "NarodnaTV.rs",
-      "name": "Narodna TV",
-      "country": "RS",
-      "languages": [
-        "srp"
-      ],
-      "categories": [],
-      "logo": "https://i.imgur.com/dua57HD.png",
-      "website": "https://pinkmediagroup.net/"
-    },
-    {
       "id": "NarTV.fi",
       "name": "Nar-TV",
       "country": "FI",
@@ -58180,21 +57960,6 @@
       "website": "https://thainews.prd.go.th/en/live"
     },
     {
-      "id": "NCIS.se",
-      "name": "NCIS",
-      "country": "SE",
-      "languages": [
-        "dan",
-        "eng",
-        "fin"
-      ],
-      "categories": [
-        "series"
-      ],
-      "logo": "https://images.pluto.tv/channels/6319ec31c62c3f00075c90b1/colorLogoPNG.png",
-      "website": "https://pluto.tv/live-tv/ncis-dk/details"
-    },
-    {
       "id": "NCIS.us",
       "name": "NCIS",
       "country": "US",
@@ -58236,20 +58001,6 @@
       ],
       "logo": "https://images.pluto.tv/channels/68921b2f4fa995eff24df6c8/colorLogoPNG_1756105299557.png",
       "website": "https://pluto.tv/live-tv/ncis-det-bedste-med-tony-and-ziva-dk/details"
-    },
-    {
-      "id": "NCISLosAngeles.se",
-      "name": "NCIS: Los Angeles",
-      "country": "SE",
-      "languages": [
-        "dan",
-        "eng"
-      ],
-      "categories": [
-        "series"
-      ],
-      "logo": "https://images.pluto.tv/channels/66fbf4d3d7de140008d41f5b/colorLogoPNG.png",
-      "website": "https://pluto.tv/live-tv/ncis-los-angeles-dk/details"
     },
     {
       "id": "NCISLosAngeles.us",
@@ -61914,22 +61665,6 @@
       "website": "https://nukatv.com/"
     },
     {
-      "id": "Numb3rs.se",
-      "name": "Numb3rs",
-      "country": "SE",
-      "languages": [
-        "eng",
-        "fin",
-        "nor",
-        "swe"
-      ],
-      "categories": [
-        "series"
-      ],
-      "logo": "https://images.pluto.tv/channels/642e94c1af2bd90008852697/colorLogoPNG_1756716763207.png",
-      "website": "https://pluto.tv/live-tv/numb3rs-se/details"
-    },
-    {
       "id": "Number1Ask.tr",
       "name": "Number 1 Ask",
       "country": "TR",
@@ -61980,20 +61715,6 @@
       ],
       "logo": "https://i.imgur.com/02cDIBi.png",
       "website": "http://www.numberone.com.tr/"
-    },
-    {
-      "id": "Numbers.se",
-      "name": "Numbers",
-      "country": "SE",
-      "languages": [
-        "dan",
-        "eng"
-      ],
-      "categories": [
-        "series"
-      ],
-      "logo": "https://images.pluto.tv/channels/62bebb3a67307900077a7f9d/colorLogoPNG.png",
-      "website": "https://pluto.tv/live-tv/numbers-dk/details"
     },
     {
       "id": "Numbers.us",
@@ -65486,6 +65207,20 @@
       "website": "https://watch.plex.tv/live-tv/channel/pbs-nature"
     },
     {
+      "id": "PBSRetro.us",
+      "name": "PBS Retro",
+      "country": "US",
+      "languages": [
+        "eng"
+      ],
+      "categories": [
+        "classic",
+        "kids"
+      ],
+      "logo": "https://i.imgur.com/3iWzQqw.png",
+      "website": null
+    },
+    {
       "id": "PBSTravel.us",
       "name": "PBS Travel",
       "country": "US",
@@ -66325,6 +66060,19 @@
       "website": "https://pickleballnow.in/"
     },
     {
+      "id": "PickleballTV.us",
+      "name": "Pickleball TV",
+      "country": "US",
+      "languages": [
+        "eng"
+      ],
+      "categories": [
+        "sports"
+      ],
+      "logo": "https://pickleballtv.com/wp-content/themes/bootscore-child-main/img/logo/full-logo.svg",
+      "website": "https://pickleballtv.com/"
+    },
+    {
       "id": "PilisTV.hu",
       "name": "PilisTV",
       "country": "HU",
@@ -66366,23 +66114,6 @@
       "website": "https://pimediatv.weebly.com/"
     },
     {
-      "id": "PimpMyRide.se",
-      "name": "Pimp My Ride",
-      "country": "SE",
-      "languages": [
-        "dan",
-        "eng",
-        "fin",
-        "nor",
-        "swe"
-      ],
-      "categories": [
-        "entertainment"
-      ],
-      "logo": "https://images.pluto.tv/channels/61c091343bf4940007803e03/colorLogoPNG.png",
-      "website": "https://pluto.tv/live-tv/pimp-my-ride-se/details"
-    },
-    {
       "id": "PindinTV.pa",
       "name": "Pindin TV",
       "country": "PA",
@@ -66408,17 +66139,6 @@
       ],
       "logo": "https://i.imgur.com/hfXoJIY.png",
       "website": "http://www.lolotv.lv/"
-    },
-    {
-      "id": "Pink.rs",
-      "name": "Pink",
-      "country": "RS",
-      "languages": [
-        "srp"
-      ],
-      "categories": [],
-      "logo": "https://i.imgur.com/66wHb7E.png",
-      "website": "http://www.rtvpink.co.rs/"
     },
     {
       "id": "PirineusTV.es",
@@ -66730,23 +66450,6 @@
       ],
       "logo": "https://images.pluto.tv/channels/66b4990746762a00084c2f78/colorLogoPNG.png",
       "website": "https://pluto.tv/live-tv/pluto-tv-90s-classics-fr/details"
-    },
-    {
-      "id": "PlutoTVAction.se",
-      "name": "Pluto TV Action",
-      "country": "SE",
-      "languages": [
-        "dan",
-        "eng",
-        "nor",
-        "swe"
-      ],
-      "categories": [
-        "movies",
-        "series"
-      ],
-      "logo": "https://images.pluto.tv/channels/61c095861782bd000780e0ba/colorLogoPNG.png",
-      "website": "https://pluto.tv/live-tv/pluto-tv-action-dk/details"
     },
     {
       "id": "PlutoTVAction.us",
@@ -68513,23 +68216,6 @@
       "website": "https://pluto.tv/live-tv/pluto-tv-hometown-drama/details"
     },
     {
-      "id": "PlutoTVHorror.se",
-      "name": "Pluto TV Horror",
-      "country": "SE",
-      "languages": [
-        "dan",
-        "eng",
-        "nor",
-        "swe"
-      ],
-      "categories": [
-        "movies",
-        "series"
-      ],
-      "logo": "https://images.pluto.tv/channels/63a1c9790cc44a0007dc8857/colorLogoPNG.png",
-      "website": "https://pluto.tv/live-tv/pluto-tv-horror-dk/details"
-    },
-    {
       "id": "PlutoTVHorror.us",
       "name": "Pluto TV Horror",
       "country": "US",
@@ -68555,20 +68241,6 @@
       ],
       "logo": "https://images.pluto.tv/channels/67ff7d9c7fc25e0e72451bc9/colorLogoPNG_1749796239058.png",
       "website": "https://pluto.tv/live-tv/pluto-tv-horror-serien-de/details"
-    },
-    {
-      "id": "PlutoTVHumor.se",
-      "name": "Pluto TV Humor",
-      "country": "SE",
-      "languages": [
-        "dan"
-      ],
-      "categories": [
-        "comedy",
-        "movies"
-      ],
-      "logo": "https://images.pluto.tv/channels/61c0974945b45d0007aaa5ac/colorLogoPNG.png",
-      "website": "https://pluto.tv/live-tv/pluto-tv-humor-dk/details"
     },
     {
       "id": "PlutoTVHumor.us",
@@ -69321,21 +68993,6 @@
       "website": "https://pluto.tv/en/live-tv/pluto-tv-paisagens-por-stingray"
     },
     {
-      "id": "PlutoTVParanormal.se",
-      "name": "Pluto TV Paranormal",
-      "country": "SE",
-      "languages": [
-        "dan",
-        "eng",
-        "swe"
-      ],
-      "categories": [
-        "movies"
-      ],
-      "logo": "https://images.pluto.tv/channels/62b30beb81f89900071fc7b9/colorLogoPNG.png",
-      "website": "https://pluto.tv/live-tv/pluto-tv-paranormal-dk/details"
-    },
-    {
       "id": "PlutoTVParanormal.us",
       "name": "Pluto TV Paranormal",
       "country": "US",
@@ -69652,24 +69309,6 @@
       ],
       "logo": "https://i.imgur.com/uhunRoU.png",
       "website": "https://pluto.tv/en/live-tv/pluto-tv-science"
-    },
-    {
-      "id": "PlutoTVSciFi.se",
-      "name": "Pluto TV Sci-Fi",
-      "country": "SE",
-      "languages": [
-        "dan",
-        "eng",
-        "fin",
-        "nor",
-        "swe"
-      ],
-      "categories": [
-        "movies",
-        "series"
-      ],
-      "logo": "https://images.pluto.tv/channels/60ed498c4248a400077c0b9d/colorLogoPNG.png",
-      "website": "https://pluto.tv/live-tv/pluto-tv-sci-fi-ptv3/details"
     },
     {
       "id": "PlutoTVSciFi.us",
@@ -70399,24 +70038,6 @@
       "website": "https://pluto.tv/live-tv/pluto-tv-trending-now/details"
     },
     {
-      "id": "PlutoTVTrueCrime.se",
-      "name": "Pluto TV True Crime",
-      "country": "SE",
-      "languages": [
-        "dan",
-        "eng",
-        "fin",
-        "nor",
-        "swe"
-      ],
-      "categories": [
-        "documentary",
-        "series"
-      ],
-      "logo": "https://images.pluto.tv/channels/615333098185f00008715a56/colorLogoPNG.png",
-      "website": "https://pluto.tv/live-tv/pluto-tv-true-crime-fi/details"
-    },
-    {
       "id": "PlutoTVTrueCrime.us",
       "name": "Pluto TV True Crime",
       "country": "US",
@@ -70567,19 +70188,6 @@
       ],
       "logo": "https://images.pluto.tv/channels/630dd3b2605f140007e002f5/colorLogoPNG_1732030684562.png",
       "website": "https://pluto.tv/live-tv/pluto-tv-western-de/details"
-    },
-    {
-      "id": "PlutoTVWesterns.de",
-      "name": "Pluto TV Westerns",
-      "country": "DE",
-      "languages": [
-        "eng"
-      ],
-      "categories": [
-        "movies"
-      ],
-      "logo": "https://images.pluto.tv/channels/5d4bdb635ce813b38639e6a3/colorLogoPNG.png",
-      "website": "https://pluto.tv/live-tv/pluto-tv-westerns-gb/details"
     },
     {
       "id": "PlutoTVWesterns.us",
@@ -71004,6 +70612,19 @@
         "entertainment"
       ],
       "logo": "https://i.imgur.com/d4xEiXX.png",
+      "website": null
+    },
+    {
+      "id": "PopularScience.us",
+      "name": "Popular Science",
+      "country": "US",
+      "languages": [
+        "eng"
+      ],
+      "categories": [
+        "science"
+      ],
+      "logo": "https://provider-static.plex.tv/epg/cms/production/c6bfca5e-58fe-4ed4-a87d-5e2ccde7f085/Logo_Art_-_Popular_Science_Dark_Backgrounds.png",
       "website": null
     },
     {
@@ -71852,83 +71473,6 @@
       "website": "https://www.prudentmedia.in/live-stream.php"
     },
     {
-      "id": "Prva.rs",
-      "name": "Prva",
-      "country": "RS",
-      "languages": [
-        "srp"
-      ],
-      "categories": [],
-      "logo": "https://i.imgur.com/NA31Gtm.png",
-      "website": "https://www.prva.rs/"
-    },
-    {
-      "id": "PrvaFiles.rs",
-      "name": "Prva Files",
-      "country": "RS",
-      "languages": [
-        "srp"
-      ],
-      "categories": [],
-      "logo": "https://i.imgur.com/8lZgAXu.png",
-      "website": "https://prvafiles.prva.rs/"
-    },
-    {
-      "id": "PrvaKick.rs",
-      "name": "Prva Kick",
-      "country": "RS",
-      "languages": [
-        "srp"
-      ],
-      "categories": [],
-      "logo": "https://i.imgur.com/zsXD3cd.png",
-      "website": "https://prvakick.prva.rs/"
-    },
-    {
-      "id": "PrvaLife.rs",
-      "name": "Prva Life",
-      "country": "RS",
-      "languages": [
-        "srp"
-      ],
-      "categories": [],
-      "logo": "https://i.imgur.com/fHntwzn.png",
-      "website": "https://prvalife.prva.rs/"
-    },
-    {
-      "id": "PrvaMax.rs",
-      "name": "Prva Max",
-      "country": "RS",
-      "languages": [
-        "srp"
-      ],
-      "categories": [],
-      "logo": "https://i.imgur.com/BzxmOaQ.png",
-      "website": "https://prvamax.prva.rs/"
-    },
-    {
-      "id": "PrvaPlus.rs",
-      "name": "Prva Plus",
-      "country": "RS",
-      "languages": [
-        "srp"
-      ],
-      "categories": [],
-      "logo": "https://i.imgur.com/IlenHxZ.png",
-      "website": "https://prvaplus.prva.rs/"
-    },
-    {
-      "id": "PrvaWorld.rs",
-      "name": "Prva World",
-      "country": "RS",
-      "languages": [
-        "srp"
-      ],
-      "categories": [],
-      "logo": "https://i.imgur.com/tuh1vzj.png",
-      "website": "https://prvaworld.prva.rs/"
-    },
-    {
       "id": "PSDTV.us",
       "name": "PSD TV",
       "country": "US",
@@ -72486,6 +72030,19 @@
       "categories": [],
       "logo": "https://i.imgur.com/nl5vyIw.png",
       "website": "https://purapalabra.com/"
+    },
+    {
+      "id": "PureFlixTV.us",
+      "name": "Pure Flix TV",
+      "country": "US",
+      "languages": [
+        "eng"
+      ],
+      "categories": [
+        "movies"
+      ],
+      "logo": "https://www.tablotv.com/wp-content/uploads/2025/05/PureFlixTV_black.png",
+      "website": null
     },
     {
       "id": "PuringlaTV.hn",
@@ -74736,19 +74293,6 @@
       "website": null
     },
     {
-      "id": "RadiotelevizijaRozaje.me",
-      "name": "Radio televizija Rozaje",
-      "country": "ME",
-      "languages": [
-        "cnr"
-      ],
-      "categories": [
-        "general"
-      ],
-      "logo": "https://i.imgur.com/vTZjEC5.png",
-      "website": "https://www.radiorozaje.me/"
-    },
-    {
       "id": "RadioTeleWisdom.us",
       "name": "Radio Tele Wisdom",
       "country": "US",
@@ -75625,24 +75169,6 @@
       "categories": [],
       "logo": "https://i.imgur.com/pXKQE0G.png",
       "website": "http://raveng.tv/"
-    },
-    {
-      "id": "Rawhide.se",
-      "name": "Rawhide",
-      "country": "SE",
-      "languages": [
-        "dan",
-        "eng",
-        "fin",
-        "nor",
-        "swe"
-      ],
-      "categories": [
-        "classic",
-        "series"
-      ],
-      "logo": "https://images.pluto.tv/channels/6964ba787e92438c2754e924/colorLogoPNG_1768209194548.png",
-      "website": "https://pluto.tv/live-tv/rawhide-ptv3/details"
     },
     {
       "id": "Rawhide.us",
@@ -77380,19 +76906,6 @@
       "website": "https://www.riddimandhope.com/"
     },
     {
-      "id": "Ridiculousness.de",
-      "name": "Ridiculousness",
-      "country": "DE",
-      "languages": [
-        "fra"
-      ],
-      "categories": [
-        "comedy"
-      ],
-      "logo": "https://images.pluto.tv/channels/5f8eb8a8b2619a000710605c/colorLogoPNG.png",
-      "website": "https://pluto.tv/live-tv/ridiculousness-fr/details"
-    },
-    {
       "id": "Ridiculousness.us",
       "name": "Ridiculousness",
       "country": "US",
@@ -78974,19 +78487,6 @@
       "website": "https://www.rts.rs/page/tv/sr/news/21/rts-2.html"
     },
     {
-      "id": "RTSDrama.rs",
-      "name": "RTS Drama",
-      "country": "RS",
-      "languages": [
-        "srp"
-      ],
-      "categories": [
-        "series"
-      ],
-      "logo": "https://i.imgur.com/bsTUhYK.png",
-      "website": "https://www.rts.rs/page/tv/ci/news/2679/rts-drama.html"
-    },
-    {
       "id": "RTSInfo.ch",
       "name": "RTS Info",
       "country": "CH",
@@ -79000,41 +78500,6 @@
       "website": "https://www.rts.ch/"
     },
     {
-      "id": "RTSKolo.rs",
-      "name": "RTS Kolo",
-      "country": "RS",
-      "languages": [
-        "srp"
-      ],
-      "categories": [],
-      "logo": "https://i.imgur.com/gXlEDDW.png",
-      "website": "https://www.rts.rs/page/tv/ci/news/2691/rts-kolo.html"
-    },
-    {
-      "id": "RTSMuzika.rs",
-      "name": "RTS Muzika",
-      "country": "RS",
-      "languages": [
-        "srp"
-      ],
-      "categories": [
-        "music"
-      ],
-      "logo": "https://i.imgur.com/n8p11NI.png",
-      "website": "https://www.rts.rs/page/tv/ci/news/2703/rts-muzika.html"
-    },
-    {
-      "id": "RTSPoletarac.rs",
-      "name": "RTS Poletarac",
-      "country": "RS",
-      "languages": [
-        "srp"
-      ],
-      "categories": [],
-      "logo": "https://i.imgur.com/8Nnw8NF.png",
-      "website": "https://www.rts.rs/page/tv/ci/news/2709/rts-poletarac.html"
-    },
-    {
       "id": "RTSSvet.rs",
       "name": "RTS Svet",
       "country": "RS",
@@ -79046,28 +78511,6 @@
       ],
       "logo": "https://i.imgur.com/LjunOdy.png",
       "website": "https://www.rts.rs/page/tv/sr/news/22/rts-svet.html"
-    },
-    {
-      "id": "RTSTrezor.rs",
-      "name": "RTS Trezor",
-      "country": "RS",
-      "languages": [
-        "srp"
-      ],
-      "categories": [],
-      "logo": "https://i.imgur.com/BnSHfxF.png",
-      "website": "https://www.rts.rs/page/tv/ci/news/2697/rts-trezor.html"
-    },
-    {
-      "id": "RTSZivot.rs",
-      "name": "RTS Zivot",
-      "country": "RS",
-      "languages": [
-        "srp"
-      ],
-      "categories": [],
-      "logo": "https://i.imgur.com/NpFG9uy.png",
-      "website": "https://www.rts.rs/page/tv/ci/news/2685/rts-zivot.html"
     },
     {
       "id": "RTTRTrento.it",
@@ -79531,19 +78974,6 @@
       ],
       "logo": "https://i.imgur.com/Zo3IWOn.png",
       "website": "https://rudaw.net/"
-    },
-    {
-      "id": "Rugrats.de",
-      "name": "Rugrats",
-      "country": "DE",
-      "languages": [
-        "spa"
-      ],
-      "categories": [
-        "kids"
-      ],
-      "logo": "https://images.pluto.tv/channels/610c09219fc0430007a3fce6/colorLogoPNG.png",
-      "website": "https://pluto.tv/live-tv/rugrats-es/details"
     },
     {
       "id": "Rugrats.us",
@@ -83915,22 +83345,6 @@
       "website": "https://pluto.tv/live-tv/smithsonian-channel/details"
     },
     {
-      "id": "SmithsonianChannelSelects.se",
-      "name": "Smithsonian Channel Selects",
-      "country": "SE",
-      "languages": [
-        "dan",
-        "eng",
-        "fin",
-        "swe"
-      ],
-      "categories": [
-        "documentary"
-      ],
-      "logo": "https://images.pluto.tv/channels/61fb988e032c0100077d5252/colorLogoPNG.png",
-      "website": "https://pluto.tv/live-tv/smithsonian-channel-selects-se-ptv1/details"
-    },
-    {
       "id": "SmithsonianChannelSelects.us",
       "name": "Smithsonian Channel Selects",
       "country": "US",
@@ -83978,6 +83392,32 @@
         "documentary"
       ],
       "logo": "https://i.imgur.com/dB3cJzO.png",
+      "website": null
+    },
+    {
+      "id": "Smotrim100Gorkogo.ru",
+      "name": "Smotrim 100% Gorkogo",
+      "country": "RU",
+      "languages": [
+        "rus"
+      ],
+      "categories": [
+        "movies"
+      ],
+      "logo": "https://cdn.smotrim.ru/photobank/prod/large/156/126/56.jpg",
+      "website": null
+    },
+    {
+      "id": "Smotrim100k1.ru",
+      "name": "Smotrim 100% k 1",
+      "country": "RU",
+      "languages": [
+        "rus"
+      ],
+      "categories": [
+        "entertainment"
+      ],
+      "logo": "https://cdn.smotrim.ru/photobank/prod/large/156/263/96.jpg",
       "website": null
     },
     {
@@ -84031,6 +83471,19 @@
         "entertainment"
       ],
       "logo": "https://i.imgur.com/NEcqFse.png",
+      "website": null
+    },
+    {
+      "id": "Smotrim100Talkshow.ru",
+      "name": "Smotrim 100% Talk-show",
+      "country": "RU",
+      "languages": [
+        "rus"
+      ],
+      "categories": [
+        "entertainment"
+      ],
+      "logo": "https://cdn.smotrim.ru/photobank/prod/large/156/431/82.jpg",
       "website": null
     },
     {
@@ -84474,6 +83927,19 @@
       "website": "https://www.sonykal.com/"
     },
     {
+      "id": "SonyMax.in",
+      "name": "Sony Max",
+      "country": "IN",
+      "languages": [
+        "hin"
+      ],
+      "categories": [
+        "movies"
+      ],
+      "logo": "https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540",
+      "website": "https://www.sonymax.tv/"
+    },
+    {
       "id": "SonyMovies.us",
       "name": "Sony Movies",
       "country": "US",
@@ -84737,40 +84203,6 @@
       "website": "https://videoplayer.telvue.com/player/TZ8khYX7RlRx6tH0saPsaK0nFpap97BM/home?autostart=false&showtabssearch=true"
     },
     {
-      "id": "SouthPark.de",
-      "name": "South Park",
-      "country": "DE",
-      "languages": [
-        "eng",
-        "ita",
-        "spa"
-      ],
-      "categories": [
-        "animation",
-        "comedy"
-      ],
-      "logo": "https://images.pluto.tv/channels/628751bb7154a40007168843/colorLogoPNG_1748431640253.png",
-      "website": "https://pluto.tv/live-tv/south-park-es/details"
-    },
-    {
-      "id": "SouthPark.se",
-      "name": "South Park",
-      "country": "SE",
-      "languages": [
-        "dan",
-        "eng",
-        "fin",
-        "nor",
-        "swe"
-      ],
-      "categories": [
-        "animation",
-        "comedy"
-      ],
-      "logo": "https://images.pluto.tv/channels/61c098df897b9d00070375c8/colorLogoPNG_1754471522651.png",
-      "website": "https://pluto.tv/live-tv/south-park-se/details"
-    },
-    {
       "id": "SouthPark.us",
       "name": "South Park",
       "country": "US",
@@ -84831,37 +84263,6 @@
       ],
       "logo": "https://images.pluto.tv/channels/65d87a66ec9fda0008a5ac11/colorLogoPNG.png",
       "website": "https://pluto.tv/live-tv/south-park-butters-collection-se/details"
-    },
-    {
-      "id": "SouthParkCartmanCollection.de",
-      "name": "South Park: Cartman Collection",
-      "country": "DE",
-      "languages": [
-        "deu"
-      ],
-      "categories": [
-        "animation",
-        "comedy"
-      ],
-      "logo": "https://images.pluto.tv/channels/646b14747cb4b1000875724d/colorLogoPNG.png",
-      "website": "https://pluto.tv/live-tv/south-park-cartman-collection-de/details"
-    },
-    {
-      "id": "SouthParkCartmanCollection.se",
-      "name": "South Park: Cartman Collection",
-      "country": "SE",
-      "languages": [
-        "dan",
-        "eng",
-        "nor",
-        "swe"
-      ],
-      "categories": [
-        "animation",
-        "comedy"
-      ],
-      "logo": "https://images.pluto.tv/channels/65d87a058145cb0008265c2e/colorLogoPNG.png",
-      "website": "https://pluto.tv/live-tv/south-park-cartman-collection-se/details"
     },
     {
       "id": "SouthParkCartmanCollection.us",
@@ -85021,37 +84422,6 @@
       "website": "https://pluto.tv/live-tv/south-park-into-the-stars-se/details"
     },
     {
-      "id": "SouthParkKennyCollection.de",
-      "name": "South Park: Kenny Collection",
-      "country": "DE",
-      "languages": [
-        "deu"
-      ],
-      "categories": [
-        "animation",
-        "comedy"
-      ],
-      "logo": "https://images.pluto.tv/channels/646b1404ee6a2f00082b5d66/colorLogoPNG.png",
-      "website": "https://pluto.tv/live-tv/south-park-kenny-collection-de/details"
-    },
-    {
-      "id": "SouthParkKennyCollection.se",
-      "name": "South Park: Kenny Collection",
-      "country": "SE",
-      "languages": [
-        "dan",
-        "eng",
-        "nor",
-        "swe"
-      ],
-      "categories": [
-        "animation",
-        "comedy"
-      ],
-      "logo": "https://images.pluto.tv/channels/65d879bd0d4561000805d190/colorLogoPNG.png",
-      "website": "https://pluto.tv/live-tv/south-park-kenny-collection-se/details"
-    },
-    {
       "id": "SouthParkKennyCollection.us",
       "name": "South Park: Kenny Collection",
       "country": "US",
@@ -85064,37 +84434,6 @@
       ],
       "logo": "https://images.pluto.tv/channels/65df47f428730900089f83ac/colorLogoPNG.png",
       "website": "https://pluto.tv/live-tv/south-park-kenny-collection-ca/details"
-    },
-    {
-      "id": "SouthParkKyleCollection.de",
-      "name": "South Park: Kyle Collection",
-      "country": "DE",
-      "languages": [
-        "deu"
-      ],
-      "categories": [
-        "animation",
-        "comedy"
-      ],
-      "logo": "https://images.pluto.tv/channels/646b14d0e1979c0008915a09/colorLogoPNG.png",
-      "website": "https://pluto.tv/live-tv/south-park-kyle-collection-de/details"
-    },
-    {
-      "id": "SouthParkKyleCollection.se",
-      "name": "South Park: Kyle Collection",
-      "country": "SE",
-      "languages": [
-        "dan",
-        "eng",
-        "nor",
-        "swe"
-      ],
-      "categories": [
-        "animation",
-        "comedy"
-      ],
-      "logo": "https://images.pluto.tv/channels/65d87a908145cb0008265c6d/colorLogoPNG.png",
-      "website": "https://pluto.tv/live-tv/south-park-kyle-collection-se/details"
     },
     {
       "id": "SouthParkKyleCollection.us",
@@ -85140,37 +84479,6 @@
       ],
       "logo": "https://images.pluto.tv/channels/664f132c8ea5560008ce4d86/colorLogoPNG.png",
       "website": "https://pluto.tv/live-tv/south-park-rockin-out-se/details"
-    },
-    {
-      "id": "SouthParkStanCollection.de",
-      "name": "South Park: Stan Collection",
-      "country": "DE",
-      "languages": [
-        "deu"
-      ],
-      "categories": [
-        "animation",
-        "comedy"
-      ],
-      "logo": "https://images.pluto.tv/channels/646b1438e94c3800082a8cff/colorLogoPNG.png",
-      "website": "https://pluto.tv/live-tv/south-park-stan-collection-de/details"
-    },
-    {
-      "id": "SouthParkStanCollection.se",
-      "name": "South Park: Stan Collection",
-      "country": "SE",
-      "languages": [
-        "dan",
-        "eng",
-        "nor",
-        "swe"
-      ],
-      "categories": [
-        "animation",
-        "comedy"
-      ],
-      "logo": "https://images.pluto.tv/channels/65d879e266eec8000887e91b/colorLogoPNG.png",
-      "website": "https://pluto.tv/live-tv/south-park-stan-collection-se/details"
     },
     {
       "id": "SouthParkStanCollection.us",
@@ -85322,6 +84630,17 @@
       "website": "https://www.sen.com/live"
     },
     {
+      "id": "SpaceScienceNow.us",
+      "name": "Space Science Now",
+      "country": "US",
+      "languages": [
+        "eng"
+      ],
+      "categories": [],
+      "logo": "https://i.imgur.com/Zc8tW0l.png",
+      "website": "https://watch.plex.tv/live-tv/channel/space-science-now-2"
+    },
+    {
       "id": "SparkTV.uk",
       "name": "Spark TV",
       "country": "UK",
@@ -85331,6 +84650,17 @@
       "categories": [],
       "logo": "https://i.imgur.com/svc98Kg.png",
       "website": "https://www.sparkchannel.tv/"
+    },
+    {
+      "id": "SparkTVLightLove.us",
+      "name": "Spark TV Light & Love",
+      "country": "US",
+      "languages": [
+        "eng"
+      ],
+      "categories": [],
+      "logo": "https://i.imgur.com/gDwP0b8.png",
+      "website": "https://watch.plex.tv/live-tv/channel/spark-tv"
     },
     {
       "id": "Spas.ru",
@@ -85370,6 +84700,19 @@
       ],
       "logo": "https://i.imgur.com/1lXShsh.png",
       "website": "https://speedlinetv.bj/"
+    },
+    {
+      "id": "SPEEDVISION.us",
+      "name": "SPEEDVISION",
+      "country": "US",
+      "languages": [
+        "eng"
+      ],
+      "categories": [
+        "auto"
+      ],
+      "logo": "https://i.imgur.com/3CTudqH.png",
+      "website": "https://www.speedvisionnetwork.com/"
     },
     {
       "id": "SpektraTV.es",
@@ -85957,19 +85300,6 @@
       "website": "https://www.hotstar.com/channels/star-pravah"
     },
     {
-      "id": "StarSports2Telugu.in",
-      "name": "Star Sports 2 Telugu",
-      "country": "IN",
-      "languages": [
-        "tel"
-      ],
-      "categories": [
-        "sports"
-      ],
-      "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/2716/1783000912716-h.jpg",
-      "website": null
-    },
-    {
       "id": "StarTamilTelevision.lk",
       "name": "Star Tamil Television",
       "country": "LK",
@@ -86028,21 +85358,6 @@
       "website": "https://pluto.tv/live-tv/star-trek-movies-se/details"
     },
     {
-      "id": "StarTrekTheNextGeneration.de",
-      "name": "Star Trek: The Next Generation",
-      "country": "DE",
-      "languages": [
-        "deu",
-        "spa"
-      ],
-      "categories": [
-        "movies",
-        "series"
-      ],
-      "logo": "https://images.pluto.tv/channels/69776ce979545c21a1220bff/colorLogoPNG_1769434849537.png",
-      "website": "https://pluto.tv/live-tv/star-trek-the-next-generation-ptv1/details"
-    },
-    {
       "id": "StarTrekTheNextGeneration.us",
       "name": "Star Trek: The Next Generation",
       "country": "US",
@@ -86088,21 +85403,6 @@
       ],
       "logo": "https://images.pluto.tv/channels/693add137e308621c051e733/colorLogoPNG_1765465486347.png",
       "website": "https://pluto.tv/live-tv/star-trek-the-original-series-ptv2/details"
-    },
-    {
-      "id": "StarTrekVoyager.de",
-      "name": "Star Trek: Voyager",
-      "country": "DE",
-      "languages": [
-        "ita",
-        "spa"
-      ],
-      "categories": [
-        "movies",
-        "series"
-      ],
-      "logo": "https://images.pluto.tv/channels/65787f2eb228b7000843fa5c/colorLogoPNG.png",
-      "website": "https://pluto.tv/live-tv/star-trek-voyager-es/details"
     },
     {
       "id": "StarTrekVoyager.us",
@@ -87443,6 +86743,19 @@
       ],
       "logo": "https://3.bp.blogspot.com/-WO2ZKryfWoU/Wr1pO5clk_I/AAAAAAAAdJk/QYRg8_bp4OgmIWI55Y4m6i5o8RiWfCHWwCLcBGAs/s200/SuperTV55.jpg",
       "website": "https://www.supertv55.tv/"
+    },
+    {
+      "id": "SuperTVSmederevo.rs",
+      "name": "Super TV Smederevo",
+      "country": "RS",
+      "languages": [
+        "srp"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://i.imgur.com/IPe4ZdL.png",
+      "website": "https://tvsuper.rs/"
     },
     {
       "id": "SuperyachtTV.mc",
@@ -89254,21 +88567,6 @@
       ],
       "logo": "https://images.pluto.tv/channels/62619405c733e8000732d1fe/colorLogoPNG.png",
       "website": "https://pluto.tv/live-tv/teenage-mutant-ninja-turtles-it/details"
-    },
-    {
-      "id": "TeenMom.de",
-      "name": "Teen Mom",
-      "country": "DE",
-      "languages": [
-        "eng",
-        "fra",
-        "ita"
-      ],
-      "categories": [
-        "entertainment"
-      ],
-      "logo": "https://images.pluto.tv/channels/62e7fc8c0d061100083946a9/colorLogoPNG.png",
-      "website": "https://pluto.tv/live-tv/teen-mom-it/details"
     },
     {
       "id": "TeenMom.us",
@@ -92315,6 +91613,19 @@
       "website": "https://thecowboychannelcanada.ca/"
     },
     {
+      "id": "TheCW.us",
+      "name": "The CW",
+      "country": "US",
+      "languages": [
+        "eng"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://i.imgur.com/cloRdgC.png",
+      "website": "https://www.cwtv.com/"
+    },
+    {
       "id": "TheCyclingChannel.at",
       "name": "The Cycling Channel",
       "country": "AT",
@@ -92672,35 +91983,6 @@
       "website": "http://watchthenest.com/watch-live"
     },
     {
-      "id": "TheNewDetectives.de",
-      "name": "The New Detectives",
-      "country": "DE",
-      "languages": [
-        "eng"
-      ],
-      "categories": [
-        "series"
-      ],
-      "logo": "https://images.pluto.tv/channels/5e393d5c696b3b0009775c8b/colorLogoPNG.png",
-      "website": "https://pluto.tv/live-tv/the-new-detectives-gb/details"
-    },
-    {
-      "id": "TheNewDetectives.se",
-      "name": "The New Detectives",
-      "country": "SE",
-      "languages": [
-        "dan",
-        "eng",
-        "nor",
-        "swe"
-      ],
-      "categories": [
-        "series"
-      ],
-      "logo": "https://images.pluto.tv/channels/618147d2a814250007b42916/colorLogoPNG.png",
-      "website": "https://pluto.tv/live-tv/the-new-detectives-se/details"
-    },
-    {
       "id": "TheNewDetectives.us",
       "name": "The New Detectives",
       "country": "US",
@@ -92954,24 +92236,6 @@
       ],
       "logo": "https://i.imgur.com/V6ZUwUY.png",
       "website": "https://www.theweathernetwork.com/"
-    },
-    {
-      "id": "TheWildWildWest.se",
-      "name": "The Wild Wild West",
-      "country": "SE",
-      "languages": [
-        "dan",
-        "eng",
-        "fin",
-        "nor",
-        "swe"
-      ],
-      "categories": [
-        "classic",
-        "series"
-      ],
-      "logo": "https://images.pluto.tv/channels/6964bc3806d76f50db3e315e/colorLogoPNG_1768230352673.png",
-      "website": "https://pluto.tv/live-tv/the-wild-wild-west-ptv2/details"
     },
     {
       "id": "TheWildWildWest.us",
@@ -94249,19 +93513,6 @@
       "website": "http://mitorococo.blogspot.com/"
     },
     {
-      "id": "TortuesNinjaTV.de",
-      "name": "Tortues Ninja TV",
-      "country": "DE",
-      "languages": [
-        "fra"
-      ],
-      "categories": [
-        "kids"
-      ],
-      "logo": "https://images.pluto.tv/channels/5f8ecc1b37867f00071469e9/colorLogoPNG.png",
-      "website": "https://pluto.tv/live-tv/tortues-ninja-tv-fr/details"
-    },
-    {
       "id": "TortuesNinjaTV.us",
       "name": "Tortues Ninja TV",
       "country": "US",
@@ -94273,22 +93524,6 @@
       ],
       "logo": "https://i.imgur.com/d2ACbkV.png",
       "website": "https://pluto.tv/live-tv/tortues-ninja-tv-ca/details"
-    },
-    {
-      "id": "Tosh0.se",
-      "name": "Tosh.0",
-      "country": "SE",
-      "languages": [
-        "dan",
-        "eng",
-        "nor",
-        "swe"
-      ],
-      "categories": [
-        "comedy"
-      ],
-      "logo": "https://images.pluto.tv/channels/65e977042873090008b48be9/colorLogoPNG.png",
-      "website": "https://pluto.tv/live-tv/tosh-0-se/details"
     },
     {
       "id": "Tosh0.us",
@@ -94341,37 +93576,6 @@
       ],
       "logo": "https://images.pluto.tv/channels/62e93b8eb8e02600071f8b1d/colorLogoPNG_1731000193486.png",
       "website": "https://www.totalcrimetv.com/"
-    },
-    {
-      "id": "TotallyTurtles.de",
-      "name": "Totally Turtles",
-      "country": "DE",
-      "languages": [
-        "deu",
-        "eng"
-      ],
-      "categories": [
-        "kids"
-      ],
-      "logo": "https://images.pluto.tv/channels/5d6792bd6be2998ad0ccce30/colorLogoPNG.png",
-      "website": "https://pluto.tv/live-tv/totally-turtles-de/details"
-    },
-    {
-      "id": "TotallyTurtles.se",
-      "name": "Totally Turtles",
-      "country": "SE",
-      "languages": [
-        "dan",
-        "eng",
-        "fin",
-        "nor",
-        "swe"
-      ],
-      "categories": [
-        "kids"
-      ],
-      "logo": "https://images.pluto.tv/channels/61c0bbd95df1da0007bed5a0/colorLogoPNG.png",
-      "website": "https://pluto.tv/live-tv/totally-turtles-se/details"
     },
     {
       "id": "TotallyTurtles.us",
@@ -94550,46 +93754,6 @@
       "website": null
     },
     {
-      "id": "TraceAfrica.fr",
-      "name": "Trace Africa",
-      "country": "FR",
-      "languages": [
-        "eng",
-        "fra"
-      ],
-      "categories": [
-        "music"
-      ],
-      "logo": "https://i.imgur.com/kPUkoS7.png",
-      "website": "http://trace.tv/trace-africa/"
-    },
-    {
-      "id": "TraceAfrikora.fr",
-      "name": "Trace Afrikora",
-      "country": "FR",
-      "languages": [
-        "fra"
-      ],
-      "categories": [
-        "music"
-      ],
-      "logo": "https://i.imgur.com/CQDdnhp.png",
-      "website": "https://trace.company/activities/television/trace-afrikora/"
-    },
-    {
-      "id": "TraceAyiti.fr",
-      "name": "Trace Ayiti",
-      "country": "FR",
-      "languages": [
-        "fra"
-      ],
-      "categories": [
-        "music"
-      ],
-      "logo": "https://i.imgur.com/KkJ6fet.png",
-      "website": "https://trace.company/activities/television/trace-ayiti/"
-    },
-    {
       "id": "TraceBrazuca.fr",
       "name": "Trace Brazuca",
       "country": "FR",
@@ -94601,73 +93765,6 @@
       ],
       "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Trace_Brasil_logo.PNG",
       "website": "https://trace.company/activities/television/trace-brazuca/"
-    },
-    {
-      "id": "TraceCaribbean.fr",
-      "name": "Trace Caribbean",
-      "country": "FR",
-      "languages": [
-        "fra"
-      ],
-      "categories": [
-        "music"
-      ],
-      "logo": "https://i.imgur.com/ZHD7Vxy.png",
-      "website": "https://trace.company/activities/television/trace-caribbean/"
-    },
-    {
-      "id": "TraceGospel.fr",
-      "name": "Trace Gospel",
-      "country": "FR",
-      "languages": [
-        "eng",
-        "fra"
-      ],
-      "categories": [
-        "music",
-        "religious"
-      ],
-      "logo": "https://i.imgur.com/X0UmU3K.png",
-      "website": "http://tracegospel.tv/"
-    },
-    {
-      "id": "TraceIvoire.fr",
-      "name": "Trace Ivoire",
-      "country": "FR",
-      "languages": [
-        "fra"
-      ],
-      "categories": [
-        "music"
-      ],
-      "logo": "https://i.imgur.com/W2l3rVx.png",
-      "website": null
-    },
-    {
-      "id": "TraceJama.fr",
-      "name": "Trace Jama",
-      "country": "FR",
-      "languages": [
-        "eng"
-      ],
-      "categories": [
-        "music"
-      ],
-      "logo": "https://i.imgur.com/pthX34m.png",
-      "website": "https://trace.company/activities/television/trace-jama/"
-    },
-    {
-      "id": "TraceKitoko.fr",
-      "name": "Trace Kitoko",
-      "country": "FR",
-      "languages": [
-        "fra"
-      ],
-      "categories": [
-        "music"
-      ],
-      "logo": "https://i.imgur.com/q6vkMrU.png",
-      "website": "https://trace.company/activities/television/trace-kitoko/"
     },
     {
       "id": "TraceLatina.fr",
@@ -94683,71 +93780,6 @@
       "website": "https://trace.company/television/trace-latina"
     },
     {
-      "id": "TraceMboa.fr",
-      "name": "Trace Mboa",
-      "country": "FR",
-      "languages": [
-        "fra"
-      ],
-      "categories": [
-        "music"
-      ],
-      "logo": "https://i.imgur.com/cYwkCj2.png",
-      "website": "https://fr.trace.tv/"
-    },
-    {
-      "id": "TraceMuzika.fr",
-      "name": "Trace Muzika",
-      "country": "FR",
-      "languages": [
-        "fra"
-      ],
-      "categories": [
-        "music"
-      ],
-      "logo": "https://i.imgur.com/xsEGIXO.png",
-      "website": "https://trace.tv/traceprime/"
-    },
-    {
-      "id": "TraceMziki.fr",
-      "name": "Trace Mziki",
-      "country": "FR",
-      "languages": [
-        "eng"
-      ],
-      "categories": [
-        "music"
-      ],
-      "logo": "https://i.imgur.com/l3X9Gg4.png",
-      "website": "https://trace.tv/trace-mziki/"
-    },
-    {
-      "id": "TraceNaija.fr",
-      "name": "Trace Naija",
-      "country": "FR",
-      "languages": [
-        "eng"
-      ],
-      "categories": [
-        "music"
-      ],
-      "logo": "https://i.imgur.com/Rguekcp.png",
-      "website": "http://trace.tv/trace-naija/"
-    },
-    {
-      "id": "TraceNgoma.fr",
-      "name": "Trace Ngoma",
-      "country": "FR",
-      "languages": [
-        "eng"
-      ],
-      "categories": [
-        "music"
-      ],
-      "logo": "https://www.hypresslive.com/wp-content/uploads/2025/12/9cf0931b-5e1e-16da-515a-bd203ca3c928-1536x1074.png",
-      "website": null
-    },
-    {
       "id": "TraceSportStars.fr",
       "name": "Trace Sport Stars",
       "country": "FR",
@@ -94761,19 +93793,6 @@
       ],
       "logo": "https://i.imgur.com/FabFP5A.png",
       "website": "http://www.trace.tv/fr/tv/sport"
-    },
-    {
-      "id": "TraceToca.fr",
-      "name": "Trace Toca",
-      "country": "FR",
-      "languages": [
-        "por"
-      ],
-      "categories": [
-        "music"
-      ],
-      "logo": "https://i.imgur.com/6SpWnBR.png",
-      "website": "https://fr.trace.tv/trace-toca/"
     },
     {
       "id": "TraceUK.uk",
@@ -94802,19 +93821,6 @@
       ],
       "logo": "https://i.imgur.com/DLIbUMx.png",
       "website": "https://fr.trace.tv/trace-urban/"
-    },
-    {
-      "id": "TraceVanillaIslands.fr",
-      "name": "Trace Vanilla Islands",
-      "country": "FR",
-      "languages": [
-        "fra"
-      ],
-      "categories": [
-        "music"
-      ],
-      "logo": "https://i.imgur.com/ngF58fe.png",
-      "website": "https://trace.company/activities/television/trace-vanillaislands/"
     },
     {
       "id": "Trailers.es",
@@ -96931,6 +95937,19 @@
       "website": null
     },
     {
+      "id": "TVAS.rs",
+      "name": "TV AS",
+      "country": "RS",
+      "languages": [
+        "srp"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://i.imgur.com/LIUtEgD.png",
+      "website": "https://www.rtvas.rs/"
+    },
+    {
       "id": "TVAssembleiaCeara.br",
       "name": "TV Assembleia Ceara",
       "country": "BR",
@@ -98473,6 +97492,19 @@
       ],
       "logo": "https://i.imgur.com/UWMHnOG.png",
       "website": "https://tvjadran.hr/"
+    },
+    {
+      "id": "TVJefimija.rs",
+      "name": "TV Jefimija",
+      "country": "RS",
+      "languages": [
+        "srp"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://i.imgur.com/0psj3fj.png",
+      "website": "https://www.jefimija.tv/"
     },
     {
       "id": "TVJohaniter.al",
@@ -100688,17 +99720,6 @@
         "classic"
       ],
       "logo": "https://i.imgur.com/N9nQpnP.png",
-      "website": null
-    },
-    {
-      "id": "TVSmederevo.rs",
-      "name": "TV Smederevo",
-      "country": "RS",
-      "languages": [
-        "srp"
-      ],
-      "categories": [],
-      "logo": "https://i.imgur.com/TkTqpzp.png",
       "website": null
     },
     {
@@ -105833,6 +104854,19 @@
       ],
       "logo": "https://i.imgur.com/nNy9oTx.png",
       "website": "https://pluto.tv/en/live-tv/western-tv"
+    },
+    {
+      "id": "WFTSTV321.us",
+      "name": "WFTS-TV 32.1",
+      "country": "US",
+      "languages": [
+        "eng"
+      ],
+      "categories": [
+        "news"
+      ],
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/WFTS_Tampa_Bay_28_%282025%2C_horizontal_version%29.svg/960px-WFTS_Tampa_Bay_28_%282025%2C_horizontal_version%29.svg.png",
+      "website": "https://www.abcactionnews.com/"
     },
     {
       "id": "WGGSTV161.us",
