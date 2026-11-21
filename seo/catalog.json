@@ -8226,7 +8226,7 @@
       "categories": [
         "general"
       ],
-      "logo": "https://i.imgur.com/EPmwuuv.png",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/4/47/Antena_1_2022.svg/revision/latest?cb=20221028125414",
       "website": "http://a1.ro/"
     },
     {
@@ -8662,6 +8662,19 @@
       "website": "https://www.apnapunjab.tv/"
     },
     {
+      "id": "ApnaPunjabTV.in",
+      "name": "Apna Punjab TV",
+      "country": "IN",
+      "languages": [
+        "pan"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://www.apnapunjab.tv/images/logo.png",
+      "website": "https://www.apnapunjab.tv/"
+    },
+    {
       "id": "ApostolTV.hu",
       "name": "Apostol TV",
       "country": "HU",
@@ -8873,6 +8886,19 @@
       "categories": [],
       "logo": null,
       "website": null
+    },
+    {
+      "id": "ARB24.az",
+      "name": "ARB 24",
+      "country": "AZ",
+      "languages": [
+        "aze"
+      ],
+      "categories": [
+        "news"
+      ],
+      "logo": "https://i.imgur.com/mtvIFyq.png",
+      "website": "http://arb24.az/"
     },
     {
       "id": "ArboldeVidaTV.sv",
@@ -9994,6 +10020,19 @@
       ],
       "logo": "https://whiplash.cc/assets/img/channels/atlas.png",
       "website": "https://whiplash.cc/"
+    },
+    {
+      "id": "ATMRozrywkaREWORK.pl",
+      "name": "ATM Rozrywka REWORK",
+      "country": "PL",
+      "languages": [
+        "pol"
+      ],
+      "categories": [
+        "entertainment"
+      ],
+      "logo": "https://i.ibb.co/B5BfmQNs/ATM.jpg",
+      "website": "https://grupaatmrr.org.pl/"
     },
     {
       "id": "ATNBangla.bd",
@@ -15490,6 +15529,19 @@
       "categories": [],
       "logo": "https://i.imgur.com/mruGyuu.png",
       "website": "https://www.byutv.org/"
+    },
+    {
+      "id": "C10.in",
+      "name": "C-10",
+      "country": "IN",
+      "languages": [
+        "hin"
+      ],
+      "categories": [
+        "news"
+      ],
+      "logo": "https://papaji.freetvindia.com/media/channels/C-10.png",
+      "website": null
     },
     {
       "id": "C31Melbourne.au",
@@ -32333,7 +32385,7 @@
       "categories": [
         "sports"
       ],
-      "logo": "https://i.imgur.com/0o3zjC7.png",
+      "logo": "https://web02.antik.sk/assets/img/channels/645a85b97a8257d6702639d6e540fe5b.svg",
       "website": "https://4k.eurosport.ru/"
     },
     {
@@ -40018,6 +40070,7 @@
       "name": "HTV",
       "country": "US",
       "languages": [
+        "por",
         "spa"
       ],
       "categories": [
@@ -51468,6 +51521,19 @@
       "website": "http://www.manoranjantv.com/ManoranjanTv.aspx"
     },
     {
+      "id": "MansudaeTelevision.kp",
+      "name": "Mansudae Television",
+      "country": "KP",
+      "languages": [
+        "kor"
+      ],
+      "categories": [
+        "entertainment"
+      ],
+      "logo": "https://i.imgur.com/7xowUs2.png",
+      "website": null
+    },
+    {
       "id": "MantavyaNews.in",
       "name": "Mantavya News",
       "country": "IN",
@@ -59947,6 +60013,20 @@
       ],
       "logo": "https://x1colegal.com/logo.png",
       "website": "https://x1colegal.com"
+    },
+    {
+      "id": "NickOnlineBobEsponja.br",
+      "name": "NickOnline Bob Esponja",
+      "country": "BR",
+      "languages": [
+        "por"
+      ],
+      "categories": [
+        "animation",
+        "kids"
+      ],
+      "logo": "https://x1colegal.com/nickonlinebobesponja.png",
+      "website": null
     },
     {
       "id": "NickSchweiz.ch",
@@ -72535,7 +72615,7 @@
       "categories": [
         "general"
       ],
-      "logo": "https://drive.google.com/file/d/1LEl-AhX5HZmP05kfBk4fwSmtJyPjVT3x/view?usp=drive_link",
+      "logo": "https://i.imgur.com/rzRs0ed.png",
       "website": "https://qudsunatv.com/"
     },
     {
@@ -82377,6 +82457,19 @@
       "website": "https://www.showdomilhao.com.br/"
     },
     {
+      "id": "ShowPlusTV.az",
+      "name": "Show Plus TV",
+      "country": "AZ",
+      "languages": [
+        "aze"
+      ],
+      "categories": [
+        "entertainment"
+      ],
+      "logo": "https://i.imgur.com/Je2DGSG.jpg",
+      "website": "https://showplus.az/"
+    },
+    {
       "id": "ShowTurk.tr",
       "name": "Show Turk",
       "country": "TR",
@@ -88255,6 +88348,17 @@
       "website": "https://www.tbnpacific.org.au/"
     },
     {
+      "id": "TBNPolska.pl",
+      "name": "TBN Polska",
+      "country": "PL",
+      "languages": [
+        "eng"
+      ],
+      "categories": [],
+      "logo": "https://ocdn.eu/ptv2-images-transforms/1/4fPkrxsb2dvLW1pZ3JhdGVkL3Ribi1wb2xza2EucG5nkpUCZADCw5UCACjCww",
+      "website": "https://www.tbnpolska.tv/"
+    },
+    {
       "id": "TBNUK.uk",
       "name": "TBN UK",
       "country": "UK",
@@ -90782,6 +90886,19 @@
       ],
       "logo": "https://i.imgur.com/XC7i7ZL.png",
       "website": "https://telewizjabiznesowa.pl/"
+    },
+    {
+      "id": "TelewizjaImperium.pl",
+      "name": "Telewizja Imperium",
+      "country": "PL",
+      "languages": [
+        "pol"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://i.ibb.co/k2jQkHq/Cropped-mperiumczarne-768x243-1-1.png",
+      "website": "https://imperiummedia.pl/"
     },
     {
       "id": "TelewizjaiTTV.pl",
@@ -97607,6 +97724,19 @@
       ],
       "logo": "https://i.imgur.com/j0UMFNs.png",
       "website": "https://www.rtk.co.rs/"
+    },
+    {
+      "id": "TVKSMNT.pl",
+      "name": "TVK SMNT",
+      "country": "PL",
+      "languages": [
+        "pol"
+      ],
+      "categories": [
+        "entertainment"
+      ],
+      "logo": "https://i.ibb.co/XZ3m8kr1/logotvk.png",
+      "website": "https://tvk.smnt.pl/"
     },
     {
       "id": "TVKStella.pl",
