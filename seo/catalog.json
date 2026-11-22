@@ -1110,19 +1110,6 @@
       "website": "https://1001noites.com.br/"
     },
     {
-      "id": "101tvCadiz.es",
-      "name": "101tv Cadiz",
-      "country": "ES",
-      "languages": [
-        "spa"
-      ],
-      "categories": [
-        "general"
-      ],
-      "logo": "https://i.imgur.com/GzI3RC4.png",
-      "website": "https://www.101tv.es/"
-    },
-    {
       "id": "10Bold.au",
       "name": "10 Bold",
       "country": "AU",
@@ -4441,19 +4428,6 @@
       "categories": [],
       "logo": "https://i.imgur.com/uwuSXJ8.png",
       "website": null
-    },
-    {
-      "id": "Adjarasport1.ge",
-      "name": "Adjarasport 1",
-      "country": "GE",
-      "languages": [
-        "kat"
-      ],
-      "categories": [
-        "sports"
-      ],
-      "logo": "https://i.imgur.com/SVV5xHC.png",
-      "website": "https://adjarasport.tv/"
     },
     {
       "id": "Adnkronos.it",
@@ -8824,20 +8798,6 @@
       "website": "http://www.aradanatv.com/"
     },
     {
-      "id": "AragonTVInternacional.es",
-      "name": "Aragon TV Internacional",
-      "country": "ES",
-      "languages": [
-        "spa"
-      ],
-      "categories": [
-        "general",
-        "public"
-      ],
-      "logo": "https://static.wikia.nocookie.net/logopedia/images/1/12/Arag%C3%B3n_Internacional.png/revision/latest/scale-to-width-down/512",
-      "website": "http://www.aragontelevision.es/"
-    },
-    {
       "id": "ArarunaTV.br",
       "name": "Araruna TV",
       "country": "BR",
@@ -9996,6 +9956,19 @@
       "website": "https://wthc.atlantachannel.tv/"
     },
     {
+      "id": "AtlanticTV.tt",
+      "name": "Atlantic TV",
+      "country": "TT",
+      "languages": [
+        "eng"
+      ],
+      "categories": [
+        "entertainment"
+      ],
+      "logo": "https://trinicricket.com/logo",
+      "website": "https://trinicricket.com/"
+    },
+    {
       "id": "AtlantisRadioTV.pe",
       "name": "Atlantis Radio TV",
       "country": "PE",
@@ -10862,19 +10835,6 @@
       "website": "http://www.axs.tv/"
     },
     {
-      "id": "AyazTV.az",
-      "name": "Ayaz TV",
-      "country": "AZ",
-      "languages": [
-        "aze"
-      ],
-      "categories": [
-        "general"
-      ],
-      "logo": "https://www.ayaztv.com/storage/assets/site_logo.png",
-      "website": "https://www.ayaztv.com/tv"
-    },
-    {
       "id": "AYNITV.bo",
       "name": "AYNI TV",
       "country": "BO",
@@ -11453,19 +11413,6 @@
       ],
       "logo": "https://i.imgur.com/I2wRq88.png",
       "website": "http://bajotecho.tv/"
-    },
-    {
-      "id": "BakuTV.az",
-      "name": "Baku.TV",
-      "country": "AZ",
-      "languages": [
-        "aze"
-      ],
-      "categories": [
-        "news"
-      ],
-      "logo": "https://i.imgur.com/r4FzxSg.png",
-      "website": "https://baku.tv/"
     },
     {
       "id": "Balabol.ru",
@@ -13650,17 +13597,6 @@
       ],
       "logo": "https://i.imgur.com/lhglEUP.png",
       "website": "https://www.biobiochile.cl/biobiotv/"
-    },
-    {
-      "id": "BiosferaTV.es",
-      "name": "Biosfera TV",
-      "country": "ES",
-      "languages": [
-        "spa"
-      ],
-      "categories": [],
-      "logo": "https://i.imgur.com/khytcgd.png",
-      "website": "https://www.biosferadigital.com/estaticas/biosferatvdirecto/"
     },
     {
       "id": "BirTV.tr",
@@ -16401,20 +16337,6 @@
       "website": "https://rtvd.gob.do/"
     },
     {
-      "id": "Canal1MarMenorTorrePacheco.es",
-      "name": "Canal 1 Mar Menor Torre Pacheco",
-      "country": "ES",
-      "languages": [
-        "spa"
-      ],
-      "categories": [
-        "general",
-        "news"
-      ],
-      "logo": "https://i.imgur.com/MQOwCdZ.png",
-      "website": "https://www.tuwebtv.es/"
-    },
-    {
       "id": "Canal1Nuble.cl",
       "name": "Canal 1 Nuble",
       "country": "CL",
@@ -16882,20 +16804,6 @@
       "website": "https://www.canal45tv.com/"
     },
     {
-      "id": "Canal4Catalunya.es",
-      "name": "Canal 4 Catalunya",
-      "country": "ES",
-      "languages": [
-        "cat",
-        "spa"
-      ],
-      "categories": [
-        "general"
-      ],
-      "logo": "https://i.imgur.com/tQh8C3s.png",
-      "website": "https://www.grup4.com/?page_id=14675&lang=ca"
-    },
-    {
       "id": "Canal4Esquel.ar",
       "name": "Canal 4 Esquel",
       "country": "AR",
@@ -16916,20 +16824,6 @@
       "categories": [],
       "logo": "https://i.imgur.com/qB6I274.png",
       "website": "https://www.elcuatro.com/"
-    },
-    {
-      "id": "Canal4Mallorca.es",
-      "name": "Canal 4 Mallorca",
-      "country": "ES",
-      "languages": [
-        "cat",
-        "spa"
-      ],
-      "categories": [
-        "general"
-      ],
-      "logo": "https://i.imgur.com/tQh8C3s.png",
-      "website": "https://www.grup4.com/?page_id=14505"
     },
     {
       "id": "Canal4ManchaCentro.es",
@@ -17582,30 +17476,6 @@
       "website": "https://mediaserver.com.co/canal-cine-dios/"
     },
     {
-      "id": "CanalCoinTV.es",
-      "name": "Canal Coin TV",
-      "country": "ES",
-      "languages": [
-        "spa"
-      ],
-      "categories": [
-        "general"
-      ],
-      "logo": "https://i.imgur.com/3QPJIpa.png",
-      "website": "https://canalcoin.com/tv-directo/"
-    },
-    {
-      "id": "CanalCosta.es",
-      "name": "CanalCosta",
-      "country": "ES",
-      "languages": [
-        "spa"
-      ],
-      "categories": [],
-      "logo": "https://i.imgur.com/ap4FmYb.png",
-      "website": "https://www.canalcostatv.es/"
-    },
-    {
       "id": "CanalCvision.ni",
       "name": "Canal Cvision",
       "country": "NI",
@@ -17795,20 +17665,6 @@
       ],
       "logo": "https://i.imgur.com/OOB7nrS.png",
       "website": "https://www.gov.br/mec/pt-br/canal-educacao"
-    },
-    {
-      "id": "CanalExtremadura.es",
-      "name": "Canal Extremadura",
-      "country": "ES",
-      "languages": [
-        "spa"
-      ],
-      "categories": [
-        "general",
-        "public"
-      ],
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/CEXMA_new.png/500px-CEXMA_new.png",
-      "website": "http://www.canalextremadura.es/"
     },
     {
       "id": "CanalFDR.br",
@@ -23959,19 +23815,6 @@
       "website": "https://www.cityofconcord.org/623/Videos-TV"
     },
     {
-      "id": "Condavision.es",
-      "name": "Condavision",
-      "country": "ES",
-      "languages": [
-        "spa"
-      ],
-      "categories": [
-        "culture"
-      ],
-      "logo": "https://i.imgur.com/dlrazec.png",
-      "website": "https://www.condavision.es/"
-    },
-    {
       "id": "Conecta2TV.pe",
       "name": "Conecta2TV",
       "country": "PE",
@@ -25991,6 +25834,22 @@
       ],
       "logo": "https://i.imgur.com/V8AUJP6.png",
       "website": "https://viju.ru/telekanaly/da-vinci/"
+    },
+    {
+      "id": "DaVinciAsia.de",
+      "name": "Da Vinci Asia",
+      "country": "DE",
+      "languages": [
+        "eng",
+        "ind",
+        "tha",
+        "vie"
+      ],
+      "categories": [
+        "education"
+      ],
+      "logo": "https://i.imgur.com/iBx7K1M.png",
+      "website": "https://www.davincikids.tv/"
     },
     {
       "id": "DaystarTV.us",
@@ -28416,6 +28275,7 @@
       "country": "NL",
       "languages": [
         "eng",
+        "pol",
         "rus"
       ],
       "categories": [
@@ -30539,19 +30399,6 @@
       ],
       "logo": "https://upload.wikimedia.org/wikipedia/commons/9/93/Eltorotv.png",
       "website": "https://eltorotv.com/"
-    },
-    {
-      "id": "ELTV.az",
-      "name": "EL TV",
-      "country": "AZ",
-      "languages": [
-        "aze"
-      ],
-      "categories": [
-        "general"
-      ],
-      "logo": "https://i.imgur.com/tTlokZ2.png",
-      "website": null
     },
     {
       "id": "ElWatania1.tn",
@@ -33565,19 +33412,6 @@
       ],
       "logo": "https://i.imgur.com/RXFmzVY.png",
       "website": "https://fultoncountyga.gov/watch-fgtv"
-    },
-    {
-      "id": "Fibwi.es",
-      "name": "Fibwi",
-      "country": "ES",
-      "languages": [
-        "spa"
-      ],
-      "categories": [
-        "general"
-      ],
-      "logo": "https://i.imgur.com/4vcGzcC.png",
-      "website": "https://fibwi.live/"
     },
     {
       "id": "FicomChannel.id",
@@ -37741,19 +37575,6 @@
       "website": "http://www.gulli.ru/"
     },
     {
-      "id": "GunAzTV.us",
-      "name": "GunAz TV",
-      "country": "US",
-      "languages": [
-        "aze"
-      ],
-      "categories": [
-        "general"
-      ],
-      "logo": "https://i.imgur.com/2ZnQazl.png",
-      "website": "https://www.gunaz.tv/"
-    },
-    {
       "id": "GuneydoguTV.tr",
       "name": "Guneydogu TV",
       "country": "TR",
@@ -40293,19 +40114,6 @@
       "website": "https://huda.tv/"
     },
     {
-      "id": "HuelvaTV.es",
-      "name": "Huelva TV",
-      "country": "ES",
-      "languages": [
-        "spa"
-      ],
-      "categories": [
-        "general"
-      ],
-      "logo": "https://i.imgur.com/hEnpvKj.png",
-      "website": "http://huelvatv.com/directo/"
-    },
-    {
       "id": "HumaBetangTV.id",
       "name": "Huma Betang TV",
       "country": "ID",
@@ -40762,19 +40570,6 @@
       ],
       "logo": "https://i.imgur.com/iUks0ot.png",
       "website": "http://www.icrtvcolima.com/"
-    },
-    {
-      "id": "IctimaiTV.az",
-      "name": "Ictimai TV",
-      "country": "AZ",
-      "languages": [
-        "aze"
-      ],
-      "categories": [
-        "general"
-      ],
-      "logo": "https://i.imgur.com/HzY4VMo.png",
-      "website": "https://itv.az/"
     },
     {
       "id": "ICTV.ke",
@@ -45747,19 +45542,6 @@
       "website": "https://pluto.tv/en/live-tv/kids-movie-club"
     },
     {
-      "id": "Kidz.es",
-      "name": "Kidz",
-      "country": "ES",
-      "languages": [
-        "spa"
-      ],
-      "categories": [
-        "entertainment"
-      ],
-      "logo": "https://i.imgur.com/iBgsCOV.png",
-      "website": null
-    },
-    {
       "id": "KIIOLD104.us",
       "name": "KIIO-LD 10.4",
       "country": "US",
@@ -46232,19 +46014,6 @@
       ],
       "logo": "https://ipuntotv.com/IMAGES/Knino-logo.png",
       "website": null
-    },
-    {
-      "id": "KNMusicTV.az",
-      "name": "KN Music TV",
-      "country": "AZ",
-      "languages": [
-        "aze"
-      ],
-      "categories": [
-        "music"
-      ],
-      "logo": "https://www.knmusictv.com/wp-content/uploads/2026/01/LOGO2112.png",
-      "website": "https://www.live.knmusictv.com/"
     },
     {
       "id": "KnockBhakti.in",
@@ -48417,19 +48186,6 @@
       "website": "https://lauradavemedia.com/"
     },
     {
-      "id": "LaUrbanTV.es",
-      "name": "La Urban TV",
-      "country": "ES",
-      "languages": [
-        "spa"
-      ],
-      "categories": [
-        "music"
-      ],
-      "logo": "https://i.imgur.com/hythjEn.png",
-      "website": "https://www.urbanrevolution.es/emision-en-directo-de-la-urban-tv/"
-    },
-    {
       "id": "Lausitzwelle.de",
       "name": "Lausitzwelle",
       "country": "DE",
@@ -49702,19 +49458,6 @@
       "website": "https://www.lacopts.org/ministries/logostv/logos-tv-america/"
     },
     {
-      "id": "LogosTVEstudio.es",
-      "name": "Logos TV Estudio",
-      "country": "ES",
-      "languages": [
-        "spa"
-      ],
-      "categories": [
-        "religious"
-      ],
-      "logo": "https://i.imgur.com/qkHrttj.png",
-      "website": "https://logostv.es/"
-    },
-    {
       "id": "LogosTVKids.es",
       "name": "Logos TV Kids",
       "country": "ES",
@@ -49726,19 +49469,6 @@
         "religious"
       ],
       "logo": "https://i.imgur.com/Kr3U3Ub.png",
-      "website": "https://logostv.es/"
-    },
-    {
-      "id": "LogosTVSalud.es",
-      "name": "Logos TV Salud",
-      "country": "ES",
-      "languages": [
-        "spa"
-      ],
-      "categories": [
-        "lifestyle"
-      ],
-      "logo": "https://i.imgur.com/qkHrttj.png",
       "website": "https://logostv.es/"
     },
     {
@@ -54126,19 +53856,6 @@
       "website": "https://miradiotv.cl/"
     },
     {
-      "id": "MirameTV.es",
-      "name": "Mirame TV",
-      "country": "ES",
-      "languages": [
-        "spa"
-      ],
-      "categories": [
-        "news"
-      ],
-      "logo": "https://i.imgur.com/LK4pLgT.png",
-      "website": "http://www.mirametv.com/"
-    },
-    {
       "id": "Miras.tm",
       "name": "Miras",
       "country": "TM",
@@ -55749,20 +55466,6 @@
       ],
       "logo": "https://i.imgur.com/CF6X9wB.png",
       "website": "https://www.mta.tv/"
-    },
-    {
-      "id": "MtavariArkhi.ge",
-      "name": "Mtavari Arkhi",
-      "country": "GE",
-      "languages": [
-        "eng",
-        "kat"
-      ],
-      "categories": [
-        "general"
-      ],
-      "logo": "https://i.imgur.com/tLtGnJW.png",
-      "website": "https://mtavari.tv/"
     },
     {
       "id": "MTC.us",
@@ -62020,19 +61723,6 @@
       "website": "https://www.otv.de/"
     },
     {
-      "id": "ObieqtiviTV.ge",
-      "name": "Obieqtivi TV",
-      "country": "GE",
-      "languages": [
-        "kat"
-      ],
-      "categories": [
-        "news"
-      ],
-      "logo": "https://i.imgur.com/Kqc8H8X.png",
-      "website": "http://www.obieqtivi.net/"
-    },
-    {
       "id": "ObservatorNews.ro",
       "name": "Observator News",
       "country": "RO",
@@ -64822,20 +64512,6 @@
       "website": "https://www.6play.fr/pp"
     },
     {
-      "id": "ParlamentodeNavarra.es",
-      "name": "Parlamento de Navarra",
-      "country": "ES",
-      "languages": [
-        "eus",
-        "spa"
-      ],
-      "categories": [
-        "legislative"
-      ],
-      "logo": "https://i.imgur.com/JnhWxKv.png",
-      "website": "https://www.parlamentodenavarra.es/"
-    },
-    {
       "id": "Parlamentsfernsehen1.de",
       "name": "Parlamentsfernsehen 1",
       "country": "DE",
@@ -66219,19 +65895,6 @@
       ],
       "logo": "https://i.imgur.com/hfXoJIY.png",
       "website": "http://www.lolotv.lv/"
-    },
-    {
-      "id": "PirineusTV.es",
-      "name": "Pirineus TV",
-      "country": "ES",
-      "languages": [
-        "cat"
-      ],
-      "categories": [
-        "general"
-      ],
-      "logo": "https://i.imgur.com/8b5znGY.png",
-      "website": "https://www.pirineustv.cat/"
     },
     {
       "id": "Pitaara.in",
@@ -71924,19 +71587,6 @@
       "website": null
     },
     {
-      "id": "PulaTV.do",
-      "name": "Pula TV",
-      "country": "DO",
-      "languages": [
-        "spa"
-      ],
-      "categories": [
-        "entertainment"
-      ],
-      "logo": "https://i.imgur.com/8gSLJ2f.png",
-      "website": "https://www.vivalivetv.com/channel/pula-tv"
-    },
-    {
       "id": "Puls2.pl",
       "name": "Puls 2",
       "country": "PL",
@@ -76122,19 +75772,6 @@
       "website": null
     },
     {
-      "id": "RedSocialCodiTV.do",
-      "name": "Red Social Codi TV",
-      "country": "DO",
-      "languages": [
-        "spa"
-      ],
-      "categories": [
-        "general"
-      ],
-      "logo": "https://i.imgur.com/Yb4lhpG.png",
-      "website": "https://redsocialcodi.com/"
-    },
-    {
       "id": "RedTVEVentanas.ec",
       "name": "Red TVE Ventanas",
       "country": "EC",
@@ -77161,6 +76798,17 @@
         "education"
       ],
       "logo": "https://lombokindustries.com/assunnah/zone/img/rinjanitv.png",
+      "website": null
+    },
+    {
+      "id": "RioniTV.ge",
+      "name": "Rioni TV",
+      "country": "GE",
+      "languages": [
+        "kat"
+      ],
+      "categories": [],
+      "logo": "https://i.imgur.com/ogMqmth.png",
       "website": null
     },
     {
@@ -80394,6 +80042,19 @@
       "website": null
     },
     {
+      "id": "SanjuaneraTV.pe",
+      "name": "SanjuaneraTV",
+      "country": "PE",
+      "languages": [
+        "spa"
+      ],
+      "categories": [
+        "music"
+      ],
+      "logo": "https://i.imgur.com/QB3tz0d.png",
+      "website": "http://www.sanjuaneratv.com/"
+    },
+    {
       "id": "SankaraTV.in",
       "name": "Sankara TV",
       "country": "IN",
@@ -81447,6 +81108,17 @@
       "website": null
     },
     {
+      "id": "SelvaTV.pe",
+      "name": "SelvaTV",
+      "country": "PE",
+      "languages": [
+        "spa"
+      ],
+      "categories": [],
+      "logo": "https://i.imgur.com/CVgix1C.png",
+      "website": "https://www.selvatv.pe/senal-en-vivo/"
+    },
+    {
       "id": "SemerkandTV.tr",
       "name": "Semerkand TV",
       "country": "TR",
@@ -82455,19 +82127,6 @@
       ],
       "logo": "https://upload.wikimedia.org/wikipedia/pt/b/b2/Show_do_Milh%C3%A3o_Logo_2024.webp",
       "website": "https://www.showdomilhao.com.br/"
-    },
-    {
-      "id": "ShowPlusTV.az",
-      "name": "Show Plus TV",
-      "country": "AZ",
-      "languages": [
-        "aze"
-      ],
-      "categories": [
-        "entertainment"
-      ],
-      "logo": "https://i.imgur.com/Je2DGSG.jpg",
-      "website": "https://showplus.az/"
     },
     {
       "id": "ShowTurk.tr",
@@ -86469,6 +86128,19 @@
       "website": "https://www.multicablemas.com/"
     },
     {
+      "id": "SullanaTV.pe",
+      "name": "Sullana TV",
+      "country": "PE",
+      "languages": [
+        "spa"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://i.imgur.com/BOqtK0a.png",
+      "website": "https://sullanatv.com/"
+    },
+    {
       "id": "SummerofMovies.us",
       "name": "Summer of Movies",
       "country": "US",
@@ -86862,19 +86534,6 @@
       ],
       "logo": "https://i.imgur.com/cgjgjE1.png",
       "website": "https://superyacht.tv/"
-    },
-    {
-      "id": "Supremateve.do",
-      "name": "Supremateve",
-      "country": "DO",
-      "languages": [
-        "spa"
-      ],
-      "categories": [
-        "general"
-      ],
-      "logo": "https://canalesdominicanos.live/template/images/radios/small/supremateve.jpeg",
-      "website": "https://supremateve.com/"
     },
     {
       "id": "SupremeMasterTV.tw",
@@ -87654,17 +87313,6 @@
       ],
       "logo": "https://dtil.tmsimg.com/assets/s143292_ld_h15_aa.png?lock=720x540",
       "website": null
-    },
-    {
-      "id": "Tac12.es",
-      "name": "Tac12",
-      "country": "ES",
-      "languages": [
-        "cat"
-      ],
-      "categories": [],
-      "logo": "https://i.imgur.com/XHOVbSu.png",
-      "website": "https://www.tac12.tv/directe/index.html"
     },
     {
       "id": "TaevasTV7.fi",
@@ -89756,17 +89404,6 @@
       "website": "https://www.telemoldovaplus.ro/"
     },
     {
-      "id": "Telemotril.es",
-      "name": "Telemotril",
-      "country": "ES",
-      "languages": [
-        "spa"
-      ],
-      "categories": [],
-      "logo": "https://i.imgur.com/4nspLHb.png",
-      "website": "https://telemotril.com/"
-    },
-    {
       "id": "Telemundo.us",
       "name": "Telemundo",
       "country": "US",
@@ -89980,17 +89617,6 @@
       ],
       "logo": null,
       "website": "https://www.mediaoneonline.it/diretta/"
-    },
-    {
-      "id": "Teleonuba.es",
-      "name": "Teleonuba",
-      "country": "ES",
-      "languages": [
-        "spa"
-      ],
-      "categories": [],
-      "logo": "https://i.imgur.com/cHMfmO7.png",
-      "website": "https://teleonuba.es/en-directo/"
     },
     {
       "id": "Telepace1.it",
@@ -96615,17 +96241,6 @@
       "website": "https://centroradialhn.net/"
     },
     {
-      "id": "TVCentroAndalucia.es",
-      "name": "TVCentro Andalucia",
-      "country": "ES",
-      "languages": [
-        "spa"
-      ],
-      "categories": [],
-      "logo": "https://i.imgur.com/xQAzYOD.png",
-      "website": "https://tvcentroandalucia.com/"
-    },
-    {
       "id": "TVCentroHD.hn",
       "name": "TV Centro HD",
       "country": "HN",
@@ -96939,19 +96554,6 @@
       ],
       "logo": "https://i.imgur.com/JdCKNZ4.png",
       "website": "https://www.tvcurucasp.com.br/"
-    },
-    {
-      "id": "TVDaja.do",
-      "name": "TV Daja",
-      "country": "DO",
-      "languages": [
-        "spa"
-      ],
-      "categories": [
-        "general"
-      ],
-      "logo": "https://dajatv.com/wp-content/uploads/2021/09/logo_daja_2.png",
-      "website": "https://dajatv.com/"
     },
     {
       "id": "TVDestak.br",
@@ -98265,17 +97867,6 @@
       ],
       "logo": "https://i.imgur.com/BGFa4OO.png",
       "website": "https://www.almg.org.gt/"
-    },
-    {
-      "id": "TVMCordoba.es",
-      "name": "TVM Cordoba",
-      "country": "ES",
-      "languages": [
-        "spa"
-      ],
-      "categories": [],
-      "logo": "https://i.imgur.com/jN5k8Ob.png",
-      "website": null
     },
     {
       "id": "TVMeio.br",
@@ -101720,6 +101311,19 @@
       "website": "https://www.ushuaiatv.fr/"
     },
     {
+      "id": "USILTV.pe",
+      "name": "USIL TV",
+      "country": "PE",
+      "languages": [
+        "spa"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://i.imgur.com/9OXF9EK.png",
+      "website": "https://usil.tv/"
+    },
+    {
       "id": "UStad.nl",
       "name": "UStad",
       "country": "NL",
@@ -103085,20 +102689,6 @@
       "website": "https://viju.ru/telekanaly/viju-tv1000-russkoe"
     },
     {
-      "id": "VilayetTV.az",
-      "name": "Vilayet TV",
-      "country": "AZ",
-      "languages": [
-        "ara",
-        "aze"
-      ],
-      "categories": [
-        "general"
-      ],
-      "logo": "https://vilayet.tv/wp-content/uploads/elementor/thumbs/logo-q3w2md1u47q39x7d0004wqzz74xdv1glw356ex6ph0.png",
-      "website": "https://vilayet.tv/"
-    },
-    {
       "id": "VillaAltagraciaTV.do",
       "name": "Villa Altagracia TV",
       "country": "DO",
@@ -103467,17 +103057,6 @@
       ],
       "logo": "https://cdn.epg.one/img2/88006.png",
       "website": null
-    },
-    {
-      "id": "Vivamovil.es",
-      "name": "Vivamovil",
-      "country": "ES",
-      "languages": [
-        "spa"
-      ],
-      "categories": [],
-      "logo": "https://i.imgur.com/QQviU5m.png",
-      "website": "https://vivamovil.tv/en-directo/"
     },
     {
       "id": "VivaNicaraguaCanal13.ni",
@@ -105742,19 +105321,6 @@
       ],
       "logo": "https://i.imgur.com/iOYlKpF.png",
       "website": "https://xejtv.com/"
-    },
-    {
-      "id": "XezerTV.az",
-      "name": "Xezer TV",
-      "country": "AZ",
-      "languages": [
-        "aze"
-      ],
-      "categories": [
-        "general"
-      ],
-      "logo": null,
-      "website": null
     },
     {
       "id": "XFCTV.us",
