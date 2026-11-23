@@ -10835,6 +10835,19 @@
       "website": "http://www.axs.tv/"
     },
     {
+      "id": "AyazTV.az",
+      "name": "Ayaz TV",
+      "country": "AZ",
+      "languages": [
+        "aze"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://www.ayaztv.com/storage/assets/site_logo.png",
+      "website": "https://www.ayaztv.com/tv"
+    },
+    {
       "id": "AYNITV.bo",
       "name": "AYNI TV",
       "country": "BO",
@@ -18970,6 +18983,20 @@
       "website": "https://cartagomedios.com/"
     },
     {
+      "id": "CartoonCartoons.us",
+      "name": "Cartoon Cartoons",
+      "country": "US",
+      "languages": [
+        "eng"
+      ],
+      "categories": [
+        "animation",
+        "kids"
+      ],
+      "logo": "https://cartooncartoons.thatsoretro.com/logo",
+      "website": "https://cartooncartoons.thatsoretro.com/"
+    },
+    {
       "id": "CartoonClassics.pl",
       "name": "Cartoon Classics",
       "country": "PL",
@@ -20292,6 +20319,19 @@
       ],
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/24_Group_Ukraine_04.png/960px-24_Group_Ukraine_04.png",
       "website": "https://24tv.ua/"
+    },
+    {
+      "id": "Channel4.ru",
+      "name": "Channel 4",
+      "country": "RU",
+      "languages": [
+        "rus"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/0/00/Channel4_logo.jpg",
+      "website": "https://www.channel4.ru/"
     },
     {
       "id": "Channel4.uk",
@@ -28164,19 +28204,6 @@
       "website": "https://dmoda.com.bo/"
     },
     {
-      "id": "DNJTV.pr",
-      "name": "DNJ TV",
-      "country": "PR",
-      "languages": [
-        "spa"
-      ],
-      "categories": [
-        "religious"
-      ],
-      "logo": "https://i.imgur.com/YqTcGJZ.png",
-      "website": "https://dnj.tv/"
-    },
-    {
       "id": "DNN.in",
       "name": "DNN",
       "country": "IN",
@@ -32142,19 +32169,6 @@
       "website": "https://www.europe1.fr/"
     },
     {
-      "id": "Eurosport.in",
-      "name": "Eurosport",
-      "country": "IN",
-      "languages": [
-        "eng"
-      ],
-      "categories": [
-        "sports"
-      ],
-      "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002E9LQS.png?lock=720x540",
-      "website": "https://eurosport.co.in/"
-    },
-    {
       "id": "Eurosport1.fr",
       "name": "Eurosport 1",
       "country": "FR",
@@ -32883,19 +32897,6 @@
       ],
       "logo": "https://i.imgur.com/n3PUxes.png",
       "website": "https://www.fame95fm.com/"
-    },
-    {
-      "id": "FamiliaVisionHD.pr",
-      "name": "Familia Vision HD",
-      "country": "PR",
-      "languages": [
-        "spa"
-      ],
-      "categories": [
-        "religious"
-      ],
-      "logo": "https://i.imgur.com/uqTH7m5.jpg",
-      "website": "https://lafamiliadelafe.net/"
     },
     {
       "id": "FamilienfraBryggen.se",
@@ -35742,19 +35743,6 @@
       "website": "https://www.gemshopping.com/"
     },
     {
-      "id": "GEMSport.tr",
-      "name": "GEM Sport",
-      "country": "TR",
-      "languages": [
-        "fas"
-      ],
-      "categories": [
-        "sports"
-      ],
-      "logo": "https://www.gemgroup.tv/assets/images/channels/icon_34.png",
-      "website": "https://www.gemgroup.tv/"
-    },
-    {
       "id": "GemTV.in",
       "name": "Gem TV",
       "country": "IN",
@@ -36356,6 +36344,20 @@
       ],
       "logo": "https://i.ibb.co/wrQZXZ01/C-pia-de-Blue-Modern-Simple-Logo.png",
       "website": "https://discobak.github.io/gweb/"
+    },
+    {
+      "id": "GloriousTimesTV.ug",
+      "name": "Glorious Times TV",
+      "country": "UG",
+      "languages": [
+        "eng",
+        "lug"
+      ],
+      "categories": [
+        "religious"
+      ],
+      "logo": "https://i.imgur.com/F3sH2Zt.jpeg",
+      "website": "https://kakandeministries.org/about-us/glorious-times-tv/"
     },
     {
       "id": "GloryKickboxing.us",
@@ -38239,6 +38241,19 @@
       "website": "https://hatinhtv.vn/"
     },
     {
+      "id": "HatoDelYaqueTV.do",
+      "name": "Hato Del Yaque TV",
+      "country": "DO",
+      "languages": [
+        "spa"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://www.vivalivetv.com/public/files/shows/0/1/4075-294x165-FFFFFF.jpg",
+      "website": "https://www.vivalivetv.com/channel/hato-del-yaque-tv"
+    },
+    {
       "id": "HauntTV.ca",
       "name": "HauntTV",
       "country": "CA",
@@ -40112,6 +40127,19 @@
       ],
       "logo": "https://i.imgur.com/1UUjU26.png",
       "website": "https://huda.tv/"
+    },
+    {
+      "id": "HuilaTV.co",
+      "name": "Huila TV",
+      "country": "CO",
+      "languages": [
+        "spa"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://i.imgur.com/hFlGHNZ.png",
+      "website": "https://www.huilatv.com/huila-play-video/"
     },
     {
       "id": "HumaBetangTV.id",
@@ -43033,20 +43061,6 @@
       "website": "http://jttv.hu"
     },
     {
-      "id": "JayaPlus.in",
-      "name": "Jaya Plus",
-      "country": "IN",
-      "languages": [
-        "tam"
-      ],
-      "categories": [
-        "culture",
-        "entertainment"
-      ],
-      "logo": "https://dtil.tmsimg.com/assets/s143227_ld_h15_aa.png?lock=720x540",
-      "website": "http://jayaplus.jayanewslive.com/Landing.aspx"
-    },
-    {
       "id": "JayaTV.lk",
       "name": "Jaya TV",
       "country": "LK",
@@ -44773,6 +44787,19 @@
       ],
       "logo": "https://i.imgur.com/l02znlE.png",
       "website": "https://kanizsatv.hu/"
+    },
+    {
+      "id": "KannurVision.in",
+      "name": "Kannur Vision",
+      "country": "IN",
+      "languages": [
+        "mal"
+      ],
+      "categories": [
+        "news"
+      ],
+      "logo": "https://i.imgur.com/FCXqPer.png",
+      "website": "https://kannurvisionchannel.com/"
     },
     {
       "id": "KanshiTV.uk",
@@ -46595,6 +46622,20 @@
       "website": "https://www.ktv.go.kr/"
     },
     {
+      "id": "KTV.ug",
+      "name": "KTV",
+      "country": "UG",
+      "languages": [
+        "eng",
+        "lug"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://i.imgur.com/IA8Srft.jpg",
+      "website": "https://kingdommediaug.com/"
+    },
+    {
       "id": "KTV1.kw",
       "name": "KTV 1",
       "country": "KW",
@@ -47345,6 +47386,19 @@
       ],
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXPeIq2FZZ0c0_tnS3yGsucfl43JFJS2VQ9w&s.png",
       "website": null
+    },
+    {
+      "id": "LaGranjaTV.cl",
+      "name": "La Granja TV",
+      "country": "CL",
+      "languages": [
+        "spa"
+      ],
+      "categories": [
+        "music"
+      ],
+      "logo": "https://i.imgur.com/90luGab.png",
+      "website": "https://www.lagranja.tv/"
     },
     {
       "id": "LagunaTV.do",
@@ -51671,6 +51725,19 @@
       "website": "https://mntv.hn/"
     },
     {
+      "id": "MasRadioTV.cl",
+      "name": "Mas Radio TV",
+      "country": "CL",
+      "languages": [
+        "spa"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://cdn.m3u.cl/logo/1495_Mas_Radio_TV.png",
+      "website": "https://masradiotv.cl/"
+    },
+    {
       "id": "MasTalk.ve",
       "name": "Mas Talk",
       "country": "VE",
@@ -51751,6 +51818,19 @@
       ],
       "logo": "https://i.imgur.com/K2ZimRv.png",
       "website": "https://mastertvradio.com/tv"
+    },
+    {
+      "id": "MasterVideo.pr",
+      "name": "Master Video",
+      "country": "PR",
+      "languages": [
+        "spa"
+      ],
+      "categories": [
+        "religious"
+      ],
+      "logo": "https://i.imgur.com/0jj9Vx0.png",
+      "website": "https://www.mastervideopro.com/"
     },
     {
       "id": "Mastiii.in",
@@ -54429,6 +54509,20 @@
       ],
       "logo": "https://assets.mbcmood.com/channels/1720184012Mohammed%20Abdo%20banner.png",
       "website": null
+    },
+    {
+      "id": "Moji.id",
+      "name": "Moji",
+      "country": "ID",
+      "languages": [
+        "eng",
+        "ind"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://i.imgur.com/mM9zapJ.png",
+      "website": "https://moji.id/"
     },
     {
       "id": "MojoTV.in",
@@ -59354,19 +59448,6 @@
       "website": "https://truyenhinhnghean.vn/"
     },
     {
-      "id": "NGRadioTV.pr",
-      "name": "NG Radio TV",
-      "country": "PR",
-      "languages": [
-        "spa"
-      ],
-      "categories": [
-        "religious"
-      ],
-      "logo": "https://i.imgur.com/KsNI3vQ.jpg",
-      "website": "https://ng907fm.com/"
-    },
-    {
       "id": "NHKGeneralTV.jp",
       "name": "NHK General TV",
       "country": "JP",
@@ -59860,6 +59941,19 @@
       ],
       "logo": null,
       "website": "https://www.nigbati.tv/"
+    },
+    {
+      "id": "NijamTV.in",
+      "name": "Nijam TV",
+      "country": "IN",
+      "languages": [
+        "tam"
+      ],
+      "categories": [
+        "religious"
+      ],
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/nijamtv.png",
+      "website": null
     },
     {
       "id": "NikaTV.ru",
@@ -61367,20 +61461,6 @@
       ],
       "logo": "https://i.imgur.com/JoGQqmP.png",
       "website": "https://www.nuestrateleinternacional.com/"
-    },
-    {
-      "id": "NuevaVidaFM.pr",
-      "name": "Nueva Vida FM",
-      "country": "PR",
-      "languages": [
-        "spa"
-      ],
-      "categories": [
-        "music",
-        "religious"
-      ],
-      "logo": "https://i.ibb.co/3mbZWyN/nav-Bar-title-Image-iphone6plus.png",
-      "website": "https://nuevavida.fm/"
     },
     {
       "id": "NuevaVision14.do",
@@ -63708,6 +63788,19 @@
       "website": "https://iryston.tv/"
     },
     {
+      "id": "OsornoTV.cl",
+      "name": "Osorno TV",
+      "country": "CL",
+      "languages": [
+        "spa"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://i.imgur.com/0ELjva6.png",
+      "website": "https://www.osornotv.cl/"
+    },
+    {
       "id": "OtkritiymirZdorove.ru",
       "name": "Otkritiy mir. Zdorove",
       "country": "RU",
@@ -64231,6 +64324,19 @@
       ],
       "logo": "https://i.imgur.com/kBol4Pf.png",
       "website": "https://www.thepalmbeaches.tv/"
+    },
+    {
+      "id": "PalMundoFM.cl",
+      "name": "PalMundo FM",
+      "country": "CL",
+      "languages": [
+        "spa"
+      ],
+      "categories": [
+        "music"
+      ],
+      "logo": "https://cdn.m3u.cl/logo/1803_PalMundo_FM.png",
+      "website": null
     },
     {
       "id": "PanafricanMediaTV.cm",
@@ -72873,6 +72979,19 @@
       "website": null
     },
     {
+      "id": "RadioBohemiaTV.cl",
+      "name": "Radio Bohemia TV",
+      "country": "CL",
+      "languages": [
+        "spa"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://cdn.m3u.cl/logo/1776_Radio_Bohemia_TV.png",
+      "website": null
+    },
+    {
       "id": "RadioBonita1067.ec",
       "name": "Radio Bonita 106.7",
       "country": "EC",
@@ -76321,6 +76440,19 @@
       ],
       "logo": "https://i.imgur.com/ofairB5.png",
       "website": "https://www.getafteritmedia.com/retrotv"
+    },
+    {
+      "id": "RetrovisionTV.do",
+      "name": "Retro vision TV",
+      "country": "DO",
+      "languages": [
+        "spa"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://retrovisionmia.com/assets/retrovision-logo-BHToA3lv.png",
+      "website": "https://retrovisionmia.com/"
     },
     {
       "id": "RetroxTV.cr",
@@ -87352,6 +87484,19 @@
       "website": "https://www.tahatv.com/"
     },
     {
+      "id": "TainoLiveTV.do",
+      "name": "Taino Live TV",
+      "country": "DO",
+      "languages": [
+        "spa"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://www.vivalivetv.com/public/files/shows/0/1/4090-294x165-FFFFFF.jpg",
+      "website": "https://www.vivalivetv.com/channel/taino-tv-live"
+    },
+    {
       "id": "TaivasTV7.fi",
       "name": "Taivas TV7",
       "country": "FI",
@@ -88560,6 +88705,19 @@
       "website": "https://telearuba.aw/"
     },
     {
+      "id": "TeleAzul.do",
+      "name": "Tele Azul",
+      "country": "DO",
+      "languages": [
+        "spa"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://imgur.com/a/cU7MHiu.jpg",
+      "website": "https://dominicanchannels.com/teleazul/"
+    },
+    {
       "id": "TeleBendicion.do",
       "name": "TeleBendicion",
       "country": "DO",
@@ -89402,20 +89560,6 @@
       ],
       "logo": "https://i.imgur.com/8z0zLjw.jpeg",
       "website": "https://www.telemoldovaplus.ro/"
-    },
-    {
-      "id": "Telemundo.us",
-      "name": "Telemundo",
-      "country": "US",
-      "languages": [
-        "eng",
-        "spa"
-      ],
-      "categories": [
-        "general"
-      ],
-      "logo": "https://www.mediamoves.com/wp-content/uploads/2012/11/Telemundo-logo-2012-e1358145354448.jpg",
-      "website": "http://www.telemundo.com/"
     },
     {
       "id": "TelemundoAlDia.us",
@@ -93608,6 +93752,19 @@
       "website": "https://tv.tralala.ro/"
     },
     {
+      "id": "Trans7.id",
+      "name": "Trans7",
+      "country": "ID",
+      "languages": [
+        "ind"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://i.imgur.com/fAbGImS.png",
+      "website": "https://www.trans7.co.id/"
+    },
+    {
       "id": "TransformersTV.us",
       "name": "Transformers TV",
       "country": "US",
@@ -93643,6 +93800,19 @@
       "categories": [],
       "logo": "https://i.imgur.com/jYMpVQA.png",
       "website": null
+    },
+    {
+      "id": "TransTV.id",
+      "name": "Trans TV",
+      "country": "ID",
+      "languages": [
+        "ind"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/960px-Trans_TV_2013.svg.png",
+      "website": "https://www.transtv.co.id/"
     },
     {
       "id": "TravelMix.ro",
@@ -97594,6 +97764,19 @@
       ],
       "categories": [],
       "logo": "https://i.imgur.com/zNJlFMg.png",
+      "website": null
+    },
+    {
+      "id": "TVMaanaim.br",
+      "name": "TV Maanaim",
+      "country": "BR",
+      "languages": [
+        "por"
+      ],
+      "categories": [
+        "religious"
+      ],
+      "logo": "https://i.imgur.com/PZhdHvf.png",
       "website": null
     },
     {
@@ -104254,6 +104437,19 @@
       "website": "https://wcetvdigital.com"
     },
     {
+      "id": "WCLO501.pr",
+      "name": "WCLO 50.1",
+      "country": "PR",
+      "languages": [
+        "spa"
+      ],
+      "categories": [
+        "religious"
+      ],
+      "logo": "https://publicfiles.fcc.gov/api/manager/download/entity/logo/3255/tv",
+      "website": "https://nuevavida.fm/"
+    },
+    {
       "id": "WCOT.us",
       "name": "WCOT",
       "country": "US",
@@ -104369,19 +104565,6 @@
       ],
       "logo": "https://i.imgur.com/yHUUIIz.png",
       "website": "https://www.weatherspy.tv/"
-    },
-    {
-      "id": "WECN.pr",
-      "name": "WECN",
-      "country": "PR",
-      "languages": [
-        "spa"
-      ],
-      "categories": [
-        "religious"
-      ],
-      "logo": "https://i.imgur.com/NYBZBY0.png",
-      "website": "https://canal64.tv/"
     },
     {
       "id": "WeddingTV.it",
