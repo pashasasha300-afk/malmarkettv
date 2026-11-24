@@ -1413,19 +1413,6 @@
       "website": "https://20minutes.tv"
     },
     {
-      "id": "22ScopeNews.in",
-      "name": "22Scope News",
-      "country": "IN",
-      "languages": [
-        "hin"
-      ],
-      "categories": [
-        "news"
-      ],
-      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/22Scope_News.png",
-      "website": "https://22scope.com/"
-    },
-    {
       "id": "247BoxTV.ir",
       "name": "247 Box TV",
       "country": "IR",
@@ -3189,19 +3176,6 @@
       "website": "https://aadinathtv.com/"
     },
     {
-      "id": "AagaazTimes.in",
-      "name": "Aagaaz Times",
-      "country": "IN",
-      "languages": [
-        "hin"
-      ],
-      "categories": [
-        "news"
-      ],
-      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/aagaaztimes.png",
-      "website": null
-    },
-    {
       "id": "AajEntertainment.pk",
       "name": "Aaj Entertainment",
       "country": "PK",
@@ -3252,19 +3226,6 @@
       ],
       "logo": "https://dtil.tmsimg.com/assets/s142510_ld_h15_ab.png?lock=720x540",
       "website": "http://www.aakashaath.com/"
-    },
-    {
-      "id": "AamarBangla.in",
-      "name": "Aamar Bangla",
-      "country": "IN",
-      "languages": [
-        "ben"
-      ],
-      "categories": [
-        "entertainment"
-      ],
-      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Amaar_Bangla.png",
-      "website": null
     },
     {
       "id": "AaryaaTV.in",
@@ -6065,6 +6026,19 @@
       "website": "http://www.alittihad.tv/"
     },
     {
+      "id": "AlJadeed.lb",
+      "name": "Al Jadeed",
+      "country": "LB",
+      "languages": [
+        "ara"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://i.imgur.com/CfxR8o3.png",
+      "website": "https://www.aljadeed.tv/"
+    },
+    {
       "id": "AlJanoubTV.iq",
       "name": "Al Janoub TV",
       "country": "IQ",
@@ -7481,18 +7455,16 @@
       "website": "https://pluto.tv/en/live-tv/americas-voice"
     },
     {
-      "id": "AmericaTeVe.pr",
+      "id": "AmericaTeVe.us",
       "name": "America TeVe",
-      "country": "PR",
+      "country": "US",
       "languages": [
+        "eng",
         "spa"
       ],
-      "categories": [
-        "entertainment",
-        "general"
-      ],
-      "logo": "https://i.imgur.com/K9o3mLP.png",
-      "website": "https://www.americatevepr.com/"
+      "categories": [],
+      "logo": "https://i.imgur.com/a2sgZvW.png",
+      "website": "https://www.americateve.com/"
     },
     {
       "id": "Ameritrade.us",
@@ -9489,19 +9461,6 @@
       "website": null
     },
     {
-      "id": "AsiaExpressNonStop.ro",
-      "name": "Asia Express NonStop",
-      "country": "RO",
-      "languages": [
-        "ron"
-      ],
-      "categories": [
-        "entertainment"
-      ],
-      "logo": "https://assets.antenaplay.ro/2026/08/25/00keSCoSw0EaWnICcuYB.png",
-      "website": "https://antenaplay.ro/live/asia-express-nonstop"
-    },
-    {
       "id": "AsianCrush.us",
       "name": "AsianCrush",
       "country": "US",
@@ -11271,19 +11230,6 @@
       "website": "https://www.fuse.tv/v/fuse-backstage/a4068154335cc15ab055a34979c5e1c4"
     },
     {
-      "id": "BadaKhabar.in",
-      "name": "Bada Khabar",
-      "country": "IN",
-      "languages": [
-        "ori"
-      ],
-      "categories": [
-        "news"
-      ],
-      "logo": "https://i.imgur.com/XiwygDJ.png",
-      "website": "https://badakhabar.in/"
-    },
-    {
       "id": "Badakhshon.tj",
       "name": "Badakhshon",
       "country": "TJ",
@@ -11426,6 +11372,19 @@
       ],
       "logo": "https://i.imgur.com/I2wRq88.png",
       "website": "http://bajotecho.tv/"
+    },
+    {
+      "id": "BakuTV.az",
+      "name": "Baku.TV",
+      "country": "AZ",
+      "languages": [
+        "aze"
+      ],
+      "categories": [
+        "news"
+      ],
+      "logo": "https://i.imgur.com/r4FzxSg.png",
+      "website": "https://baku.tv/"
     },
     {
       "id": "Balabol.ru",
@@ -14462,6 +14421,19 @@
       "website": "https://borealtelevision.com/"
     },
     {
+      "id": "BoricuaTV.pr",
+      "name": "Boricua TV",
+      "country": "PR",
+      "languages": [
+        "spa"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://files.catbox.moe/8zbll9.png",
+      "website": "https://www.boricuatv.net/"
+    },
+    {
       "id": "BotflixRadioo.us",
       "name": "Botflix Radioo",
       "country": "US",
@@ -14725,6 +14697,97 @@
       ],
       "logo": "https://i.imgur.com/JJTQq81.png",
       "website": "https://bridgetv.ru/brands/bridgetv_classic/"
+    },
+    {
+      "id": "BRIDGEDance.ru",
+      "name": "BRIDGE Dance",
+      "country": "RU",
+      "languages": [
+        "rus"
+      ],
+      "categories": [
+        "music"
+      ],
+      "logo": "https://bridgemusic.ru/s/img/channels/dance-white.svg",
+      "website": "https://bridgemusic.ru/live/dance"
+    },
+    {
+      "id": "BRIDGEJazz.ru",
+      "name": "BRIDGE Jazz",
+      "country": "RU",
+      "languages": [
+        "rus"
+      ],
+      "categories": [
+        "music"
+      ],
+      "logo": "https://bridgemusic.ru/s/img/channels/jazz-white.svg",
+      "website": null
+    },
+    {
+      "id": "BRIDGERap.ru",
+      "name": "BRIDGE Rap",
+      "country": "RU",
+      "languages": [
+        "rus"
+      ],
+      "categories": [
+        "music"
+      ],
+      "logo": "https://bridgemusic.ru/s/img/channels/rap-logo-dark.svg",
+      "website": null
+    },
+    {
+      "id": "BRIDGERNB.ru",
+      "name": "BRIDGE RNB",
+      "country": "RU",
+      "languages": [
+        "rus"
+      ],
+      "categories": [
+        "music"
+      ],
+      "logo": "https://bridgemusic.ru/s/img/channels/rnb-logo-dark.svg",
+      "website": null
+    },
+    {
+      "id": "BRIDGESoul.ru",
+      "name": "BRIDGE Soul",
+      "country": "RU",
+      "languages": [
+        "rus"
+      ],
+      "categories": [
+        "music"
+      ],
+      "logo": "https://bridgemusic.ru/s/img/channels/soul-logo-dark.svg",
+      "website": null
+    },
+    {
+      "id": "BRIDGESymphony.ru",
+      "name": "BRIDGE Symphony",
+      "country": "RU",
+      "languages": [
+        "rus"
+      ],
+      "categories": [
+        "music"
+      ],
+      "logo": "https://bridgemusic.ru/s/img/channels/symphony-white.svg",
+      "website": null
+    },
+    {
+      "id": "BRIDGEVostok.ru",
+      "name": "BRIDGE Vostok",
+      "country": "RU",
+      "languages": [
+        "rus"
+      ],
+      "categories": [
+        "music"
+      ],
+      "logo": "https://bridgemusic.ru/s/img/channels/vostok-white.svg",
+      "website": null
     },
     {
       "id": "BrionnaisTV.fr",
@@ -16053,6 +16116,28 @@
       ],
       "logo": "https://i.imgur.com/Sht2Rd4.png",
       "website": "https://canal11.hn/"
+    },
+    {
+      "id": "Canal11delaCosta.ar",
+      "name": "Canal 11 de la Costa",
+      "country": "AR",
+      "languages": [
+        "spa"
+      ],
+      "categories": [],
+      "logo": "https://i.imgur.com/yYExcq1.jpg",
+      "website": "https://canal11delacosta.com.ar/"
+    },
+    {
+      "id": "Canal11Machagai.ar",
+      "name": "Canal 11 Machagai",
+      "country": "AR",
+      "languages": [
+        "spa"
+      ],
+      "categories": [],
+      "logo": "https://i.imgur.com/1pXrcdO.jpg",
+      "website": null
     },
     {
       "id": "Canal11TuTV.sv",
@@ -18695,19 +18780,6 @@
       "website": "https://www.caprichotvradio.com/"
     },
     {
-      "id": "Captain.in",
-      "name": "Captain",
-      "country": "IN",
-      "languages": [
-        "bho"
-      ],
-      "categories": [
-        "entertainment"
-      ],
-      "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0029CNNM.png?lock=720x540",
-      "website": null
-    },
-    {
       "id": "CapuchinTV.ke",
       "name": "Capuchin TV",
       "country": "KE",
@@ -20907,19 +20979,6 @@
       "website": null
     },
     {
-      "id": "Chefilacutite.ro",
-      "name": "Chefi la cutite",
-      "country": "RO",
-      "languages": [
-        "ron"
-      ],
-      "categories": [
-        "cooking"
-      ],
-      "logo": "https://assets.antenaplay.ro/2026/11/04/G8N7skUwdPOXMI5hwmDm.png",
-      "website": null
-    },
-    {
       "id": "Chefiro.ro",
       "name": "Chefi.ro",
       "country": "RO",
@@ -21241,6 +21300,19 @@
       ],
       "logo": "https://a.jsrdn.com/hls/23208/cindie-tv/logo_20250225_222520_68.png",
       "website": "https://www.cindie.com/"
+    },
+    {
+      "id": "Cine1.tr",
+      "name": "Cine 1",
+      "country": "TR",
+      "languages": [
+        "tur"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": null,
+      "website": "https://www.artidijitalmedya.com/embed/tv/cine1/"
     },
     {
       "id": "Cine34.it",
@@ -23365,32 +23437,6 @@
       ],
       "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/108/1782291760108-h.jpg",
       "website": "https://www.colorstv.com/"
-    },
-    {
-      "id": "ColorsBangla.in",
-      "name": "Colors Bangla",
-      "country": "IN",
-      "languages": [
-        "ben"
-      ],
-      "categories": [
-        "entertainment"
-      ],
-      "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/8049/1782291598049-h.jpg",
-      "website": "https://www.colorstv.com/us/"
-    },
-    {
-      "id": "ColorsBanglaCinema.in",
-      "name": "Colors Bangla Cinema",
-      "country": "IN",
-      "languages": [
-        "ben"
-      ],
-      "categories": [
-        "movies"
-      ],
-      "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/4599/1782289524599-h.jpg",
-      "website": "https://www.colorstv.com/us/"
     },
     {
       "id": "ColorsCineplex.in",
@@ -26598,19 +26644,6 @@
       "website": "https://www.dancetv.net/"
     },
     {
-      "id": "DeewanaHD.in",
-      "name": "Deewana HD",
-      "country": "IN",
-      "languages": [
-        "hin"
-      ],
-      "categories": [
-        "music"
-      ],
-      "logo": "https://i.imgur.com/xIYITQ9.png",
-      "website": null
-    },
-    {
       "id": "DeFianceMedia.pr",
       "name": "DeFiance Media",
       "country": "PR",
@@ -27218,19 +27251,6 @@
       ],
       "logo": "https://i.imgur.com/VZhag2x.png",
       "website": "https://www.dha.com.tr/"
-    },
-    {
-      "id": "Dhamaal.in",
-      "name": "Dhamaal",
-      "country": "IN",
-      "languages": [
-        "hin"
-      ],
-      "categories": [
-        "music"
-      ],
-      "logo": "https://i.imgur.com/J6D56EF.png",
-      "website": "http://www.dhamaal.tv/"
     },
     {
       "id": "DhammaTV.id",
@@ -30428,6 +30448,19 @@
       "website": "https://eltorotv.com/"
     },
     {
+      "id": "ELTV.az",
+      "name": "EL TV",
+      "country": "AZ",
+      "languages": [
+        "aze"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://i.imgur.com/tTlokZ2.png",
+      "website": null
+    },
+    {
       "id": "ElWatania1.tn",
       "name": "El Watania 1",
       "country": "TN",
@@ -32820,6 +32853,19 @@
       "website": "https://www.faithworldtv.com/"
     },
     {
+      "id": "FajerTV1.ps",
+      "name": "Fajer TV 1",
+      "country": "PS",
+      "languages": [
+        "ara"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://i.imgur.com/1xERxmB.png",
+      "website": "http://www.alfajertv.com/"
+    },
+    {
       "id": "FaktMarathi.in",
       "name": "Fakt Marathi",
       "country": "IN",
@@ -33426,6 +33472,19 @@
       ],
       "logo": "https://i.imgur.com/KMEf0Cc.png",
       "website": "https://www.vnews.click/"
+    },
+    {
+      "id": "FieriTv.al",
+      "name": "Fieri Tv",
+      "country": "AL",
+      "languages": [
+        "sqi"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://raw.githubusercontent.com/biptv/fieri-tv-logo/main/120.png",
+      "website": "http://www.fieritv.com"
     },
     {
       "id": "FiestaTV.co",
@@ -34225,19 +34284,6 @@
       "website": "https://antenaplay.ro/live"
     },
     {
-      "id": "FormulaAcademyAntenaPlay.ro",
-      "name": "Formula Academy AntenaPlay",
-      "country": "RO",
-      "languages": [
-        "ron"
-      ],
-      "categories": [
-        "sports"
-      ],
-      "logo": "https://assets.antenaplay.ro/2024/02/28/1o8H6fCMh1DSC2vuLjo8.png",
-      "website": "https://antenaplay.ro/live"
-    },
-    {
       "id": "ForoTV.pe",
       "name": "Foro TV",
       "country": "PE",
@@ -34340,6 +34386,19 @@
       ],
       "logo": "https://i.imgur.com/ORer9ag.png",
       "website": "http://foursquare.org.ng/"
+    },
+    {
+      "id": "FOX.mx",
+      "name": "FOX",
+      "country": "MX",
+      "languages": [
+        "spa"
+      ],
+      "categories": [
+        "sports"
+      ],
+      "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/960px-FOX_wordmark.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+      "website": null
     },
     {
       "id": "Fox.us",
@@ -34892,6 +34951,19 @@
       ],
       "logo": "https://i.imgur.com/I8mviBy.png",
       "website": "https://fuel.tv/"
+    },
+    {
+      "id": "FuengirolaTV.es",
+      "name": "Fuengirola TV",
+      "country": "ES",
+      "languages": [
+        "spa"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://i.ibb.co/D9LGcNf/Patalla-streaming.png",
+      "website": "https://fuengirolatv.com/"
     },
     {
       "id": "FuerteventuraTV.es",
@@ -40600,6 +40672,19 @@
       "website": "http://www.icrtvcolima.com/"
     },
     {
+      "id": "IctimaiTV.az",
+      "name": "Ictimai TV",
+      "country": "AZ",
+      "languages": [
+        "aze"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://i.imgur.com/HzY4VMo.png",
+      "website": "https://itv.az/"
+    },
+    {
       "id": "ICTV.ke",
       "name": "ICTV",
       "country": "KE",
@@ -46043,6 +46128,19 @@
       "website": null
     },
     {
+      "id": "KNMusicTV.az",
+      "name": "KN Music TV",
+      "country": "AZ",
+      "languages": [
+        "aze"
+      ],
+      "categories": [
+        "music"
+      ],
+      "logo": "https://www.knmusictv.com/wp-content/uploads/2026/01/LOGO2112.png",
+      "website": "https://www.live.knmusictv.com/"
+    },
+    {
       "id": "KnockBhakti.in",
       "name": "Knock Bhakti",
       "country": "IN",
@@ -48359,6 +48457,19 @@
       "website": "https://www.laziotv.it/"
     },
     {
+      "id": "LBC.sa",
+      "name": "LBC",
+      "country": "SA",
+      "languages": [
+        "ara"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402500.webp",
+      "website": "https://rotana.net/en/channels?tz=-120/channels#/live/rotana-lbc"
+    },
+    {
       "id": "LBFDRTV.cd",
       "name": "LBFD RTV",
       "country": "CD",
@@ -49252,6 +49363,19 @@
       ],
       "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002NYXN8.png?lock=720x540",
       "website": "https://www.livingindianews.co.in/"
+    },
+    {
+      "id": "LixdofTV.gh",
+      "name": "Lixdof TV",
+      "country": "GH",
+      "languages": [
+        "eng"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/Lixdof%20TV.jpeg",
+      "website": "https://lixdofmultimedia.com/tv"
     },
     {
       "id": "Lke.br",
@@ -50295,6 +50419,19 @@
       ],
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/500px-Radio_m2o_-_Logo_2019.svg.png",
       "website": "https://www.m2o.it/"
+    },
+    {
+      "id": "M3UWorld4K.bd",
+      "name": "M3U World 4K",
+      "country": "BD",
+      "languages": [
+        "ben"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://i.imgur.com/9V6lrgV.png",
+      "website": null
     },
     {
       "id": "M6.fr",
@@ -53792,6 +53929,20 @@
       "website": "https://www.minformo.tv/"
     },
     {
+      "id": "MiniDisco.ru",
+      "name": "Mini Disco",
+      "country": "RU",
+      "languages": [
+        "rus"
+      ],
+      "categories": [
+        "kids",
+        "music"
+      ],
+      "logo": "https://bridgemusic.ru/s/img/channels/mini-disco-logo.png",
+      "website": null
+    },
+    {
       "id": "MinikaCocuk.tr",
       "name": "Minika Cocuk",
       "country": "TR",
@@ -55375,6 +55526,19 @@
       ],
       "logo": "https://i.imgur.com/QZcENP2.png",
       "website": "https://mrvtv.com/live-broadcasts/live-stream/"
+    },
+    {
+      "id": "MSJTV.kh",
+      "name": "MSJ TV",
+      "country": "KH",
+      "languages": [
+        "khm"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://i.imgur.com/TilslGU.png",
+      "website": "https://www.msjtv.asia/"
     },
     {
       "id": "MSNOW.us",
@@ -58638,19 +58802,6 @@
       "website": "https://hindi.news18.com/"
     },
     {
-      "id": "News18Kannada.in",
-      "name": "News18 Kannada",
-      "country": "IN",
-      "languages": [
-        "kan"
-      ],
-      "categories": [
-        "news"
-      ],
-      "logo": "https://dtil.tmsimg.com/assets/s143612_ld_h15_aa.png?lock=720x540",
-      "website": "https://kannada.news18.com/"
-    },
-    {
       "id": "News18Kerala.in",
       "name": "News18 Kerala",
       "country": "IN",
@@ -60905,6 +61056,17 @@
       "website": "http://www.nrk.no/hjelp/nrks-tilbud-til-horselshemmede-1.6613906"
     },
     {
+      "id": "NRTSport.iq",
+      "name": "NRT Sport",
+      "country": "IQ",
+      "languages": [
+        "ckb"
+      ],
+      "categories": [],
+      "logo": "https://mixmedia.tv/wp-content/uploads/2022/08/nrt-sport.png",
+      "website": null
+    },
+    {
       "id": "NRTTV.iq",
       "name": "NRT TV",
       "country": "IQ",
@@ -61643,6 +61805,19 @@
       ],
       "logo": "https://i.imgur.com/dYRJ7F0.png",
       "website": "https://nuviewtv.co.za/"
+    },
+    {
+      "id": "NVision.in",
+      "name": "N Vision",
+      "country": "IN",
+      "languages": [
+        "mal"
+      ],
+      "categories": [
+        "entertainment"
+      ],
+      "logo": "https://livetv.ashokadigital.net/upload/logo/1739890627_WhatsApp_Image_2025-02-18_at_8.25.19_PM__1_-removebg-preview.png",
+      "website": null
     },
     {
       "id": "NVKSakha.ru",
@@ -70758,19 +70933,6 @@
       "website": "https://www.powervisiontv.com/"
     },
     {
-      "id": "Pradesh24Gujarati.in",
-      "name": "Pradesh24 Gujarati",
-      "country": "IN",
-      "languages": [
-        "guj"
-      ],
-      "categories": [
-        "news"
-      ],
-      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Pradesh24_Gujarati.png",
-      "website": null
-    },
-    {
       "id": "PragNews.in",
       "name": "Prag News",
       "country": "IN",
@@ -74714,19 +74876,6 @@
       "website": "http://www.rajtvnet.in/"
     },
     {
-      "id": "RajPariwar.in",
-      "name": "Raj Pariwar",
-      "country": "IN",
-      "languages": [
-        "hin"
-      ],
-      "categories": [
-        "news"
-      ],
-      "logo": "https://i.imgur.com/lV9ZGx9.png",
-      "website": "http://www.rajtvnet.in/"
-    },
-    {
       "id": "RajTV.in",
       "name": "Raj TV",
       "country": "IN",
@@ -77357,6 +77506,56 @@
       "website": "https://www.rossinitv.it/"
     },
     {
+      "id": "RotanaCinemaKSA.sa",
+      "name": "Rotana Cinema KSA",
+      "country": "SA",
+      "languages": [
+        "ara"
+      ],
+      "categories": [
+        "movies"
+      ],
+      "logo": "https://i.imgur.com/pGgp38I.png",
+      "website": "http://www.cinema.rotana.net/"
+    },
+    {
+      "id": "RotanaClassic.sa",
+      "name": "Rotana Classic",
+      "country": "SA",
+      "languages": [
+        "ara"
+      ],
+      "categories": [
+        "classic"
+      ],
+      "logo": "https://i.imgur.com/pMMUvkt.png",
+      "website": "https://rotana.net/"
+    },
+    {
+      "id": "RotanaClip.sa",
+      "name": "Rotana Clip",
+      "country": "SA",
+      "languages": [
+        "ara"
+      ],
+      "categories": [],
+      "logo": "https://i.imgur.com/nhREk0o.png",
+      "website": "https://rotana.net/"
+    },
+    {
+      "id": "RotanaMusic.sa",
+      "name": "Rotana Music",
+      "country": "SA",
+      "languages": [
+        "ara"
+      ],
+      "categories": [
+        "music"
+      ],
+      "logo": "https://i.imgur.com/2zFQbQi.png",
+      "website": "https://rotana.net/"
+    },
+    {
       "id": "ROTVValencia.es",
       "name": "ROTV Valencia",
       "country": "ES",
@@ -79959,19 +80158,6 @@
       "website": "http://www.samarra.tv/"
     },
     {
-      "id": "SamayKolkata.in",
-      "name": "Samay Kolkata",
-      "country": "IN",
-      "languages": [
-        "ben"
-      ],
-      "categories": [
-        "news"
-      ],
-      "logo": "https://i.ibb.co/3mrYZDG/cropped-LOGO-web1.jpg",
-      "website": "https://samaykolkata.com/"
-    },
-    {
       "id": "SampitTV.id",
       "name": "Sampit TV",
       "country": "ID",
@@ -82261,6 +82447,19 @@
       "website": "https://www.showdomilhao.com.br/"
     },
     {
+      "id": "ShowPlusTV.az",
+      "name": "Show Plus TV",
+      "country": "AZ",
+      "languages": [
+        "aze"
+      ],
+      "categories": [
+        "entertainment"
+      ],
+      "logo": "https://i.imgur.com/Je2DGSG.jpg",
+      "website": "https://showplus.az/"
+    },
+    {
       "id": "ShowTurk.tr",
       "name": "Show Turk",
       "country": "TR",
@@ -83915,19 +84114,6 @@
       "website": "https://www.sonysportsnetwork.com/"
     },
     {
-      "id": "SonyWah.in",
-      "name": "Sony Wah",
-      "country": "IN",
-      "languages": [
-        "hin"
-      ],
-      "categories": [
-        "movies"
-      ],
-      "logo": "https://dtil.tmsimg.com/assets/s157974_ld_h15_aa.png?lock=720x540",
-      "website": "https://www.sonywah.tv/"
-    },
-    {
       "id": "SonyYay.in",
       "name": "Sony Yay!",
       "country": "IN",
@@ -84523,6 +84709,19 @@
       "categories": [],
       "logo": "https://i.imgur.com/Zc8tW0l.png",
       "website": "https://watch.plex.tv/live-tv/channel/space-science-now-2"
+    },
+    {
+      "id": "SpaceTV.az",
+      "name": "Space TV",
+      "country": "AZ",
+      "languages": [
+        "aze"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://i.imgur.com/ufvVQJH.png",
+      "website": "https://spacetv.az/"
     },
     {
       "id": "SparkTV.uk",
@@ -85130,19 +85329,6 @@
       ],
       "logo": "https://i.imgur.com/J3jB7Kr.png",
       "website": null
-    },
-    {
-      "id": "StarPlus.in",
-      "name": "StarPlus",
-      "country": "IN",
-      "languages": [
-        "hin"
-      ],
-      "categories": [
-        "entertainment"
-      ],
-      "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/2384/1782291852384-h.jpg",
-      "website": "http://www.hotstar.com/channels/star-plus"
     },
     {
       "id": "StarPlus.uk",
@@ -88714,7 +88900,7 @@
       "categories": [
         "general"
       ],
-      "logo": "https://imgur.com/a/cU7MHiu.jpg",
+      "logo": "https://i.imgur.com/MR127FE.jpeg",
       "website": "https://dominicanchannels.com/teleazul/"
     },
     {
@@ -90418,6 +90604,19 @@
       ],
       "logo": "https://i.imgur.com/S8Zdn41.png",
       "website": null
+    },
+    {
+      "id": "TelevisaoAcademica.mz",
+      "name": "Televisao Academica",
+      "country": "MZ",
+      "languages": [
+        "por"
+      ],
+      "categories": [
+        "education"
+      ],
+      "logo": "https://i.imgur.com/YmxGoPW.png",
+      "website": "https://rtvam.co.mz/"
     },
     {
       "id": "TelevisionAranda.es",
@@ -92341,19 +92540,6 @@
       ],
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png",
       "website": "http://www.tigosports.com.bo/"
-    },
-    {
-      "id": "TigoSports.cr",
-      "name": "Tigo Sports",
-      "country": "CR",
-      "languages": [
-        "spa"
-      ],
-      "categories": [
-        "sports"
-      ],
-      "logo": "https://i.imgur.com/UrsLSRs.png",
-      "website": "http://www.tigosports.cr/"
     },
     {
       "id": "TigoSportsPlus.py",
@@ -94562,19 +94748,6 @@
       "website": "https://tsv.md/"
     },
     {
-      "id": "TTN24.in",
-      "name": "TTN24",
-      "country": "IN",
-      "languages": [
-        "hin"
-      ],
-      "categories": [
-        "news"
-      ],
-      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/TTN24.png",
-      "website": null
-    },
-    {
       "id": "TTVNews.tw",
       "name": "TTV News",
       "country": "TW",
@@ -94961,6 +95134,21 @@
       "website": "https://tv1.nachrichten.at/"
     },
     {
+      "id": "TV2.dz",
+      "name": "TV2",
+      "country": "DZ",
+      "languages": [
+        "ara",
+        "eng",
+        "fra"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://i.imgur.com/VEb631f.png",
+      "website": "https://www.entv.dz/"
+    },
+    {
       "id": "TV2000.it",
       "name": "TV2000",
       "country": "IT",
@@ -95214,6 +95402,17 @@
       ],
       "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/TV45.png",
       "website": null
+    },
+    {
+      "id": "TV4LaVall.es",
+      "name": "TV4 La Vall",
+      "country": "ES",
+      "languages": [
+        "spa"
+      ],
+      "categories": [],
+      "logo": "https://i.imgur.com/NqjFVHp.png",
+      "website": "https://teve4lavall.com/"
     },
     {
       "id": "TV52.tr",
@@ -96166,6 +96365,23 @@
       "website": "https://tvcaelsalvador.org/"
     },
     {
+      "id": "TVCAJUIWEB.br",
+      "name": "TV CAJUI WEB",
+      "country": "BR",
+      "languages": [
+        "por"
+      ],
+      "categories": [
+        "entertainment",
+        "general",
+        "music",
+        "news",
+        "religious"
+      ],
+      "logo": "https://github.com/user-attachments/assets/e7af691d-0d31-4576-a1eb-bcf85507c891",
+      "website": "https://www.instagram.com/cajuimidiatvradio?cnvx=MWI1NDB3YzA1YWs4OA=="
+    },
+    {
       "id": "TVCamara.br",
       "name": "TV Camara",
       "country": "BR",
@@ -97094,6 +97310,19 @@
       "website": "https://tvgazin.com.br/"
     },
     {
+      "id": "TVGCativos.es",
+      "name": "TVG Cativos",
+      "country": "ES",
+      "languages": [
+        "glg"
+      ],
+      "categories": [
+        "kids"
+      ],
+      "logo": "https://i.imgur.com/rS9i9RL.png",
+      "website": "http://www.crtvg.es/en-directo/canles-directos-tvg/xabar%C3%ADn-tv2"
+    },
+    {
       "id": "TVGetsemani.sv",
       "name": "TV Getsemani",
       "country": "SV",
@@ -97131,6 +97360,32 @@
       "website": "http://redeglobo.globo.com/sao-paulo"
     },
     {
+      "id": "TVGMiraRadioGalega.es",
+      "name": "TVG Mira Radio Galega",
+      "country": "ES",
+      "languages": [
+        "glg"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://i.imgur.com/dvkzH8n.png",
+      "website": "https://www.agalega.gal/"
+    },
+    {
+      "id": "TVGMocinos.es",
+      "name": "TVG Mocinos",
+      "country": "ES",
+      "languages": [
+        "glg"
+      ],
+      "categories": [
+        "kids"
+      ],
+      "logo": "https://i.imgur.com/rS9i9RL.png",
+      "website": "http://www.crtvg.es/en-directo/canles-directos-tvg/xabar%C3%ADn-tv3"
+    },
+    {
       "id": "TVGolfoUraba.co",
       "name": "TV Golfo Uraba",
       "country": "CO",
@@ -97142,6 +97397,19 @@
       ],
       "logo": "https://i.imgur.com/Nd5axnS.png",
       "website": "https://tvgolfouraba.com"
+    },
+    {
+      "id": "TVGPequerrechos.es",
+      "name": "TVG Pequerrechos",
+      "country": "ES",
+      "languages": [
+        "glg"
+      ],
+      "categories": [
+        "kids"
+      ],
+      "logo": "https://i.imgur.com/rS9i9RL.png",
+      "website": "http://www.crtvg.es/en-directo/canles-directos-tvg/xabar%C3%ADn-tv1"
     },
     {
       "id": "TVGracia.co",
@@ -101241,6 +101509,19 @@
       "website": "http://uniteve.com.ar/"
     },
     {
+      "id": "UniTV.mm",
+      "name": "Uni TV",
+      "country": "MM",
+      "languages": [
+        "mya"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://admin.unitvmm.com/storage/images/channels/01KZND8DJVF4FBDKRQRXVN3KXP.png",
+      "website": "https://unitvmm.com/"
+    },
+    {
       "id": "UniTV.ve",
       "name": "UniTV",
       "country": "VE",
@@ -101963,6 +102244,19 @@
       "website": "https://pluto.tv/en/live-tv/vaya-semanita-es"
     },
     {
+      "id": "VBCNews.in",
+      "name": "VBC News",
+      "country": "IN",
+      "languages": [
+        "mal"
+      ],
+      "categories": [
+        "news"
+      ],
+      "logo": "https://i.imgur.com/SvXCjha.png",
+      "website": "https://vbcnewsthodupuzha.com/"
+    },
+    {
       "id": "VBMediaTV.mx",
       "name": "VB Media TV",
       "country": "MX",
@@ -102342,6 +102636,19 @@
       ],
       "logo": "https://i.imgur.com/Qer5Lnh.png",
       "website": "https://vera24.tv/"
+    },
+    {
+      "id": "Verba.ru",
+      "name": "Verba",
+      "country": "RU",
+      "languages": [
+        "rus"
+      ],
+      "categories": [
+        "music"
+      ],
+      "logo": "https://bridgemusic.ru/s/img/channels/verba-white.svg",
+      "website": null
     },
     {
       "id": "VerbumTV.lk",
@@ -102872,6 +103179,20 @@
       "website": "https://viju.ru/telekanaly/viju-tv1000-russkoe"
     },
     {
+      "id": "VilayetTV.az",
+      "name": "Vilayet TV",
+      "country": "AZ",
+      "languages": [
+        "ara",
+        "aze"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://vilayet.tv/wp-content/uploads/elementor/thumbs/logo-q3w2md1u47q39x7d0004wqzz74xdv1glw356ex6ph0.png",
+      "website": "https://vilayet.tv/"
+    },
+    {
       "id": "VillaAltagraciaTV.do",
       "name": "Villa Altagracia TV",
       "country": "DO",
@@ -103020,19 +103341,6 @@
       ],
       "logo": "https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/Vipa%20TV.jpg",
       "website": "https://vipa.me/en/live"
-    },
-    {
-      "id": "VIPNews.in",
-      "name": "VIP News",
-      "country": "IN",
-      "languages": [
-        "hin"
-      ],
-      "categories": [
-        "news"
-      ],
-      "logo": "https://i.imgur.com/84kRaW1.png",
-      "website": null
     },
     {
       "id": "VIPTV.aw",
@@ -103664,19 +103972,6 @@
       "categories": [],
       "logo": "https://i.imgur.com/jZlj3ga.png",
       "website": "https://www.vremya.tv/"
-    },
-    {
-      "id": "VRLive.in",
-      "name": "VR Live",
-      "country": "IN",
-      "languages": [
-        "guj"
-      ],
-      "categories": [
-        "news"
-      ],
-      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/VRLive.png",
-      "website": null
     },
     {
       "id": "VRTChannel.br",
@@ -104365,6 +104660,19 @@
       "website": "https://www.wavezfmaruba.com/"
     },
     {
+      "id": "WayanadVision.in",
+      "name": "Wayanad Vision",
+      "country": "IN",
+      "languages": [
+        "mal"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://i.imgur.com/yF2C4Dt.png",
+      "website": "https://wayanadvision.in/"
+    },
+    {
       "id": "WaypointTV.us",
       "name": "Waypoint TV",
       "country": "US",
@@ -104981,6 +105289,20 @@
       "website": "https://www.willow.tv/willow_sports"
     },
     {
+      "id": "WIMNTV.pr",
+      "name": "WIMN-TV",
+      "country": "PR",
+      "languages": [
+        "eng",
+        "spa"
+      ],
+      "categories": [
+        "travel"
+      ],
+      "logo": "https://i.imgur.com/5ntmgEg.png",
+      "website": "http://www.paradisenetwork.tv/"
+    },
+    {
       "id": "WindowTV.us",
       "name": "Window TV",
       "country": "US",
@@ -105504,6 +105826,19 @@
       ],
       "logo": "https://i.imgur.com/iOYlKpF.png",
       "website": "https://xejtv.com/"
+    },
+    {
+      "id": "XezerTV.az",
+      "name": "Xezer TV",
+      "country": "AZ",
+      "languages": [
+        "aze"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": null,
+      "website": null
     },
     {
       "id": "XFCTV.us",
@@ -106750,19 +107085,6 @@
       "website": "https://zeebangla.zee5.com/"
     },
     {
-      "id": "ZeeBanglaSonar.in",
-      "name": "Zee Bangla Sonar",
-      "country": "IN",
-      "languages": [
-        "ben"
-      ],
-      "categories": [
-        "entertainment"
-      ],
-      "logo": "https://dtil.tmsimg.com/assets/GNLZZGG00287G7K.png?lock=720x540",
-      "website": "https://www.zee5.com/live-tv/zee-bangla-sonar/0-9-zeebanglacinema"
-    },
-    {
       "id": "ZeeBharat.in",
       "name": "Zee Bharat",
       "country": "IN",
@@ -107021,19 +107343,6 @@
       ],
       "logo": "https://dtil.tmsimg.com/assets/GNLZZGG00233WCL.png?lock=720x540",
       "website": "http://zeetamil.zee5.com/"
-    },
-    {
-      "id": "ZeeTamilNews.in",
-      "name": "Zee Tamil News",
-      "country": "IN",
-      "languages": [
-        "tam"
-      ],
-      "categories": [
-        "news"
-      ],
-      "logo": "https://english.cdn.zeenews.com/images/logo/zee-tamil-logo-20.svg",
-      "website": "https://zeenews.india.com/tamil/"
     },
     {
       "id": "ZeeTelugu.in",
