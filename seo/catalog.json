@@ -1825,6 +1825,20 @@
       "website": "https://30a-tv.com/30a/we-love-cars/"
     },
     {
+      "id": "316Channel.sa",
+      "name": "3.16 Channel",
+      "country": "SA",
+      "languages": [
+        "ara",
+        "eng"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/3.16%20Channel.jpeg",
+      "website": "https://316tv.wns.live/"
+    },
+    {
       "id": "31Kanal.kz",
       "name": "31 Kanal",
       "country": "KZ",
@@ -13495,6 +13509,19 @@
       "website": "https://bihortv.com/"
     },
     {
+      "id": "BiKanal.tr",
+      "name": "Bi Kanal",
+      "country": "TR",
+      "languages": [
+        "tur"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://www.bikanal.com/frontend/img/logo.webp",
+      "website": "https://www.bikanal.com/canli-yayin"
+    },
+    {
       "id": "BikeChannel.it",
       "name": "Bike Channel",
       "country": "IT",
@@ -15452,6 +15479,19 @@
       ],
       "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/BVG.png",
       "website": null
+    },
+    {
+      "id": "BVN.nl",
+      "name": "BVN",
+      "country": "NL",
+      "languages": [
+        "nld"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BVN_logo.svg/960px-BVN_logo.svg.png",
+      "website": "https://www.bvn.tv/"
     },
     {
       "id": "BX1.be",
@@ -19832,6 +19872,19 @@
       "website": "http://tv.cctv.com/cctv9/"
     },
     {
+      "id": "CCTVKunnamkulam.in",
+      "name": "CCTV Kunnamkulam",
+      "country": "IN",
+      "languages": [
+        "mal"
+      ],
+      "categories": [
+        "entertainment"
+      ],
+      "logo": "https://i.ibb.co/ndPywxZ/cctv-logo.jpg",
+      "website": null
+    },
+    {
       "id": "CCTVPlus1.cn",
       "name": "CCTV+ 1",
       "country": "CN",
@@ -21824,6 +21877,19 @@
       "website": "https://citricotv.com/"
     },
     {
+      "id": "CityChannelHD.in",
+      "name": "City Channel HD",
+      "country": "IN",
+      "languages": [
+        "mal"
+      ],
+      "categories": [
+        "entertainment"
+      ],
+      "logo": "https://play-lh.googleusercontent.com/jVbypmZKBHnQD2xcN_p_6CitA-oxAzm_iU5HePN8mmAppOwH5BJaV5taGNdbsIpUyqM",
+      "website": null
+    },
+    {
       "id": "CityEdenAutoGid.ru",
       "name": "City Eden AutoGid",
       "country": "RU",
@@ -22306,6 +22372,19 @@
       ],
       "logo": "https://i.imgur.com/68n7ifH.png",
       "website": "https://www.cityofwhittier.org/government/city-manager/citytv-online-streaming"
+    },
+    {
+      "id": "CityVisionKannur.in",
+      "name": "City Vision Kannur",
+      "country": "IN",
+      "languages": [
+        "mal"
+      ],
+      "categories": [
+        "entertainment"
+      ],
+      "logo": "https://play-lh.googleusercontent.com/eO1Si1pAb0f-4E5ZTHqOCvIrcVEtNBOgex-Y6lRQTYaV04mbjQpm4oJKmv42CIM5L12bdbmH6Voh7dXZk6ZW=w240-h480",
+      "website": null
     },
     {
       "id": "CiudadesdelOcioTV.es",
@@ -28832,6 +28911,32 @@
       "website": "https://www.rakuten.tv/pl/live_channels/filmrise-dr-g-medical-examiner"
     },
     {
+      "id": "DrishyaTV.in",
+      "name": "Drishya TV",
+      "country": "IN",
+      "languages": [
+        "mal"
+      ],
+      "categories": [
+        "entertainment"
+      ],
+      "logo": "https://play-lh.googleusercontent.com/P1gCOSlZjwEzxi6wy4zcvqYwBf6SdTXiGhnuIAIW8lNu9Ka-v28vXz2vUFqwFXQH6mCeFkQdphJVjYK0Qj30hQ=w240-h480-rw",
+      "website": null
+    },
+    {
+      "id": "DrisyaTV.in",
+      "name": "Drisya TV",
+      "country": "IN",
+      "languages": [
+        "mal"
+      ],
+      "categories": [
+        "entertainment"
+      ],
+      "logo": "https://play-lh.googleusercontent.com/8O2ugQ2n4Y3Mt8j4sfTd52RizgIJwbu7U1mtF3Fk1hDbXc3yIGgvFqriLoO2InOX0ajgwaITdnGJV_w6HRac0Q",
+      "website": null
+    },
+    {
       "id": "Drive.ru",
       "name": "Drive",
       "country": "RU",
@@ -31689,7 +31794,7 @@
       "categories": [
         "general"
       ],
-      "logo": "https://i.imgur.com/jzhZ8kl.png",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/e/ec/ETNOTV.svg/revision/latest?cb=20240313112928",
       "website": "https://www.etno.ro/"
     },
     {
@@ -45048,6 +45153,19 @@
       "website": "https://pluto.tv/en/live-tv/kartoon-channel"
     },
     {
+      "id": "KasargodVision.in",
+      "name": "Kasargod Vision",
+      "country": "IN",
+      "languages": [
+        "mal"
+      ],
+      "categories": [
+        "entertainment"
+      ],
+      "logo": "https://coakerala.com/wp-content/uploads/2014/11/KSD-VISION-district-channel.jpg",
+      "website": null
+    },
+    {
       "id": "KashishNews.in",
       "name": "Kashish News",
       "country": "IN",
@@ -45260,6 +45378,19 @@
       "website": "https://kcglobalmedia.com/about-us-1"
     },
     {
+      "id": "KCNKasargod.in",
+      "name": "KCN Kasargod",
+      "country": "IN",
+      "languages": [
+        "mal"
+      ],
+      "categories": [
+        "entertainment"
+      ],
+      "logo": "https://play-lh.googleusercontent.com/sfxGAj8et5iKbygQ7Plp6gSvsvLodM4b7HU0K_1dx_etJMo3FUEIkf0z7KdWTEb-Gwhx5Vz9bQjpB8g_oz6jry0=w240-h480",
+      "website": null
+    },
+    {
       "id": "KContentbyCJENM.us",
       "name": "K-Content by CJ ENM",
       "country": "US",
@@ -45348,6 +45479,19 @@
       "categories": [],
       "logo": "https://static.wikia.nocookie.net/tvstations/images/2/29/WKLE.png/revision/latest?cb=20210528010650",
       "website": "https://www.ket.org/"
+    },
+    {
+      "id": "KeralaTodayTV.in",
+      "name": "Kerala Today TV",
+      "country": "IN",
+      "languages": [
+        "mal"
+      ],
+      "categories": [
+        "entertainment"
+      ],
+      "logo": "https://play-lh.googleusercontent.com/JpdLqTP2IiQDuLkr_jw0QeeDHfHOPd-vk00pnPF06f95Jca01t7v2BbrSENDeNuHktB2t0EbSfk_XyXvvUAumQ",
+      "website": null
     },
     {
       "id": "KeralaVision.in",
@@ -51442,19 +51586,6 @@
       "website": "http://www.manoranjantv.com/ManoranjanTv.aspx"
     },
     {
-      "id": "MansudaeTelevision.kp",
-      "name": "Mansudae Television",
-      "country": "KP",
-      "languages": [
-        "kor"
-      ],
-      "categories": [
-        "entertainment"
-      ],
-      "logo": "https://i.imgur.com/7xowUs2.png",
-      "website": null
-    },
-    {
       "id": "MantavyaNews.in",
       "name": "Mantavya News",
       "country": "IN",
@@ -57546,19 +57677,6 @@
       "website": "http://www.natgeotv.com/fi"
     },
     {
-      "id": "NationalGeographic.tr",
-      "name": "National Geographic",
-      "country": "TR",
-      "languages": [
-        "tur"
-      ],
-      "categories": [
-        "documentary"
-      ],
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
-      "website": "http://www.natgeotv.com/tr"
-    },
-    {
       "id": "NationalGeographicLatinAmerica.us",
       "name": "National Geographic Latin America",
       "country": "US",
@@ -59455,6 +59573,17 @@
       "website": null
     },
     {
+      "id": "NewTM.th",
+      "name": "New TM",
+      "country": "TH",
+      "languages": [
+        "tha"
+      ],
+      "categories": [],
+      "logo": "https://i.imgur.com/BYEtAN5.png",
+      "website": null
+    },
+    {
       "id": "NewTV.pl",
       "name": "NewTV",
       "country": "PL",
@@ -59466,6 +59595,19 @@
       ],
       "logo": "https://i.imgur.com/fH8rKs3.png",
       "website": "https://www.newtv.com.pl/"
+    },
+    {
+      "id": "NewVisionHD.in",
+      "name": "New Vision HD",
+      "country": "IN",
+      "languages": [
+        "mal"
+      ],
+      "categories": [
+        "entertainment"
+      ],
+      "logo": "https://i.ibb.co/Sw4cdy9b/new-vision-hd.jpg",
+      "website": null
     },
     {
       "id": "NewVisionTV.ng",
@@ -60287,6 +60429,19 @@
       ],
       "logo": "https://i.imgur.com/HTNoNnh.png",
       "website": "https://www.citynmb.com/174/NMBTV-Live-Stream"
+    },
+    {
+      "id": "NMMediaChannelHD.in",
+      "name": "NM Media Channel HD",
+      "country": "IN",
+      "languages": [
+        "mal"
+      ],
+      "categories": [
+        "entertainment"
+      ],
+      "logo": "https://play-lh.googleusercontent.com/bS6HNpsLqv-Irw64TaPYqk3o8AlMiA96GJjD8qUfIzgtoeC23CCLrGW5iReGh1jMlP7djBZhxsJ_2wFLWpHB",
+      "website": null
     },
     {
       "id": "noa4Hamburg.de",
@@ -61584,6 +61739,19 @@
       ],
       "logo": "https://dtil.tmsimg.com/assets/s154897_ld_h15_aa.png?lock=720x540",
       "website": "https://www.ntvtelugu.com/"
+    },
+    {
+      "id": "NTVUAEHD.ae",
+      "name": "NTV UAE HD",
+      "country": "AE",
+      "languages": [
+        "mal"
+      ],
+      "categories": [
+        "entertainment"
+      ],
+      "logo": "https://play-lh.googleusercontent.com/YwH6c1AqIM7LFOIBx0taFOmdHeoyIhLChk8PZCEHMtdm06-fK4fmpmsTl9tMjDRHSvOtz6gFKQygccgXQgAVSTE",
+      "website": "http://www.ntvuae.tv/"
     },
     {
       "id": "NTVVitrina.ru",
@@ -64962,6 +65130,19 @@
       "website": "https://patagoniaradio.cl/"
     },
     {
+      "id": "PatiTV.tr",
+      "name": "Pati TV",
+      "country": "TR",
+      "languages": [
+        "tur"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://patitv.com.tr/wp-content/themes/pati-tv/assets/img/logo-240.png",
+      "website": "https://patitv.com.tr/#canli"
+    },
+    {
       "id": "Patriot.ru",
       "name": "Patriot",
       "country": "RU",
@@ -65586,6 +65767,19 @@
       ],
       "logo": "https://i.imgur.com/k1Wj5ka.png",
       "website": "https://peraviavision.tv/"
+    },
+    {
+      "id": "PeriyarVision.in",
+      "name": "Periyar Vision",
+      "country": "IN",
+      "languages": [
+        "mal"
+      ],
+      "categories": [
+        "entertainment"
+      ],
+      "logo": "https://play-lh.googleusercontent.com/Oh0y8uEVV7LIlMBig3mi5xthzsUeOMWXxkHh6CpNf8uousEVwTCCEgLnNIYPPOd5aWw5f7lAWOqPqP93y2H7",
+      "website": null
     },
     {
       "id": "PerryMason.us",
@@ -79384,19 +79578,6 @@
       "website": "http://tv-stream.ru/tv/rybalka-i-okhota"
     },
     {
-      "id": "RyongnamsanTelevision.kp",
-      "name": "Ryongnamsan Television",
-      "country": "KP",
-      "languages": [
-        "kor"
-      ],
-      "categories": [
-        "education"
-      ],
-      "logo": "https://i.imgur.com/1BHJjY4.png",
-      "website": null
-    },
-    {
       "id": "Ryzhiy.ru",
       "name": "Ryzhiy",
       "country": "RU",
@@ -84606,6 +84787,19 @@
       "website": null
     },
     {
+      "id": "SouthVision.in",
+      "name": "South Vision",
+      "country": "IN",
+      "languages": [
+        "mal"
+      ],
+      "categories": [
+        "entertainment"
+      ],
+      "logo": "https://play-lh.googleusercontent.com/R8Z8juih4xjZthHZeKnFqJTLFmf-GZfRLvcVHdeX7VNw568mvI6mES5LVbvTlPOSO8qoAjDE01fGy93XKkliyg=w512-h512",
+      "website": null
+    },
+    {
       "id": "SOUTV.br",
       "name": "SOU TV",
       "country": "BR",
@@ -85021,19 +85215,6 @@
       ],
       "logo": "https://i.imgur.com/ulGKX30.png",
       "website": "https://www.sportsgrid.com/live/"
-    },
-    {
-      "id": "SportsTelevision.kp",
-      "name": "Sports Television",
-      "country": "KP",
-      "languages": [
-        "kor"
-      ],
-      "categories": [
-        "sports"
-      ],
-      "logo": "https://i.imgur.com/HvFpGeH.png",
-      "website": null
     },
     {
       "id": "SportTotalFM.ro",
@@ -91408,6 +91589,19 @@
         "movies"
       ],
       "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/thalaa-tv.png",
+      "website": null
+    },
+    {
+      "id": "Thanima.in",
+      "name": "Thanima",
+      "country": "IN",
+      "languages": [
+        "mal"
+      ],
+      "categories": [
+        "entertainment"
+      ],
+      "logo": "https://play-lh.googleusercontent.com/cEXeXLHYTRthQoC8y_7SIr5hWU1gVpuRUc139KMbm-HqdllHs1IYig3voRgXrxG5XmELu95FBhLMEqyjNljHgog",
       "website": null
     },
     {
@@ -101630,6 +101824,19 @@
       "website": "https://www.radialentertainment.com/unsolved-mysteries"
     },
     {
+      "id": "UNUTV.md",
+      "name": "UNU TV",
+      "country": "MD",
+      "languages": [
+        "ron"
+      ],
+      "categories": [
+        "news"
+      ],
+      "logo": "https://i.imgur.com/og3KpLe.png",
+      "website": "https://unutv.md/"
+    },
+    {
       "id": "UNWebTV.us",
       "name": "UN Web TV",
       "country": "US",
@@ -101902,6 +102109,19 @@
       ],
       "logo": "https://www.utvafrica.com/images/utv-logo.png",
       "website": "https://www.utvafrica.com/watch"
+    },
+    {
+      "id": "UTVHD24x7.in",
+      "name": "UTV HD 24x7",
+      "country": "IN",
+      "languages": [
+        "mal"
+      ],
+      "categories": [
+        "entertainment"
+      ],
+      "logo": "https://i.ibb.co/BVR60w26/utv-hd-24x7.jpg",
+      "website": null
     },
     {
       "id": "UTVPalakkad.in",
@@ -104671,6 +104891,32 @@
       ],
       "logo": "https://i.imgur.com/yF2C4Dt.png",
       "website": "https://wayanadvision.in/"
+    },
+    {
+      "id": "WayanadVisionMovies.in",
+      "name": "Wayanad Vision Movies",
+      "country": "IN",
+      "languages": [
+        "mal"
+      ],
+      "categories": [
+        "entertainment"
+      ],
+      "logo": "https://play-lh.googleusercontent.com/UxJ6sG6LdpaAXZOvR8EJyYa9PVx3gZWzetMe6MKHeguGSyyDHBDzKX5gN6Z75cQCni609w3YyuLSlE5qWPhG-Q",
+      "website": null
+    },
+    {
+      "id": "WayanadVisionPlus.in",
+      "name": "Wayanad Vision Plus",
+      "country": "IN",
+      "languages": [
+        "mal"
+      ],
+      "categories": [
+        "entertainment"
+      ],
+      "logo": "https://i.ibb.co/zTZk83Z3/wayand-vision-plus.jpg",
+      "website": null
     },
     {
       "id": "WaypointTV.us",
