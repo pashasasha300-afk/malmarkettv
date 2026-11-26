@@ -3504,6 +3504,19 @@
       "website": "https://www.abc.net.au/news/newschannel/"
     },
     {
+      "id": "ABCNews.in",
+      "name": "ABC News",
+      "country": "IN",
+      "languages": [
+        "hin"
+      ],
+      "categories": [
+        "news"
+      ],
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ABC_News.png",
+      "website": null
+    },
+    {
       "id": "ABCNewsLive.us",
       "name": "ABC News Live",
       "country": "US",
@@ -16282,6 +16295,19 @@
       "website": "https://www.canal13mexico.com/"
     },
     {
+      "id": "Canal13Chiquimula.gt",
+      "name": "Canal 13 Chiquimula",
+      "country": "GT",
+      "languages": [
+        "spa"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://www.tl.com.gt/assets/tlcom.jpg",
+      "website": "https://www.tl.com.gt/"
+    },
+    {
       "id": "Canal13Esquipulas.gt",
       "name": "Canal 13 Esquipulas",
       "country": "GT",
@@ -19765,6 +19791,19 @@
       ],
       "logo": "https://i.imgur.com/c6hm03f.png",
       "website": "https://www.ccichannel.tv/"
+    },
+    {
+      "id": "CCNET.in",
+      "name": "CC NET",
+      "country": "IN",
+      "languages": [
+        "und"
+      ],
+      "categories": [
+        "entertainment"
+      ],
+      "logo": "https://play-lh.googleusercontent.com/q5iULjQ59LU1X_ExM6aKYQk64fouGbzBtdKTgNSgO8sHdGfTcgcbIaunns9pATnwu2ttBpAm-DftDzV6u-ClJg8",
+      "website": null
     },
     {
       "id": "CCPlutoTV.de",
@@ -27564,15 +27603,17 @@
       "website": "https://www.digi24.ro/"
     },
     {
-      "id": "Digi4K.ro",
-      "name": "Digi 4K",
+      "id": "DigiSport1.ro",
+      "name": "Digi Sport 1",
       "country": "RO",
       "languages": [
         "ron"
       ],
-      "categories": [],
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg",
-      "website": "https://www.digi4k.ro/"
+      "categories": [
+        "sports"
+      ],
+      "logo": "https://i.imgur.com/5zMxDYq.png",
+      "website": "http://digisport.ro/"
     },
     {
       "id": "DigitalChannel.bj",
@@ -28402,6 +28443,7 @@
       "languages": [
         "eng",
         "pol",
+        "ron",
         "rus"
       ],
       "categories": [
@@ -28921,6 +28963,19 @@
         "entertainment"
       ],
       "logo": "https://play-lh.googleusercontent.com/P1gCOSlZjwEzxi6wy4zcvqYwBf6SdTXiGhnuIAIW8lNu9Ka-v28vXz2vUFqwFXQH6mCeFkQdphJVjYK0Qj30hQ=w240-h480-rw",
+      "website": null
+    },
+    {
+      "id": "DrisyaNewsPala.in",
+      "name": "Drisya News Pala",
+      "country": "IN",
+      "languages": [
+        "und"
+      ],
+      "categories": [
+        "entertainment"
+      ],
+      "logo": "https://play-lh.googleusercontent.com/9HetsKoBEAixDgC6P9kKuy7EqiPmd2wUewuaD0-DuDbBxrHmQPTGIsc6DtZd5nmj5pod-mHLlIWJMOFlsC0XPWA",
       "website": null
     },
     {
@@ -32371,23 +32426,6 @@
       "website": "https://www.eurosport.fr/"
     },
     {
-      "id": "Eurosport4K.fr",
-      "name": "Eurosport 4K",
-      "country": "FR",
-      "languages": [
-        "eng",
-        "fra",
-        "ron",
-        "rus",
-        "slv"
-      ],
-      "categories": [
-        "sports"
-      ],
-      "logo": "https://web02.antik.sk/assets/img/channels/645a85b97a8257d6702639d6e540fe5b.svg",
-      "website": "https://4k.eurosport.ru/"
-    },
-    {
       "id": "EuroTV.gr",
       "name": "Euro TV",
       "country": "GR",
@@ -33222,7 +33260,8 @@
       "name": "FashionBox",
       "country": "NL",
       "languages": [
-        "eng"
+        "eng",
+        "ron"
       ],
       "categories": [
         "lifestyle"
@@ -33312,7 +33351,8 @@
       "name": "Fast&FunBox",
       "country": "NL",
       "languages": [
-        "eng"
+        "eng",
+        "ron"
       ],
       "categories": [
         "sports"
@@ -41344,6 +41384,19 @@
       "website": "https://watch.plex.tv/live-tv/channel/impossible-quiz-show"
     },
     {
+      "id": "IN24News.in",
+      "name": "IN 24 News",
+      "country": "IN",
+      "languages": [
+        "hin"
+      ],
+      "categories": [
+        "news"
+      ],
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/in24news.png",
+      "website": null
+    },
+    {
       "id": "InazumaEleven.us",
       "name": "Inazuma Eleven",
       "country": "US",
@@ -44340,6 +44393,19 @@
       ],
       "logo": "https://i.imgur.com/SUjo6Bm.png",
       "website": "https://www.k24tv.co.ke/"
+    },
+    {
+      "id": "K7KeralamChannel.in",
+      "name": "K7 Keralam Channel",
+      "country": "IN",
+      "languages": [
+        "und"
+      ],
+      "categories": [
+        "entertainment"
+      ],
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9HJ1d-xOsWKg7ZYyU7algdOhJspVrXQUvQnCxqKfsrw&s=10",
+      "website": null
     },
     {
       "id": "Kabaddi24x7.in",
@@ -49805,6 +49871,19 @@
       ],
       "logo": "https://i.imgur.com/Dw4u9wT.png",
       "website": "https://www.lokaleomroepzeewolde.nl/"
+    },
+    {
+      "id": "LokmatBharat.in",
+      "name": "Lokmat Bharat",
+      "country": "IN",
+      "languages": [
+        "hin"
+      ],
+      "categories": [
+        "news"
+      ],
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/lokmatbharat.png",
+      "website": null
     },
     {
       "id": "LokshahiNews.in",
@@ -58411,6 +58490,19 @@
       "website": "https://www.neatv.gr/"
     },
     {
+      "id": "NEBharat24.in",
+      "name": "NE Bharat24",
+      "country": "IN",
+      "languages": [
+        "asm"
+      ],
+      "categories": [
+        "news"
+      ],
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/NE_Bharat24.png",
+      "website": null
+    },
+    {
       "id": "NegociosTV.es",
       "name": "Negocios TV",
       "country": "ES",
@@ -59061,6 +59153,19 @@
       ],
       "logo": "https://dtil.tmsimg.com/assets/s143587_ld_h15_aa.png?lock=720x540",
       "website": "https://newsfirstlive.com/"
+    },
+    {
+      "id": "News21.in",
+      "name": "News 21",
+      "country": "IN",
+      "languages": [
+        "hin"
+      ],
+      "categories": [
+        "news"
+      ],
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/News_21.png",
+      "website": null
     },
     {
       "id": "News24.al",
@@ -72060,6 +72165,19 @@
       "website": "https://puls2.pl/"
     },
     {
+      "id": "Pulse24.in",
+      "name": "Pulse 24",
+      "country": "IN",
+      "languages": [
+        "hin"
+      ],
+      "categories": [
+        "news"
+      ],
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Pulse_24.png",
+      "website": null
+    },
+    {
       "id": "Pulse95Radio.ae",
       "name": "Pulse95 Radio",
       "country": "AE",
@@ -76175,9 +76293,11 @@
       "languages": [
         "por"
       ],
-      "categories": [],
+      "categories": [
+        "general"
+      ],
       "logo": "https://i.imgur.com/D8R0Af4.png",
-      "website": "https://www.redetvparana.com.br/"
+      "website": "https://www.redetvparana.com.br"
     },
     {
       "id": "RedeVida.br",
@@ -83965,6 +84085,19 @@
       "website": "https://smotrim.ru/live/63338"
     },
     {
+      "id": "SolTV.bo",
+      "name": "Sol TV",
+      "country": "BO",
+      "languages": [
+        "spa"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://i.imgur.com/2m8PVpA.png",
+      "website": "https://soltv.com.bo/"
+    },
+    {
       "id": "SolTV.gq",
       "name": "SolTV",
       "country": "GQ",
@@ -85328,6 +85461,17 @@
       "categories": [],
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Logo_SRF_info.svg/960px-Logo_SRF_info.svg.png",
       "website": "https://www.srf.ch/"
+    },
+    {
+      "id": "SristiTV.in",
+      "name": "Sristi TV",
+      "country": "IN",
+      "languages": [
+        "ben"
+      ],
+      "categories": [],
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sristi_TV.png",
+      "website": null
     },
     {
       "id": "SRKTV.in",
@@ -88239,6 +88383,19 @@
       ],
       "logo": "https://i.imgur.com/V3rtPEl.jpg",
       "website": "https://taraqqiyot.tv/"
+    },
+    {
+      "id": "TaraTV.in",
+      "name": "Tara TV",
+      "country": "IN",
+      "languages": [
+        "ben"
+      ],
+      "categories": [
+        "news"
+      ],
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Tara_TV.png",
+      "website": null
     },
     {
       "id": "Taroteame.es",
@@ -93625,6 +93782,21 @@
       ],
       "logo": "https://i.imgur.com/JMnxswq.png",
       "website": "https://www.toongoggles.com/"
+    },
+    {
+      "id": "TooroTV.ug",
+      "name": "Tooro TV",
+      "country": "UG",
+      "languages": [
+        "eng",
+        "lug",
+        "ttj"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://i.imgur.com/2bwPHgZ.png",
+      "website": null
     },
     {
       "id": "TOPBarca.pl",
@@ -102087,17 +102259,6 @@
       "website": "https://utv.co.ke/"
     },
     {
-      "id": "UTV.ro",
-      "name": "UTV",
-      "country": "RO",
-      "languages": [
-        "ron"
-      ],
-      "categories": [],
-      "logo": "https://i.imgur.com/aBdz9IT.png",
-      "website": "https://www.utv.ro/"
-    },
-    {
       "id": "UTVAfrica.ng",
       "name": "UTV Africa",
       "country": "NG",
@@ -102308,6 +102469,19 @@
       ],
       "logo": "https://van65tv.com/assets/images/logo/logo.png",
       "website": "https://van65tv.com/live.php"
+    },
+    {
+      "id": "VandeBharatNews.in",
+      "name": "Vande Bharat News",
+      "country": "IN",
+      "languages": [
+        "hin"
+      ],
+      "categories": [
+        "news"
+      ],
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Vande_Bharat.png",
+      "website": null
     },
     {
       "id": "VanithaTV.in",
@@ -106220,127 +106394,6 @@
       "categories": [],
       "logo": "https://i.imgur.com/l8S5qQB.png",
       "website": null
-    },
-    {
-      "id": "XITE.nl",
-      "name": "XITE",
-      "country": "NL",
-      "languages": [
-        "nld"
-      ],
-      "categories": [
-        "music"
-      ],
-      "logo": "https://i.imgur.com/jxuwGRi.png",
-      "website": "https://xite.com/"
-    },
-    {
-      "id": "XITE90sThrowback.us",
-      "name": "XITE 90's Throwback",
-      "country": "US",
-      "languages": [
-        "eng"
-      ],
-      "categories": [
-        "music"
-      ],
-      "logo": "https://i.imgur.com/vwpOzuz.png",
-      "website": "https://xite.com/"
-    },
-    {
-      "id": "XITEClassicCountry.nl",
-      "name": "XITE Classic Country",
-      "country": "NL",
-      "languages": [
-        "eng"
-      ],
-      "categories": [
-        "music"
-      ],
-      "logo": "https://i.imgur.com/XQrMCkT.png",
-      "website": "https://xite.com/"
-    },
-    {
-      "id": "XITEHits.nl",
-      "name": "XITE Hits",
-      "country": "NL",
-      "languages": [
-        "deu",
-        "eng",
-        "nld"
-      ],
-      "categories": [
-        "music"
-      ],
-      "logo": "https://i.imgur.com/N51Rp7E.png",
-      "website": null
-    },
-    {
-      "id": "XITEJustChill.nl",
-      "name": "XITE Just Chill",
-      "country": "NL",
-      "languages": [
-        "eng"
-      ],
-      "categories": [
-        "music"
-      ],
-      "logo": "https://provider-static.plex.tv/epg/cms/production/927dd614-017d-49dd-9eb9-0ed79d09084e/xitejustchill_logo_light_-_Arlette_FiranRDX.png",
-      "website": "https://xite.com/"
-    },
-    {
-      "id": "XITENuevoLatino.us",
-      "name": "XITE Nuevo Latino",
-      "country": "US",
-      "languages": [
-        "por",
-        "spa"
-      ],
-      "categories": [
-        "music"
-      ],
-      "logo": "https://i.imgur.com/2qyl2y3.png",
-      "website": "https://xite.com/"
-    },
-    {
-      "id": "XITEReggaeVibes.nl",
-      "name": "XITE Reggae Vibes",
-      "country": "NL",
-      "languages": [
-        "eng"
-      ],
-      "categories": [
-        "music"
-      ],
-      "logo": "https://provider-static.plex.tv/epg/cms/production/c7506335-967f-46a9-917a-2a35475cd96c/xitereggaevibes_logo_light_-_Arlette_FiranRDX.png",
-      "website": "https://xite.com/"
-    },
-    {
-      "id": "XITERockxMetal.nl",
-      "name": "XITE Rock x Metal",
-      "country": "NL",
-      "languages": [
-        "eng"
-      ],
-      "categories": [
-        "music"
-      ],
-      "logo": "https://i.imgur.com/szDM09P.png",
-      "website": "https://xite.com/"
-    },
-    {
-      "id": "XITESiempreLatino.us",
-      "name": "XITE Siempre Latino",
-      "country": "US",
-      "languages": [
-        "por",
-        "spa"
-      ],
-      "categories": [
-        "music"
-      ],
-      "logo": "https://i.imgur.com/bwmIEgG.png",
-      "website": "https://xite.com/"
     },
     {
       "id": "XizangTVChinese.cn",
