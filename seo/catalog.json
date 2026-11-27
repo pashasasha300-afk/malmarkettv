@@ -4906,19 +4906,6 @@
       "website": null
     },
     {
-      "id": "AFVEspanol.us",
-      "name": "AFV Espanol",
-      "country": "US",
-      "languages": [
-        "spa"
-      ],
-      "categories": [
-        "comedy"
-      ],
-      "logo": "https://i.imgur.com/HUK4WXC.png",
-      "website": "https://watch.plex.tv/live-tv/channel/afv-espanol"
-    },
-    {
       "id": "AgapeTV.sv",
       "name": "Agape TV",
       "country": "SV",
@@ -7285,6 +7272,24 @@
       "website": "https://watch.plex.tv/live-tv/channel/amc-en-espanol"
     },
     {
+      "id": "AMCEurope.uk",
+      "name": "AMC Europe",
+      "country": "UK",
+      "languages": [
+        "bul",
+        "eng",
+        "pol",
+        "por",
+        "spa",
+        "ukr"
+      ],
+      "categories": [
+        "movies"
+      ],
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
+      "website": "https://uk.amc.com/"
+    },
+    {
       "id": "AMCSeriesLatinAmerica.us",
       "name": "AMC Series Latin America",
       "country": "US",
@@ -9527,6 +9532,19 @@
       "website": "https://www.asianet.co.in/"
     },
     {
+      "id": "AsianetCinema.in",
+      "name": "Asianet Cinema",
+      "country": "IN",
+      "languages": [
+        "mal"
+      ],
+      "categories": [
+        "movies"
+      ],
+      "logo": "https://mena-img-cdn-lb.aws.playco.com/ev-livechannels-avod/AVODASIANETCINEMAY2025MML/AVODASIANETCINEMAY2025MML-title-logo-en.png",
+      "website": null
+    },
+    {
       "id": "AsianetMiddleEast.in",
       "name": "Asianet Middle East",
       "country": "IN",
@@ -9622,6 +9640,19 @@
       ],
       "logo": "https://saddlebrown-jellyfish-181801.hostingersite.com/ATV-logo.png",
       "website": "https://www.asiatvnet.com/"
+    },
+    {
+      "id": "AsiesmiPuebloTV.bo",
+      "name": "Asi es mi Pueblo TV",
+      "country": "BO",
+      "languages": [
+        "spa"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://canales.asplurtv.com/logo_asitv.png",
+      "website": null
     },
     {
       "id": "AsilTV.ir",
@@ -10795,6 +10826,38 @@
       "website": "https://pluto.tv/live-tv/awkward-dk/details"
     },
     {
+      "id": "AXNBlack.us",
+      "name": "AXN Black",
+      "country": "US",
+      "languages": [
+        "bul",
+        "eng",
+        "pol"
+      ],
+      "categories": [
+        "movies"
+      ],
+      "logo": "https://i.imgur.com/Peo1QiZ.png",
+      "website": "https://www.axnblack.com/"
+    },
+    {
+      "id": "AXNCEE.es",
+      "name": "AXN CEE",
+      "country": "ES",
+      "languages": [
+        "bul",
+        "ces",
+        "eng",
+        "hun",
+        "pol"
+      ],
+      "categories": [
+        "movies"
+      ],
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
+      "website": "https://antenna-group.com/"
+    },
+    {
       "id": "AXNLatinAmerica.us",
       "name": "AXN Latin America",
       "country": "US",
@@ -10806,6 +10869,39 @@
       ],
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
       "website": "https://la.axn.com/"
+    },
+    {
+      "id": "AXNSpin.hu",
+      "name": "AXN Spin",
+      "country": "HU",
+      "languages": [
+        "hrv",
+        "pol",
+        "ron",
+        "srp"
+      ],
+      "categories": [
+        "entertainment"
+      ],
+      "logo": "https://i.imgur.com/uVFenKm.png",
+      "website": "http://www.axnspin.com/"
+    },
+    {
+      "id": "AXNWhite.us",
+      "name": "AXN White",
+      "country": "US",
+      "languages": [
+        "bul",
+        "czh",
+        "eng",
+        "pol",
+        "por"
+      ],
+      "categories": [
+        "entertainment"
+      ],
+      "logo": "https://i.imgur.com/47IKxmt.png",
+      "website": "http://www.axnwhite.com/"
     },
     {
       "id": "AXSTV.us",
@@ -11477,6 +11573,19 @@
       "website": "https://balatontelevizio.hu/"
     },
     {
+      "id": "BalcanMusicTV.ro",
+      "name": "Balcan Music TV",
+      "country": "RO",
+      "languages": [
+        "ron"
+      ],
+      "categories": [
+        "music"
+      ],
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/d/d4/Balcan_Music_TV.svg/revision/latest?cb=20220815201215",
+      "website": null
+    },
+    {
       "id": "BalchiTV.aw",
       "name": "Balchi TV",
       "country": "AW",
@@ -11976,6 +12085,21 @@
       "website": null
     },
     {
+      "id": "BBCFirst.uk",
+      "name": "BBC First",
+      "country": "UK",
+      "languages": [
+        "eng",
+        "msa",
+        "pol"
+      ],
+      "categories": [
+        "entertainment"
+      ],
+      "logo": "https://i.imgur.com/UBoBYUI.png",
+      "website": "https://www.bbcchannels.com/"
+    },
+    {
       "id": "BBCFour.uk",
       "name": "BBC Four",
       "country": "UK",
@@ -12338,23 +12462,6 @@
       ],
       "logo": "https://images.pluto.tv/channels/672e157d7d5da5000812872d/colorLogoPNG-1731073515797.png",
       "website": "https://pluto.tv/live-tv/becker-se/details"
-    },
-    {
-      "id": "beINSports1.qa",
-      "name": "beIN Sports 1",
-      "country": "QA",
-      "languages": [
-        "ara",
-        "eng",
-        "fra",
-        "msa",
-        "tur"
-      ],
-      "categories": [
-        "sports"
-      ],
-      "logo": "https://i.imgur.com/Vtk2cGI.png",
-      "website": "http://www.beinsports.com/ar/"
     },
     {
       "id": "beINSportsUSA.us",
@@ -16304,7 +16411,7 @@
       "categories": [
         "general"
       ],
-      "logo": "https://www.tl.com.gt/assets/tlcom.jpg",
+      "logo": "https://scontent.fgua13-1.fna.fbcdn.net/v/t39.30808-6/841533063_2004411224260271_3379917015417336204_n.jpg?stp=dst-jpg_tt6&cstp=mx960x960&ctp=s960x960&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=hMG-8Vr_VJcQ7kNvwGTXw7g&_nc_oc=Adr_H8nFtoVtkkocFCfnj8k3-dcY1haZjkf_31ptYbwkvoXA6QQRo6-P-DKaKT-ZKqHBxKVcVpa0QhBTTl_2bSur&_nc_zt=23&_nc_ht=scontent.fgua13-1.fna&_nc_gid=WsfZOEA4uGDavxF5-Ldntw&_nc_ss=7b3a8&oh=00_AQQ8xEJjbZfwX9Rekt6bH-vgHf2l8OhcgEfeIPQhO4O2dw&oe=6B0D1507",
       "website": "https://www.tl.com.gt/"
     },
     {
@@ -19163,6 +19270,28 @@
       "website": "https://www.cartoonito.it/"
     },
     {
+      "id": "CartoonitoCEE.uk",
+      "name": "Cartoonito CEE",
+      "country": "UK",
+      "languages": [
+        "bul",
+        "ces",
+        "dan",
+        "deu",
+        "ell",
+        "eng",
+        "hun",
+        "pol",
+        "ron",
+        "rus"
+      ],
+      "categories": [
+        "kids"
+      ],
+      "logo": "https://i.imgur.com/9MrzLb1.png",
+      "website": "http://www.boomerangtv.co.uk/"
+    },
+    {
       "id": "CartoonNetwork.pk",
       "name": "Cartoon Network",
       "country": "PK",
@@ -19192,6 +19321,47 @@
       ],
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
       "website": "http://www.cartoonnetwork.com/"
+    },
+    {
+      "id": "CartoonNetworkCEE.uk",
+      "name": "Cartoon Network CEE",
+      "country": "UK",
+      "languages": [
+        "bul",
+        "ces",
+        "dan",
+        "deu",
+        "eng",
+        "fra",
+        "hun",
+        "pol",
+        "ron",
+        "rus"
+      ],
+      "categories": [
+        "animation",
+        "kids"
+      ],
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
+      "website": null
+    },
+    {
+      "id": "CartoonNetworkWesternEurope.uk",
+      "name": "Cartoon Network Western Europe",
+      "country": "UK",
+      "languages": [
+        "eng",
+        "nld",
+        "nor",
+        "por",
+        "swe"
+      ],
+      "categories": [
+        "animation",
+        "kids"
+      ],
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
+      "website": null
     },
     {
       "id": "CasaItalia53.it",
@@ -20567,7 +20737,8 @@
       "name": "Channel 5 International",
       "country": "RU",
       "languages": [
-        "rus"
+        "rus",
+        "tur"
       ],
       "categories": [
         "general"
@@ -21068,6 +21239,19 @@
         "cooking"
       ],
       "logo": "https://i.imgur.com/15a9pG9.png",
+      "website": null
+    },
+    {
+      "id": "Chefilacutite.ro",
+      "name": "Chefi la cutite",
+      "country": "RO",
+      "languages": [
+        "ron"
+      ],
+      "categories": [
+        "cooking"
+      ],
+      "logo": "https://assets.antenaplay.ro/2026/11/04/G8N7skUwdPOXMI5hwmDm.png",
       "website": null
     },
     {
@@ -21615,6 +21799,34 @@
       ],
       "logo": "https://assets.antenaplay.ro/2026/03/10/RMNdkVBCTNfsogsYqHaB.png",
       "website": "https://www.cinemaraton.ro/cinemaraton-plus/"
+    },
+    {
+      "id": "Cinemax.cz",
+      "name": "Cinemax",
+      "country": "CZ",
+      "languages": [
+        "ces",
+        "ron"
+      ],
+      "categories": [
+        "movies"
+      ],
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/960px-Cinemax_2016.svg.png",
+      "website": null
+    },
+    {
+      "id": "Cinemax2.cz",
+      "name": "Cinemax 2",
+      "country": "CZ",
+      "languages": [
+        "ces",
+        "ron"
+      ],
+      "categories": [
+        "movies"
+      ],
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Cinemax_2_%282016%29.png/960px-Cinemax_2_%282016%29.png",
+      "website": null
     },
     {
       "id": "CinemaxLatinAmerica.us",
@@ -23750,6 +23962,19 @@
       ],
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png",
       "website": "https://www.comedycentral.fr/"
+    },
+    {
+      "id": "ComedyCentral.ro",
+      "name": "Comedy Central",
+      "country": "RO",
+      "languages": [
+        "eng"
+      ],
+      "categories": [
+        "comedy"
+      ],
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png",
+      "website": "http://www.comedycentral.com.ro/"
     },
     {
       "id": "ComedyCentral.se",
@@ -27790,6 +28015,19 @@
       "website": "https://discoverychannel.it/"
     },
     {
+      "id": "DiscoveryChannel.ro",
+      "name": "Discovery Channel",
+      "country": "RO",
+      "languages": [
+        "ron"
+      ],
+      "categories": [
+        "entertainment"
+      ],
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png",
+      "website": "http://www.discovery.ro/"
+    },
+    {
       "id": "DiscoveryFamily.us",
       "name": "Discovery Family",
       "country": "US",
@@ -27866,6 +28104,19 @@
       "website": "http://disneychannel.de/"
     },
     {
+      "id": "DisneyChannel.ro",
+      "name": "Disney Channel",
+      "country": "RO",
+      "languages": [
+        "ron"
+      ],
+      "categories": [
+        "kids"
+      ],
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
+      "website": "http://tv.disney.ro/"
+    },
+    {
       "id": "DisneyChannelLatinAmerica.ar",
       "name": "Disney Channel Latin America",
       "country": "AR",
@@ -27893,6 +28144,19 @@
       ],
       "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
       "website": null
+    },
+    {
+      "id": "DisneyJunior.ro",
+      "name": "Disney Junior",
+      "country": "RO",
+      "languages": [
+        "eng"
+      ],
+      "categories": [
+        "kids"
+      ],
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
+      "website": "http://www.disney.ro/disney-junior/"
     },
     {
       "id": "DisneyJunior.us",
@@ -27972,6 +28236,20 @@
       ],
       "logo": "https://i.imgur.com/2AqKAMy.png",
       "website": "http://www.di-tv.net/diretta-streaming/ditv-80/"
+    },
+    {
+      "id": "Diva.ro",
+      "name": "Diva",
+      "country": "RO",
+      "languages": [
+        "eng",
+        "ron"
+      ],
+      "categories": [
+        "entertainment"
+      ],
+      "logo": "https://i.imgur.com/bgBZgW0.png",
+      "website": "http://www.divaromania.tv/"
     },
     {
       "id": "DivyaDarshanTV.np",
@@ -28923,7 +29201,7 @@
       "categories": [
         "animation"
       ],
-      "logo": null,
+      "logo": "https://i.imgur.com/mZnH8ep.png",
       "website": "http://dreamworkstv.com/"
     },
     {
@@ -29148,6 +29426,19 @@
       ],
       "logo": "https://image.roku.com/developer_channels/prod/b2a80f0a20fc338f22a8289f23d20d19d958470ff1b8df3845c57cbc54ec1245.png",
       "website": "https://www.streemfire.com/duckhuntingtv"
+    },
+    {
+      "id": "DuckTV.ro",
+      "name": "Duck TV",
+      "country": "RO",
+      "languages": [
+        "ron"
+      ],
+      "categories": [
+        "kids"
+      ],
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/b/bc/Duck_TV.svg/revision/latest?cb=20191212111607",
+      "website": "https://www.ducktv.tv/"
     },
     {
       "id": "ducktv.sk",
@@ -32340,6 +32631,7 @@
       "name": "Europa Plus TV",
       "country": "RU",
       "languages": [
+        "bel",
         "rus"
       ],
       "categories": [
@@ -33827,6 +34119,20 @@
       "website": null
     },
     {
+      "id": "FilmCafe.hu",
+      "name": "Film Cafe",
+      "country": "HU",
+      "languages": [
+        "hun",
+        "rom"
+      ],
+      "categories": [
+        "movies"
+      ],
+      "logo": "https://i.imgur.com/jaKRnzU.png",
+      "website": "https://www.filmcafetv.hu/"
+    },
+    {
       "id": "FilmesSuspense.us",
       "name": "Filmes Suspense",
       "country": "US",
@@ -33864,6 +34170,19 @@
       ],
       "logo": "https://i.imgur.com/D3dj4mv.png",
       "website": "https://www.xumo.tv/live-guide/filmex-clasico"
+    },
+    {
+      "id": "FilmNow.ro",
+      "name": "Film Now",
+      "country": "RO",
+      "languages": [
+        "ron"
+      ],
+      "categories": [
+        "movies"
+      ],
+      "logo": "https://i.imgur.com/sSoRvGz.png",
+      "website": "http://www.digi-film.ro/"
     },
     {
       "id": "FilmRiseAnime.us",
@@ -34943,6 +35262,7 @@
       "name": "Friday! International",
       "country": "RU",
       "languages": [
+        "kaz",
         "rus"
       ],
       "categories": [
@@ -38497,6 +38817,45 @@
       "website": "https://hbcugo.tv/"
     },
     {
+      "id": "HBO.ro",
+      "name": "HBO",
+      "country": "RO",
+      "languages": [
+        "ron"
+      ],
+      "categories": [
+        "movies",
+        "series"
+      ],
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png",
+      "website": "http://www.hbo.ro/"
+    },
+    {
+      "id": "HBO2.ro",
+      "name": "HBO 2",
+      "country": "RO",
+      "languages": [
+        "ron"
+      ],
+      "categories": [
+        "movies",
+        "series"
+      ],
+      "logo": "https://i.imgur.com/53mBgZI.png",
+      "website": "http://www.hbo.ro/"
+    },
+    {
+      "id": "HBO3.ro",
+      "name": "HBO 3",
+      "country": "RO",
+      "languages": [
+        "ron"
+      ],
+      "categories": [],
+      "logo": "https://i.imgur.com/3QIHh2V.png",
+      "website": "http://www.hbo.ro/"
+    },
+    {
       "id": "HBTV.us",
       "name": "HBTV",
       "country": "US",
@@ -38861,6 +39220,19 @@
       ],
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/960px-HGTV_US_Logo_2015.svg.png",
       "website": "https://www.hgtv.co.nz/"
+    },
+    {
+      "id": "HGTV.ro",
+      "name": "HGTV",
+      "country": "RO",
+      "languages": [
+        "eng"
+      ],
+      "categories": [
+        "lifestyle"
+      ],
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/8/8f/HGTV_2015_Blue.svg/revision/latest?cb=20170704124128",
+      "website": null
     },
     {
       "id": "HGTVAsia.us",
@@ -41317,7 +41689,7 @@
       "categories": [
         "music"
       ],
-      "logo": "https://i.imgur.com/G5mNdpE.png",
+      "logo": "https://ritsatv.ru/files/poster/medium/900491.webp",
       "website": "http://tvimpact.live/"
     },
     {
@@ -41527,19 +41899,6 @@
       ],
       "logo": "https://i.imgur.com/Mu1MPvt.png",
       "website": "https://www.indiatvnews.com/cms/contact-us"
-    },
-    {
-      "id": "IndiaTalkies.in",
-      "name": "India Talkies",
-      "country": "IN",
-      "languages": [
-        "hin"
-      ],
-      "categories": [
-        "movies"
-      ],
-      "logo": "https://papaji.freetvindia.com/media/FreeTV_India_Talkies.png",
-      "website": null
     },
     {
       "id": "IndiaToday.in",
@@ -46273,6 +46632,19 @@
       "website": "https://pluto.tv/live-tv/kvlon-se/details"
     },
     {
+      "id": "KlukvaTV.ru",
+      "name": "Klukva TV",
+      "country": "RU",
+      "languages": [
+        "rus"
+      ],
+      "categories": [
+        "entertainment"
+      ],
+      "logo": "https://static.kion.ru/tv/channels/images/formats/BLACK_AND_WHITE_40b55fc4ef89aea4a0dff4477f5c14e7.png",
+      "website": "https://klukva.tv/"
+    },
+    {
       "id": "KMCTTV391.us",
       "name": "KMCT-TV 39.1",
       "country": "US",
@@ -50651,7 +51023,8 @@
         "ben"
       ],
       "categories": [
-        "general"
+        "documentary",
+        "relax"
       ],
       "logo": "https://i.imgur.com/9V6lrgV.png",
       "website": null
@@ -53023,6 +53396,19 @@
       "website": "https://mediasetitalia.com/"
     },
     {
+      "id": "MediaTodayNewsHD.in",
+      "name": "Media Today News HD",
+      "country": "IN",
+      "languages": [
+        "und"
+      ],
+      "categories": [
+        "entertainment"
+      ],
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt8NN2CHm8hxb4cvs3MVWnHwk7bPKROjAgKhSBAH1b2CZo9Aw-eyXS_KgY&s=10",
+      "website": null
+    },
+    {
       "id": "MediaTV.pe",
       "name": "Media TV",
       "country": "PE",
@@ -54191,6 +54577,22 @@
       ],
       "logo": "https://i.imgur.com/TJvf8vd.png",
       "website": "https://www.bellsentertainment.com.pk/media/"
+    },
+    {
+      "id": "Minimax.ro",
+      "name": "Minimax",
+      "country": "RO",
+      "languages": [
+        "eng",
+        "hun",
+        "ron"
+      ],
+      "categories": [
+        "animation",
+        "kids"
+      ],
+      "logo": "https://upload.wikimedia.org/wikipedia/en/b/ba/Minimax_2021.svg",
+      "website": "https://minimaxro.tv/"
     },
     {
       "id": "MinisterioLaVozDeUnRemanenteTV.us",
@@ -57756,6 +58158,20 @@
       "website": "http://www.natgeotv.com/fi"
     },
     {
+      "id": "NationalGeographic.ro",
+      "name": "National Geographic",
+      "country": "RO",
+      "languages": [
+        "eng",
+        "ron"
+      ],
+      "categories": [
+        "documentary"
+      ],
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
+      "website": "http://www.natgeotv.com/ro/"
+    },
+    {
       "id": "NationalGeographicLatinAmerica.us",
       "name": "National Geographic Latin America",
       "country": "US",
@@ -57767,6 +58183,19 @@
       ],
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
       "website": "https://www.nationalgeographicla.com/"
+    },
+    {
+      "id": "NationalGeographicWild.ro",
+      "name": "National Geographic Wild",
+      "country": "RO",
+      "languages": [
+        "ron"
+      ],
+      "categories": [
+        "documentary"
+      ],
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
+      "website": "http://www.natgeowild.ro/"
     },
     {
       "id": "NationalGeographicWild.tr",
@@ -58672,6 +59101,19 @@
       "website": "https://network10.in/"
     },
     {
+      "id": "NetworkPayyanur.in",
+      "name": "Network Payyanur",
+      "country": "IN",
+      "languages": [
+        "und"
+      ],
+      "categories": [
+        "entertainment"
+      ],
+      "logo": "https://play-lh.googleusercontent.com/xIfTwT6zDR2ZIXzHQww22f4pf6uahuDe_f0qexCJfKgvf4QD34g-RPAEPj5BVW6HjCldWcO9d8af93mDZAX0",
+      "website": null
+    },
+    {
       "id": "NevisTelevision.kn",
       "name": "Nevis Television",
       "country": "KN",
@@ -59272,6 +59714,19 @@
       "website": "https://www.news9live.com/digital-live-tv"
     },
     {
+      "id": "NewsAdda.in",
+      "name": "News Adda",
+      "country": "IN",
+      "languages": [
+        "tel"
+      ],
+      "categories": [
+        "news"
+      ],
+      "logo": "https://yt3.googleusercontent.com/P0cbg1fLI_EaEjNvXmZFVY12temn0DLW9Ii-8WUHuYlqFVpzGJBI_ITGHdHRmdmpeJSIpjrmPKw=s900-c-k-c0x00ffffff-no-rj",
+      "website": null
+    },
+    {
       "id": "NewsCapitalGujarat.in",
       "name": "News Capital Gujarat",
       "country": "IN",
@@ -59611,6 +60066,19 @@
       ],
       "logo": "https://dtil.tmsimg.com/assets/s143623_ld_h15_aa.png?lock=720x540",
       "website": "https://newstamil.tv/"
+    },
+    {
+      "id": "NewStar.in",
+      "name": "NewStar",
+      "country": "IN",
+      "languages": [
+        "und"
+      ],
+      "categories": [
+        "entertainment"
+      ],
+      "logo": "https://play-lh.googleusercontent.com/JLiLXoTU8b57K5qjOdLZ_vlsZ45DpKdVOsobf9WIOYuX9MzEztvmdnTDJOSjnasmOlC4ZblYfgBb7nYYz2fBZw=w240-h480-rw",
+      "website": null
     },
     {
       "id": "NewsTVIndia.in",
@@ -59980,6 +60448,33 @@
       ],
       "logo": "https://i.imgur.com/E84jnP8.png",
       "website": "http://www.nickelodeon.fr/"
+    },
+    {
+      "id": "Nickelodeon.pl",
+      "name": "Nickelodeon",
+      "country": "PL",
+      "languages": [
+        "pol",
+        "ukr"
+      ],
+      "categories": [
+        "kids"
+      ],
+      "logo": "https://i.imgur.com/E84jnP8.png",
+      "website": "http://www.nick.com.pl/"
+    },
+    {
+      "id": "Nickelodeon.pt",
+      "name": "Nickelodeon",
+      "country": "PT",
+      "languages": [
+        "por"
+      ],
+      "categories": [
+        "kids"
+      ],
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/960px-Nickelodeon_2009_logo.svg.png",
+      "website": "https://www.nickelodeon.pt/"
     },
     {
       "id": "NickelodeonCIS.kz",
@@ -61778,7 +62273,8 @@
       "name": "NTV Law",
       "country": "RU",
       "languages": [
-        "rus"
+        "rus",
+        "tur"
       ],
       "categories": [],
       "logo": "https://i.imgur.com/3ChnWGg.png",
@@ -61813,7 +62309,8 @@
       "name": "NTV Series",
       "country": "RU",
       "languages": [
-        "rus"
+        "rus",
+        "tur"
       ],
       "categories": [
         "series"
@@ -71232,6 +71729,19 @@
       "website": "https://www.powervisiontv.com/"
     },
     {
+      "id": "PowranMedia.in",
+      "name": "Powran Media",
+      "country": "IN",
+      "languages": [
+        "mal"
+      ],
+      "categories": [
+        "entertainment"
+      ],
+      "logo": "https://i.ibb.co/XrBb1DNZ/1000153157.png",
+      "website": null
+    },
+    {
       "id": "PragNews.in",
       "name": "Prag News",
       "country": "IN",
@@ -71491,6 +72001,19 @@
       ],
       "logo": "https://i.imgur.com/4Bx2321.png",
       "website": "https://www.primantenna.tv/"
+    },
+    {
+      "id": "PrimaPPV3.ro",
+      "name": "Prima PPV 3",
+      "country": "RO",
+      "languages": [
+        "ron"
+      ],
+      "categories": [
+        "sports"
+      ],
+      "logo": null,
+      "website": "https://www.primaplay.ro/live/ppv3"
     },
     {
       "id": "PrimaTV.it",
@@ -79520,6 +80043,7 @@
       "name": "RU.TV",
       "country": "RU",
       "languages": [
+        "bel",
         "rus"
       ],
       "categories": [
@@ -82953,6 +83477,19 @@
       ],
       "logo": "https://i.imgur.com/zRX91Xr.png",
       "website": "https://siembratv.com/"
+    },
+    {
+      "id": "SigloXXITV.bo",
+      "name": "Siglo XXI TV",
+      "country": "BO",
+      "languages": [
+        "spa"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://i.imgur.com/d1N2WzD.png",
+      "website": "https://redsigloxxibolivia.com/"
     },
     {
       "id": "SigmaTV.cy",
@@ -91904,7 +92441,7 @@
       "categories": [
         "series"
       ],
-      "logo": "https://i.imgur.com/gFHKCbZ.png",
+      "logo": null,
       "website": "https://pluto.tv/en/live-tv/the-bob-ross-channel"
     },
     {
@@ -93478,6 +94015,7 @@
       "name": "TNT",
       "country": "RU",
       "languages": [
+        "kaz",
         "rus"
       ],
       "categories": [
@@ -96738,14 +97276,10 @@
         "por"
       ],
       "categories": [
-        "entertainment",
-        "general",
-        "music",
-        "news",
-        "religious"
+        "general"
       ],
       "logo": "https://github.com/user-attachments/assets/e7af691d-0d31-4576-a1eb-bcf85507c891",
-      "website": "https://www.instagram.com/cajuimidiatvradio?cnvx=MWI1NDB3YzA1YWs4OA=="
+      "website": null
     },
     {
       "id": "TVCamara.br",
@@ -98952,6 +99486,19 @@
       "website": "https://tvnitricka.sk"
     },
     {
+      "id": "TVNNews.in",
+      "name": "TVN News",
+      "country": "IN",
+      "languages": [
+        "hin"
+      ],
+      "categories": [
+        "news"
+      ],
+      "logo": "https://www.vivalivetv.com/public/files/shows/0/1/4037-800x450-FFFFFF.jpg",
+      "website": null
+    },
+    {
       "id": "TVNoe.cz",
       "name": "TV Noe",
       "country": "CZ",
@@ -99229,6 +99776,20 @@
       "categories": [],
       "logo": "https://i.imgur.com/0FOmktl.png",
       "website": null
+    },
+    {
+      "id": "TVPaprika.ro",
+      "name": "TV Paprika",
+      "country": "RO",
+      "languages": [
+        "ron"
+      ],
+      "categories": [
+        "lifestyle",
+        "travel"
+      ],
+      "logo": "https://i.imgur.com/3fuXBHT.png",
+      "website": "http://www.tvpaprika.ro/"
     },
     {
       "id": "TVPassoFundo.br",
@@ -102259,6 +102820,17 @@
       "website": "https://utv.co.ke/"
     },
     {
+      "id": "UTV.ro",
+      "name": "UTV",
+      "country": "RO",
+      "languages": [
+        "ron"
+      ],
+      "categories": [],
+      "logo": "https://i.imgur.com/aBdz9IT.png",
+      "website": "https://www.utv.ro/"
+    },
+    {
       "id": "UTVAfrica.ng",
       "name": "UTV Africa",
       "country": "NG",
@@ -103331,6 +103903,38 @@
       "website": "https://viaoccitanie.tv/"
     },
     {
+      "id": "ViasatEpicDrama.uk",
+      "name": "Viasat Epic Drama",
+      "country": "UK",
+      "languages": [
+        "cze",
+        "eng",
+        "hun",
+        "pol",
+        "ron",
+        "rus",
+        "tur"
+      ],
+      "categories": [
+        "series"
+      ],
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Viasat_Epic_Drama_2026.svg",
+      "website": null
+    },
+    {
+      "id": "ViasatExplore.ro",
+      "name": "Viasat Explore",
+      "country": "RO",
+      "languages": [
+        "ron"
+      ],
+      "categories": [
+        "documentary"
+      ],
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/7/71/Viasat_Explore_2026.svg",
+      "website": "https://viasatexplore.ro"
+    },
+    {
       "id": "ViasatExploreClassic.pl",
       "name": "Viasat Explore Classic",
       "country": "PL",
@@ -103340,6 +103944,46 @@
       "categories": [],
       "logo": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/1f51bd5f-5c9a-486d-8720-800de7f73129-width200-quality90.jpeg",
       "website": "https://www.rakuten.tv/"
+    },
+    {
+      "id": "ViasatHistory.ro",
+      "name": "Viasat History",
+      "country": "RO",
+      "languages": [
+        "ron"
+      ],
+      "categories": [
+        "documentary"
+      ],
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Viasat_History_2026.svg",
+      "website": "https://viasathistory.ro"
+    },
+    {
+      "id": "ViasatKino.ro",
+      "name": "Viasat Kino",
+      "country": "RO",
+      "languages": [
+        "eng",
+        "ron"
+      ],
+      "categories": [
+        "movies"
+      ],
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/0/0f/Viasat_Kino_2025.svg/revision/latest?cb=20250506205346",
+      "website": "https://viasatkino.ro/"
+    },
+    {
+      "id": "ViasatNature.ro",
+      "name": "Viasat Nature",
+      "country": "RO",
+      "languages": [
+        "ron"
+      ],
+      "categories": [
+        "documentary"
+      ],
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/2/24/Cropped-viasat-nature.png",
+      "website": "https://viasatnature.ro"
     },
     {
       "id": "viaTelePaese.fr",
@@ -104852,19 +105496,6 @@
       ],
       "logo": "https://i.imgur.com/4PUUp3E.png",
       "website": "https://www.newvision.co.ug/tv/11"
-    },
-    {
-      "id": "WantedDeadorAlive.us",
-      "name": "Wanted: Dead or Alive",
-      "country": "US",
-      "languages": [
-        "eng"
-      ],
-      "categories": [
-        "classic"
-      ],
-      "logo": "https://i.imgur.com/vaSXaFp.png",
-      "website": "https://lionsgatechannels.com/channel/wanted-dead-or-alive"
     },
     {
       "id": "WAPATV41.pr",
@@ -106981,6 +107612,19 @@
       ],
       "logo": "https://www.tvchinese.net/uploads/tv/yunnantv.jpg",
       "website": "http://www.yntv.cn/live.html"
+    },
+    {
+      "id": "YuppTVVeda.in",
+      "name": "YuppTV Veda",
+      "country": "IN",
+      "languages": [
+        "tel"
+      ],
+      "categories": [
+        "religious"
+      ],
+      "logo": "https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/channel/logos/cbjodg.png",
+      "website": null
     },
     {
       "id": "YurimaguasTV.pe",
