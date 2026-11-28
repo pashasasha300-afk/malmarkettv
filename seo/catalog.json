@@ -9973,6 +9973,19 @@
       "website": "https://wthc.atlantachannel.tv/"
     },
     {
+      "id": "AtlanticoTelevision.es",
+      "name": "Atlantico Television",
+      "country": "ES",
+      "languages": [
+        "spa"
+      ],
+      "categories": [
+        "news"
+      ],
+      "logo": "https://i.imgur.com/JB5QkAw.png",
+      "website": "https://www.atlanticotelevision.com/"
+    },
+    {
       "id": "AtlanticTV.tt",
       "name": "Atlantic TV",
       "country": "TT",
@@ -15047,6 +15060,17 @@
       "website": "https://pluto.tv/live-tv/brondby-tv-dk/details"
     },
     {
+      "id": "BRT1.cy",
+      "name": "BRT 1",
+      "country": "CY",
+      "languages": [
+        "tur"
+      ],
+      "categories": [],
+      "logo": "https://i.imgur.com/gOPAi2c.png",
+      "website": "https://brtk.net/"
+    },
+    {
       "id": "BRTV.id",
       "name": "BRTV",
       "country": "ID",
@@ -17747,6 +17771,17 @@
       "website": "https://mediaserver.com.co/canal-cine-dios/"
     },
     {
+      "id": "CanalCosta.es",
+      "name": "CanalCosta",
+      "country": "ES",
+      "languages": [
+        "spa"
+      ],
+      "categories": [],
+      "logo": "https://i.imgur.com/ap4FmYb.png",
+      "website": "https://www.canalcostatv.es/"
+    },
+    {
       "id": "CanalCvision.ni",
       "name": "Canal Cvision",
       "country": "NI",
@@ -19344,6 +19379,21 @@
       ],
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
       "website": null
+    },
+    {
+      "id": "CartoonNetworkLatinAmerica.us",
+      "name": "Cartoon Network Latin America",
+      "country": "US",
+      "languages": [
+        "por",
+        "spa"
+      ],
+      "categories": [
+        "animation",
+        "kids"
+      ],
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
+      "website": "http://www.cartoonnetworkla.com/"
     },
     {
       "id": "CartoonNetworkWesternEurope.uk",
@@ -24242,6 +24292,19 @@
       ],
       "logo": "https://i.imgur.com/1vh2a3H.png",
       "website": "https://www.cityofconcord.org/623/Videos-TV"
+    },
+    {
+      "id": "Condavision.es",
+      "name": "Condavision",
+      "country": "ES",
+      "languages": [
+        "spa"
+      ],
+      "categories": [
+        "culture"
+      ],
+      "logo": "https://i.imgur.com/dlrazec.png",
+      "website": "https://www.condavision.es/"
     },
     {
       "id": "Conecta2TV.pe",
@@ -34305,6 +34368,19 @@
       ],
       "logo": "https://i.imgur.com/1uoP10V.png",
       "website": "https://www.finest.tv/"
+    },
+    {
+      "id": "FINTECHTV.us",
+      "name": "FINTECH.TV",
+      "country": "US",
+      "languages": [
+        "eng"
+      ],
+      "categories": [
+        "business"
+      ],
+      "logo": "https://i.imgur.com/r4gzSAM.png",
+      "website": "https://terminal.fintech.tv/"
     },
     {
       "id": "FirstChannelNews.am",
@@ -54699,6 +54775,19 @@
       "website": "https://miradiotv.cl/"
     },
     {
+      "id": "MirameTV.es",
+      "name": "Mirame TV",
+      "country": "ES",
+      "languages": [
+        "spa"
+      ],
+      "categories": [
+        "news"
+      ],
+      "logo": "https://i.imgur.com/LK4pLgT.png",
+      "website": "http://www.mirametv.com/"
+    },
+    {
       "id": "Miras.tm",
       "name": "Miras",
       "country": "TM",
@@ -63710,6 +63799,19 @@
       ],
       "logo": "https://i.imgur.com/khacDTU.png",
       "website": "https://www.omropfryslan.nl/fy/tv/oersjoch"
+    },
+    {
+      "id": "OmShanti.in",
+      "name": "Om Shanti",
+      "country": "IN",
+      "languages": [
+        "hin"
+      ],
+      "categories": [
+        "religious"
+      ],
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Om_Shanti.png",
+      "website": null
     },
     {
       "id": "OMTV.in",
@@ -76364,6 +76466,19 @@
       "website": null
     },
     {
+      "id": "RealLifeNetwork.us",
+      "name": "Real Life Network",
+      "country": "US",
+      "languages": [
+        "eng"
+      ],
+      "categories": [
+        "religious"
+      ],
+      "logo": "https://i.imgur.com/spffjYg.png",
+      "website": "https://reallifenetwork.com"
+    },
+    {
       "id": "RealMadridTV.es",
       "name": "Real Madrid TV",
       "country": "ES",
@@ -76929,6 +77044,19 @@
       "website": "https://www.reduno.com.bo/"
     },
     {
+      "id": "Reelz.us",
+      "name": "Reelz",
+      "country": "US",
+      "languages": [
+        "eng"
+      ],
+      "categories": [
+        "documentary"
+      ],
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Reelz.svg/960px-Reelz.svg.png",
+      "website": "https://www.reelz.com/"
+    },
+    {
       "id": "ReelzFamousInfamous.us",
       "name": "Reelz Famous & Infamous",
       "country": "US",
@@ -77218,6 +77346,19 @@
       ],
       "logo": "https://dtil.tmsimg.com/assets/s143724_ld_h15_aa.png?lock=720x540",
       "website": "https://bharat.republicworld.com/"
+    },
+    {
+      "id": "RepublicBusiness.in",
+      "name": "Republic Business",
+      "country": "IN",
+      "languages": [
+        "eng"
+      ],
+      "categories": [
+        "business"
+      ],
+      "logo": "https://yt3.googleusercontent.com/Q1oCTccWVtIPxZA79uKM6Qnm4h3s0Jo1Ipx2FHldTh-u1RNGIMfQD6_VIfM8BYcAvP2We6ydRVE=s900-c-k-c0x00ffffff-no-rj",
+      "website": null
     },
     {
       "id": "RepublicKannada.in",
@@ -85588,6 +85729,19 @@
       "website": "https://spacetv.az/"
     },
     {
+      "id": "SparkTV.ug",
+      "name": "Spark TV",
+      "country": "UG",
+      "languages": [
+        "lug"
+      ],
+      "categories": [
+        "entertainment"
+      ],
+      "logo": "https://i.imgur.com/c4pthr9.png",
+      "website": "https://www.ntv.co.ug/"
+    },
+    {
       "id": "SparkTV.uk",
       "name": "Spark TV",
       "country": "UK",
@@ -90108,19 +90262,6 @@
       "website": "https://teleelx.es/"
     },
     {
-      "id": "TeleFeBolivia.bo",
-      "name": "Tele Fe Bolivia",
-      "country": "BO",
-      "languages": [
-        "spa"
-      ],
-      "categories": [
-        "general"
-      ],
-      "logo": null,
-      "website": "https://teleestrella.tv.bo/"
-    },
-    {
       "id": "TelefeRosario.ar",
       "name": "Telefe Rosario",
       "country": "AR",
@@ -90822,6 +90963,17 @@
       ],
       "logo": null,
       "website": "https://www.mediaoneonline.it/diretta/"
+    },
+    {
+      "id": "Teleonuba.es",
+      "name": "Teleonuba",
+      "country": "ES",
+      "languages": [
+        "spa"
+      ],
+      "categories": [],
+      "logo": "https://i.imgur.com/cHMfmO7.png",
+      "website": "https://teleonuba.es/en-directo/"
     },
     {
       "id": "Telepace1.it",
@@ -91920,6 +92072,19 @@
       "categories": [],
       "logo": "https://i.imgur.com/nDWW4m7.png",
       "website": "https://www.tendenciastv.cl/"
+    },
+    {
+      "id": "TenerifePlusTV.es",
+      "name": "Tenerife Plus TV",
+      "country": "ES",
+      "languages": [
+        "spa"
+      ],
+      "categories": [
+        "general"
+      ],
+      "logo": "https://www.tenerifeplus.tv/assets/logo/tfplus.svg",
+      "website": "https://www.tenerifeplus.tv/"
     },
     {
       "id": "TennisChannel.us",
@@ -106888,7 +107053,7 @@
       "categories": [
         "general"
       ],
-      "logo": null,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/0/05/Xazar_TV_Logo.png",
       "website": null
     },
     {
